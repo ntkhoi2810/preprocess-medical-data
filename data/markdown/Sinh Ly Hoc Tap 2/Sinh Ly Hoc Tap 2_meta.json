@@ -9431,29 +9431,6 @@
       ]
     },
     {
-      "title": "H\u00ecnh 9-3. C\u1ea5u tr\u00fac s\u1ee3i myosin",
-      "heading_level": null,
-      "page_id": 169,
-      "polygon": [
-        [
-          188.0691642651297,
-          626.25
-        ],
-        [
-          344.296875,
-          626.291015625
-        ],
-        [
-          344.296875,
-          638.54296875
-        ],
-        [
-          188.0691642651297,
-          638.54296875
-        ]
-      ]
-    },
-    {
       "title": "1.2.2. C\u1ea5u tr\u00fac ph\u00e2n t\u1eed c\u1ee7a s\u1ee3i actin",
       "heading_level": null,
       "page_id": 170,
@@ -18152,9 +18129,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 573
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18243,11 +18220,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          26
+          "Line",
+          25
         ],
         [
-          "Line",
+          "Span",
           25
         ],
         [
@@ -18260,9 +18237,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5026
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18334,9 +18311,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1715
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18373,9 +18350,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3843
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18383,16 +18360,16 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          25
-        ],
-        [
           "Line",
           24
         ],
         [
-          "TableCell",
+          "Span",
           24
+        ],
+        [
+          "TableCell",
+          12
         ],
         [
           "Text",
@@ -18416,9 +18393,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4282
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18426,11 +18403,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          50
+          "Line",
+          31
         ],
         [
-          "Line",
+          "Span",
           31
         ],
         [
@@ -18453,11 +18430,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          32
+          "Line",
+          29
         ],
         [
-          "Line",
+          "Span",
           29
         ],
         [
@@ -18483,7 +18460,7 @@
       ],
       "block_metadata": {
         "llm_request_count": 0,
-        "llm_error_count": 1,
+        "llm_error_count": 0,
         "llm_tokens_used": 0
       }
     },
@@ -18517,9 +18494,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5668
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18583,9 +18560,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1675
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18663,16 +18640,16 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          39
-        ],
-        [
           "Line",
           23
         ],
         [
+          "Span",
+          23
+        ],
+        [
           "TableCell",
-          12
+          6
         ],
         [
           "SectionHeader",
@@ -18689,16 +18666,12 @@
         [
           "Table",
           1
-        ],
-        [
-          "PageFooter",
-          1
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 8406
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18768,11 +18741,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          89
+          "Line",
+          29
         ],
         [
-          "Line",
+          "Span",
           29
         ],
         [
@@ -18801,9 +18774,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7314
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18811,11 +18784,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          33
+          "Line",
+          27
         ],
         [
-          "Line",
+          "Span",
           27
         ],
         [
@@ -18836,9 +18809,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4714
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18846,11 +18819,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          79
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -18871,9 +18844,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5299
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18881,11 +18854,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          42
+          "Line",
+          34
         ],
         [
-          "Line",
+          "Span",
           34
         ],
         [
@@ -18913,14 +18886,14 @@
       "block_counts": [
         [
           "TableCell",
-          56
-        ],
-        [
-          "Span",
-          35
+          28
         ],
         [
           "Line",
+          27
+        ],
+        [
+          "Span",
           27
         ],
         [
@@ -18949,9 +18922,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3849
+        "llm_tokens_used": 0
       }
     },
     {
@@ -18959,11 +18932,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          36
+          "Line",
+          33
         ],
         [
-          "Line",
+          "Span",
           33
         ],
         [
@@ -18994,11 +18967,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          41
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -19023,9 +18996,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5124
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19093,9 +19066,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5828
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19103,11 +19076,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          47
+          "Line",
+          40
         ],
         [
-          "Line",
+          "Span",
           40
         ],
         [
@@ -19132,9 +19105,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1808
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19204,11 +19177,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          38
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -19361,9 +19334,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1690
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19402,11 +19375,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          38
+          "Line",
+          33
         ],
         [
-          "Line",
+          "Span",
           33
         ],
         [
@@ -19433,11 +19406,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          43
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -19464,11 +19437,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          43
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -19528,9 +19501,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2754
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19538,11 +19511,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          49
+          "Line",
+          41
         ],
         [
-          "Line",
+          "Span",
           41
         ],
         [
@@ -19571,9 +19544,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2308
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19581,11 +19554,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          69
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -19602,9 +19575,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5040
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19612,11 +19585,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          39
+          "Line",
+          37
         ],
         [
-          "Line",
+          "Span",
           37
         ],
         [
@@ -19637,9 +19610,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2214
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19742,9 +19715,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1758
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19752,11 +19725,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          37
+          "Line",
+          32
         ],
         [
-          "Line",
+          "Span",
           32
         ],
         [
@@ -19789,9 +19762,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1672
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19830,11 +19803,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          44
+          "Line",
+          39
         ],
         [
-          "Line",
+          "Span",
           39
         ],
         [
@@ -19871,9 +19844,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 6788
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19929,9 +19902,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 742
+        "llm_tokens_used": 0
       }
     },
     {
@@ -19939,11 +19912,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          37
+          "Line",
+          36
         ],
         [
-          "Line",
+          "Span",
           36
         ],
         [
@@ -20003,9 +19976,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2198
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20013,11 +19986,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          25
+          "Line",
+          24
         ],
         [
-          "Line",
+          "Span",
           24
         ],
         [
@@ -20038,9 +20011,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1678
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20081,9 +20054,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2143
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20188,11 +20161,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          38
+          "Line",
+          37
         ],
         [
-          "Line",
+          "Span",
           37
         ],
         [
@@ -20215,16 +20188,16 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          44
-        ],
-        [
           "Line",
           43
         ],
         [
+          "Span",
+          43
+        ],
+        [
           "Text",
-          7
+          6
         ],
         [
           "Caption",
@@ -20241,12 +20214,16 @@
         [
           "PageFooter",
           1
+        ],
+        [
+          "FigureGroup",
+          1
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2286
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20254,11 +20231,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          36
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -20293,11 +20270,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          38
+          "Line",
+          37
         ],
         [
-          "Line",
+          "Span",
           37
         ],
         [
@@ -20357,9 +20334,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2268
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20406,16 +20383,16 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "TableCell",
-          36
-        ],
-        [
           "Line",
           33
         ],
         [
           "Span",
           33
+        ],
+        [
+          "TableCell",
+          18
         ],
         [
           "Text",
@@ -20451,9 +20428,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5669
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20684,9 +20661,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1635
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20694,11 +20671,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          50
+          "Line",
+          36
         ],
         [
-          "Line",
+          "Span",
           36
         ],
         [
@@ -20715,9 +20692,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4906
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20725,11 +20702,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          27
+          "Line",
+          23
         ],
         [
-          "Line",
+          "Span",
           23
         ],
         [
@@ -20754,9 +20731,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 3,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7742
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20764,11 +20741,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          35
+          "Line",
+          32
         ],
         [
-          "Line",
+          "Span",
           32
         ],
         [
@@ -20789,9 +20766,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1754
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20799,11 +20776,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          65
+          "Line",
+          36
         ],
         [
-          "Line",
+          "Span",
           36
         ],
         [
@@ -20820,9 +20797,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5300
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20831,14 +20808,14 @@
       "block_counts": [
         [
           "TableCell",
-          60
-        ],
-        [
-          "Span",
-          35
+          39
         ],
         [
           "Line",
+          25
+        ],
+        [
+          "Span",
           25
         ],
         [
@@ -20867,9 +20844,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3171
+        "llm_tokens_used": 0
       }
     },
     {
@@ -20978,11 +20955,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          64
+          "Line",
+          34
         ],
         [
-          "Line",
+          "Span",
           34
         ],
         [
@@ -21007,9 +20984,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4932
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21017,11 +20994,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          51
+          "Line",
+          37
         ],
         [
-          "Line",
+          "Span",
           37
         ],
         [
@@ -21048,11 +21025,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          41
+          "Line",
+          36
         ],
         [
-          "Line",
+          "Span",
           36
         ],
         [
@@ -21079,11 +21056,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          33
+          "Line",
+          27
         ],
         [
-          "Line",
+          "Span",
           27
         ],
         [
@@ -21139,9 +21116,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4110
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21178,9 +21155,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
-        "llm_error_count": 1,
-        "llm_tokens_used": 2390
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21188,11 +21165,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          54
+          "Line",
+          34
         ],
         [
-          "Line",
+          "Span",
           34
         ],
         [
@@ -21225,9 +21202,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 3,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7756
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21235,11 +21212,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          33
+          "Line",
+          31
         ],
         [
-          "Line",
+          "Span",
           31
         ],
         [
@@ -21272,9 +21249,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 3,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5142
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21360,11 +21337,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          42
+          "Line",
+          39
         ],
         [
-          "Line",
+          "Span",
           39
         ],
         [
@@ -21391,11 +21368,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          45
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -21430,11 +21407,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          73
+          "Line",
+          39
         ],
         [
-          "Line",
+          "Span",
           39
         ],
         [
@@ -21447,9 +21424,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5424
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21457,11 +21434,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          44
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -21486,9 +21463,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5183
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21529,9 +21506,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2808
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21540,14 +21517,14 @@
       "block_counts": [
         [
           "TableCell",
-          90
-        ],
-        [
-          "Span",
-          29
+          45
         ],
         [
           "Line",
+          20
+        ],
+        [
+          "Span",
           20
         ],
         [
@@ -21576,9 +21553,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3245
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21586,11 +21563,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          46
+          "Line",
+          37
         ],
         [
-          "Line",
+          "Span",
           37
         ],
         [
@@ -21617,11 +21594,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          36
+          "Line",
+          32
         ],
         [
-          "Line",
+          "Span",
           32
         ],
         [
@@ -21673,9 +21650,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1643
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21683,11 +21660,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          38
+          "Line",
+          37
         ],
         [
-          "Line",
+          "Span",
           37
         ],
         [
@@ -21727,13 +21704,13 @@
         ],
         [
           "Text",
-          2
+          1
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3435
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21834,11 +21811,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          35
+          "Line",
+          34
         ],
         [
-          "Line",
+          "Span",
           34
         ],
         [
@@ -21886,9 +21863,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2310
+        "llm_tokens_used": 0
       }
     },
     {
@@ -21940,7 +21917,7 @@
         ],
         [
           "ListItem",
-          7
+          6
         ],
         [
           "SectionHeader",
@@ -21968,9 +21945,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 3,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 9892
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22009,11 +21986,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          18
+          "Line",
+          17
         ],
         [
-          "Line",
+          "Span",
           17
         ],
         [
@@ -22036,11 +22013,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          24
+          "Line",
+          23
         ],
         [
-          "Line",
+          "Span",
           23
         ],
         [
@@ -22069,9 +22046,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7178
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22079,11 +22056,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          47
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -22110,11 +22087,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          34
+          "Line",
+          26
         ],
         [
-          "Line",
+          "Span",
           26
         ],
         [
@@ -22139,9 +22116,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5432
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22271,9 +22248,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3847
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22281,11 +22258,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          41
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -22310,9 +22287,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3566
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22320,11 +22297,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          37
+          "Line",
+          30
         ],
         [
-          "Line",
+          "Span",
           30
         ],
         [
@@ -22345,9 +22322,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1609
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22355,11 +22332,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          21
+          "Line",
+          16
         ],
         [
-          "Line",
+          "Span",
           16
         ],
         [
@@ -22376,9 +22353,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5048
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22386,11 +22363,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          28
+          "Line",
+          24
         ],
         [
-          "Line",
+          "Span",
           24
         ],
         [
@@ -22419,9 +22396,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1683
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22429,11 +22406,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          31
+          "Line",
+          30
         ],
         [
-          "Line",
+          "Span",
           30
         ],
         [
@@ -22462,9 +22439,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2332
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22497,9 +22474,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2195
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22507,11 +22484,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          29
+          "Line",
+          28
         ],
         [
-          "Line",
+          "Span",
           28
         ],
         [
@@ -22528,9 +22505,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5614
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22573,11 +22550,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          29
+          "Line",
+          28
         ],
         [
-          "Line",
+          "Span",
           28
         ],
         [
@@ -22598,9 +22575,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1641
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22668,9 +22645,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2739
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22678,11 +22655,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          42
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -22709,11 +22686,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          39
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -22730,9 +22707,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5123
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22769,9 +22746,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1728
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22779,11 +22756,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          37
+          "Line",
+          34
         ],
         [
-          "Line",
+          "Span",
           34
         ],
         [
@@ -22811,14 +22788,14 @@
       "block_counts": [
         [
           "TableCell",
-          94
-        ],
-        [
-          "Span",
-          29
+          48
         ],
         [
           "Line",
+          28
+        ],
+        [
+          "Span",
           28
         ],
         [
@@ -22847,9 +22824,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4275
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22857,11 +22834,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          39
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -22888,11 +22865,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          37
+          "Line",
+          36
         ],
         [
-          "Line",
+          "Span",
           36
         ],
         [
@@ -22923,11 +22900,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          40
+          "Line",
+          39
         ],
         [
-          "Line",
+          "Span",
           39
         ],
         [
@@ -22944,9 +22921,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2561
+        "llm_tokens_used": 0
       }
     },
     {
@@ -22954,11 +22931,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          26
+          "Line",
+          25
         ],
         [
-          "Line",
+          "Span",
           25
         ],
         [
@@ -22995,9 +22972,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 3,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5562
+        "llm_tokens_used": 0
       }
     },
     {
@@ -23005,11 +22982,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          35
+          "Line",
+          34
         ],
         [
-          "Line",
+          "Span",
           34
         ],
         [
@@ -23034,9 +23011,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2215
+        "llm_tokens_used": 0
       }
     },
     {
@@ -23084,7 +23061,7 @@
         ],
         [
           "Text",
-          5
+          4
         ],
         [
           "Caption",
@@ -23101,16 +23078,12 @@
         [
           "PageFooter",
           1
-        ],
-        [
-          "ListItem",
-          1
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1681
+        "llm_tokens_used": 0
       }
     },
     {
@@ -23217,9 +23190,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1635
+        "llm_tokens_used": 0
       }
     },
     {
@@ -23227,11 +23200,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          40
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -23388,9 +23361,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1762
+        "llm_tokens_used": 0
       }
     },
     {
@@ -23427,9 +23400,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1707
+        "llm_tokens_used": 0
       }
     },
     {
@@ -23446,7 +23419,7 @@
         ],
         [
           "Text",
-          10
+          9
         ],
         [
           "SectionHeader",
@@ -23454,10 +23427,6 @@
         ],
         [
           "PageFooter",
-          1
-        ],
-        [
-          "ListItem",
           1
         ]
       ],
@@ -23481,14 +23450,10 @@
         ],
         [
           "Text",
-          16
+          15
         ],
         [
           "PageFooter",
-          1
-        ],
-        [
-          "ListItem",
           1
         ]
       ],
@@ -23534,11 +23499,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          41
+          "Line",
+          36
         ],
         [
-          "Line",
+          "Span",
           36
         ],
         [
@@ -23555,9 +23520,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5162
+        "llm_tokens_used": 0
       }
     },
     {
@@ -23602,9 +23567,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3884
+        "llm_tokens_used": 0
       }
     },
     {
@@ -23674,11 +23639,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          42
+          "Line",
+          39
         ],
         [
-          "Line",
+          "Span",
           39
         ],
         [
@@ -23705,11 +23670,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          41
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -23763,11 +23728,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          43
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -23919,7 +23884,7 @@
       "block_counts": [
         [
           "TableCell",
-          94
+          54
         ],
         [
           "Line",
@@ -23951,9 +23916,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3243
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24060,9 +24025,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1904
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24090,12 +24055,12 @@
           2
         ],
         [
-          "SectionHeader",
+          "FigureGroup",
           2
         ],
         [
-          "FigureGroup",
-          2
+          "SectionHeader",
+          1
         ],
         [
           "PageFooter",
@@ -24103,9 +24068,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3909
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24144,11 +24109,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          38
+          "Line",
+          33
         ],
         [
-          "Line",
+          "Span",
           33
         ],
         [
@@ -24177,9 +24142,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1366
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24216,9 +24181,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1688
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24259,9 +24224,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3564
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24269,11 +24234,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          41
+          "Line",
+          34
         ],
         [
-          "Line",
+          "Span",
           34
         ],
         [
@@ -24298,9 +24263,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2210
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24372,9 +24337,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2346
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24382,11 +24347,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          42
+          "Line",
+          36
         ],
         [
-          "Line",
+          "Span",
           36
         ],
         [
@@ -24411,9 +24376,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5116
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24485,9 +24450,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2230
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24559,9 +24524,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2217
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24633,9 +24598,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2964
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24707,9 +24672,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2676
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24808,9 +24773,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2139
+        "llm_tokens_used": 0
       }
     },
     {
@@ -24818,11 +24783,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          40
+          "Line",
+          32
         ],
         [
-          "Line",
+          "Span",
           32
         ],
         [
@@ -24880,11 +24845,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          43
+          "Line",
+          42
         ],
         [
-          "Line",
+          "Span",
           42
         ],
         [
@@ -25025,9 +24990,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1882
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25091,9 +25056,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2205
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25161,9 +25126,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1708
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25202,11 +25167,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          22
+          "Line",
+          21
         ],
         [
-          "Line",
+          "Span",
           21
         ],
         [
@@ -25231,9 +25196,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2292
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25266,9 +25231,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1801
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25277,7 +25242,7 @@
       "block_counts": [
         [
           "TableCell",
-          56
+          28
         ],
         [
           "Line",
@@ -25305,9 +25270,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3601
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25315,11 +25280,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          46
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -25346,11 +25311,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          32
+          "Line",
+          23
         ],
         [
-          "Line",
+          "Span",
           23
         ],
         [
@@ -25375,9 +25340,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2182
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25532,11 +25497,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          40
+          "Line",
+          38
         ],
         [
-          "Line",
+          "Span",
           38
         ],
         [
@@ -25553,9 +25518,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4841
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25563,11 +25528,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          36
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -25656,11 +25621,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          37
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -25685,9 +25650,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 7,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 13791
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25751,9 +25716,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1722
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25792,16 +25757,16 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "TableCell",
-          48
+          "Line",
+          28
         ],
         [
           "Span",
-          31
+          28
         ],
         [
-          "Line",
-          28
+          "TableCell",
+          24
         ],
         [
           "Text",
@@ -25821,9 +25786,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3339
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25872,9 +25837,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2347
+        "llm_tokens_used": 0
       }
     },
     {
@@ -25969,9 +25934,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2172
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26012,9 +25977,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1686
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26022,11 +25987,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          40
+          "Line",
+          39
         ],
         [
-          "Line",
+          "Span",
           39
         ],
         [
@@ -26082,9 +26047,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2187
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26129,9 +26094,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3827
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26139,11 +26104,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          24
+          "Line",
+          23
         ],
         [
-          "Line",
+          "Span",
           23
         ],
         [
@@ -26172,9 +26137,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5167
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26182,11 +26147,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          37
+          "Line",
+          36
         ],
         [
-          "Line",
+          "Span",
           36
         ],
         [
@@ -26234,9 +26199,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
-        "llm_error_count": 1,
-        "llm_tokens_used": 5120
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26300,9 +26265,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5117
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26467,9 +26432,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2244
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26506,9 +26471,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 3,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 6245
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26537,9 +26502,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5915
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26568,9 +26533,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4432
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26638,9 +26603,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1703
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26681,9 +26646,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2215
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26720,9 +26685,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3057
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26754,18 +26719,14 @@
           1
         ],
         [
-          "Figure",
-          1
-        ],
-        [
-          "FigureGroup",
+          "PictureGroup",
           1
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2165
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26806,9 +26767,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2131
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26880,9 +26841,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1824
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26954,9 +26915,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1708
+        "llm_tokens_used": 0
       }
     },
     {
@@ -26997,9 +26958,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1716
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27071,9 +27032,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1915
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27153,9 +27114,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2398
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27273,9 +27234,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 3,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7659
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27316,9 +27277,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2359
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27444,9 +27405,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1761
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27483,9 +27444,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1770
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27522,9 +27483,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1639
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27625,16 +27586,16 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "TableCell",
-          44
-        ],
-        [
           "Line",
           24
         ],
         [
           "Span",
           24
+        ],
+        [
+          "TableCell",
+          22
         ],
         [
           "Text",
@@ -27662,9 +27623,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3444
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27731,7 +27692,7 @@
       "block_counts": [
         [
           "TableCell",
-          171
+          111
         ],
         [
           "Line",
@@ -27759,9 +27720,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3991
+        "llm_tokens_used": 0
       }
     },
     {
@@ -27965,9 +27926,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2765
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28066,9 +28027,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2240
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28105,9 +28066,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1688
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28202,9 +28163,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2760
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28237,9 +28198,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2275
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28284,9 +28245,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1783
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28323,9 +28284,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4989
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28366,9 +28327,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2010
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28376,11 +28337,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          47
+          "Line",
+          43
         ],
         [
-          "Line",
+          "Span",
           43
         ],
         [
@@ -28397,9 +28358,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 6392
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28438,11 +28399,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          51
+          "Line",
+          50
         ],
         [
-          "Line",
+          "Span",
           50
         ],
         [
@@ -28467,9 +28428,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1907
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28535,11 +28496,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          40
+          "Line",
+          39
         ],
         [
-          "Line",
+          "Span",
           39
         ],
         [
@@ -28591,9 +28552,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1860
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28630,9 +28591,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2829
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28704,9 +28665,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1663
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28743,9 +28704,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1729
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28778,9 +28739,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1885
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28821,9 +28782,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2208
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28831,11 +28792,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          39
+          "Line",
+          37
         ],
         [
-          "Line",
+          "Span",
           37
         ],
         [
@@ -28860,9 +28821,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2222
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28899,9 +28860,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1840
+        "llm_tokens_used": 0
       }
     },
     {
@@ -28938,9 +28899,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4399
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29043,9 +29004,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1859
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29082,9 +29043,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2214
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29092,11 +29053,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          22
+          "Line",
+          21
         ],
         [
-          "Line",
+          "Span",
           21
         ],
         [
@@ -29125,9 +29086,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3191
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29230,9 +29191,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1652
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29273,9 +29234,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1637
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29316,9 +29277,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2270
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29326,11 +29287,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          42
+          "Line",
+          41
         ],
         [
-          "Line",
+          "Span",
           41
         ],
         [
@@ -29425,9 +29386,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4402
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29435,11 +29396,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          38
+          "Line",
+          37
         ],
         [
-          "Line",
+          "Span",
           37
         ],
         [
@@ -29468,9 +29429,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7010
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29478,11 +29439,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          40
+          "Line",
+          34
         ],
         [
-          "Line",
+          "Span",
           34
         ],
         [
@@ -29596,9 +29557,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2863
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29606,11 +29567,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          57
+          "Line",
+          50
         ],
         [
-          "Line",
+          "Span",
           50
         ],
         [
@@ -29635,9 +29596,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1675
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29645,11 +29606,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          72
+          "Line",
+          71
         ],
         [
-          "Line",
+          "Span",
           71
         ],
         [
@@ -29674,9 +29635,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7063
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29717,9 +29678,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3391
+        "llm_tokens_used": 0
       }
     },
     {
@@ -29812,11 +29773,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          64
+          "Line",
+          62
         ],
         [
-          "Line",
+          "Span",
           62
         ],
         [
@@ -29845,9 +29806,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2353
+        "llm_tokens_used": 0
       }
     },
     {
@@ -30008,9 +29969,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1379
+        "llm_tokens_used": 0
       }
     },
     {
@@ -30018,11 +29979,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          58
+          "Line",
+          55
         ],
         [
-          "Line",
+          "Span",
           55
         ],
         [
@@ -30043,9 +30004,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2198
+        "llm_tokens_used": 0
       }
     },
     {
@@ -30084,11 +30045,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          41
+          "Line",
+          40
         ],
         [
-          "Line",
+          "Span",
           40
         ],
         [
@@ -30163,9 +30124,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 2012
+        "llm_tokens_used": 0
       }
     },
     {
@@ -30290,7 +30251,7 @@
       "block_counts": [
         [
           "TableCell",
-          140
+          70
         ],
         [
           "Line",
@@ -30318,9 +30279,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3728
+        "llm_tokens_used": 0
       }
     },
     {
@@ -30388,9 +30349,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3873
+        "llm_tokens_used": 0
       }
     },
     {
@@ -30398,11 +30359,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          19
+          "Line",
+          18
         ],
         [
-          "Line",
+          "Span",
           18
         ],
         [
@@ -30547,9 +30508,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1761
+        "llm_tokens_used": 0
       }
     },
     {
@@ -30621,9 +30582,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1718
+        "llm_tokens_used": 0
       }
     },
     {
@@ -30687,9 +30648,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1638
+        "llm_tokens_used": 0
       }
     },
     {
@@ -30759,11 +30720,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          36
+          "Line",
+          35
         ],
         [
-          "Line",
+          "Span",
           35
         ],
         [
@@ -30945,11 +30906,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          30
+          "Line",
+          29
         ],
         [
-          "Line",
+          "Span",
           29
         ],
         [
@@ -30966,9 +30927,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3377
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31292,9 +31253,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 1809
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31331,9 +31292,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 5549
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31403,16 +31364,16 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          46
-        ],
-        [
           "Line",
           36
         ],
         [
+          "Span",
+          36
+        ],
+        [
           "Text",
-          18
+          17
         ],
         [
           "SectionHeader",
@@ -31421,16 +31382,12 @@
         [
           "PageFooter",
           1
-        ],
-        [
-          "ListItem",
-          1
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3578
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31438,11 +31395,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          40
+          "Line",
+          36
         ],
         [
-          "Line",
+          "Span",
           36
         ],
         [
@@ -31471,9 +31428,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 4577
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31574,11 +31531,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          26
+          "Line",
+          24
         ],
         [
-          "Line",
+          "Span",
           24
         ],
         [
@@ -31602,7 +31559,7 @@
       "block_counts": [
         [
           "TableCell",
-          114
+          58
         ],
         [
           "Line",
@@ -31626,9 +31583,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 3319
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31637,7 +31594,7 @@
       "block_counts": [
         [
           "TableCell",
-          142
+          74
         ],
         [
           "TableOfContents",
@@ -31657,9 +31614,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7231
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31668,7 +31625,7 @@
       "block_counts": [
         [
           "TableCell",
-          148
+          74
         ],
         [
           "TableOfContents",
@@ -31688,9 +31645,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7895
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31699,7 +31656,7 @@
       "block_counts": [
         [
           "TableCell",
-          152
+          76
         ],
         [
           "TableOfContents",
@@ -31719,9 +31676,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 8509
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31730,7 +31687,7 @@
       "block_counts": [
         [
           "TableCell",
-          156
+          80
         ],
         [
           "TableOfContents",
@@ -31750,9 +31707,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 9174
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31761,7 +31718,7 @@
       "block_counts": [
         [
           "TableCell",
-          148
+          74
         ],
         [
           "Line",
@@ -31785,9 +31742,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 9761
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31796,7 +31753,7 @@
       "block_counts": [
         [
           "TableCell",
-          144
+          72
         ],
         [
           "Line",
@@ -31816,9 +31773,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 10256
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31827,7 +31784,7 @@
       "block_counts": [
         [
           "TableCell",
-          138
+          70
         ],
         [
           "Line",
@@ -31851,9 +31808,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 3,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 13137
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31862,7 +31819,7 @@
       "block_counts": [
         [
           "TableCell",
-          146
+          74
         ],
         [
           "TableOfContents",
@@ -31882,9 +31839,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 6689
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31893,7 +31850,7 @@
       "block_counts": [
         [
           "TableCell",
-          160
+          80
         ],
         [
           "TableOfContents",
@@ -31913,9 +31870,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 7957
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31924,7 +31881,7 @@
       "block_counts": [
         [
           "TableCell",
-          152
+          78
         ],
         [
           "TableOfContents",
@@ -31940,9 +31897,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 8622
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31951,7 +31908,7 @@
       "block_counts": [
         [
           "TableCell",
-          131
+          70
         ],
         [
           "Line",
@@ -31975,9 +31932,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 9198
+        "llm_tokens_used": 0
       }
     },
     {
@@ -31986,7 +31943,7 @@
       "block_counts": [
         [
           "TableCell",
-          146
+          74
         ],
         [
           "Line",
@@ -32006,9 +31963,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 9980
+        "llm_tokens_used": 0
       }
     },
     {
@@ -32017,7 +31974,7 @@
       "block_counts": [
         [
           "TableCell",
-          146
+          76
         ],
         [
           "TableOfContents",
@@ -32037,9 +31994,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 10956
+        "llm_tokens_used": 0
       }
     },
     {
@@ -32048,7 +32005,7 @@
       "block_counts": [
         [
           "TableCell",
-          134
+          67
         ],
         [
           "Line",
@@ -32072,9 +32029,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 11364
+        "llm_tokens_used": 0
       }
     },
     {
@@ -32083,7 +32040,7 @@
       "block_counts": [
         [
           "TableCell",
-          167
+          68
         ],
         [
           "TableOfContents",
@@ -32103,9 +32060,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 2,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 12377
+        "llm_tokens_used": 0
       }
     },
     {
@@ -32140,11 +32097,11 @@
       "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          5
+          "Line",
+          3
         ],
         [
-          "Line",
+          "Span",
           3
         ],
         [
@@ -32192,9 +32149,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
+        "llm_request_count": 0,
         "llm_error_count": 0,
-        "llm_tokens_used": 591
+        "llm_tokens_used": 0
       }
     }
   ],

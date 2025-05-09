@@ -4,8 +4,6 @@ TRƯỜNG ĐẠI HỌC Y HÀ NỘI BỘ MÔN SINH LÝ HỌC
 
 TẬP II
 
-Image /page/0/Picture/3 description: The image shows a white Bowl of Hygieia symbol on a blue shield. The Bowl of Hygieia is a symbol of pharmacy, and it features a snake coiled around a bowl or chalice.
-
 NHÀ XUẤT BẢN Y HỌC
 
 # SINH LÝ HỌC
@@ -66,8 +64,6 @@ Nephron gồm cầu thận và ống thận (Hình 6-1). Máu đi vào cầu th�
 
 Cầu thận và ống lượn gần nằm ở vùng vỏ thận. Quai Henle nằm sâu trong khối thân. Một số quai Henle đi vào tận đáy của vùng tủy thận. Quai Henle gồm hai nhánh, nhánh xuống và nhánh lên. Thành của nhánh xuống và phần dưới của nhánh lên rất mỏng, gọi là đoạn mỏng của quai. Khi nhánh lên của quai Henle quay trở lại vùng vỏ thận thì thành ống trở nên dày như những phần khác của ống, đó là đoạn dày của quai. Ông lượn xa cũng nằm trong vùng vỏ thận. Tại đây, khoảng 8 ống lượn xa họp lại thành ống góp vùng vỏ. Rồi ống góp rời vùng vỏ đi sâu vào vùng tủy thận để trở thành ống góp vùng tủy. Sau đó các ống góp hop lai thành những ống góp lớn hơn đi suốt qua vùng tủy song song với quai Henle. Các ống góp lớn đổ vào bế thân. Mỗi ống này nhân nước tiểu của khoảng 4000 nephron.
 
-Image /page/6/Figure/1 description: This image shows a diagram of a nephron, the functional unit of the kidney. The diagram includes the following labeled structures: "Cầu thận", "Bao-Bowman", "Ông lượn gần", "Ông góp vùng vỏ", "Ông lượn", "Đoạn dày", "Quai Henle", "Ông góp", "Đoạn mỏng", "Vasa recta", "T.Đ.M đến", and "T.Đ.M đi".
-
 Hình 6-1. Cầu tao của nephron
 
 # 1- NHỮNG NEPHRON VÙNG VỎ VÀ VÙNG CẬN TỦY
@@ -107,8 +103,6 @@ Màng cầu thận gồm 3 lớp:
 
 Tuy có nhiều lớp nhưng tính thấm của màng cầu thận lớn hơn mao mạch các nơi khác từ 100 đến 500 lần, do cấu trúc đặc biệt của nó như sau (Hình 6-2)
 
-Image /page/8/Figure/2 description: This image shows a diagram of a biological process. The diagram includes labels in Vietnamese. The labels include "Tế bào nội mô mao mạch", "Màng đáy", "Tế bào biểu mô", "Huyết tương", "Dịch lọc", "Cửa sổ", and "Lỗ lọc".
-
 ### Hình 6-2. Cấu trúc chức năng của màng cầu thận
 
 - Lớp tế bào nội mô có hàng ngàn lỗ nhỏ gọi là các "cửa số".
@@ -119,11 +113,11 @@ Image /page/8/Figure/2 description: This image shows a diagram of a biological p
 
 Tính thấm của màng cầu thận (được biểu thị bằng tỉ lệ của nồng độ chất hòa tan trong dịch lọc so với nồng độ của chất đó trong huyết tương) với các chất có trong lượng phân tử khác nhau như sau:
 
-| Chất hòa tan         | Trọng lượng phân tử (TLPT) | Tính thấm |
-|----------------------|----------------------------|-----------|
-| Inulin               | 5.200                      | 1,0       |
-| Các protein TLPT nhỏ | 30.000                     | 0,5       |
-| Albumin              | 69.000                     | 0,005     |
+| Chất hòa tan         | Trọng lượng phân tử (TLPT | Tính thẩm |
+|----------------------|---------------------------|-----------|
+| Inulin               | 5.200                     | 1.0       |
+| Các protein TLPT nhỏ | 30.000                    | 0.5       |
+| Albumin              | 69.000                    | 0.005     |
 
 Như vậy một chất có trọng lượng phân tử bằng hoặc nhỏ hơn 5.200 sẽ được lọc qua màng cầu thận 100%; albumin chỉ qua được với tỉ lệ 0,5%.
 
@@ -139,25 +133,25 @@ Lưu lượng lọc cầu thận là lượng dịch lọc được tạo ra tro
 
 ### 4- PHÂN SỐ LOC
 
-Đó là phần huyết tương chảy qua thận được trở thành dịch lọc. Bình thường, lượng huyết tương chảy qua hai thận là 650 ml/phút, lưu lượng lọc cầu thận là 125 ml/phút. Vậy phân số lọc là  $125/650 = 19%$  hoặc  $1/5$ .
+Đó là phần huyết tương chảy qua thận được trở thành dịch lọc. Bình thường, lượng huyết tương chảy qua hai thận là 650 ml/phút, lưu lượng lọc cầu thận là 125 ml/phút. Vậy phân số lọc là 125/ 650 = 19% hoặc 1/5.
 
 ### 5- CƠ CHẾ LỌC QUA MÀNG CẤU THÂN
 
 Quá trình lọc ở cầu thận chịu ảnh hưởng của những lực sau:
 
-- Áp suất thủy tĩnh của mao mạch cầu thận ( $P\_H$ ), có trị số bằng 60 mm Hg, có tác dụng đẩy dịch vào bao Bowman.
+- Áp suất thủy tĩnh của mao mạch cầu thận (PH), có trị số bằng 60 mm Hg, có tác dụng đẩy dịch vào bao Bowman.
 
-- Áp suất thủy tĩnh của bao Bowman ( $P\_B$ ) vào khoảng 18 mm Hg, có tác dụng đấy dịch vào mao mạch, do đó ngăn cản sự lọc.
+- Áp suất thủy tĩnh của bao Bowman (Pg) vào khoảng 18 mm Hg, có tác dụng đấy dịch vào mao mạch, do đó ngăn cản sự lọc.
 
-- Áp suất keo của mao mạch cầu thận ( $P\_K$ ): ngăn cản sự lọc, có giá trị trung bình vào khoảng 32 mmHg. Ở cầu thận khoảng 1/5 lượng huyết tương được lọc vào bao Bowman, nên nổng độ protein sẽ tăng lên 20% khi máu đi từ đầu tiểu động mạch đến tới đầu tiểu động mạch đi của cầu thận. Ap suất keo ở đầu tiểu động mạch đến là 28 mmHg thì áp suất keo ở đầu tiểu động mạch đi là 36 mmHg. Ta lấy giá trị trung bình là 32 mmHg.
+- Ap suất keo của mao mạch cầu thận (Px): ngăn cản sự lọc, có giá trị trung bình vào khoảng 32 mmHg. Ở cầu thận khoảng 1/5 lượng huyết tương được lọc vào bao Bowman, nên nổng độ protein sẽ tăng lên 20% khi máu đi từ đầu tiểu động mạch đến tới đầu tiểu động mạch đi của cầu thận. Ap suất keo ở đầu tiểu động mạch đến là 28 mmHg thì áp suất keo ở đầu tiểu động mạch đi là 36 mmHg. Ta lấy giá trị trung bình là 32 mmHg.
 
-- Ap suất lọc ( $P\_L$ ) là áp suất có tác dụng đẩy dịch lọc qua màng cầu thận
+- Ap suất lọc (Pr) là áp suất có tác dụng đẩy dịch lọc qua màng cầu thận
 
 7
 
 $$\begin{aligned} \mathbf{P\_L} &= \mathbf{P\_H} \cdot (\mathbf{P\_B} + \mathbf{P\_K}) \\ &= 60 \text{ - (18+32) mm Hg} = 10 \text{ mm Hg.} \end{aligned}$$
 
-6- HỆ SỐ LỌC ( $K\_f$ ):
+6- HÊ SỐ LOC (Kr):
 
 Hệ số lọc là tỷ lệ giữa lưu lượng và áp suất lọc
 
@@ -188,8 +182,6 @@ Lưu lương máu đến thân và lưu lương lọc cầu thân luôn được
 Lưu lượng lọc cầu thận phải hằng định vì nếu lưu lượng lọc giảm quá thấp, dịch đi qua ống chậm đến mức hầu như tất cả các chất đều được tái hấp thu và thận không đào thải được các sản phẩm có hai. Nếu lưu lượng loc quá cao, dịch qua ống nhanh đến mức thận không có khả năng tái hấp thu các chất cần thiết cho cơ thể.
 
 Ở nephron có hai cơ chế điều hòa ngươc: cơ chế làm giãn tiểu đông mach đến và cơ chế làm co tiểu động mạch đi. Sự kết hợp hai cơ chế này gọi là điều hòa ngược ống thận-cầu thân. Quá trình điều hòa xẩy ra tại phức hợp cạnh cầu thận (Hình 6-3)
-
-Image /page/11/Figure/5 description: This image is a black and white diagram of a kidney nephron. The diagram shows the glomerulus, Bowman's capsule, proximal tubule, distal tubule, and collecting duct. The glomerulus is a network of capillaries that filters blood. Bowman's capsule is a cup-shaped structure that surrounds the glomerulus and collects the filtrate. The proximal tubule is a long, coiled tube that reabsorbs water, electrolytes, and nutrients from the filtrate. The distal tubule is a shorter, less coiled tube that further reabsorbs water and electrolytes. The collecting duct is a long, straight tube that collects urine from several nephrons and transports it to the renal pelvis. The diagram also labels the following structures: Tê bao biểu mô câu thân (glomerular epithelial cells), Tế bão canh cầu thất (juxtaglomerular cells), Tiểu động mạch di (efferent arteriole), tổng mạch đến (afferent arteriole), lê bào cơ trôn (smooth muscle cells), ũng lươn xa (distal convoluted tubule), and Mang day (basement membrane).
 
 ### Hình 6-3. Cấu trúc của phức hợp cạnh cầu thận
 
@@ -224,8 +216,6 @@ Dịch lọc cầu thận sẽ lần lượt chảy qua ống lượn gần, qua
 # 1. KHẢ NĂNG TÁI HẤP THU CỦA CÁC ĐOẠN KHÁC NHAU CỦA ỐNG THẬN
 
 Cấu tạo các đoạn của ống thận ở (Hình 6-4)
-
-Image /page/13/Picture/6 description: The image shows four diagrams of cells labeled in Vietnamese. From left to right, the labels are "Ông lươn gân" (proximal convoluted tubule), "Đoan mong quai Henle" (thin segment of the loop of Henle), "Ông lươn xa" (distal convoluted tubule), and "Ông góp" (collecting duct). Each diagram shows a cell with a nucleus and other cellular structures.
 
 Hình 6-4. Đặc trưng của tế bào biểu mô ở các đoan khác nhau của ống thân
 
@@ -302,15 +292,17 @@ O ống lượn gần ion K\* được tái hấp thu theo cơ chế đồng v�
 
 ### 3.4. SƯ TÁI HẤP THU ION HCO 3
 
-lon HCO được tái hấp thu một cách gián tiếp qua CO2 như sau: Ở bên trong tế bào biểu mô, CO2 được sinh ra trong quá trình chuyển hóa sẽ kết hợp với nước với sự xúc tác của men carbonic anhydrase (C.A) để tạo ra H2COg: H2CO3 phân ly thành ion H và ion HCO5 ; ion H được bài tiết tích cực vào lòng ống. Tại đây ion H kết hợp với ion HCO3 có trong dịch ống để tạo thành H3CO3; H2CO3 sẽ phân ly thành CO2 và H2O; nước ở lại dịch ống, còn CO2 khuếch tán vào trong tế bào. Ô trong tế bào CO2 sẽ kết hợp với nước (có sự xúc tác của men C.A) thành H2CO3; H2CO3 phân ly thành ion H<sup>+</sup> và ion HCO3<sup>-</sup>; ion H<sup>+</sup> được bài tiết vào lòng ống còn ion HCO3<sup>-</sup> khuếch tán vào dịch kẽ.
+lon HCO được tái hấp thu một cách gián tiếp qua CO2 như sau: Ở bên trong tế bào biểu mô, CO2 được sinh ra trong quá trình chuyển hóa sẽ kết hợp với nước với sự xúc tác của men carbonic anhydrase (C.A) để tạo ra H2COg: H2CO3 phân ly thành ion H và ion HCO5 ; ion H được bài tiết tích cực vào lòng ống. Tại đây ion H kết hợp với ion HCO3 có trong dịch ống để tạo thành H3CO3; H2CO3 sẽ phân ly thành CO2 và H2O; nước ở lại dịch ống, còn CO2 khuếch tán vào trong tế bào. Ô trong tế bào CO2 sẽ kết hợp với nước (có sự xúc tác của men C.A) thành H2CO3; H2CO3 phân ly thành ion H và ion HCO3 ; ion H được bài tiết vào lòng ống còn ion HCO5 khuếch tán vào dịch kẽ.
 
-| Dịch kẽ | Tế bào biểu mô ống thận                                                      | Lòng ống                                       |
-|---------|------------------------------------------------------------------------------|------------------------------------------------|
-| HCO3- ← | HCO3-<br>↗ ↖<br>H2CO3<br>↑ CA<br>H2O<br>+<br>CO2 ←<br>↑<br>Chuyển hóa tế bào | → H+ HCO3-<br>↘ ↙<br>H2CO3<br>↘ ↙<br>CO2 + H2O |
+| Dịch kẽ | Tế bào biểu mô ống thận                                           | Lòng ống                         |
+|---------|-------------------------------------------------------------------|----------------------------------|
+| HCO2    | H,<br>HCOS<br>H2CO3<br>CA<br>H2O<br>+<br>CO2<br>Chuyến hóa tế bào | H,<br>HCO2<br>H2CO3<br>CO2 + H2O |
 
 ### 3.5, TÁI HẤP THU URÊ
 
 Urê cũng được tái hấp thu theo cơ chế thụ động nhưng với mức độ ít hơn Cl vì mục đích chủ yếu của thận không phải là tái hấp thu urê mà là làm sao cho sản phẩm chuyển hóa có hại này được bài tiết vào nước tiểu càng tốt. Tuy nhiên vì phân tử urê có kích thước rất nhỏ, ống thận cho urê thấm qua một phần, nên khi nước được tái hấp thu từ ống thân thì khoảng một nửa lượng urê có trong dịch lọc cầu thận sẽ được tái hấp thu thu động cùng với nước, một nửa còn lại bài xuất theo nước tiểu.
+
+14
 
 ### 3.6. TÁI HẤP THU NƯỚC
 
@@ -358,25 +350,21 @@ Cơ chế tác dụng của aldosteron: Aldosteron gắn với một protein rec
 
 ### ·Sư bài tiết K\*.
 
-Ở đoan cuối của ống lươn xa và ống góp vùng vỏ có những tế bào gọi là tế bào chính, chiếm khoảng 90% tế bào biểu mô ở hai đoạn này. Các tế bào chính có khả năng bài tiết một lương rất lớn ion K<sup>+</sup> vào lòng ống khi nồng độ K<sup>+</sup> trong dịch ngoại bào cao hơn bình thường. Cơ chế bài tiết K<sup>+</sup> như sau (Hình 6-5).
+Ở đoan cuối của ống lươn xa và ống góp vùng vỏ có những tế bào gọi là tế bào chính, chiếm khoảng 90% tế bào biểu mô ở hai đoạn này. Các tế bào chính có khả năng bài tiết một lượng rất lớn ion K vào lòng ống khi nồng đô K trong dịch ngoại bào cao hơn bình thường. Cơ chế bài tiết K như sau (Hình 6-5).
 
-Image /page/19/Figure/2 description: The image shows a diagram of ion transport across a membrane. The diagram depicts the movement of sodium (Na+) and potassium (K+) ions. There are three transport mechanisms shown: a Na+/K+ pump, a channel, and a transport protein labeled "ALd". Arrows indicate the direction of ion movement, with dashed lines representing passive transport and solid lines representing active transport. The Na+/K+ pump moves Na+ out of the cell and K+ into the cell. The channel allows K+ to move out of the cell and Na+ to move into the cell. The transport protein "ALd" facilitates the movement of Na+ into the cell and K+ out of the cell.
+Hình 6-5. Cơ chế vận chuyển Na và K qua tế bào biểu mô ống lươn xa
 
-Hình 6-5. Cơ chế vận chuyển Na<sup>+</sup> và K<sup>+</sup> qua tế bào biểu mô ống lươn xa
+Ở màng đáy - bên của tế bào chính, bơm Na , K - ATPase hoạt động bơm Na từ tế bào vào dịch kẽ, đồng thời bơm K' vào bên trong tế bào. Màng ống của các tế bào chính rất thấm K', do đó khi nồng độ K tăng cao trong tế bào thì K' sẽ nhanh chóng khuếch tán vào lòng ống. Như vậy sự bài tiết K+ phụ thuộc chủ yếu vào bơm Na -K ở màng đáy bên. Để cho bơm này hoạt động, ion Na phải được khuếch tán liên tục từ lòng ống vào tế bào, để rồi được trao đổi với K¹ ở màng đáy bên. Vì vậy số lượng ion Na khuếch tán từ lòng ống vào tế bào càng nhiều thì số lượng K bài tiết càng tăng. Nếu một người phải ăn nhat kéo dài thường không có khả năng bài xuất K+ một cách bình thường nên có thể bi tăng kali huyết.
 
-Ở màng đáy - bên của tế bào chính, bơm Na<sup>+</sup>, K<sup>+</sup> - ATPase hoạt động bơm Na<sup>+</sup> từ tế bào vào dịch kẽ, đồng thời bơm K<sup>+</sup> vào bên trong tế bào. Màng ống của các tế bào chính rất thấm K<sup>+</sup>, do đó khi nồng độ K<sup>+</sup> tăng cao trong tế bào thì K<sup>+</sup> sẽ nhanh chóng khuếch tán vào lòng ống. Như vậy sự bài tiết K<sup>+</sup> phụ thuộc chủ yếu vào bơm Na<sup>+</sup> -K<sup>+</sup> ở màng đáy bên. Để cho bơm này hoạt động, ion Na<sup>+</sup> phải được khuếch tán liên tục từ lòng ống vào tế bào, để rồi được trao đổi với  $K^+$  ở màng đáy bên. Vì vậy số lượng ion  $Na^+$  khuếch tán từ lòng ống vào tế bào càng nhiều thì số lượng  $K^+$  bài tiết càng tăng. Nếu một người phải ăn nhat kéo dài thường không có khả năng bài xuất  $K^+$  một cách bình thường nên có thể bị tăng kali huyết.
+Sự bài tiết ion K\* cũng chịu sự điều hoà của hormon aldosteron vì aldosteron hoạt hóa bơm Na+, K+ - ATPase.
 
-Sự bài tiết ion  $K^+$  cũng chịu sự điều hoà của hormon aldosteron vì aldosteron hoạt hóa bơm Na+, K+ - ATPase.
+### · Sự bài tiết ion H \*.
 
-### • Sự bài tiết ion  $H^+$ .
+Ở đoan cuối ống lượn xa, ống góp vùng vỏ và ống góp cũng có một loai tế bào đặc biệt gọi là tế bào xen kẽ (hoăc tế bào nâu). Các tế bào này có khả năng bài tiết ion H theo cơ chế vân chuyển tích cưc nguyên phát. Đăc tính của quá trình vân chuyển này hoàn toàn khác với hệ thống vận chuyển tích cực thứ phát ở những phần đầu của ống thận: nó chỉ chiếm dưới 5% tổng số ion H+ được bài tiết, nhưng nó bài tiết ion H ngược lại bậc thang nồng độ cao gấp 900 lần nồng độ trong tê bào, trong khi ở ống lượn gần chỉ là 3-4 lần và ở đoạn đầu ống lượn xa là 10 đến 15 lân. Ion H được cô đặc ở đoan cuối của ông lươn xa và ống góp 900 lần như vậy sẽ làm cho pH của dịch ống giảm xuống còn 4,5 là giới hạn thấp nhất của pH nước tiểu (Hình 6-6).
 
-Ở đoan cuối ống lượn xa, ống góp vùng vỏ và ống góp cũng có một loai tế bào đặc biệt gọi là tế bào xen kẽ (hoăc tế bào nâu). Các tế bào này có khả năng bài tiết ion H theo cơ chế vân chuyển tích cưc nguyên phát. Đăc tính của quá trình vân chuyển này hoàn toàn khác với hệ thống vận chuyển tích cực thứ phát ở những phần đầu của ống thận: nó chỉ chiếm dưới 5% tổng số ion H+ được bài tiết, nhưng nó bài tiết ion  $H^+$  ngược lại bậc thang nồng độ cao gấp 900 lần nồng độ trong tế bào, trong khi ở ống lượn gần chỉ là 3-4 lần và ở đoạn đầu ống lượn xa là 10 đến 15 lân. Ion H được cô đặc ở đoan cuối của ông lươn xa và ống góp 900 lần như vậy sẽ làm cho pH của dịch ống giảm xuống còn 4,5 là giới hạn thấp nhất của pH nước tiểu (Hình 6-6).
+# Hình 6-6. Sư vân chuyển tích cưc nguyên phát của ion H qua màng ống - của tế bào biểu mô
 
-Image /page/20/Figure/1 description: This image shows a diagram of a biological process involving the transport of various molecules across a cell membrane. The diagram includes the following molecules and ions: Cl-, HCO3-, H2CO3, CO2, H+, ATP, and ADP. The diagram also includes the enzyme CA. The diagram shows the movement of these molecules and ions across the cell membrane, with arrows indicating the direction of transport. The diagram also shows the conversion of ATP to ADP, which is an energy-releasing process.
-
-# Hình 6-6. Sư vân chuyển tích cưc nguyên phát của ion  $H^+$  qua màng ống - của tế bào biểu mô
-
-Cơ chế vân chuyển tích cưc nguyên phát của ion H xảy ra ở màng ống của tế bào biểu mô nhờ một protein mang đặc hiệu gọi là "protein mang  $H^+$  - ATPase"
+Cơ chế vân chuyển tích cưc nguyên phát của ion H xảy ra ở màng ống của tế bào biểu mô nhờ một protein mang đặc hiệu gọi là "protein mang H" - ATPase"
 
 ### · Sự tái hấp thu nước.
 
@@ -392,13 +380,14 @@ Tế bào biểu mô ống góp có khả năng bài tiết ion H theo cơ chế
 
 # 7. KẾT QUẢ TÁI HẤP THU VÀ BÀI TIẾT Ở ỐNG THẬN
 
-Khi dịch lọc cầu thận đi vào ông thận, các chất dình dưỡng được tái hấp thu hoàn toàn ở ống lượn gần, nếu nồng độ của chúng ở huyết tương nằm trong giới hạn bình thường. Ion Na được tái hấp thu 65% ở ống lượn gần; 27% ở đoạn dày nhánh lên quai Henle; 8% ion Na được tái hấp thu ở ống lượn xa dưới tác dụng điều hòa của aldosteron. Ion Cl¯ được tái hấp thu theo Na+ hoặc theo cơ chế khuếch tán hoặc theo cơ chế đồng vận chuyển với Na . Ion K được tái hấp thu 65% ở ống lượn gần; 27% ở đoạn dày của nhánh lên quai Henle; 8% ion K\* còn lại đi vào ống lươn xa, tức là vào khoảng 65 mEq mỗi ngày trong khi một người bình thường môt ngày ăn vào khoảng 100 mEq ion  $K^+$ . Do đó khi nồng độ ion  $K^+$  trong dịch ngoại bào bình thường hoặc tăng lên thì một lượng lớn  $K^+$  cần phải được bài xuất vào nước tiểu để đưa phần K<sup>+</sup> thừa ra mỗi ngày ra khỏi cơ thể. Vì vậy các tế bào đoạn cuối của ống lượn xa phải bài tiết K<sup>+</sup> vào lòng ống. Sự tái hấp thu ion HCO3<sup>-</sup> được thực hiện gián tiếp qua CO2. Ở ống lượn gần, trong những điều kiện bình thường, tốc độ loc của ion HCO5 trong dịch lọc cầu thận là 3,46 mmol/ phút và tốc độ bài tiết ion H ở tế bào biểu mô ống lượn gần là 3,5 mmol/phút. Như vậy số lượng hai loại ion này trong dịch ống nhau. Chúng kết hợp với nhau và sản phẩm cuối cùng là CO2 và nước; CO2 khuếch tán vào tế bào, kết hợp với nước để thành H2CO3. H2CO3 phân ly thành H<sup>+</sup> và HCO3<sup>-</sup>, H<sup>+</sup> lại được bài tiết còn HCO3<sup>-</sup> được khuếch tán vào dịch kẽ. Như vậy cứ một ion H được bài tiết thì một ion HCO được tái hấp thu ở ống lượn gần để giữ cho pH của địch ngoại bào được hẳng định. Hai sản phẩm cuối cùng của chuyển hóa là urê và creatinin rất ít được tái hấp thu, do đó nồng độ urê trong nước tiểu cao gấp 65 lần nồng độ urê trong huyết tương. Creatinin không những không được tái hấp thu mà còn được tế bào biểu mô ống lượn gần bài tiết vào dịch ống nên nồng độ của creatinin trong nước tiểu tăng gấp 140 lần. Các ion Ca<sup>++</sup>, Mg<sup>++</sup>, urat, phosphat, sulphat, nitrat đều được tái hấp thu theo cơ chế vân chuyển tích cực chủ yếu ở ống lượn gần. Các tế bào biểu mô của ống lượn gần, đoạn dày của nhánh lên quai Henle và ống lượn xa đều có khả năng bài tiết ion H vào dịch ống theo cơ chế vận chuyển tích cực thứ phát (vận chuyển ngươc chiều với ion Na ) với môt số lương rất lớn - vào khoảng vài ngàn mEg mỗi ngày. Riêng ở đoạn cuối của ông lươn xa và các ống góp, tế bào biểu mô bài tiết ion H vào dich ống theo cơ chế vân chuyển tích cưc nguyên phát.
+Khi dịch lọc cầu thận đi vào ông thận, các chất dình dưỡng được tái hấp thu hoàn toàn ở ống lượn gần, nếu nồng độ của chúng ở huyết tương nằm trong giới hạn bình thường. Ion Na được tái hấp thu 65% ở ống lượn gần; 27% ở đoạn dày nhánh lên quai Henle; 8% ion Na được tái hấp thu ở ống lượn xa dưới tác dụng điều hòa của aldosteron. Ion Cl¯ được tái hấp thu theo Na+ hoặc theo cơ chế khuếch tán hoặc theo cơ chế đồng vận chuyển với Na . Ion K được tái hấp thu 65% ở ống lượn gần; 27% ở đoạn dày của nhánh lên quai Henle; 8% ion K\* còn lại đi vào ống lươn xa, tức là vào khoảng 65 mEq mỗi ngày trong khi một người bình thường môt ngày ăn vào khoảng 100 mEq ion K. Do đó khi nồng độ ion K trong dịch ngoại bào bình thường hoặc tăng lên thì một lượng lớn K cần phải được bài xuất vào nước tiểu để đưa phần K thừa ra mỗi ngày ra khỏi cơ thể. Vì vậy các tế bào đoạn cuối của ống lượn xa phải bài tiết K vào lòng ống. Sự tái hấp thu ion HCO2 được thực hiện gián tiếp qua CO2. Ở ống lượn gần, trong những điều kiện bình thường, tốc độ loc của ion HCO5 trong dịch lọc cầu thận là 3,46 mmol/ phút và tốc độ bài tiết ion H ở tế bào biểu mô ống lượn gần là 3,5 mmol/phút. Như vậy số lượng hai loại ion này trong dịch ống nhau. Chúng kết hợp với nhau và sản phẩm cuối cùng là CO2 và nước; CO2 khuếch tán vào tế bào, kết hợp với nước để thành H2CO3. H2CO3 phân ly thành H và HCO5, H lại được bài tiết còn HCO2 được khuếch tán vào dịch kẽ. Như vậy cứ một ion H được bài tiết thì một ion HCO được tái hấp thu ở ống lượn gần để giữ cho pH của địch ngoại bào được hẳng định. Hai sản phẩm cuối cùng của chuyển hóa là urê và creatinin rất ít được tái hấp thu, do đó nồng độ urê trong nước tiểu cao gấp 65 lần nồng độ urê trong huyết tương. Creatinin không những không được tái hấp thu mà còn được tế bào biểu mô ống lượn gần bài tiết vào dịch ống nên nồng độ của creatinin trong nước tiểu tăng gấp 140 lần. Các ion Ca\*, Mg\*, urat, phosphat, sulphat, nitrat đều được tái hấp thu theo cơ chế vân chuyển tích cực chủ yếu ở ống lượn gần. Các tế bào biểu mô của ống lượn gần, đoạn dày của nhánh lên quai Henle và ống lượn xa đều có khả năng bài tiết ion H vào dịch ống theo cơ chế vận chuyển tích cực thứ phát (vận chuyển ngươc chiều với ion Na ) với môt số lương rất lớn - vào khoảng vài ngàn mEg mỗi ngày. Riêng ở đoạn cuối của ông lươn xa và các ống góp, tế bào biểu mô bài tiết ion H vào dich ống theo cơ chế vân chuyển tích cưc nguyên phát.
 
 # 8. TÁC DỤNG CỦA KHẢ NĂNG TẢI VÀ KHẢ NĂNG VẬN CHUYẾN TỐI ĐA Tm (Transit maxima) CỦA ỐNG THẬN ĐỐI VỚI THÀNH PHẦN NƯỚC TIỂU
 
 ### 8.1. KHẢ NĂNG TẢI CỦA ỐNG (TUBULAR LOAD)
 
-Khả năng tải của ống đối với một chất là lượng chất đó được lọc qua màng cầu thận vào ống thận mỗi phút. Ví dụ, mối phút có 125 ml dịch loc qua cầu thận, nồng độ glucose trong máu là 100mg/100ml thì khả năng tải của ống thận đối với glucose là  $\frac{100mg \times 125}{100} = 125$  mg/ phút. Tương tự như vậy khả năng tải của ống thận với Na | là 18 mEq/ phút; của ion Cl¯ là 13 mEq/ phút.
+Khả năng tải của ống đối với một chất là lượng chất đó được lọc qua màng cầu thận vào ống thận mỗi phút. Ví dụ, mối phút có 125 ml dịch loc qua cầu thận, nồng độ glucose trong máu là 100mg/100ml thì khả năng tải của ống thận đối với glucose , 100mg x 125 mg/ phút. Tương tự như vậy khả năng tải của ống thận với
+ Na | là 18 mEq/ phút; của ion Cl¯ là 13 mEq/ phút.
 
 ### 8.2. KHẢ NĂNG VẬN CHUYỂN TỐI ĐA CỦA ỐNG THẬN ĐỐI VỚI MÔT CHẤT
 
@@ -408,16 +397,16 @@ Mỗi chất được hấp thu hoặc bài tiết tích cực cần phải có 
 
 Khi một chất có Tm thì chất đó cũng có một nổng độ ngưỡng trong huyết tương, nghĩa là nếu nồng độ chất đó trong huyết tương thấp hơn ngưỡng thì chất đó không có trong nước tiểu. Nếu cao hơn, chất đó sẽ xuất hiên trong nước tiểu. Ví du khi nồng độ glucose trong máu là 180 mg/ 100 ml thì khả năng tải của ống đối với glucose là 220 mg/phút và glucose bắt đầu xuất hiện trong nước tiểu. Như vậy 180 mg/ 100 ml là ngưỡng thận đối với glucose.
 
-| Chất được tái hấp thu | Tm (mg/phút) | Chất được tái hấp thu | Tm (mM/phút) |
-|-----------------------|--------------|-----------------------|--------------|
-| glucose               | 320          |                       |              |
-| protein               | 30           | acid amin             | 1,5          |
-| hemoglobin            | 1            | phosphat              | 0,1          |
-| lactat                | 75           | sulphat               | 0,06         |
-| urat                  | 15           |                       |              |
-| acetoacetat           | 30           |                       |              |
+| Chất được tái hấp thu |     | Tm (mg/phút)      Chất được tái hấp thu | Tm (mM/phút) |
+|-----------------------|-----|-----------------------------------------|--------------|
+| glucose               | 320 |                                         |              |
+| protein               | 30  | acid amin                               | 1.5          |
+| hemoglobin            | 1   | phosphat                                | 0.1          |
+| lactat                | 75  | sulphat                                 | 0,06         |
+| urat                  | 15  |                                         |              |
+| acetoacetat           | 30  |                                         |              |
 
-**Bảng 6-1** - Tm của một số chất được tái hấp thu ở ống thận.
+Bảng 6-1 - Tm của một số chất được tái hấp thu ở ống thận.
 
 # 8.4. SỰ TÁI HẤP THU CỦA NHỮNG CHẤT KHÔNG CÓ Tm
 
@@ -427,7 +416,7 @@ Sự hấp thu của các chất theo cơ chế khuếch tán phụ thuộc vào
 
 - Thời gian dịch chất này được lưu giữ trong lòng ống. Vì vậy sự vận chuyển của các chất theo cơ chế khuếch tán được gọi là sự vận chuyển bậc thang - thời gian (gradient-time transport).
 
-Na là một chất được tái hấp thu nhanh theo cơ chế vận chuyển tích cực nhưng lại không có trong danh sách các chất có Tm bởi vì bên cạnh yếu tố tốc độ tối đa của quá trình vận chuyển tích cực, còn có những yếu tố khác giới hạn tốc độ vận chuyển của Na . Đó là: trong ống lượn gần, tốc độ vận chuyển tích cưc của Na ưữ tế bào qua màng đáy - bên vào dịch kẽ lớn hơn rất nhiều so với tốc độ khuếch tán thụ động của Na từ lòng ống qua diềm bàn chải vào tế bào. Như vậy tốc độ tối đa của cơ chế vận chuyển tích cực không thể là yếu tố giới hạn quyết định tốc độ tái hấp thu Na ". Ngoài ra còn có một yếu tố khác cũng giới hạn sự hấp thu Na . Đó là sự khuếch tán ngược trở lại của nhiều ion Na từ dịch kẽ qua các mối nối giữa các tế bào biểu mô để vào lòng ống. Vì những lý do trên, sự vận chuyển của Na ' ở ống lượn gần chủ yếu tuân theo nguyên lý của sự vận chuyển bậc thang-thời gian, hơn là khả năng vận chuyển tối đa. Nghĩa là, nồng độ Na<sup>+</sup> trong ống lượn gần càng lớn, thời gian dịch được giữ trong ống lượn gần càng lâu, thì sự tái hấp thu của Na\* càng nhiều. Ở các đoạn xa của ống thận, các mối nối giữa các tế bào biểu mô khít chặt hơn, nồng độ Na trong lòng thấp hơn, nên sự vận chuyển của Na lại có Tm giống như các chất được tái hấp thu tích cực khác. Hơn nữa Tm đối với Na còn phụ thuộc vào nồng đô của các hormon aldosteron và angiotensin II để kiểm soát tốc đô bài xuất Na + vào nước tiểu.
+Na là một chất được tái hấp thu nhanh theo cơ chế vận chuyển tích cực nhưng lại không có trong danh sách các chất có Tm bởi vì bên cạnh yếu tố tốc độ tối đa của quá trình vận chuyển tích cực, còn có những yếu tố khác giới hạn tốc độ vận chuyển của Na . Đó là: trong ống lượn gần, tốc độ vận chuyển tích cưc của Na ưữ tế bào qua màng đáy - bên vào dịch kẽ lớn hơn rất nhiều so với tốc độ khuếch tán thụ động của Na từ lòng ống qua diềm bàn chải vào tế bào. Như vậy tốc độ tối đa của cơ chế vận chuyển tích cực không thể là yếu tố giới hạn quyết định tốc độ tái hấp thu Na ". Ngoài ra còn có một yếu tố khác cũng giới hạn sự hấp thu Na . Đó là sự khuếch tán ngược trở lại của nhiều ion Na từ dịch kẽ qua các mối nối giữa các tế bào biểu mô để vào lòng ống. Vì những lý do trên, sự vận chuyển của Na ' ở ống lượn gần chủ yếu tuân theo nguyên lý của sự vận chuyển bậc thang-thời gian, hơn là khả năng vận chuyển tối đa. Nghĩa là, nồng độ Na trong ống lượn gần càng lớn, thời gian dịch được giữ trong ống lượn gần càng lâu, thì sự tái hấp thu của Na\* càng nhiều. Ở các đoạn xa của ống thận, các mối nối giữa các tế bào biểu mô khít chặt hơn, nồng độ Na trong lòng thấp hơn, nên sự vận chuyển của Na lại có Tm giống như các chất được tái hấp thu tích cực khác. Hơn nữa Tm đối với Na còn phụ thuộc vào nồng đô của các hormon aldosteron và angiotensin II để kiểm soát tốc đô bài xuất Na + vào nước tiểu.
 
 ### 8.5. CÂN BẰNG CẦU THẬN-ỐNG THẬN TRONG ỐNG LƯƠN GẦN
 
@@ -441,7 +430,7 @@ Sự cân bằng cầu thận-ống thận có tác dụng ngăn ngừa tình tr
 
 Clearance huyết tương của một chất là khả năng thận có thể lọc sạch chất đó khỏi huyết tương trong thời gian một phút.
 
-Ví dụ: Nồng độ của urê trong một ml huyết tương và dịch lọc cầu thận là 0,26 mg; lượng urê đi vào nước tiểu trong 1 phút là 18,2 mg. Ta có thể tính được số millilit huyết tương được lọc sạch urê trong 1 phút bằng cách chia lượng urê đi vào nước tiểu trong 1 phút cho lượng urê có trong một ml huyết tương:  $\frac{18,2}{0,26} = 70$  ml/phút. Như vậy clearance huyết tương của urê là 70 ml/phút.
+Ví dụ: Nồng độ của urê trong một ml huyết tương và dịch lọc cầu thận là 0,26 mg; lượng urê đi vào nước tiểu trong 1 phút là 18,2 mg. Ta có thể tính được số millilit huyết tương được lọc sạch urê trong 1 phút bằng cách chia lượng urê đi vào nước tiểu trong 1 phút cho lượng urê có trong một ml huyết tương: 12,2 = 70 ml/phút. Như vậy clearance huyết tương của urê là 70 ml/phút.
 
 Clearance huyết tương của một chất được tính theo công thức sau:
 
@@ -453,7 +442,7 @@ Clearance lưu lượng nước tiểu (ml/ph) x huyết tương (ml/ph) Nồng 
 
 Inulin là một polysaccarid có trọng lượng phân tử 5200 nên có thể được lọc dễ dàng qua màng cầu thận, nhưng nó không được tái hấp thu và bài tiết ở ống thân. Kết quả là nồng độ inulin trong dịch lọc cầu thận và trong huyết tương giống nhau. Khi dịch lọc chảy xuống ống thận, tất cả inulin được loc sẽ có mặt trong nước tiểu. Nói một cách khác tất cả dịch lọc cầu thận đều được lọc sạch inulin hoặc clearance huyết tương của inulin bằng lưu lượng lọc cầu thận.
 
-Ví dụ: Kết quả xét nghiêm cho biết nồng đô inulin huyết tương là 1 mg/ml và có 125 mg inulin đi vào nước tiểu trong 1 phút. Clearance huyết tương của inulin là bằng  $\frac{125}{1}$  = 125 ml/phút, nghĩa là để nước tiểu có nồng độ inulin như trên thì phải có 125 ml dịch lọc được tạo thành trong một phút. Như vậy lưu lượng lọc cầu thận là 125 ml/phút.
+Ví dụ: Kết quả xét nghiêm cho biết nồng đô inulin huyết tương là 1 mg/ml và có 125 mg inulin đi vào nước tiểu trong 1 phút. Clearance huyết tương của inulin là bằng 125 ml/phút, nghĩa là để nước tiểu có nồng độ inulin như trên thì phải có 125 ml dịch lọc được tạo thành trong một phút. Như vậy lưu lượng lọc cầu thận là 125 ml/phút.
 
 Người ta cũng có thể dùng mannitol hoặc iothalamat phóng xạ thay cho inulin để đo lưu lượng lọc cầu thận.
 
@@ -461,7 +450,8 @@ Người ta cũng có thể dùng mannitol hoặc iothalamat phóng xạ thay ch
 
 PAH ( acid paraaminohippuric) qua màng cầu thận rất dễ dàng. Nhưng hầu hết PAH còn lại trong huyết tương sau khi dịch lọc cầu thận được tạo thành sẽ được bài tiết từ mao mạch quanh ống vào tế bào biểu mô ống lượn gần, rồi từ tế bào vào lòng ống. Chỉ có khoảng 1/10 lượng PAH ban đầu còn lại trong huyết tương lúc máu rời khỏi thân.
 
-Người ta có thể dùng clearance của PAH để tính lưu lượng máu qua thận. Giả sử có 0,01 mg PAH trong 1ml huyết tương; có 5,85 mg PAH vào nước tiểu trong 1 phút, ta có 585 ml huyết tương được lọc sạch PAH trong 1 phút. Nếu một lượng huyết tương nhiều như vậy được lọc sạch PAH trong 1 phút thì ít nhất lượng huyết tương này phải đi qua thận trong cùng thời gian đó. Vì hầu như toàn bộ PAH được loc khỏi huyết tương khi máu qua thận nên 585 ml chính là lượng huyết tương chảy qua thân trong một phút. Thực tế khi máu rời khỏi thận vẫn còn một lượng nhỏ PAH ở trong máu, cho nên clearance huyết tương của PAH đo được trong các thức nghiêm khác nhau chỉ bằng khoảng 90% lượng huyết tương thực sự đã mang PAH đi vào thận. Như vậy lưu lượng huyết tương chảy qua thận trong 1 phút là  $\frac{585x100}{90}$  = 650 ml. Từ đó có thể tính ra lưu
+Người ta có thể dùng clearance của PAH để tính lưu lượng máu qua thận. Giả sử có 0,01 mg PAH trong 1ml huyết tương; có 5,85 mg PAH vào nước tiểu trong 1 phút, ta có 585 ml huyết tương được lọc sạch PAH trong 1 phút. Nếu một lượng huyết tương nhiều như vậy được lọc sạch PAH trong 1 phút thì ít nhất lượng huyết tương này phải đi qua thận trong cùng thời gian đó. Vì hầu như toàn bộ PAH được loc khỏi huyết tương khi máu qua thận nên 585 ml chính là lượng huyết tương chảy qua thân trong một phút. Thực tế khi máu rời khỏi thận vẫn còn một lượng nhỏ PAH ở trong máu, cho nên clearance huyết tương của PAH đo được trong các thức nghiêm khác nhau chỉ bằng khoảng 90% lượng huyết tương thực sự đã mang PAH đi vào thận. Như vậy lưu lượng huyết tương chảy qua thận trong 1 phút là 585x100
+Từ đó có thể trong 1 phút là 555x100 – 90
 
 lượng máu toàn phần qua thận mỗi phút dựa trên lưu lượng huyết tương qua thận và hematocrit. Nếu hematocrit là 45% thì lưu lương máu qua thân là:
 
@@ -481,8 +471,6 @@ Bình thường nồng độ thẩm thấu của dịch lọc cầu thận đún
 
 Thân có một cơ chế rất đặc biệt và rất phức tạp để cô đặc nước tiểu gọi là cơ chế nhân ngươc dòng. Cơ chế này dưa trên sự sắp xếp giải phẫu của quai Henle và quai mạch thẳng (vasa recta) ở vùng tủy thận (Hình 6-7).
 
-Image /page/27/Figure/0 description: This image shows a diagram of a nephron, which is the functional unit of the kidney. The diagram includes the glomerulus, proximal tubule, loop of Henle, distal tubule, and collecting duct. The diagram also shows the concentrations of various solutes, such as sodium chloride (NaCl) and urea, in different parts of the nephron. The diagram also shows the movement of water (H2O) across the walls of the nephron. The diagram includes the numbers 200, 300, 320, 400, 600, 800, 1000, and 1200. The diagram also includes the words "VO", "Tuỷ ngoài", "Tuỷ trong", "Mạch thẳng (vasa recta)", "Dịch kế", "quai Henle", and "Dịch kế Ông gáp".
-
 Hình 6-7. Cơ chế ngược dòng cô đặc nước tiểu
 
 Ở người có khoảng 1/3 đến 1/5 số nephron có quai Henle đi sâu vào vùng tủy thân rồi lại quay trở về vùng vỏ thận. Song song với những quai Henle rất dài này là những mao mach quanh ống goi là mach thẳng. Các quai mach này cũng từ vùng vỏ đi vào vùng tủy rồi trở lại vùng vỏ.
@@ -491,9 +479,7 @@ Cơ chế cô đặc nước tiểu phụ thuộc vào sự duy trì một bậc
 
 Hình (6-8) minh họa hoạt động của một hệ thống ngược dòng. Ở bên trái, nguồn nhiệt bao quanh ống dẫn và làm tăng nhiệt độ của nước chảy trong ống dẫn lên đến 10ºC. Ở bên phải, nguồn nhiệt được đặt vào ống dẫn đã được uốn cong thành quai hình chữ U, với dòng chảy vào ở cạnh dòng chảy ra. Nhiệt ở dòng chảy ra làm nóng dich trong dòng chảy vào khi dòng này chảy đến nguồn nhiệt ở chóp quai hình chữ U thì nhiệt độ của nó là 90°C chứ không phải 30°C như lúc mới chảy vào. Do đó lúc này nguồn nhiệt làm tăng nhiệt độ của dịch trong dòng chảy vào từ 90°C lên 100°C chứ không phải từ 30°C lên 40°C.
 
-Quai Henle cũng hoạt động theo cách tương tự. Nhánh xuống quai Henle không thấm các chất hòa tan nhưng có tính thấm cao với nước, do đó nước vận chuyển vào dịch kẽ và nồng độ của Na+ trong ống tăng lên. Ngoài ra một số urê cũng đi vào nhánh xuống làm cho khả năng thẩm thấu của dịch ống càng tăng. Đoạn mỏng của nhánh lên không thấm nước và thấm vừa phải với Na - và urệ, nhưng thấm Na " nhiều hơn urê. Kết quả là Na vân chuyển thu đông vào dịch kẽ theo bậc thang nông độ. Đoạn dày nhánh lên quai Henle không thấm cả nước và chất hòa tan, nhưng ở đoạn này cả Cli và Na được vận chuyển tích cực ra khỏi dịch ống, Na được bơm vào dịch kẽ nhờ bơm Na<sup>+</sup>, K<sup>+</sup>-ATPase, còn Cl<sup>-</sup> được vận chuyển tích cực thứ phát cùng với Na (cơ chế đồng vân chuyển cùng chiều). Các ống góp vùng vỏ không thấm urê, nhưng thấm nước với sự có mặt của ADH. Kết quả là nước ra khỏi ống và nồng độ urê trong ống góp tăng lên. Các ống góp vùng tủy trong thấm urê và thấm cả nước với sự có mặt của ADH, urê vận chuyển thu động vào dich kẽ đề duy trì nồng độ thẩm thấu cao ở tháp tủy; nước đươc tái hấp thu làm cho dich trong ống góp bi cô đặc.
-
-Image /page/28/Figure/1 description: This image contains two diagrams illustrating a process involving fluid flow and heat transfer. The diagram on the left shows a vertical tube with fluid flowing downwards at a rate of 10 ml/ph. The fluid enters at 30 degrees Celsius and passes through a heat source labeled "Nguồn nhiệt," which adds 100 cal/ph of heat. As a result, the fluid's temperature increases to 40 degrees Celsius as it continues to flow downwards. The diagram on the right depicts a similar process but with a different configuration. Fluid enters at 10 ml/ph and is heated from 30 to 100 degrees Celsius in increments of 10 degrees. The heat source, also labeled "Nguồn nhiệt," provides 100 Cal/phút of heat. The fluid circulates within the container, indicated by arrows, before exiting.
+Quai Henle cũng hoạt động theo cách tương tự. Nhánh xuống quai Henle không thấm các chất hòa tan nhưng có tính thấm cao với nước, do đó nước vận chuyển vào dịch kẽ và nồng độ của Na+ trong ống tăng lên. Ngoài ra một số urê cũng đi vào nhánh xuống làm cho khả năng thẩm thấu của dịch ống càng tăng. Đoạn mỏng của nhánh lên không thấm nước và thấm vừa phải với Na - và urệ, nhưng thấm Na " nhiều hơn urê. Kết quả là Na vân chuyển thu đông vào dịch kẽ theo bậc thang nông độ. Đoạn dày nhánh lên quai Henle không thấm cả nước và chất hòa tan, nhưng ở đoạn này cả Cli và Na được vận chuyển tích cực ra khỏi dịch ống, Na được bơm vào dịch kẽ nhờ bơm Na , K - ATPase, còn Cl được vận chuyển tích cực thứ phát cùng với Na (cơ chế đồng vân chuyển cùng chiều). Các ống góp vùng vỏ không thấm urê, nhưng thấm nước với sự có mặt của ADH. Kết quả là nước ra khỏi ống và nồng độ urê trong ống góp tăng lên. Các ống góp vùng tủy trong thấm urê và thấm cả nước với sự có mặt của ADH, urê vận chuyển thu động vào dich kẽ đề duy trì nồng độ thẩm thấu cao ở tháp tủy; nước đươc tái hấp thu làm cho dich trong ống góp bi cô đặc.
 
 Hình 6-8. Sơ đồ hệ thống ngược dòng
 
@@ -537,7 +523,7 @@ Nhiễm toan (acidosis) là triêu chứng thường găn trong bênh thân mãn
 
 ### 5. RỒI LOAN CHUYÊN HÓA Na\* TRONG BÊNH THÂN
 
-Nhiều người bị bệnh thận có triệu chứng giữ Na" quá nhiều và bị phù. Có ba nguyên nhân gây giữ Na : (1) trong bênh viêm cầu thân cấp, lượng Na' loc qua màng cầu thận giảm trong khi lượng Na được tái hấp thu không giảm tương ứng, (2) trong hội chứng thận hư, protein huyết tương giảm, nước khuếch tán từ máu vào khoảng kẽ làm cho thể tích huyết tương giảm, kích thích hệ thống reninangiotensin làm tăng bài tiết aldosteron của vỏ thượng thân, aldosteron gây tăng tái hấp thu Na<sup>+</sup> ở ống thận, (3) một số bệnh thân gây tăng huyết áp, tăng huyết áp dẫn đến suy tim. Suy tim ở giai đoạn đầu bệnh nhân không có biểu hiện gì lúc nghỉ ngơi nhưng nếu họ lao đông, lưu lương tim tăng lên sẽ gây ra những thay đổi phản xạ trong tuần hoàn bao gồm co mạch da, mạch thân và làm giảm lưu lương máu qua thân kết quả là Na\* bi giữ lai cơ thể.
+Nhiều người bị bệnh thận có triệu chứng giữ Na" quá nhiều và bị phù. Có ba nguyên nhân gây giữ Na : (1) trong bênh viêm cầu thân cấp, lượng Na' loc qua màng cầu thận giảm trong khi lượng Na được tái hấp thu không giảm tương ứng, (2) trong hội chứng thận hư, protein huyết tương giảm, nước khuếch tán từ máu vào khoảng kẽ làm cho thể tích huyết tương giảm, kích thích hệ thống reninangiotensin làm tăng bài tiết aldosteron của vỏ thượng thân, aldosteron gây tăng tái hấp thu Na ở ống thận, (3) một số bệnh thân gây tăng huyết áp, tăng huyết áp dẫn đến suy tim. Suy tim ở giai đoạn đầu bệnh nhân không có biểu hiện gì lúc nghỉ ngơi nhưng nếu họ lao đông, lưu lương tim tăng lên sẽ gây ra những thay đổi phản xạ trong tuần hoàn bao gồm co mạch da, mạch thân và làm giảm lưu lương máu qua thân kết quả là Na\* bi giữ lai cơ thể.
 
 ### THĂM DÒ CHỨC NĂNG THẬN
 
@@ -618,8 +604,6 @@ Giữa hệ thống nội tiết và hệ thống thần kinh có mối liên qu
 Khác với các tuyến ngoại tiết như tuyến nước bọt, tuyến tụy ngoại tiết, tuyến dạ dày ... là những tuyến có ống dẫn, chất bài tiết được đổ vào một cơ quan nào đó qua ống tuyến; tuyến nội tiết lại là những tuyến không có ống dẫn, chất bài tiết được đưa vào máu rồi được máu đưa đến các cơ quan, các mô trong cơ thể và gây ra các tác dụng ở đó.
 
 Các tuyến nội tiết chính của cơ thể gồm vùng dưới đồi, tuyến yên, tuyến giáp, tuyến cận giáp, tuyến tụy nội tiết, tuyến thượng thận, tuyến sinh dục nam và nữ, rau thai (Hình 7.1).
-
-Image /page/35/Figure/2 description: This image is a diagram of the human body, with labels indicating the locations of various glands. The glands labeled are: Tuyen yen, Vung duoi doi, Tuyen tung, Tuyen giap, Tuyen Can giap, Tuyen uc, Tuyen thuong than, Tuyen tuy, and Buong trung (tinh hoan).
 
 Hình 7-1.Các tuyến nội tiết
 
@@ -727,7 +711,7 @@ Các receptor tiếp nhận các loại hormon khác nhau có thể nằm ở c�
 
 - Ő trong bào tương: các receptor nằm trong bào tương là những receptor tiếp nhân các hormon steroid.
 
-- Ở trong nhân tế bào: Đây là những receptor tiếp nhận hormon T3-T4 của tuyến giáp. Người ta cho rằng các receptor này có thể nằm trên một hoặc nhiều chromosom trong nhân tế bào đích.
+- Ó trong nhân tế bào: Đây là những receptor tiếp nhận hormon T3- T4 của tuyến giáp. Người ta cho rằng các receptor này có thể nằm trên một hoặc nhiều chromosom trong nhân tế bào đích.
 
 Số lượng các receptor ở tế bào đích có thể thay đổi từng ngày thậm chí từng phút bởi vì các phân tử protein receptor tự nó có thể bị bất hoạt hoặc bị phá hủy trong quá trình hoat đông nhưng rồi chúng lại có thể được hoạt hóa trở lại hoặc hình thành các phân tử mới nhờ cơ chế tổng hơp protein trong tế bào.
 
@@ -748,8 +732,6 @@ Hâu hết các hormon có bản chất hóa học là protein, peptid, dẫn xu
 Đặc điểm của các receptor này là có những vị trí đặc hiệu ở phía ngoài màng để gắn với hormon và có một phần lồi vào trong bào tương. Phần lồi vào trong này thường có khả năng hoạt động như một men xúc tác nêu được hoạt hóa. Người ta goi các receptor này là loai receptor xuyên màng đăc hiêu (Hình 7.2).
 
 Một số receptor khác lại hoạt động như các protein kênh. Khi hormon gắn với loại receptor này nó sẽ làm thay đổi cấu trúc không gian của receptor và làm mở kênh ion.
-
-Image /page/40/Figure/2 description: The image shows a diagram of a cell membrane with various proteins embedded in it. The proteins are labeled with letters such as R, G, and E. There are also labels for "Mang" (membrane), "Bao tuong" (cytoplasm), "Protein Tyrosine kinase", "Chat truyen tin thu hai" (second messenger), and "kenh ion" (ion channel). There are arrows indicating the movement of molecules or ions across the membrane.
 
 Hình 7.2. Các loại receptor trên màng tế bào
 
@@ -773,23 +755,21 @@ Sau khi gây ra các tác dụng sinh lý tai tế bào đích, AMP vòng bi b�
 
 Như vậy, bằng cách này hormon chỉ có một tác dụng trực tiếp trên màng tế bào là gắn với receptor để hoạt hóa men trên màng tế bào chứ không tác động trực tiếp vào những thay đổi ở bên trong tế bào. Chính AMP vòng gây ra tất cả các tác dụng còn lại của hormon ở trong tế bào, bởi vậy, người ta gọi AMP vòng là chất truyền tin thứ hai.
 
-Image /page/41/Figure/4 description: The image shows a diagram of a biological process. The diagram includes several labeled components, including "Mang", "Bao tuong", "ATP", "R", "Ac", "AMP", "Proteinkinase", "Proteinkinase hoat dong", "Phosphodiesterase", "Protein", and "Protein\_ (P)". Arrows indicate the flow of the process, with "ATP" converting to "AMP", and "AMP" converting back to "AMP" via "Phosphodiesterase". "Proteinkinase" leads to "Proteinkinase hoat dong", which then interacts with "Protein" to form "Protein\_ (P)". Finally, "Protein\_ (P)" leads to "Tong hop Pr.", "Tong hop Enzym", "Co, gian co", and "Bai tiet".
-
 Hình 7-3. Cơ chế tác dụng thông qua AMP vòng.
 
 Các hormon tác dụng tại tế bào đích thông qua AMP vòng bao gồm: ACTH, TSH, LH, FSH, vasopressin, parathormon, glucagon, catecholamin, secretin, hau hết các hormon giải phóng của vùng dưới đồi.
 
-### \* Chất truyền tin thứ hai là ion Ca<sup>++</sup> và calmodulin
+### \* Chất truyền tin thứ hai là ion Ca\* và calmodulin
 
-Một số trường hợp khi hormon hoặc chất truyền đạt thần kinh gắn với receptor (protein kênh) trên màng tế bào đích nó sẽ làm mở kênh ion Ca<sup>++</sup> và Ca<sup>++</sup> được vân chuyến vào trong tế bào.
+Một số trường hợp khi hormon hoặc chất truyền đạt thần kinh gắn với receptor (protein kênh) trên màng tế bào đích nó sẽ làm mở kênh ion Ca + và Ca + được vân chuyến vào trong tế bào.
 
-Tại bào tương, Ca<sup>++</sup> gắn với một loại protein là calmodulin. Loại protein này có 4 vị trí để gắn với ion Ca<sup>++</sup>.
+Tại bào tương, Ca\* gắn với một loại protein là calmodulin. Loại protein này có 4 vị trí để gắn với ion Ca ++
 
-Khi có 3 hoặc 4 vị trí gắn với Ca<sup>++</sup> thì phân tử calmodulin được hoạt hóa và gây ra một loạt tác dụng trong tế bào tương tự tác dụng của AMP vòng đó là một chuỗi phản ứng dây truyền hoạt hóa môt loat các men xảy ra (những men này khác với men đáp ứng với AMP vòng) trong tế bào. Một trong những tác hiệu của calmodulin là hoạt hóa men myosinkinase là men tác dụng trực tiếp lên sợi myosin của cơ trơn để làm co cơ trơn.
+Khi có 3 hoặc 4 vị trí gắn với Ca\* thì phân tử calmodulin được hoat hóa và gây ra một loạt tác dụng trong tế bào tương tự tác dụng của AMP vòng đó là một chuỗi phản ứng dây truyền hoạt hóa môt loat các men xảy ra (những men này khác với men đáp ứng với AMP vòng) trong tế bào. Một trong những tác hiệu của calmodulin là hoạt hóa men myosinkinase là men tác dụng trực tiếp lên sợi myosin của cơ trơn để làm co cơ trơn.
 
-Nồng độ bình thường của ion Ca<sup>++</sup> trong bào tương của hầu hết tế bào là khoảng  $10^{-7}$ - $10^{-8}$  mol/l. Nồng độ này không đủ để hoạt hóa calmodulin. Khi kênh Ca<sup>++</sup> mở, sự vận chuyển Ca<sup>++</sup> vào trong tế bào tăng lên khiến cho nồng độ Ca<sup>++</sup> tăng cao tới mức  $10^{-6}$ - $10^{-5}$  mol/l và đủ để hoạt hóa calmodulin.
+Nồng độ bình thường của ion Ca \*\* trong bào tương của hầu hết tế bào là khoảng 10-10-8 mol/l. Nồng độ này không đủ để hoat hóa calmodulin. Khi kênh Ca\*\* mở, sự vận chuyển Ca++ vào trong tế bào tăng lên khiến cho nồng đô Ca++ tăng cao tới mức 10-6 -10-5 mol/l và đủ để hoat hóa calmodulin.
 
-### \* Chất truyền tin thứ hai là các "mảnh" phospholipid
+## \* Chất truyền tin thứ hai là các "mảnh" phospholipid
 
 Một số hormon khi đến tế bào đích sẽ gắn và hoạt hóa các receptor xuyên màng rồi hoạt hóa men phospholipase C là men nằm ở phần thò vào bên trong tế bào của phân tử receptor. Men này làm cho các phân tử phospholipid của màng tế bào tự nó cắt thành các phân tử nhỏ hơn và hoat đông như những chất truyền tin thứ hai.
 
@@ -797,7 +777,7 @@ Những hormon tác dụng theo con đường này chủ yếu là các hormon t
 
 "Mảnh" phospholipid màng quan trong nhất là phosphatidyl inositol bisphosphat và các sản phẩm quan trọng nhất có tác dụng như những chất truyền tin thứ hai là inositol triphosphate và diacylglycerol.
 
-- Inositol triphosphat huy đông Ca + từ ty lap thể và lưới nôi bào tương ra bào tương rồi sau đó ion Ca<sup>++</sup> phát huy các tác dụng của một chất truyền tin thứ hai như làm co cơ trơn, thay đổi sự bài tiết từ các tế bào chế tiết, thay đổi hoạt động của nhung mao.
+- Inositol triphosphat huy đông Ca + từ ty lap thể và lưới nôi bào tương ra bào tương rồi sau đó ion Ca\* phát huy các tác dụng của một chất truyền tin thứ hai như làm co cơ trơn, thay đổi sự bài tiết từ các tế bào chế tiết, thay đổi hoạt động của nhung mao.
 
 - Diacylglycerol hoat hóa men proteinkinase C. Tác dung hoat hóa này càng mạnh hơn nhờ tác dụng hỗ trợ của ion Ca\*\* do inositol triphosphat huy đông từ ty lạp thể và lưới nội bào tương. Men proteinkinase C đóng vai trò đặc biệt quan trọng trong việc thúc đẩy sư phân chia và tăng sinh tế bào.
 
@@ -811,9 +791,7 @@ Những hormon có bản chất hóa học là steroid như hormon vỏ thượn
 
 Các hormon vỏ thượng thân và hormon sinh dục sau khi gắn với receptor trong bào tương để tạo thành phức hợp hormon-receptor, phức hợp này sẽ được vận chuyển từ bào tương vào nhân tế bào. Tại nhân tế bào, phức hợp hormon-receptor sẽ gắn vào các vị trí đặc hiệu trên phân tử DNA của nhiễm sắc thế và hoạt hóa sự sao chép gien đặc hiệu để tạo thành RNA thông tin. Sau khi được tạo thành, RNA thông tin sẽ khuếch tán ra bào tương và thúc đẩy quá trình dịch mã tại ribosom để tổng hợp các phân tử protein mới. Những phân tử protein này có thể là các phân tử enzym hoặc phân tử protein vận tải hoặc protein cấu trúc (Hình 7.4).
 
-*Ví dụ*: aldosteron là hormon của tuyến vỏ thượng thận được máu đưa đến tế bào ống thận. Tại đây, aldosteron khuếch tán vào bào tương và gắn với receptor. Phức hợp aldosteron-receptor sẽ thúc đẩy một chuỗi các sự kiện nói trên tại tế bào ống thân. Sau 45 phút, các protein vân tải bắt đầu xuất hiên ở tế bào ống thân. nhằm làm tăng tái hấp thu ion Na và tăng bài xuất ion K .
-
-Image /page/43/Figure/4 description: This image shows a diagram of a cell. The diagram includes the following labeled parts: "Mang", "Bao tuong", "Nhan", "Enzym", "RNA", "Pr.", "DNA", and "Pr. van tai". The diagram shows a cell membrane with molecules passing through it. Inside the cell is the nucleus, which contains DNA and RNA. The RNA is being transcribed into protein (Pr.), which can then become either an enzyme or a transport protein (Pr. van tai).
+Ví dụ: aldosteron là hormon của tuyến vỏ thượng thận được máu đưa đến tế bào ống thận. Tại đây, aldosteron khuếch tán vào bào tương và gắn với receptor. Phức hợp aldosteron-receptor sẽ thúc đẩy một chuỗi các sự kiện nói trên tại tế bào ống thân. Sau 45 phút, các protein vân tải bắt đầu xuất hiên ở tế bào ống thân. nhằm làm tăng tái hấp thu ion Na và tăng bài xuất ion K .
 
 ### Hình 7-4. Cơ chế tác dụng thông qua hoạt hóa hệ gen
 
@@ -877,8 +855,6 @@ Ví dụ: Nồng độ hormon T3- T, giảm thì ngay lập tức nó sẽ kích
 
 Điều hòa ngược âm tính là kiểu điều hòa thường gặp trong cơ thể nhằm duy trì nồng độ hormon năm trong giới hạn bình thương.
 
-Image /page/46/Figure/0 description: This image shows a diagram of the thyroid hormone regulation feedback loop. The diagram consists of three oval shapes representing the hypothalamus, pituitary gland, and thyroid gland. The hypothalamus is labeled "Vùng dưới đồi" and "TRH". The pituitary gland is labeled "Tuyến yên" and "TSH". The thyroid gland is labeled "Tuyến giáp" and "T3-T4". Arrows indicate the direction of hormone release and feedback. A downward arrow goes from the hypothalamus to the pituitary gland, and another downward arrow goes from the pituitary gland to the thyroid gland. Arrows with a minus sign indicate negative feedback. One negative feedback arrow goes from the thyroid gland to the hypothalamus, and another goes from the thyroid gland to the pituitary gland. An arrow also goes from the pituitary gland to the hypothalamus.
-
 Hình 7.5. Điều hòa ngược âm tính
 
 Rối loạn cơ chế điều hòa ngược âm tính sẽ dẫn đến rối loạn hoạt động của hệ thống nội tiết. Trong thực hành điều trị các bệnh do rối loạn hoạt động của hệ thống nội tiết nếu không lưu ý đến đặc điểm này thì có thể dẫn từ rối loạn này sang rối loạn khác. Ví dụ để điều trị bệnh nhược năng tuyến vỏ thượng thận (bệnh Addison) người ta thường dùng cortisol. Nếu sử dung cortisol với liều lương cao và kéo dài, nó sẽ gây tác dụng điều hòa ngược âm tính lên tuyến yên và làm tuyến yên giảm bài tiết ACTH, hậu quả là tuyến vỏ thượng thận vốn đã hoạt động kém nay lại càng nhược năng hơn.
@@ -893,15 +869,13 @@ Như vậy, kiểu điều hòa ngược dương tính không những không là
 
 Mặc dù kiểu điều hòa ngược dương tính trong điều hòa hoạt động hệ nội tiết ít gặp nhưng lại rất cần thiết bởi vì nó thường liên quan đến những hiện tượng mang tính sống còn của cơ thể như để chống stress, chống lanh hoăc gây phóng noãn.
 
-Image /page/47/Figure/0 description: This image shows a diagram of the relationship between the hypothalamus, pituitary gland, and adrenal cortex. The hypothalamus releases CRH, which stimulates the pituitary gland to release ACTH. ACTH then stimulates the adrenal cortex to release cortisol. Cortisol then inhibits the release of CRH from the hypothalamus and ACTH from the pituitary gland. There are also positive feedback loops from cortisol to the hypothalamus and pituitary gland.
-
 Hình 7.6. Điều hòa ngược dương tính (+) trong tình trạng stress
 
 Tuy vậy, kiểu điều hòa này thường chỉ xảy ra trong thời gian ngắn, sau đó lai trở lại kiểu điều hòa ngược âm tính thông thường. Nếu kéo dài tình trạng này chắc chắn sẽ dẫn đến tình trạng bệnh lý.
 
 ### 8. ĐINH LƯỢNG HORMON
 
-Hầu như tất cả các hormon đều có mặt trong máu với một lượng rất nhỏ được tính bằng nanogam trong 1ml máu ( $10^{-9}$  g) hoặc picogam/ml ( $10^{-12}$  g). Bởi vậy, nhìn chung khó có thể dùng các kỹ thuật định lượng hóa học thông thường để định lượng nồng độ hormon trong máu.
+Hầu như tất cả các hormon đều có mặt trong máu với một lượng rất nhỏ được tính bằng nanogam trong 1ml máu (10° g) hoặc picogam/ml (1011° g). Bởi vậy, nhìn chung khó có thể dùng các kỹ thuật định lượng hóa học thông thường để định lượng nồng độ hormon trong máu.
 
 Từ 30 năm nay, người ta đã sử dụng một kỹ thuật có độ nhạy và độ đặc hiệu cao để định lượng hormon, tiền hormon hoặc các dẫn xuất của chúng, đó là phương pháp miên dich phóng xa (radio immuno assay - RIA)
 
@@ -943,15 +917,13 @@ Theo nguyên lý đã được trình bày ở trên, hiện nay người ta đ�
 
 Bằng phương pháp miễn dịch phóng xạ, người ta có thể định lượng hàng trăm mẫu cùng một lúc và cho kết quả nhanh, chính xác.
 
-Image /page/49/Figure/0 description: The image is a graph with the y-axis labeled "% Kháng thể gắn với aldosteron phóng xạ" and the x-axis labeled "Nồng độ aldosteron chuẩn ng/dl". The y-axis ranges from 10 to 100 in increments of 10. The x-axis has values 2, 4, 8, 16, 32, 64, and 128. The graph shows a curve that decreases as the x-axis values increase. The curve starts at approximately (2, 93) and ends at approximately (128, 15).
-
 Hình 7-7. Đường cong chuẩn để đinh lương aldosteron bằng RIA
 
 ### 8.2. PHƯƠNG PHÁP "BÁNH KEP THIT" ("SANDWICH")
 
-Phương pháp này dựa trên nguyên tắc dùng hai kháng thể đơn dòng "kẹp" vào hai đầu của chất thử (hormon). Một trong hai kháng thể được đánh dấu hoặc bằng đồng vị phóng xa hoặc bằng enzym. Nếu gọi chất cần thủ là Ag, kháng thể không đánh dấu là Ac<sup>0</sup>, kháng thể đánh dấu là Ac\*, ta có:
+Phương pháp này dựa trên nguyên tắc dùng hai kháng thể đơn dòng "kẹp" vào hai đầu của chất thử (hormon). Một trong hai kháng thể được đánh dấu hoặc bằng đồng vị phóng xa hoặc bằng enzym. Nếu gọi chất cần thủ là Ag, kháng thể không đánh dấu là Ac°, kháng thể đánh dấu là Ac\*, ta có:
 
- $Ag + Ac^0 + Ac^\* \leftarrow$ 
+Ag + Ac + Ac \* +
 
 Nồng độ phức hợp đánh dấu sau phản ứng tỉ lệ với lượng kháng nguyên có mặt.
 
@@ -1051,15 +1023,13 @@ Tác dụng của PIH là ức chế bài tiết prolactin từ tế bào thùy 
 
 ### 2.2. ĐIỀU HÒA BÀI TIẾT CÁC HORMON GIẢI PHÓNG VÀ ỨC CHẾ
 
-Cũng như các hormon khác trong hê nôi tiết, các hormon giải phóng và ức chế được điều hòa chủ yếu bằng cơ chế điều hòa ngược mà các tín hiệu điều hòa xuất phát từ tuyến yên hoặc các tuyến ngoại biên khác (Hình 7- 8).
+Cũng như các hormon khác trong hê nôi tiết, các hormon giải phóng và ức chế được điều hòa chủ yếu bằng cơ chế điều hòa ngược mà các tín hiệu điều hòa xuất phát từ tuyến yên hoăc các tuyến ngoai biên khác (Hình 7- 8).
 
 \* Cơ chế điều hòa ngược do các hormon tuyến đích điều khiển (tuyến giáp, tuyến vỏ thương thân, tuyến sinh dục) được gọi là cơ chế điều hòa ngược vòng dài.
 
 \* Cơ chế điều hòa ngươc do các hormon tuyến yên điều khiến (GH, TSH, ACTH, FSH, LH, Prolactin) được goi là cơ chế điều hòa ngược vòng ngắn.
 
 '\* Cơ chế điều hòa ngược do chính nồng độ hormon của vùng dưới đồi điều khiển được gọi là cơ chế điều hòa ngược vòng cực ngắn. Cơ chế này mới chỉ tìm thấy ở hai hormon GnRH và TRH.
-
-Image /page/53/Figure/1 description: This diagram shows the relationship between the hypothalamus, pituitary gland, and thyroid gland. The hypothalamus produces TRH, which stimulates the pituitary gland to produce TSH. TSH stimulates the thyroid gland to produce T3 and T4. T3 and T4 then inhibit the hypothalamus and pituitary gland. The diagram also shows the numbers 1, 2, and 3, which may indicate the order of events or the strength of the feedback loops.
 
 - 1. Điều hòa ngược vòng dài.
 - 2. Điều hòa ngược vòng ngắn
@@ -1085,8 +1055,6 @@ Tuyến yên gồm hai phần có nguồn gốc cấu tạo từ thời kỳ bà
 
 Tuyến yên liên quan mât thiết với vùng dưới đồi qua đường mạch máu và đường thần kinh đó là hệ thống cửa dưới đồi- yên và bó sợi thần kinh dưới đồi- yên.
 
-Image /page/54/Figure/6 description: This image is a diagram of the pituitary gland and surrounding structures. The diagram shows the following labeled parts: 1. Vùng dưới đồi (hypothalamus), 2. Cuống yên (pituitary stalk), 3. Thùy trước (anterior lobe), 4. Thùy sau (posterior lobe), and 5. Thùy giữa (intermediate lobe).
-
 ### Hình 7-9. Tuyến yên
 
 - Hệ thống cửa dưới đồi- yên (hệ cửa Popa-Fielding) được cấu tạo bởi mạng mao mạch thứ nhất xuất phát từ động mạch yên trên. Mạng mao mạch này tỏa ra ở vùng lồi giữa (Median Eminence) rồi tập trung thành những tĩnh mạch cửa dài đi qua cuống tuyến yên rồi xuống thùy trước tuyến yên tỏa thành mạng mao mạch thứ hai cung cấp 90% lượng máu cho thùy trước tuyến yên. Lượng máu còn lại là từ các tĩnh mạch cửa ngăn bắt đầu từ mạng mao mạch của động mạch yên dưới (Hình 7.10).
@@ -1094,8 +1062,6 @@ Image /page/54/Figure/6 description: This image is a diagram of the pituitary gl
 Các hormon giải phóng và ức của vùng dưới đổi được bài tiết chủ yếu từ các tận cùng của nơron vùng lồi giữa sẽ thấm vào mạng mao mạch lồi giữa rồi theo hệ thống cửa dưới đồi - yên xuống điều khiển sự bài tiết hormon của tuyến yên.
 
 - Bó sợi thần kinh dưới đồi - yên là bó thần kinh gồm các sợi trục của các nơron mà thân nằm ở hai nhóm nhân trên thị và cạnh não thất còn tận cùng của chúng thì khư trú ở thùy sau tuyến yên (Hình 7.10).
-
-Image /page/55/Picture/3 description: This image is a black and white diagram with labels. The labels are numbered 1 through 10. The diagram shows a biological structure with various components connected by lines and arrows. The text "nt III" is visible in the upper left corner of the image.
 
 - 1, 2, 3, 4, 5: Thân nơron của VDĐ
 - 6: Vùng dưới đồi
@@ -1187,7 +1153,7 @@ GH có nhiều tác dụng lên chuyển hóa protein, những tác dụng này 
 
 - Tăng quá trình dịch mã RNA để làm tăng tổng hợp protein từ ribosome. Ngay cả khi nồng độ acid amin trong tế bào không tăng thì GH cũng làm tăng dịch mã RNA để làm tăng số lượng phân tử protein được tổng hợp từ ribosome ở bào tương của tế bào.
 
-- Tăng quá trình sao chép DNA của nhân tế bào để tạo RNA: Tác dụng châm hơn (từ 24 giờ - 48 giờ) của GH là kích thích sự sao chép DNA trong nhân để tạo RNA. RNA sẽ thúc đẩy sự sinh tổng hợp protein, thúc đẩy sự phát triển nếu được cung cấp đủ năng lượng, acid amin, vitamin và các yếu tố khác cân cho sự phát triển.
+- Tăng quá trình sao chép DNA của nhân tế bào để tạo RNA: Tác dụng châm hơn (từ 24 giờ - 48 giờ) của GH là kích thích sư sao chép DNA trong nhân để tao RNA. RNA sẽ thúc đẩy sự sinh tổng hợp protein, thúc đẩy sự phát triển nếu được cung cấp đủ năng lượng, acid amin, vitamin và các yếu tố khác cân cho sự phát triển.
 
 Có lẽ đây là tác dụng quan trong nhất trong các tác dung của GH.
 
@@ -1228,8 +1194,6 @@ Nồng độ glucose trong máu tăng dưới tác dụng của GH đã kích th
 Nồng độ GH trong máu trẻ con khoảng 6 ng/ml, ở người trưởng thành là từ 1,6 -3 ng/ml. Sự bài tiết GH giảm ở người cao tuổi nhưng cũng chỉ giảm khoảng 25% so với tuổi vi thành niên.
 
 Nồng độ GH có thể tăng cao tới 50 ng/ml khi suy giảm dự trữ protein hoặc carbohydrat của cơ thể do tình trạng suy dinh dưỡng kéo dài. Trong tình trạng cấp tính, sự giảm nồng độ glucose trong máu kích thích bài tiết GH mạnh hơn so với sự giam nồng độ protein. Ngược lại, trong tình trạng mãn tính thì sự bài tiết GH lại chiu ảnh hưởng của sự thiếu protein hơn là sự thiếu glucose.
-
-Image /page/60/Figure/7 description: The image is a graph that shows the relationship between GH/blood plasma and time. The y-axis represents GH/blood plasma, and the x-axis represents time. The graph shows two peaks, labeled 1 and 2. Peak 1 occurs around 15:00, and peak 2 occurs around 24:00. The graph also shows that the level of GH/blood plasma is higher during the day than at night. The y-axis ranges from 0 to 30 ng/ml. The x-axis ranges from 8:00 to 8:00 the next day. The x-axis is labeled with the words "Trua" and "Nua dem", which mean "Noon" and "Midnight" respectively.
 
 1- Luyện tập găng sức
 
@@ -1278,7 +1242,7 @@ TSH là một glycoprotein, có trọng lượng phân tử 28.000.
 
 Mức bài tiết TSH của tuyến yên chịu sự điều khiển của từ trên xuống của hormon TRH vùng dưới đồi và chiu sư điều hòa ngươc từ tuyến đích là tuyến giáp.
 
-Ở người Việt nam bình thường nồng độ TSH ở trẻ sơ sinh (máu cuống rốn) là 6,24 ± 2,69 và người trưởng thành (16-60 tuổi) là 2,12 ± 0,91 mU/l (Phan Văn Duyệt và CS, 1995).
+Ở người Việt nam bình thường nồng độ TSH ở trẻ sơ sinh (máu cuống rốn) là 6,24 ± 2,69 và người trưởng thành (16-60 tuổi) là 2,12 ± 0,91 mUll (Phan Văn Duyệt và CS, 1995).
 
 · Nếu nồng độ TRH của vùng dưới đồi tăng thì tuyến yên sẽ bài tiết nhiều TSH và ngược lại nếu TRH giảm thì nồng độ TSH giảm. Khi hệ thống cửa dưới đôi- yên bị tốn thương, mức bài tiết TSH của tuyến yên có thể giảm tới mức bằng không.
 
@@ -1319,8 +1283,6 @@ Trên một số loài động vật cấp thấp như ếch, nhái, cá, lượ
 • Do nồng độ CRH của vùng dưới đồi quyết định, khi nồng độ CRH tăng thì ACTH được bài tiết nhiều ngươc lai khi vắng mắt CRH, tuyến yên chỉ bài tiết môt lượng rất ít ACTH.
 
 • Do tác dụng điều hòa ngược âm tính và dương tính của cortisol (xem bài Đại cương về hê nôi tiết và hormon).
-
-Image /page/63/Figure/7 description: This figure shows two line graphs. The first line graph, represented by the symbol 'x', shows the levels of ACTH in ng/dl. The second line graph, represented by the symbol 'o', shows the levels of Cortisol in Mg/dl. The x-axis of the graph represents time, ranging from 4h to 9h. The y-axis on the left represents the levels of ACTH, ranging from 0 to 16. The y-axis on the right represents the levels of Cortisol, ranging from 0 to 25.
 
 Hình 7-12. Nhịp bài tiết ACTH và cortisol ở người bình thường buổi sáng sớm
 
@@ -1369,12 +1331,12 @@ Hai hormon FSH và LH chỉ bắt đầu được bài tiết từ tuyến yên 
 
 Bình thường nồng độ FSH và LH ở nữ giao động trong chu kỳ kinh nguyệt (CKKN) còn ở nam giới thì không thấy hiện tượng này. Nồng độ hai hormon này ở người Việt Nam được ghi trong bảng dưới đây (Nguyễn Cận, Vũ Thục Nga và CS, 1995.)
 
-|                     | LH (IU/ I)   | FSH (IU/ I)  |
+|                     | LH (10/ 1)   | FSH (10/1)   |
 |---------------------|--------------|--------------|
-| GĐ I của CKKN       | 3,94- 7,66   | 1,45- 2,33   |
+| GĐI của CKKN        | 3,94- 7,66   | 1.45- 2,33   |
 | Nồng độ đỉnh        | 44,12- 59,60 | 8,87- 11,43  |
 | Ngày xuất hiện đỉnh | 16,54 ± 3,86 | 16,06 ± 2,89 |
-| GĐ II của CKKN      | 2,44- 4,09   | 0.43- 0.84   |
+| GĐ II của CKKN      | 2,44- 4,09   | 0 43- 0 84   |
 | Nam giới            | 4,90 ± 2,12  | 4,60 ± 1,91  |
 
 Bảng 7-1. Nồng độ LH và FSH ở phụ nữ Việt Nam.
@@ -1384,8 +1346,6 @@ Bảng 7-1. Nồng độ LH và FSH ở phụ nữ Việt Nam.
 - Do tác dụng điều hòa ngược của hormon sinh dục.
 
 Tác dụng điều hòa ngược âm tính của testosteron.
-
-Image /page/65/Figure/8 description: The image is a graph with two lines, labeled 1 and 2. The x-axis is labeled "Phút" and ranges from 0 to 400. The y-axis on the left ranges from 1000 to 2000. The y-axis on the right is labeled "LH (ng(ml)" and ranges from 0 to 100. Line 1 is a series of peaks and valleys, while line 2 is a series of smaller peaks and valleys.
 
 1. Những thay đổi về hoạt động điện ghi được tại vùng giữa nền - vùng dưới đồi.
 
@@ -1589,8 +1549,6 @@ Các tế bào lót nang giáp bài tiết hai hormon là triiodothyronin (T3) v
 
 Ngoài ra cạnh các nang giáp, các tế bào cạnh nang bài tiết ra hormon calcitonin là hormon tham gia trong chuyển hóa calci.
 
-Image /page/72/Figure/7 description: This image shows a diagram of a thyroid gland. The diagram shows several follicles, which are the functional units of the thyroid gland. The follicles are lined with follicular cells, which produce thyroid hormones. The diagram also shows some connective tissue, which supports the follicles. The numbers 1, 2, and 3 are used to label different parts of the diagram.
-
 1- Tế bào biểu mô lót nang giáp
 
 2- Lòng nang chứa chất keo
@@ -1611,13 +1569,13 @@ Quá trình bơm iod từ máu vào tế bào nang giáp và giữ iod lai đó 
 
 Nhờ cơ chế bơm tích cực này mà ở tuyến giáp bình thường nồng độ iod trong tuyến giáp có thể cao gấp 30 lần nồng độ trong máu. Khi tuyến giáp hoạt động tối đa mức chênh lệch có thể lên tới 250 lần.
 
-Dùng iod phóng xạ ( $I^{131}$ ) để kiểm tra mức độ bắt iod ta có thể biết được tình trạng hoat động của tế bào tuyến giáp. Ở những người ưu năng tuyến giáp hoăc bướu cổ do thiếu cung cấp iod, độ tập trung iod phóng xạ trong tuyến giáp thường cao.
+Dùng iod phóng xạ (13) để kiểm tra mức độ bắt iod ta có thể biết được tình trạng hoat động của tế bào tuyến giáp. Ở những người ưu năng tuyến giáp hoăc bướu cổ do thiếu cung cấp iod, độ tập trung iod phóng xạ trong tuyến giáp thường cao.
 
 Môt số ion hóa tri môt như perclorat, thiocyanat có khả năng ức chế canh tranh sự vận chuyển iod vào tế bào tuyến giáp do chúng sử dụng cạnh tranh cùng loại bơm với bơm iod.
 
 ### 2.2. OXY HÓA ION IODUA THÀNH DANG OXY HÓA CỦA IOD NGUYÊN TỬ
 
-Tại đỉnh của tế bào nang giáp, ion iodua được chuyển thành dạng oxy hóa của nguyên tử iod đó là iod mới sinh ( $I^0$ ) hoặc  $I\_3^-$ . Những dạng này có khả năng gắn trực tiếp với một acid amin là tyrosin.
+Tại đỉnh của tế bào nang giáp, ion iodua được chuyển thành dạng oxy hóa của nguyên tử iod đó là iod mới sinh (1")hoăc I3. Những dang này có khả năng gắn trực tiếp với một acid amin là tyrosin.
 
 Phản ứng oxy hóa ion iodua được thúc đẩy nhờ men peroxidase và chất phối hợp với men này là hydrogen peroxidase. Men peroxidase thường khu trú ở màng đỉnh tế bào, nơi tiếp xúc với lòng nang do vậy hiện tượng oxy hóa iod xảy ra ở những vị trí nhất định trên tế bào nơi có thyroglobulin do thể Golgi sản xuất để nó có thể gắn ngay với hormon tuyến giáp sau khi được tổng hợp để rồi đi vào dự trữ ở lòng nang.
 
@@ -1631,41 +1589,31 @@ Trong tế bào nang giáp, iod ở dang oxy hóa liên kết với men iodinase
 
 trình gắn với tyrosin xảy ra rất nhanh chỉ trong vài giây đến vài phút để tạo thành 2 dang tiền chất là monoiodotyrosin (MIT) và diiodotyrosin (DIT)
 
-$$HO-\text{ }\text{- CH}\_{2} \text{- CHNH}\_{2} \text{- COOH + I}\_{2} \rightarrow$$
+$$\text{HO-}\underbrace{\overbrace{\text{U}\_{\text{Tyrosin}}}^{\text{-}}\text{-}\text{CH}\_{2}\text{-}\text{CHNH}\_{2}\text{-}\text{COOH} + \text{I}\_{2}\rightarrow$$
 
-$$\text{Tyrosin}$$
+$$\text{HO}\underbrace{\text{I}}\_{\text{H}}$$
 
-$$\text{I}$$
-
-$$HO-\text{ }\text{- CH}\_{2} \text{- CHNH}\_{2} \text{- COOH và}$$
-
-$$\text{I}$$
+$$\text{H}\underbrace{\text{I}}\_{\text{H}}$$
 
 Diodo tyrosin (DIT)
 
-$$HO-\begin{array}{c} \ \ \ I \\ -\end{array} \text{C}\_{6}\text{H}\_{4}\text{-CH}\_{2}\text{-CHNH}\_{2}\text{-COOH}$$
-  
-Monoiodotyrosine (MIT)
+$$\underbrace{1}\_{\text{HO}}\underbrace{\diamondsuit\text{-}\text{CH}\_{2}\text{-}\text{CHNH}\_{2}\text{-}\text{COOH}}}^{\text{I}}$$
 
 Monoiodotyrosin (MIT)
 
 Hai tiền chất hormon là MIT và DIT sẽ trùng hợp với nhau để tạo thành hai hormon tuyến giáp là triiodo thyronin (T3) và tetraiodothyronin (T4).
 
-Image /page/74/Figure/6 description: The image shows two chemical reaction equations. The first equation shows MIT + DIT reacting to form a molecule with two benzene rings connected by an oxygen atom. One benzene ring has an iodine atom at the top, and the other has two iodine atoms, one at the top and one at the bottom. The molecule also has a -CH2-CHNH2-COOH group attached to the second benzene ring. The name of the molecule is 3,5,3' Triiodothyronin. The second equation shows DIT + DIT reacting to form a molecule with two benzene rings connected by an oxygen atom. Both benzene rings have two iodine atoms, one at the top and one at the bottom. The molecule also has a -CH2-CHNH2-COOH group attached to the second benzene ring.
-
 Tetraiodothyronin (Thyroxii)
 
-Ngay sau khi được tạo thành, cả MIT, DIT, T3, và T4 đều gắn với thyroglobulin và được vận chuyển qua màng đỉnh tế bào nang giáp để dự trữ trong lòng nang. Môi phân tử thyroglobulin thường gắn từ 1-3 phân tử thyroxin. Lượng hormon dự trữ trong tuyến giáp đủ để cung cấp trong 2-3 tháng. Vì vậy khi ngừng trệ quá trình sinh tổng hợp hormon T3- T4, ảnh hưởng của thiếu hormon thường chỉ quan sát được sau vài tháng.
+Ngay sau khi được tạo thành, cả MIT, DIT, T3, và T4 đều gắn với thyroglobulin và được vận chuyển qua màng đỉnh tế bào nang giáp để dự trữ trong lòng nang. Môi phân tử thyroglobulin thường gắn từ 1-3 phân tử thyroxin. Lượng hormon dự trữ trong tuyến giáp đủ để cung cấp trong 2-3 tháng. Vì vậy khi ngừng trệ quá trình sinh tổng hợp hormon T3- T,, ảnh hưởng của thiếu hormon thường chỉ quan sát được sau vài tháng.
 
 ### 2.4. GIẢI PHÓNG HORMON TUYẾN GIÁP VÀO MÁU
 
 Bước đầu tiên của giải phóng hormon vào máu là tế bào nang giáp hấp thu các giọt keo từ lòng nang giáp bằng cách màng của phần đỉnh tế bào thò ra những tua như chân giả để bao quanh các giot keo và hình thành các túi ẩm bào. Bằng cách này các giọt keo đã đi qua màng đỉnh để vào trong tế bào nang giáp.
 
-Ngay sau đó các men tiêu hóa được tiết từ các bọc lysosom thấm vào các túi ẩm bào trộn lẫn với chất keo để tạo thành các túi tiêu hóa. Dưới tác dụng của các men phân giải protein, các phân tử thyrogobulin sẽ được tiêu hóa và giải phóng T3-T4 ở dạng tự do. Hai hormon sẽ khuếch tán qua màng đáy của tế bào nang giáp để vào các mao mạch nằm quanh nang giáp.
+Ngay sau đó các men tiêu hóa được tiết từ các bọc lysosom thấm vào các túi ẩm bào trộn lẫn với chất keo để tạo thành các túi tiêu hóa. Dưới tác dụng của các men phân giải protein, các phân tử thyrogobulin sẽ được tiêu hóa và giải phóng T3-T1 ở dạng tự do. Hai hormon sẽ khuếch tán qua màng đáy của tế bào nang giáp để vào các mao mạch nằm quanh nang giáp.
 
-Các phân tử MIT và DIT sau khi được tao thành chúng cũng gắn với thyroglobulin nhưng chỉ 1/4 lượng của chúng trở thành hormon tuyến giáp. Số còn lại cũng được dự trữ trong lòng nang. Trong quá trình tiêu hóa phần thyroglobulin để giải phóng T3-T4 vào máu, 2 phân tử tiền chất này cũng được giải phóng khỏi thyroglobulin trở thành MIT và DIT tự do nhưng chúng không được bài tiết vào máu. Dưới tác dụng của men deiodinase, iod được tách khỏi MIT và DIT và iod được tế bào tuyến giáp sử dụng lại để tổng hợp hormon tuyến giáp tiếp tục. Nếu thiếu men iodinase bẩm sinh sẽ gây tình trạng thiếu iod vì mất quá trình tái sử dụng iod.
-
-Image /page/75/Figure/3 description: This image shows a diagram of the synthesis and release of T3 and T4. The diagram is divided into three sections, labeled 1, 2, and 3. Section 1 is labeled "Máu", section 2 is labeled "Tế bào năng giáp", and section 3 is labeled "Lòng nang". The diagram shows the process of iodine (I-) entering the cell and being converted to I0 and I3. T3 and T4 are then synthesized and released into the bloodstream. The diagram also shows thyroglobulin T3 and thyroglobulin T4.
+Các phân tử MIT và DIT sau khi được tao thành chúng cũng gắn với thyroglobulin nhưng chỉ 1/4 lượng của chúng trở thành hormon tuyến giáp. Số còn lại cũng được dự trữ trong lòng nang. Trong quá trình tiêu hóa phần thyroglobulin đế giải phóng T3-T4 vào máu, 2 phân tử tiền chất này cũng được giải phóng khỏi thyroglobulin trở thành MIT và DIT tự do nhưng chúng không được bài tiết vào máu. Dưới tác dụng của men deiodinase, iod được tách khỏi MIT và DIT và iod được tế bào tuyến giáp sử dụng lại để tổng hợp hormon tuyến giáp tiếp tục. Nếu thiếu men iodinase bẩm sinh sẽ gây tình trạng thiếu iod vì mất quá trình tái sử dụng iod.
 
 # 3. NHU CẤU IOD VÀ PHẬN BỐ IOD TRONG TUYẾN GIÁP
 
@@ -1685,7 +1633,7 @@ Tổng lượng iod được chứa trong tuyến giáp khoảng 10 mg bao gồm
 
 + 1/3 ở dạng iodothyronin có khả năng hoạt động (T3-T4).
 
-Tỷ lệ giữa T3/T4 là 1/9- 1/10.
+Tỷ lệ giữa T3/ T4 là 1/9- 1/10.
 
 Tỷ lệ giữa iodotyrosin / iodothyronin là 2/1.
 
@@ -1693,9 +1641,9 @@ Tỷ lệ giữa iodotyrosin / iodothyronin là 2/1.
 
 ### 4. VẬN CHUYẾN VÀ BÀI XUẤT HORMON TUYẾN GIÁP
 
-Hormon tuyến giáp được giải phóng vào máu 93% là T4 chỉ có 7% là T3. Tuy nhiên chỉ sau vài ngày hầu hết T4 sẽ dần dần bị mất một nguyên tử iod để tao thành dang T3. Như vậy T3 chính là dạng hoạt động tại tế bào. Mỗi ngày khoảng 35 µg T3 được sử dụng ở các mô.
+Hormon tuyến giáp được giải phóng vào máu 93% là Ta chỉ có 7% là T3. Tuy nhiên chỉ sau vài ngày hầu hết Tg sẽ dân dân bi mất một nguyên tử iod để tao thành dang T3. Như vậy T3 chính là dạng hoạt động tại tế bào. Mỗi ngày khoảng 35 µg T3 được sử dụng ở các mô.
 
-Trong máu chỉ một lượng rất nhỏ hormon nằm dưới dạng tự do (0,05% T4 và 0,5% T3) phần lớn gắn với protein huyết tương (99,95% T4 và 99,5% T3) trong đó chủ yếu gắn với globulin (TBG) và một phần nhỏ gắn với prealbumin (TBPA).
+Trong máu chỉ một lượng rất nhỏ hormon nằm dưới dạng tự do (0,05% T4 và 0,5% T3) phần lớn gắn với protein huyết tương (99,95% T3) trong đó chủ yếu gắn với globulin (TBG) và một phần nhỏ gắn với prealbumin (TBPA).
 
 Thyroxin sau khi được tiêm vào cơ thể phải sau 2-3 ngày mới bắt đầu có tác dụng và tác dụng đạt mức tối đa sau 10-12 ngày. Thời gian bán hủy của thyroxin khoảng 15 ngày nhưng tác dung của nó còn tồn tai trong môt thời gian từ 6 tuần đến 2 tháng.
 
@@ -1703,18 +1651,24 @@ Sở dĩ thyroxin có thời gian tiềm tàng và thời gian tác dụng kéo 
 
 Sau khi tác dụng T3-T4 được chuyển hóa bằng cách tách iod, tách acid amin rồi kết hợp với acid glucuronic và được bài xuất qua đường mật vào ruột rôi thái ra ngoài theo phân, chỉ môt lương nhỏ đươc thải qua đường nước tiểu.
 
-| Tuổi                    | T4 (nMol/l)              | T3 (nMol/l)            |
-|-------------------------|--------------------------|------------------------|
-| Sơ sinh (máu cuống rốn) | 130,87 ± 22,54<br>n = 30 | 0,79 ± 0,28            |
-| 1- 5 tuổi               | 122,80 ± 23,65<br>n = 22 | 2,49 ± 0,36            |
-| 6- 10 tuổi              | 119,14 ± 26,23<br>n = 30 | 2,34 ± 0,52            |
-| 11-15 tuổi              | 112,14 ± 23,53<br>n = 30 | 2,10 ± 0,42            |
-| 16- 60 tuổi             | 107,03 ± 21,80<br>n = 36 | 2,02 ± 0,42<br>n = 143 |
-| 61- 88 tuổi             | 101,03 ± 21,80<br>n = 34 | 1,50 ± 0,37            |
+| Tuổi                    | T4 (nMol/l)    | T3 (nMol/l) |
+|-------------------------|----------------|-------------|
+| Sơ sinh (máu cuống rốn) | 130,87 ± 22.54 | 0.79 ± 0.28 |
+|                         | n = 30         |             |
+| 1- 5 tuổi               | 122.80 ± 23.65 | 2.49 ± 0.36 |
+|                         | n = 22         |             |
+| 6- 10 tuổi              | 119,14 ± 26,23 | 2,34 ± 0,52 |
+|                         | n = 30         |             |
+| 11-15 tuổi              | 112.14 ± 23.53 | 2,10 ± 0,42 |
+|                         | n = 30         |             |
+| 16- 60 tuổi             | 107.03 ± 21.80 | 2.02 ± 0.42 |
+|                         | n = 36         | n = 143     |
+| 61- 88 tuổi             | 101,03 ± 21,80 | 1.50 ± 0.37 |
+|                         | n = 34         |             |
 
-Bảng 7-2. Nống đô T3-T4 của người Việt Nam.
+Bảng 7-2. Nổng đô T3-T4 của người Việt Nam.
 
-# 5. TÁC DỤNG CỦA T3-T4
+# 5. TÁC DUNG CÚA T3-Ta
 
 ### 5.1. TÁC DUNG LÊN SU PHÁT TRIỂN CƠ THỂ
 
@@ -1848,9 +1802,9 @@ Thyroxin làm tăng chuyển hóa hormon vỏ thượng thận ở gan nên lạ
 
 · Do nồng độ TSH của tuyến yên: TSH của tuyến yên kích thích tuyến giáp bài tiết T3-T4 do vậy nếu TSH tăng thì T3-T4 sẽ được bài tiết nhiều và ngược lại nếu TSH giảm thì T3-T4 sẽ được bài tiết ít (xem bài Tuyến yên).
 
-- Khi bị lạnh hoặc stress nồng độ T3-T4 sẽ được bài tiết nhiều.
+- · Khi bị lạnh hoặc stress nổng độ T3-T4 sẽ được bài tiết nhiều.
 - · Cơ chế tự điều hòa.
-	- Nồng độ iod vô cơ cao trong tuyến giáp sẽ ức chế bài tiết T3-T4.
+	- Nồng độ iod vô cơ cao trong tuyến giáp sẽ ức chế bài tiết T3-T4
 	- Nồng độ iod hữu cơ cao dẫn tới giảm thu nhận iod và do đó làm giảm tổng hợp T3-T4.
 
 # 7. RỐI LOẠN HOẠT ĐỘNG TUYẾN GIÁP
@@ -1869,7 +1823,7 @@ thích tuyến giáp - TSI (Thyroid Stimulating Immunoglobulin). TSI gắn với
 
 # 7.1.2. Hội chứng cường giáp
 
-Người bị hội chứng cường giáp thường có các biểu hiện như bướu cổ, lồi mắt (mắt khó khép mì), tay run, nhịp tim nhanh, hay hồi hộp lo lắng, khó ngủ, sút cân, chuyển hóa cơ sở tăng, độ tập trung  $I^{131}$  cao, thời gian phản xạ gân gót giảm, nồng độ hormon T3-T4 tăng, nồng độ TSH giảm, nồng độ TSI tăng.
+Người bị hội chứng cường giáp thường có các biểu hiện như bướu cổ, lồi mắt (mắt khó khép mì), tay run, nhịp tim nhanh, hay hồi hộp lo lắng, khó ngủ, sút cân, chuyển hóa cơ sở tăng, độ tập trung I-31 cao, thời gian phản xạ gân gót giảm, nồng độ hormon T3-T4 tăng, nồng độ TSH giảm, nồng độ TSI tăng.
 
 Nhìn chung các dấu hiệu lâm sàng của hội chứng cường giáp đều do nồng đô cao T3-T4 gây ra trừ triệu chứng lồi mắt.
 
@@ -1927,7 +1881,7 @@ Tác dụng của calcitonin là làm giảm nồng độ ion Ca + trong huyết
 
 · Tác dung thứ phát và kéo dài hơn đó là tác dụng làm giảm hình thành các tế bào hủy xương mới.
 
-Calcitonin cũng có tác dụng điều hòa tái hấp thu ion Ca<sup>++</sup> ở ống thận và hấp thu ion Ca \* ở ruột, tác dụng này yếu và ngược với tác dụng của parathormon của tuyến cận giáp.
+Calcitonin cũng có tác dụng điều hòa tái hấp thu ion Ca\*\* ở ống thận và hấp thu ion Ca \* ở ruột, tác dụng này yếu và ngược với tác dụng của parathormon của tuyến cận giáp.
 
 Vì những tác dụng đã trình bày ở trên, calcitonin có tác dụng làm giảm nồng độ ion Ca\*\* huyết tương nhưng tác dụng này rất yếu ở người trưởng thành vì hai lý do:
 
@@ -1939,7 +1893,7 @@ Do vậy tác dụng của calcitonin đặc biệt có ý nghĩa ở trẻ đan
 
 ### 8.3. ĐIỀU HÒA BÀI TIẾT CALCITONIN
 
-Sự bài tiết calcitonin được điều hòa bởi nồng độ ion Ca<sup>++</sup> trong huyết tương. Khi nồng đô ion Ca++ tăng khoảng 10% thì ngay tức khắc calcitonin được bài tiết tăng gấp 2-3 lần. Tuy nhiên cơ chế này thường yếu và xảy ra trong một thời gian ngắn, tác dụng mạnh hơn và kéo dài hơn là tác dụng của parathormon.
+Sự bài tiết calcitonin được điều hòa bởi nồng độ ion Ca + trong huyết tương. Khi nồng đô ion Ca++ tăng khoảng 10% thì ngay tức khắc calcitonin được bài tiết tăng gấp 2-3 lần. Tuy nhiên cơ chế này thường yếu và xảy ra trong một thời gian ngắn, tác dụng mạnh hơn và kéo dài hơn là tác dụng của parathormon.
 
 # TUYẾN THƯỢNG THẬN
 
@@ -1948,8 +1902,6 @@ Sự bài tiết calcitonin được điều hòa bởi nồng độ ion Ca<sup>
 Tuyến thượng thận gồm hai tuyến nhỏ nằm ở phía trên hai thận. Mỗi tuyến nặng khoảng 4g (Hình 7-16).
 
 Tuyến thượng thận được cấu tạo bởi hai phần riêng biệt là phần vỏ thượng thận và phần tủy thượng thận.
-
-Image /page/85/Figure/4 description: This image is a diagram of the human kidneys and adrenal glands, along with their associated blood vessels. The kidneys are bean-shaped organs located on either side of the spine. The adrenal glands are small, triangular-shaped glands located on top of each kidney. The diagram shows the arteries and veins that supply blood to the kidneys and adrenal glands. The arteries are shown in red, and the veins are shown in blue. The diagram also shows the ureters, which are the tubes that carry urine from the kidneys to the bladder. The labels in the image are in Vietnamese. The labels include: "Thận phải" (right kidney), "Thận trái" (left kidney), "Tuyến thượng thận phải" (right adrenal gland), "Tuyến thượng thận trái" (left adrenal gland), "Động mạch thượng thận" (adrenal artery), "Tĩnh mạch thận" (renal vein), "Động mạch chủ bụng" (abdominal aorta), and "Tĩnh mạch chủ dưới" (inferior vena cava).
 
 Hình 7-16. Vị trí và sự cung cấp máu của hai tuyến thương thân
 
@@ -1975,19 +1927,15 @@ Tuyến thượng thân tuy như vậy nhưng lai là tuyến sinh mang. Trên �
 
 Các hormon vỏ thương thân đều là hợp chất steroid. Chúng đều có môt nhân chung là nhân sterol hay cyclopentanoperhydrophenanthren. Nhân này gồm ba vòng sáu cạnh và một vòng năm cạnh.
 
-Image /page/87/Picture/0 description: The image shows a diagram of four connected polygons labeled A, B, C, and D. Polygons A, B, and C are hexagons, while polygon D is a pentagon. Polygon A is connected to polygon B, polygon B is connected to polygon C, and polygon C is connected to polygon D.
-
 ### Nhân cyclopentanoperhydrophenanthren
 
 Hormon vỏ thượng thận có hai loại cấu trúc:
 
 • Một loại có mạch nhánh gồm hai carbon ở vị trí C17, đó là loại 21 carbon. Hầu hết các steroid - 21 carbon, ngoài mach nhánh còn có nhóm OH ở C17 và được gọi là 17- hydroxycortisol.
 
-• Một loại có nhóm CO hay OH ở C17, đó là loại steroid 19 carbon. Loại steroid-19C có nhóm CO ở vị trí C17 nên được gọi là 17- cetosteroid.
+· Một loại có nhóm CO hay OH ở C17, đó là loại steroid 19 carbon. Loại steroid-19C có nhóm CO ở vị trí C17 nên được gọi là 17- cetosteroid.
 
 Hơn 30 loại hormon được tách chiết từ tuyến vỏ thượng thận. Tất cả các hormon này đều được tổng hợp từ những mẩu acetat theo con đường cholesterol, qua chặng trung gian là pregnenolon và progesteron rồi từ đó được hydroxyl hóa ở vị trí C11, C17, C21, để tạo thành các hormon (Sơ đồ 7-1).
-
-Image /page/87/Figure/6 description: This image shows a diagram of the synthesis of steroid hormones. Acetat is converted to Cholesterol, which is converted to Pregnenolon. Pregnenolon is converted to Progesteron and 17-OH pregnenolon. Progesteron is converted to 11 deoxycorticosteron, which is converted to Aldosteron via 21β hydroxylase. 17-OH pregnenolon is converted to 17-OH progesteron, which is converted to Cortisol via 21-β hydroxylase. Pregnenolon is also converted to Dehydroepi-androsteron, which is converted to Testosteron, which is converted to Estradiol.
 
 Sơ đồ 7-1: Sinh tống hợp hormon vỏ thượng thận
 
@@ -2006,11 +1954,7 @@ Dựa vào cấu tạo và tác dụng chính, các hormon vỏ thương thận 
 - · Aldosteron: tác dung rất manh, chiếm 90% tổng hoat tính của nhóm.
 - · Desoxycorticosteron: hoạt tính yếu và lượng bài tiết rất ít.
 
-Image /page/88/Figure/10 description: The image shows a chemical structure diagram. The diagram contains several chemical groups, including CH2OH, O, C=O, OH (18), CH, CH3, O=, and 3. The structure appears to be a complex organic molecule, possibly a steroid or a related compound.
-
 Aldosteron
-
-Image /page/88/Figure/12 description: The image shows a chemical structure diagram. The diagram depicts a steroid molecule with several functional groups attached. The molecule consists of four fused rings, three six-membered rings and one five-membered ring. There is a double bond between two carbon atoms in one of the six-membered rings, and a ketone group (C=O) is attached to one of the rings. There are also hydroxyl groups (OH) attached to the molecule at various positions. A methyl group (CH3) is attached to one of the rings. A carbon atom is labeled with the number 11. A carbon atom is labeled with the number 3. A carbon atom is labeled with the number 21 and has a CH2OH group attached to it.
 
 Cortisol
 
@@ -2095,7 +2039,7 @@ Cortisol có tác dụng làm tất cả các giai đoạn của quá trình vi�
 
 · Cortisol làm vững bền màng lysosom do đó lysosom khó phồng căng và khó vỡ. Hầu hết các men phân giải phóng giải phóng ra từ mô viêm và làm tăng phản ứng viêm đều được dự trữ trong các lysosom. Một khi lysosom khó vỡ thì những sản phẩm trên sẽ không đươc bài tiết.
 
-• Cortisol ức chế men phospholipase A2 là men tham gia trong quá trình sinh tổng hợp prostaglandin, leukotrien do vậy làm giảm ứng viêm bổi chính hai hợp chất này gây ra giãn mạch, tăng nhiệt độ, tăng tính thấm của mao mạch.
+· Cortisol úc chế men phospholipase A2 là men tham gia trong quá trình sinh tổng hợp prostaglandin, leukotrien do vậy làm giảm ứng viêm bổi chính hai hợp chất này gây ra giãn mạch, tăng nhiệt độ, tăng tính thấm của mao mạch.
 
 ### 2.3.6. Tác dung chống di ứng
 
@@ -2114,7 +2058,7 @@ Cortisol không làm ảnh hưởng đến phẩn ứng kết hợp giữa dị 
 
 ### 2.3.8. Tác dụng lên các tuyến nội tiết khác
 
-- Nồng độ cortisol tăng sẽ làm giảm sự chuyển T4 thành T3 và làm tăng sự chuyến ngược lại từ T3 thành T4.
+- · Nồng độ cortisol tăng sẽ làm giảm sự chuyển T4 thành T3 và làm tăng sự chuyến ngược lại từ T3 thành T4.
 - · Cortisol có tác dung lên sư đáp ứng của các tế bào sản xuất hormon hướng sinh dục của tuyến yên với GnRH của vùng dưới đổi do đó làm giảm nồng độ hormon sinh dục ở cả hai giới.
 
 ### 2.3.9. Các tác dụng khác.
@@ -2133,69 +2077,13 @@ Cortisol được bài tiết nhiều hay ít tùy thuộc vào nông độ ACTH
 
 Thiếu toàn bộ hormon vỏ thượng thận sẽ dẫn tới chết trong vòng 3 ngày đến 2 tuần trừ phi người đó được tiếp muối liên tục hoặc tiêm hormon vỏ chuyên hóa muối-nước.
 
-Kh ng c hormon v chuy
- h mu
--n
-c, n ng 
- ion  $K^+$  c
- d
-ch ngo
-i b
-o tăng lên và nồng độ Na và Cl lại giảm đi. Kết quả là thể tích dịch ngoại bào và máu cũng giảm do đó lưu lương tim giảm. Những rối loan này sẽ giảm nếu như cho bệnh nhân dùng aldosteron. Do vậy aldosteron cũng như cortisol (với tác dụng chống stress, được nói là hormon có tính sinh mạng.
+Không có hormon vỏ chuyển hóa muối-nước, nồng độ ion K+ của dịch ngoại bào tăng lên và nồng độ Na và Cl lại giảm đi. Kết quả là thể tích dịch ngoại bào và máu cũng giảm do đó lưu lương tim giảm. Những rối loan này sẽ giảm nếu như cho bệnh nhân dùng aldosteron. Do vậy aldosteron cũng như cortisol (với tác dụng chống stress, được nói là hormon có tính sinh mạng.
 
 Tác dung chủ yếu của aldosteron là tác dụng lên tế bào ống thân, ngoài ra nó cũng có tác dụng lên cả tế bào của ống tuyến mồ hôi và ống tuyến nước bọt. Thông qua tác dụng lên tế bào ống thận, aldosteron đóng vai trò quan trong trong việc điều hòa nồng độ ion Na và K trong dịch ngoại bào.
 
- T
-c d
-g l
-m t
-g t
-i h
-p thu ion  $Na^+$  v t
-g b
-i xu
-t ion  $K^+$  
- t
-b
-o 
-ng th
-n.
+• Tác dụng làm tăng tái hấp thu ion Na\* và tăng bài xuất ion K\* ở tế bào ống thận.
 
-Aldosteron khi đến tế bào ống thân đặc biệt là tế bào ống lượn xa và ống góp sẽ hoạt hóa hệ gien ở nhân tế bào và làm tăng tổng hợp các enzym và các protein vận t
-i. M
-t trong nh
-g enzym t
-g m
-t c
-
-c bi
-t 
- l  $Na^+$ ,  $K^+$ - ATPase. Men n
-y l th
-h ph
- ch
- y
-u c
-a b
-m  $Na^+$  -  $K^+$  
- m
-g 
-
-y-b
- c
-a t
-b
-o 
-ng th
-n do 
- l
-m t
-g t
-i h
-p thu ion  $Na^+$  v t
-g b
-i xu
-t ion  $K^+$ .
+Aldosteron khi đến tế bào ống thân đặc biệt là tế bào ống lượn xa và ống góp sẽ hoạt hóa hệ gien ở nhân tế bào và làm tăng tổng hợp các enzym và các protein vận tái. Một trong những enzym tăng một cách đặc biệt đó là Na , K - ATPase. Men này là thành phần chủ yếu của bơm Na - K ở màng đáy-bên của tế bào ống thận do đó làm tăng tái hấp thu ion Na và tăng bài xuất ion K\*.
 
 Chính vì cơ chế tác dung như đã trình bày ở trên nên aldosteron không gây ra tác dụng ngay tức khắc mà thường phải sau 30 phút các RNA thông tin mới được tổng hợp và sau 45 phút mức vận chuyển ion Na mới tăng và phải sau nhiều giờ mới đạt hiệu quả tối đa.
 
@@ -2205,44 +2093,11 @@ Mặc dù aldosteron có tác dụng làm tăng mạnh mức tái hấp thu ion 
 
 Nếu nồng độ aldosteron tăng cao có thể làm tăng thể tích dịch ngoại bào từ 5-15% và tăng huyết áp động mạch từ 15-25 mmHg.
 
-Ngược lại khi nồng độ aldosteron giảm xuống bằng không, một lượng lớn ion Na sẽ bị mất qua đường nước tiểu, không chỉ thế mà cả thể tích dịch ngoại bào cũng gi
-m. M kh
-c khi thi
-u aldosteron, n ng 
- ion  $K^+$  trong d
-ch ngo
-i b
-o s
- t
-g cao. Khi  $K^+$  t
-g t
- 60-100% tr
- m
-c b
-h th
-g th
- s
- g
-y ng
-
-c tim, c
- tim không co được do đó không bơm được máu.
+Ngược lại khi nồng độ aldosteron giảm xuống bằng không, một lượng lớn ion Na sẽ bị mất qua đường nước tiểu, không chỉ thế mà cả thể tích dịch ngoại bào cũng giam. Măt khác khi thiếu aldosteron, nồng đô ion K+ trong dich ngoại bào sẽ tăng cao. Khi K tăng từ 60-100% trên mức bình thường thì sẽ gây ngô độc tim, cơ tim không co được do đó không bơm được máu.
 
 · Tác dụng của aldosteron đối với tế bào ống tuyến mồ hồi và ống tuyến nước bọt.
 
-Trên tế bào ống tuyến mồ hồi và ống tuyến nước bọt, aldosteron cũng làm tăng t
-i h
-p thu ion  $Na^+$  v t
-g b
-i xu
-t ion  $K^+$ . T
-c d
-g n
-y 
-
-c bi
-t quan tr
-g khi cơ thể làm việc trong môi trường nóng. Nhờ có aldosteron mà việc mất muối qua con đường bay hơi mồ hôi sẽ giảm bớt.
+Trên tế bào ống tuyến mồ hồi và ống tuyến nước bọt, aldosteron cũng làm tăng tái hấp thu ion Na và tăng bài xuất ion K . Tác dụng này đặc biệt quan trọng khi cơ thể làm việc trong môi trường nóng. Nhờ có aldosteron mà việc mất muối qua con đường bay hơi mồ hôi sẽ giảm bớt.
 
 ### 2.4.2. Điều hòa bài tiết
 
@@ -2252,32 +2107,13 @@ Mặc dù aldosteron cũng do tuyến vỏ thượng thận bài tiết nhưng s
 
 Ba yếu tố chủ yếu tham gia điều hòa bài tiết aldosteron là:
 
-- T
-g n ng 
- ion  $K^+$  trong d
-ch ngo
-i b
-o s
- l
-m t
-g b
-i ti
-t aldosteron.
+- · Tăng nồng độ ion K trong dịch ngoại bào sẽ làm tăng bài tiết aldosteron.
 - · Tăng hoat động của hệ thống renin-angiotensin cũng làm tăng bài tiết aldosteron.
 - · Tăng nồng độ ion Na trong dịch ngoại bào làm giảm nhẹ nồng độ aldosteron.
 
-Trong ba y
-u t
- tr
- th
- n ng 
- ion  $K^+$  v h
- th
-g renin-angiotensin c
- hi
-u lưc manh trong điều hòa bài tiết aldosteron.
+Trong ba yếu tố trên thì nồng độ ion K' và hệ thống renin-angiotensin có hiệu lưc manh trong điều hòa bài tiết aldosteron.
 
-Nồng độ ion K<sup>+</sup> chỉ cần tăng nhẹ hoặc lưu lượng máu qua thận giảm đều làm tăng bài tiết aldosteron lên nhiều lần so với bình thường.
+Nồng độ ion K+ chỉ cần tăng nhẹ hoặc lưu lượng máu qua thận giảm đều làm tăng bài tiết aldosteron lên nhiều lần so với bình thường.
 
 ### 2.5. TÁC DUNG CỦA ANDROGEN
 
@@ -2294,8 +2130,6 @@ Hoat tính sinh học của androgen có nguồn gốc từ vỏ thượng thậ
 ### 3.1. SINH TỔNG HỢP HORMON TỦY THƯỢNG THẬN
 
 Các hormon của tủy thượng thận được tổng hợp từ L-tyrosin (là một acid amin có trong thức ăn) theo sơ đồ dưới đây.
-
-Image /page/95/Figure/0 description: The image shows a diagram of a biochemical pathway. Starting with L-tyrosin, an arrow points to L-DOPA, with "TH" above the arrow and "oxy hóa" below. From L-DOPA, an arrow points to Dopamin, with "DDC" above the arrow and "khử carboxyl" below. An arrow points down from Dopamin to noradrenalin, with "DBH" and "oxy hóa" to the right of the arrow and "PNMT" to the left. An arrow points from noradrenalin to Adrenalin, with "methyl hóa" below the arrow. At the bottom of the image, "TH : Tyrosin hydroxylase" and "DDC : Dopa decarboxylase" are written.
 
 DBH : Dopamin ß hydroxylase
 
@@ -2327,26 +2161,26 @@ Nhìn chung noradrenalin có tác dụng giống adrenalin nhưng tác dụng tr
 
 | Cơ quan hoặc mô | Receptor | Tác dụng                                 |
 |-----------------|----------|------------------------------------------|
-| Cơ tim          | $β_1$    | Tăng lực co bóp và nhịp                  |
-| Mạch máu        | $α$      | Co mạch                                  |
-|                 | $β_2$    | Giãn mạch                                |
-| Thận            | $β$      | Tăng giải phóng renin                    |
-| Ruột            | $α, β$   | Giảm vận động và tăng trương lực cơ thắt |
-| Tụy             | $α$      | Giảm bài tiết insulin và glucagon        |
-|                 | $β$      | Tăng bài tiết insulin và glucagon        |
-| Gan             | $β$      | Tăng phân giải glycogen                  |
-| Mô mỡ           | $β$      | Tăng phân giải lipid                     |
-| Hầu hết các mô  | $β$      | Tăng tạo năng lượng                      |
-| Da              | $α$      | Tăng bài tiết mồ hôi                     |
-| Phế quản        | $β_2$    | Giãn phế quản                            |
-| Tử cung         | $α$      | Co cơ                                    |
-|                 | $β_2$    | Giãn cơ                                  |
+| Co tim          | તિ ।     | Tăng lực co bóp và nhịp                  |
+| Mạch máu        | ರ        | Co mạch                                  |
+|                 | ડિટ      | Giãn mạch                                |
+| Thận            | B        | Tăng giải phóng renin                    |
+| Ruột            | α, β     | Giam vận động và tăng trương lực cơ thất |
+| Tuy             | ರ        | Giam bài tiết insulin và glucagon        |
+|                 | B        | Tăng bài tiết insulin và glucagon        |
+| Gan             | B        | Tăng phân giải glycogen                  |
+| Mô mỡ           | B        | Tăng phân giai lipid                     |
+| Hầu hết các mô  | B        | Tăng tạo năng lượng                      |
+| Da              | ರ        | Tăng bài tiết mố hôi                     |
+| Phế quán        | ડિટ      | Gian phế quản                            |
+| Tứ cung         | ರ        | Co co                                    |
+|                 | B2       | Gian cơ                                  |
 
 Bảng 7-3 : Đáp ứng chọn lọc của catecholamin tại các mô
 
 Cũng như các hormon khác, adrenalin và noradrenalin khi đến tế bào đích, bước đầu tiên là gắn với receptor có trên màng tế bào đích. Phức hợp hormon-receptor sẽ hoạt hóa một chuối các phản ứng hóa học tiếp theo xáy ra tại bào tương tế bào đích.
 
-Tại mô đích có hai loại receptor tiếp nhận adrenalin và noradrenalin đó là α receptor và β receptor. Loại α và β được chia thành α1, α2, β1, β2.
+Tại mô đích có hai loại receptor tiếp nhận adrenalin và noradrenalin đó là α receptor và ß receptor. Loại α và β được chia thành α1, α2, β1, β2.
 
 Tác dụng của hai hormon này lên receptor ở mô đích không giống nhau.
 
@@ -2356,13 +2190,13 @@ Tác dụng của hai hormon này lên receptor ở mô đích không giống nh
 
 Như vậy tác dụng của hai hormon này lên các cơ quan đích phụ thuộc vào loại receptor có ở cơ quan đó.
 
-### 3.4. ĐIỀU HÒA BÀI TIẾT
+## 3.4. ĐIỀU HÒA BÀI TIẾT
 
 Trong điều kiện cơ sở hai hormon adrenalin và noradrenalin được bài tiết ít nhưng trong tình trạng stress, lạnh, đường huyết áp giảm hoặc kích thích hê giao cảm thì tuyến tủy thượng thận tăng bài tiết cả hai hormon này.
 
 Ở người bình thường trong thái nghỉ ngơi lượng adrenalin do tủy thượng thân bài tiết khoảng 0,2 µg/kg/phút và 0,05 µg/kg/phút noradrenalin. Với lượng này huyết áp có thể được duy trì ở mức bình thường ngay cả khi cắt đứt toàn bộ đường thần kinh giao cảm đến tim.
 
-Nồng độ adrenalin trong máu ở điều kiên cơ sở là 170-520 pmoll, còn nồng đô noradrenalin là 0,3 - 28 nmol/l. Ở người Việt Nam (nam 18 - 22 tuổi) nồng độ catecholamin buổi sáng (8<sup>h</sup> 30) là 73,48 ± 27,07 nmol/l (Phạm Thị Minh Đức và cs, 1998)
+Nồng độ adrenalin trong máu ở điều kiên cơ sở là 170-520 pmoll, còn nồng đô noradrenalin là 0,3 - 28 nmoll. ở người Việt Nam (nam 18 - 22 tuổi) nồng độ catecholamin buổi sáng (8ª 30) là 73,48 ± 27,07 nmoll (Phạm Thị Minh Đức và cs, 1998)
 
 ### 4. RỐI LOAN HOAT ĐÔNG TUYÊN THƯƠNG THÂN
 
@@ -2372,7 +2206,7 @@ Nồng độ adrenalin trong máu ở điều kiên cơ sở là 170-520 pmoll, 
 
 Biểu hiện của bệnh là biểu hiện của sự thiếu hai hormon aldosteron và cortisol.
 
-• Do thiếu aldosteron: giảm nồng độ ion Na<sup>+</sup> trong máu, tăng nồng độ ion K<sup>+</sup> trong máu, giảm thể tích dịch ngoai bào. Vì thể tích dich ngoai bào giảm, thể tích huyết tương giảm nên số lượng hồng cầu trong một đơn vị thể tích máu tăng lên rõ rệt, lưu lượng tim giảm và bênh nhân sẽ chết trong tình trang shock sau 4 ngày đến 2 tuần nếu không được điều trị bằng aldosteron.
+• Do thiếu aldosteron: giảm nồng độ ion Na trong máu, tăng nồng độ ion K trong máu, giảm thể tích dịch ngoai bào. Vì thể tích dich ngoai bào giảm, thể tích huyết tương giảm nên số lượng hồng cầu trong một đơn vị thể tích máu tăng lên rõ rệt, lưu lượng tim giảm và bênh nhân sẽ chết trong tình trang shock sau 4 ngày đến 2 tuần nếu không được điều trị bằng aldosteron.
 
 • Do thiếu cortisol: giảm nồng độ glucose trong máu, giảm huy động protein và lipid từ các mô do đó làm giảm nhiều chức năng chuyển hóa khác của cơ thể. Thiếu cortisol làm cho cơ trở nên yếu, vận động kém, người mêt mỏi và khả năng chống stress kém.
 
@@ -2394,7 +2228,7 @@ Huyết áp tăng đồng thời có biểu hiện đái đường. Hầu hết 
 
 Nguyên nhân của bênh thường do u tế bào lớp cầu vỏ thượng thận, đôi khi do tăng sản tế bào bài tiết aldosteron.
 
-Bệnh được biểu hiện bằng giảm nồng độ ion K<sup>+</sup> trong dịch ngoại bào, tăng nhẹ thể tích dịch ngoại bào, thể tích máu và nồng độ ion Na ³ ở dịch ngoại bào, tăng huyết áp.
+Bệnh được biểu hiện bằng giảm nồng độ ion K trong dịch ngoại bào, tăng nhẹ thể tích dịch ngoại bào, thể tích máu và nồng độ ion Na ³ ở dịch ngoại bào, tăng huyết áp.
 
 ### 4.4. HỘI CHỨNG NAM HÓA
 
@@ -2423,8 +2257,6 @@ Nguyên nhân là do u các tế bào ưa crôm của tủy thương thân (pheo
 Tụy nội tiết bao gồm các cấu trúc được gọi là các tiểu đảo Langerhans. Tuyến tuy ở người có chừng 1-2 triệu tiểu đảo Langerhans, mỗi tiểu đảo đường kính chỉ khoảng 0,3 mm. Bao quanh tiểu đảo có nhiều mao mạch (Hình 7-18).
 
 Mỗi tiểu đảo chứa 3 loại tế bào chính là tế bào alpha, beta và delta. Những tế bào này được phân biệt với nhau bằng cấu tạo hình thái và tính chất bắt màu khi nhuộm.
-
-Image /page/99/Figure/4 description: This is a black and white diagram of a biological structure. The diagram is labeled in Vietnamese. The top label reads "Tuyen tuy ngoai tiet". The middle label reads "Tieu dao Langerhans". The bottom label reads "Mao mach (hong cau o trong)".
 
 ### Hình 7-18. Cấu tạo của tuyến tuy
 
@@ -2463,10 +2295,6 @@ Trường hợp thứ hai tế bào cơ sử dung nhiều glucose đó là trong
 - Tăng dự trữ glycogen ở cơ
 
 Nếu sau bữa ăn mà cơ không vận động thì glucose vẫn được vận chuyển vào tế bào cơ. Lượng glucose không được sử dụng sẽ được tích trữ lại dưới dạng glycogen và được dùng khi cần.
-
-Image /page/101/Figure/0 description: The image shows two different peptide sequences, labeled as 1 and 2. Peptide sequence 1 starts with Gly-Ileu-Val-Glu-Glu-Cys-Cys-Thr-Ser-Ileu-Cys-Ser-Leu-Tyr-Gln-Leu-Glu-Asp-Tyr-Cys-Asn. Peptide sequence 2 starts with Phe-Val-Asp-Glu-His-Leu-Cys-Gly-Ser-His-Leu-Val-Glu-Ala-Leu-Tyr-Leu-Val-Cys-Gly-Glu-Arg-Gly-Thr-Lys-Pro-Thr-Tyr-Phe. There are disulfide bonds between the cysteine residues in both sequences. The image is labeled as Hình 7-19.
-
-Hình 7-19. Cấu tạo phân tử iusulin ở người ( chuỗi (1) có 21 acid amin, chuỗi (2) có 30 acid amin )
 
 99
 
@@ -2548,7 +2376,7 @@ Insulin được điều hòa bằng hai cơ chế, đó là cơ chế thần ki
 
 - Nồng độ acid amin: Một số acid amin đặc biệt arginin, lysin cũng có tác dụng kích thích bài tiết insulin. Khi nồng độ các acid amin này tăng lên thì insulin cũng được bài tiết nhiều tuy nhiên nếu chỉ đơn thuần acid amin thì tác dung kích thích bài tiết insulin yếu hơn nhiều so với glucose hoặc phối hợp với glucose.
 
-- Một số hormon tại chỗ do thành ống tiêu hóa bài tiết như gastrin, secretin, cholecystokinin cũng có tác dụng kích thích bài tiết insulin. Những hormon này thường được bài tiết sau bữa ăn và nhờ có tác dụng làm tăng bài tiết insulin mà chúng tham gia làm cho glucose và acid amin được hấp thu dễ dàng hơn. Đồng thời các hormon của ống tiêu hóa còn làm tăng tính nhậy cảm của insulin với nồng độ glucose máu.
+- Môt số hormon tại chỗ do thành ống tiêu hóa bài tiết như gastrin, secretin, cholecystokinin cũng có tác dụng kích thích bài tiết insulin. Những hormon này thường được bài tiết sau bữa ăn và nhờ có tác dụng làm tăng bài tiết insulin mà chúng tham gia làm cho glucose và acid amin được hấp thu dễ dàng hơn. Đồng thời các hormon của ống tiêu hóa còn làm tăng tính nhậy cảm của insulin với nồng độ glucose máu.
 
 ### 2.4.2. Cơ chế thần kinh
 
@@ -2575,8 +2403,6 @@ Chỉ 1 µg/kg glucagon đã có thể làm tăng nồng độ glucose máu lên
 Khác với insulin, glucagon hoạt hóa adenylcyclase ở màng tế bào đích để tạo thành AMP vòng. Dưới tác dụng của AMP vòng một chuỗi các phản ứng xảy ra trong bào tương gây hoạt hóa các proteinkinase để xúc tác phản ứng thoái hóa glycogen thành glucose-1-phosphat rồi sau đó glucose-1-phosphat sẽ bi khử nhóm phosphat và giải phóng glucose ra khỏi tế bào gan.
 
 - Tăng tao đường mới ở gan: Ngay cả khi glycogen ở gan đã bị phân giải hết, nếu tiếp tục truyền glucagon vào cơ thể thì nồng độ glucose máu vẫn tiếp tục tăng. Có hiên tượng này là do glucagon làm tăng mức vận chuyển acid amin vào tế bào gan rồi sau đó lai tăng chuyển acid amin thành glucose.
-
-Image /page/106/Figure/0 description: The image shows a diagram of the amino acid sequence of glucagon. The sequence starts with Histidine (His) at position 1 and ends with Arginine (Arg) at position 29. The amino acids are arranged in a circular fashion, with the sequence reading clockwise. The amino acids are: His, Ser, Gln, Gly, Thr, Phe, Thr, Ser, Asp, Tyr, Ser, Lys, Tyr, Leu, Asp, Ser, Arg, Arg, Ala, Gln, Asp, Phe, Val, Gln, Trp, Leu, Met, Asn, Thr. The image also includes the text "Hình 7-20. Cấu tạo phân tử glucagon".
 
 Hình 7-20.
 
@@ -2616,8 +2442,6 @@ Luyện tập và lao động nặng, nồng độ glucagon có thể tăng từ
 
 Somatostatin do tế bào delta của tiểu đảo Langerhans bài tiết là môt phân tử polypeptid có 14 acid amin với trọng lượng phân tử là 1640. Phân tử này được tách từ preprosomatostatin có 116 acid amin rồi prosomatostatin có 28 acid amin
 
-Image /page/108/Figure/4 description: The image shows a sequence of amino acids connected in a chain. The amino acids are represented by circles with their three-letter abbreviations inside. The sequence is as follows: Ala, Gly, Cys, Lys, Asn, Phe, Phe, Trp, Lys, Thr, Phe, Thr, Ser, Cys. The sequence is numbered from 1 to 14.
-
 Hình 7-21. Cấu tao phân tử somatostatin
 
 ### 4.2. TÁC DUNG CỦA SOMATOSTATIN
@@ -2637,6 +2461,7 @@ Do có các tác dụng trên nên người ta cho rằng somatostatin có vai t
 Thời gian bán hủy của somatostatin rất ngắn , chỉ trong 3 phút. Tất cả các yếu tố liên quan đến tiêu hóa thức ăn đều kích thích bài tiết somatostatin như:
 
 - Nồng độ glucose tăng trong máu.
+
 - Nồng đô acid amin tăng trong máu.
 - Nổng độ acid béo tăng trong máu.
 - Nồng độ các hormon đường tiêu hóa tăng (gastrin, secretin, cholecystokinin).
@@ -2665,7 +2490,7 @@ Bệnh thường do có khối u ở tế bào bêta nên lượng insulin đư�
 
 Nguồn năng lượng chủ yếu cung cấp cho hoạt động của hệ thần kinh trung ương lấy từ chuyến hóa của glucose. Do vậy nồng độ glucose trong máu giảm, chuyển hóa của hệ thần kinh trung ương cũng giảm.
 
-Khi nồng độ glucose giảm xuống mức 50-70 mg/dl, hệ thần kinh trung ương trở nên bi kích thích, dấu hiện thường gặp là rất bồn chồn, run rấy, vã mồ hôi. Khi nồng độ glucose trong máu giảm xuống mức 20-50 mg/dl sẽ xuất hiện những cơn co giật và mất ý thức. Nếu nồng độ glucose tiếp tục giảm nữa bệnh nhân sẽ ngừng co giật nhưng lại rơi vào trạng thái hôn mê. Lúc này nếu chỉ dựa vào những quan sát lâm sàng đơn thuần thì sẽ khó phân biệt giữa hôn mê toan huyết do thiếu insulin và hôn mê hạ đường huyết do thừa insulin. Tuy nhiên kiểu nhịp thở nhanh, sâu, có mùi aceton sẽ là dấu hiệu quan trọng để phân biệt hai loại hôn mê vì dấu hiệu này chỉ có ở hôn mê đái tháo đường.
+Khi nồng độ glucose giảm xuống mức 50-70 mg/dl, hệ thần kinh trung ương trở nên bi kích thích, dấu hiện thường gặp là rất bồn chồn, run rấy, vã mồ hôi. Khi nồng độ glucose trong máu giảm xuống mức 20-50 mg/dl sẽ xuất hiện những cơn co giat và mất ý thức. Nếu nồng độ glucose tiếp tục giảm nữa bệnh nhân sẽ ngừng co giật nhưng lại rơi vào trạng thái hôn mê. Lúc này nếu chỉ dựa vào những quan sát lâm sàng đơn thuần thì sẽ khó phân biệt giữa hôn mê toan huyết do thiếu insulin và hôn mê hạ đường huyết do thừa insulin. Tuy nhiên kiểu nhịp thở nhanh, sâu, có mùi aceton sẽ là dấu hiệu quan trọng để phân biệt hai loại hôn mê vì dấu hiệu này chỉ có ở hôn mê đái tháo đường.
 
 Điều trị tình trạng choáng huyết hoặc hôn mê hạ đường huyết bằng cách tiêm tĩnh mạch một lương lớn glucose. Bằng cách điều trị đơn giản trên, bệnh nhân có thể thoát khỏi tình trạng choáng chỉ trong một hoặc hai phút. Cùng với việc tiêm tĩnh mạch glucose bệnh nhân có thể được điều trị bằng glucagon để làm tăng tao đường mới ở gan và nồng độ glucose trong máu có thể tăng một cách nhanh chóng. Nếu việc điều trị không có hiệu quả sẽ dẫn đến tổn thương các tế bào thần kinh của hệ thần kinh trung ương.
 
@@ -2681,19 +2506,17 @@ Tuyến cận giáp ở người trưởng thành bao gồm 2 loại tế bào c
 
 Chức năng của tế bào chính là bài tiết parathormon, một hormon có tính sinh mang. Còn chức năng của tế bào ưa oxy đến nay vẫn chưa rõ.
 
-Image /page/111/Figure/6 description: The image shows a diagram of cells. The diagram includes labels in Vietnamese, identifying different types of cells and structures. The labels are "Tế bào chinh" (cells), "Mao mach và hông cầu" (capillaries and red blood cells), and "Tế baa ưa Qxy" (oxyphilic cells).
-
 Hình 7-22. Cầu tao tuyến cận giáp
 
 # 2. BẢN CHẤT HÓA HỌC CỦA PARATHORMON
 
 Parathormon được tổng hợp đầu tiên ở ribosom dưới dang preprohormon. Đây là một polypeptid có 110 acid amin. Sau đó chúng được cắt nhỏ hơn thành prohormon có 90 acid amin rồi tự nó lại được cắt bớt chỉ còn 84 acid amin ở lưới nôi bào tương và bộ Golgi rồi được tập trung trong các hạt bài tiết nằm trong bào tương để chờ giải phóng vào máu tuần hoàn.
 
-Parathormon ở dạng hoạt động trong máu tuần hoàn là một phân tử polypeptid có 84 acid amin với trọng lượng phân tử là 9500. Chuỗi polypeptid nhỏ hơn với 34 acid amin nằm ở phía nhóm –NH, cũng có đủ hoạt tính sinh học như phân tử hormon có 84 acid amin.
+Parathormon ở dạng hoạt động trong máu tuần hoàn là một phân tử polypeptid có 84 acid amin với trọng lượng phân tử là 9500. Chuỗi polypeptid nhỏ hơn với 34 acid amin nằm ở phía nhóm -NH, cũng có đủ hoạt tính sinh học như phân tử hormon có 84 acid amin.
 
 ### 3. TÁC DUNG CÚA PARATHORMON (PTH)
 
-PTH đóng vai trò rất quan trọng trong điều hòa nồng độ ion calci ( $Ca^{++}$ ) và ion phosphat ( $PO\_4^{---}$ ) của huyết tương. Dưới tác dung của PTH, nồng độ ion  $Ca^{++}$  huyết tương tăng lên nhưng ngược lại nồng độ  $PO\_4^{---}$  lai giảm đi.
+PTH đóng vai trò rất quan trọng trong điều hòa nồng độ ion calci (Ca\*) và ion phosphat (PO4 ¯¯) của huyết tương. Dưới tác dụng của PTH, nồng độ ion Ca huyết tương tăng lên nhưng ngược lại nồng độ PO4¯¯¯ lai giảm đi.
 
 PTH thực hiện chức năng này bằng những tác dung trên xương, thân và ruôt.
 
@@ -2709,8 +2532,6 @@ Dưới tác dụng hoạt hóa của phức hợp PTH-receptor, màng tế bào
 
 Như vậy, do màng tế bào xương và tế bào tạo xương có receptor tiếp nhận PTH nên PTH đã hoạt hóa bơm calci có ở những màng tế bào này và giải phóng calci từ dich xương vào máu.
 
-Image /page/113/Figure/0 description: This image shows a diagram of bone tissue with labels. The labels point to different parts of the bone tissue, including Osteoblast, Osteocyte, Tiếu quản, and Osteoclast.
-
 Hình 7 - 23 . Cấu tạo tế bào của xương
 
 - Tác dụng lên tế bào hủy xương
@@ -2725,9 +2546,9 @@ Trên màng tế bào hủy xương không có receptor tiếp nhận PTH vì v�
 
 - Làm giảm bài xuất ion calci ở thận.
 
-- Làm tăng tái hấp thu ion  $Ca^{++}$  và  $Mg^{++}$  ở ống thân đặc biệt ở ống lươn xa và ống góp.
+- Làm tăng tái hấp thu ion Ca\*\* và Mg\*\* ở ống thân đặc biệt ở ống lượn xa và ống góp.
 
-- Làm giảm tái hấp thu ion  $PO\_4^{---}$  ở ống lượn gần do đó làm tăng đào thải ion PO - ra nước tiểu.
+- Làm giảm tái hấp thu ion PO -- ở ống lượn gần do đó làm tăng đào thải ion PO - ra nước tiểu.
 
 Các tác dụng trên của PTH cũng góp phần làm tăng nồng độ ion calci và làm giam nồng độ ion phosphat trong máu.
 
@@ -2743,7 +2564,7 @@ Do PTH hoạt hóa quá trình tạo 1,2 dihydroxycholecalciferol từ vitamin D
 
 Cá ba tác dung trên dẫn tới kết quả là tăng hấp thu ion calci và phosphat ở ruột.
 
-### 4. ĐIỀU HÒA BÀI TIẾT
+## 4. ĐIỀU HÒA BÀI TIẾT
 
 Nông độ PTH bình thường trong máu vào khoảng dưới 50 pg/ml. PTH được bài tiết nhiều hay ít tùy thuộc vào nồng độ ion calci và phosphat trong máu đặc biệt là nồng độ ion calci. Chỉ cần giảm nhẹ nồng độ ion calci trong máu thì tuyến cận giáp đã tăng bài tiết PTH. Nếu tình trạng giảm nổng độ ion calci kéo dài thì tuyến cận giáp sẽ nở to, đôi khi to gấp 5 lần hoặc hơn. Ngươc lại nếu nồng độ ion calci trong máu tăng thì hoạt động và kích thước của tuyến cận giáp sẽ giảm.
 
@@ -2889,15 +2710,13 @@ Histamin đóng vai trò quan trọng trong phản ứng quá mẫn của hiện
 
 Dùng các thuốc kháng histamin hoặc cortisol, các biểu hiện trên sẽ giảm.
 
-Histamin còn có tác dụng kích tế bào viền làm tăng bài tiết HCI của dịch vị do gắn vào receptor H2 của tế bào viền. Hiện nay nhiều loại thuốc điều trị viêm loét da dày như ranitidin đều là loại ức chế receptor H2 vì vây những người loét da dày do cơ chế thần kinh hoặc nhiễm khuẩn thì các loại thuốc này không có tác dụng.
+Histamin còn có tác dụng kích tế bào viền làm tăng bài tiết HCI của dịch vị do gắn vào receptor H2 của tế bào viền. Hiện nay nhiều loại thuốc điều trị viêm loét da dày như ranitidin đều là loai ức chế receptor H2 vì vây những người loét da dày do cơ chế thần kinh hoặc nhiễm khuẩn thì các loại thuốc này không có tác dụng.
 
 ### 2.10. PROSTAGLANDIN (PG)
 
 Là một acid béo không no có vòng 5 cạnh và 2 mạch nhánh. Căn cứ vào vòng 5 canh người ta chia ra 5 loại prostaglandin là A, E, F, B, I. Mỗi loại được chia thành nhiều nhóm A1, A2, A3.
 
 Prostaglandin được tổng hợp từ phospholipid của màng tế bào và có trong hầu hết các mô của cơ thể và có nhiều tác dụng trên hê thống các cơ quan.
-
-Image /page/119/Figure/1 description: The image shows a chemical structure with a five-membered ring connected to a chain with two double bonds. At one end of the chain is a COOH group, and at the other end is a CH group.
 
 ### a. Tim
 
@@ -2937,7 +2756,7 @@ PG có tác dụng co cơ tử cung, làm tăng áp lực buồng ối, do đó 
 
 - PG E2 làm tăng kết dính tiểu cầu.
 
-Bình thường tiểu cầu chứa PG E₂ và PG F₂α những loại PG này được giải phóng khi tiểu cầu được hoạt hóa. Aspirin ức chế men PG synthetase, do đó ức chế tổng hợp PG (chất kháng PG). Người ta thường dùng aspirin để điều tri bênh đông máu rải rác.
+Bình thường tiểu cầu chứa PG E2 và PG F2α những loại PG này được giải phóng khi tiểu cầu được hoạt hóa. Aspirin ức chế men PG synthetase, do đó ức chế tổng hợp PG (chất kháng PG). Người ta thường dùng aspirin để điều tri bênh đông máu rải rác.
 
 ### h. PG và quá trình viêm nhiêm
 
@@ -2945,11 +2764,11 @@ Phản ứng viêm được đặc trưng bởi sự tăng tính thấm của th
 
 - Prostaglandin loại E và A làm tăng tính thấm của thành mạch.
 
-- Prostaglandin E, I₂ gây sốt, làm giảm ngưỡng cảm giác đau của các receptor.
+- Prostaglandin E, I2 gây sốt, làm giảm ngưỡng cảm giác đau của các receptor.
 
 Trong trường hợp viêm nhiễm nếu dùng aspirin, aminopyrin sẽ thấy đỡ sốt là do aspirin ức chế men PG synthetase, do đó làm giảm sản xuất PG.
 
-Cortisol cũng là một chất chống viêm manh vì ức chế men phospholipase A₂, là men tham gia quá trình tổng hợp PG, do đó cũng làm giảm tạo PG.
+Cortisol cũng là môt chống viêm manh vì ức chế men phospholipase A2 là men tham gia quá trình tổng hợp PG, do đó cũng làm giảm tạo PG.
 
 ### CHƯƠNG 8
 
@@ -2961,15 +2780,11 @@ Cortisol cũng là một chất chống viêm manh vì ức chế men phospholip
 
 Bộ máy sinh sản nam gồm dương vật, bìu trong có chứa tinh hoàn là tuyến sinh dục nam, ống dẫn tinh, túi tinh và một số tuyến sinh dục phụ như tuyến tiền liệt, tuyến hành niệu đạo (Hình 8.1).
 
-• Tinh hoàn là một cơ quan nằm ngoài ổ bụng, nằm trong bìu. Mỗi cơ thể nam có hai tinh hoàn hình trứng có kích thước 4,5 x 2,5 cm. Ở người lớn thể tích của tinh hoàn trung bình là  $18,6 \pm 4,8$  ml.
-
-Image /page/121/Picture/6 description: This image shows a diagram of the male reproductive system. The diagram includes labels for the following parts: Bang quang, Tuyen tien liet, Xuong mu, Tui tinh, Ong dan tinh, Tuyen hanh nieu dao, Ong dan tinh, Duong vat, Mao tinh hoan, and Thuy tinh hoan.
+• Tinh hoàn là một cơ quan nằm ngoài ổ bụng, nằm trong bìu. Mỗi cơ thể nam có hai tinh hoàn hình trứng có kích thước 4,5 x 2,5 cm. Ở người lớn thể tích của tinh hoàn trung bình là 18,6 ± 4,8 ml.
 
 Hình 8-1. Cấu tạo bộ máy sinh dục nam
 
 Nếu bổ dọc tinh hoàn thì thấy mỗi tinh hoàn được chia thành nhiều thùy bằng các vách xơ. Trong mỗi thùy có nhiều ống nhỏ ngoằn nghèo được gọi là ống sinh tinh, đây chính là nơi sản sinh tinh trùng. Mỗi tinh hoàn có khoảng 900 ống sinh tinh, mỗi ống dài khoảng 5 m. Tiếp nối với ống sinh tinh là ống mào tinh dài 6 m rồi đến ống dẫn tinh. Xen kẽ giữa các ống sinh tinh là các tế bào Leydig.
-
-Image /page/122/Picture/1 description: This is a black and white diagram of a seminiferous tubule. The diagram shows the different types of cells that are found in the tubule, including: Tế bào Sertoli, Tiên tinh trùng, Tinh trùng, Tế bào II, Tế bào I, Tinh nguyên bào, and Tế bào leydig. The diagram is labeled in Vietnamese.
 
 Hình 8.2. Cầu tao ông sinh tinh
 
@@ -2993,17 +2808,11 @@ Thành ống sinh tinh chứa một lượng tế bào biểu mô mầm được
 
 Như vậy trong quá trình sản sinh tinh trùng, các tế bào Sertoli đã tạo ra một sườn chống đỡ cho quá trình phân chia và biệt hóa tế bào dòng tinh. Không những thế chúng còn ngăn cản sư xâm nhâp của các yếu tố có thể có hai cho quá trình sản sinh tinh trùng.
 
-Image /page/123/Figure/4 description: This image is a diagram of a biological structure, with labels in Vietnamese. The labels identify various components of the structure, including "Tế bào Sertoli" (Sertoli cells), "Lồng ông sinh tình", "Tiền tinh trùng", "Tình bào II", "Tình bào I", "Tình nguyên bào", and "Màng đấy".
-
 Hình 8-3. Các tế bào dòng tinh
 
 · Sự phân chia giam nhiêm
 
 Thời kỳ này kéo dài 24 ngày. Các tinh nguyên bào sau khi chui qua hàng rào đê vào lớp tế bào Sertoli thì dần thay đổi và lớn lên tạo thành những tế bào lớn đó là tinh bào I. Cuối thời kỳ này các tỉnh bào I phân chia để tạo thành tinh bào II. Quá trình phân chia từ tinh bào I sang tinh bào II là phân chia giảm nhiễm. Như vậy một tế bào tỉnh bào I có 23 đôi NST (46 NST) được phân chia thành 2 tế bào tinh bào II, mỗi tế bào chỉ có 23 NST (22-X, 22-Y). Đây là lần phân chia giảm nhiễm thứ nhất.
-
-Image /page/124/Figure/0 description: The image shows a diagram of the stages of spermatogenesis. The diagram starts with a cell labeled "1" containing "44-XY" chromosomes, which undergoes 4 divisions. This leads to a cell labeled "2" also containing "44-XY" chromosomes. This cell then undergoes meiosis I, resulting in two cells labeled "3", one containing "22-X" chromosomes and the other containing "22-Y" chromosomes. These cells then undergo meiosis II, resulting in four cells labeled "4", two containing "22-X" chromosomes and two containing "22-Y" chromosomes. These cells then differentiate into sperm cells labeled "5". The diagram also includes labels for each stage of spermatogenesis: 1- Tinh nguyên bào (spermatogonium), 2- Tinh bào I (primary spermatocyte), 3- Tinh bào II (secondary spermatocyte), 4- Tiền tinh trùng (spermatid), and 5- Tinh trùng (sperm). The diagram is titled "Hình 8-4. Các giai đoạn sản sinh tinh trùng" (Figure 8-4. Stages of spermatogenesis).
-
-Image /page/124/Figure/1 description: The image contains the text "Sau 2 - 3 ngày, mỗi tinh bào II tiếp tục phân chia để cho 2 tế bào tiền tinh".
 
 trùng. Đây là lần phân chia giảm nhiễm thứ hai.
 
@@ -3032,8 +2841,6 @@ Tiền tinh trùng được tạo thành đầu tiên vẫn mang những đặc 
 - · Phần cấu trúc trung tâm gồm 11 vi ống được gọi là trục cấu trúc.
 - · Phần màng tế bào rất mỏng phủ ngoài trục.
 - · Tâp hơp nhiều ty lap thể xung quanh trục ở phần thân đuôi.
-
-Image /page/126/Figure/0 description: This image shows a diagram of a sperm cell. The diagram is labeled in Vietnamese. The labels are: "Cur đau", "Đầu tình trung", "Co'", "Thân", "Duôi", and "Mâu cuối cuối cua đuôn".
 
 ### Hình 8-5. Cầu trúc của tinh trùng
 
@@ -3095,8 +2902,6 @@ Testosteron do tế bào Leydig bài tiết. Những tế bào này nằm ở kh
 
 · Testosteron là một hợp chất steroid có 19C được tổng hợp từ cholesterol hoặc acetyl-CoA.
 
-Image /page/128/Figure/9 description: The image shows two chemical structures. The first structure on the left has a six-membered ring with a double bond and a ketone group (O=C) attached to it. There are two methyl groups (CH3) attached to the ring system. The second structure on the right has a six-membered ring with a ketone group (O=C) attached to it. There are two methyl groups (CH3) attached to the ring system and two hydrogen atoms (H) attached to the ring system. Both structures have a five-membered ring with a hydroxyl group (OH) attached to it.
-
 Hình 8-6. Công thức cấu tạo của testosteron
 
 ### 2.2.1.2. Vận chuyển và chuyển hóa testosteron
@@ -3107,7 +2912,7 @@ Tại mô đích, phần lớn testosteron được chuyển thành dạng dihyd
 
 Những hormon không gắn với mô đích thì bị chuyển dạng nhanh chóng chủ yếu ở gan đế tạo thành androsteron và dehydroepiandrosteron rồi kết hợp với glucuronid hoặc sulfat. Các dạng này sẽ được bài xuất ra khỏi cơ thể theo đường mật qua ruột rồi ra phân hoặc qua thận rồi ra nước tiểu.
 
-Nồng độ testosteron bình thường ở nam giới tuổi trưởng thành là  $19,1 \pm 5,5$  mU/l và ở nữ giới là 1,23 ± 1 mUll (Nguyễn Cận, Vũ Thục Nga và cs, 1995).
+Nồng độ testosteron bình thường ở nam giới tuổi trưởng thành là 19,1 ± 5,5 mU/l và ở nữ giới là 1,23 ± 1 mUll (Nguyễn Cận, Vũ Thục Nga và cs, 1995).
 
 ### 2.2.1.3. Tác dung của testosteron
 
@@ -3157,8 +2962,7 @@ Do tác dụng làm tăng kích thước và sức mạnh của xương nên tes
 
 · Tác dung lên chuyển hóa cơ sở
 
-Với lượng testosteron được bài tiết hàng ngày ở tuổi thiếu niên và thanh niên, chuy
-ếến hóa cơ sở tăng từ 5 - 10% so với khi không có tác dụng của testosteron.
+Với lượng testosteron được bài tiết hàng ngày ở tuổi thiếu niên và thanh niên, chuyển hóa cơ sở tăng từ 5 - 10% so với khi không có tác dụng của testosteron.
 
 Khi nồng đô testosteron tăng, mức chuyển hóa cơ sở có thể tăng 15%.
 
@@ -3182,8 +2986,6 @@ Inhibin là một hợp chất glycoprotein có trọng lượng phân tử 10.0
 
 Inhibin có tác dụng điều hòa quá trình sản sinh tinh trùng thông qua cơ chế điều hòa ngược đối với sự bài tiết FSH của tuyến yên. Tác dụng ức chế bài tiết FSH của inhibin mạnh hơn tác dụng ức chế bài tiết GnRH từ vùng dưới đồi.
 
-Image /page/131/Figure/3 description: This image is a diagram of the male reproductive system. It shows the hypothalamus, pituitary gland, Leydig cells, seminiferous tubules, Sertoli cells, testosterone, inhibin, and blood. The hypothalamus releases GnRH, which stimulates the pituitary gland to release LH and FSH. LH stimulates Leydig cells to produce testosterone, and FSH stimulates Sertoli cells to produce inhibin. Testosterone and inhibin have negative feedback effects on the hypothalamus and pituitary gland. ABP is also shown in the diagram.
-
 Hình 8-7. Sơ đồ điều hòa chức năng tinh hoàn
 
 Khi ống sinh tinh sản sinh quá nhiều tinh trùng, tế bào Sertoli bài tiết inhibin. Dưới tác dụng ức chế của inhibin, lượng FSH được bài tiết từ tuyến yên giảm do đó làm giảm bớt quá trình sản sinh tinh trùng ở ông sinh tinh.
@@ -3206,7 +3008,7 @@ Dich của túi tinh có những chức năng như sau:
 
 Tuyến tiền liêt bài tiết dich trắng, đục với pH khoảng 6,5 (kiềm hơn dịch âm đao). Đô pH kiềm hơn của dịch tuyến tiền liệt đóng vai trò quan trọng trong việc bảo vệ tinh trùng cho đến khi thụ tinh. Lượng dịch tiền liệt bài tiết chiếm khoảng 30% thể tích dịch phóng ra trong mỗi lần giao hợp.
 
-Dịch tuyến tiền liệt chứa nhiều acid citric, ion Ca<sup>++</sup>, nhiều loại enzym đông đặc và tiền fibrinolysin, prostaglandin.
+Dịch tuyến tiền liệt chứa nhiều acid citric, ion Cat, nhiều loại enzym đông đặc và tiền fibrinolysin, prostaglandin.
 
 Các enzym đông đăc của dịch tuyến tiền liệt sẽ tác dụng vào fibrinogen làm đông nhe tinh dich ở đường sinh duc nữ do vây có thể giữ tinh trùng nằm sát cổ tử cung. Sau 15 - 30 phút tình dịch lài được làm loãng trở lại nhờ enzym fibrinolysin có trong dịch tuyến tiền liệt và tinh trùng hoạt động trở lại.
 
@@ -3220,21 +3022,21 @@ Với môt lương lớn và lại được phóng ra cuối cùng, dịch túi 
 
 Đô pH trung bình của tỉnh dịch là 7,5. Với đô pH hơi kiềm này, tỉnh dịch sẽ trung hòa bớt tính chất acid của dịch âm đạo, tạo môi trường thích hợp cho tinh trùng hoạt động.
 
-Trong ống sinh tinh, tinh trùng có thể sống vài tuần nhưng khi đã được phóng ra ngoài, đời sống tối đa chỉ từ 24 - 48 giờ. Với nhiệt độ thấp, chuyến hóa giảm nên thời gian sống của tinh trùng kéo dài hơn.
+Trong ống sinh tinh, tinh trùng có thể sống vài tuần nhưng khi đã được phóng ra ngoài, đòi sống tối đa chỉ từ 24 - 48 giờ. Với nhiệt độ thấp, chuyển hóa giảm nên thời gian sống của tinh trùng kéo dài hơn.
 
 Đế thăm dò chức năng bài tiết dịch, sản sinh tinh trùng người ta thường làm một xét nghiệm được gọi là tình dịch đồ trong đó một số thường được kiểm tra là: thế tích tinh dịch được phóng ra một lần, số lượng tinh trùng, độ di động của tinh trùng, tỷ lệ tinh trùng còn sống, hình thái tinh trùng.
 
 Kết quả nghiên cứu về tinh dich đồ của người Việt Nam (nam giới ở ngoai thành Hà Nội) được trình bày ở bảng 8.1 (Trịnh Văn Bảo, Trần Đức Phấn, 1995).
 
-| Thông số đánh giá           | 18-35 tuổi |            | 36-55 tuổi |             | WHO     |
-|-----------------------------|------------|------------|------------|-------------|---------|
-|                             | n          | x±SD       | n          | x±SD        |         |
-| Thể tích tinh dịch (ml)     | 42         | 2,68       | 64         | 2,24        | > 2     |
-| pH                          | 42         | 7,3±0.8    | 64         | 7,6±0.5     | 7,2-8,0 |
-| Mật độ tinh trùng (x106/ml) | 42         | 89,4±17,65 | 64         | 93,46±14,29 | > 20    |
-| Tỷ lệ tinh trùng sống (%)   | 42         | 84,12±9,44 | 64         | 81,95±8,93  | >75     |
-| Tỷ lệ tinh trùng khỏe       | 42         | 50,16      | 64         | 47,74       | > 50    |
-| Tỷ lệ tinh trùng bất thường | 42         | 14,16      | 64         | 13,08       | <30     |
+| Thông số đánh giá           |    | 18-35 tuổi |    | 36-55 tuổi  | WHO     |
+|-----------------------------|----|------------|----|-------------|---------|
+|                             | 11 | x=SD       | 11 | x+SD        |         |
+| Thế tích tinh dịch (inl)    | 42 | 2,68       | 64 | 2.24        | > 2     |
+| pH                          | 42 | 7.3±0.8    | 64 | 7,6±0.5     | 7,2-8,0 |
+| Mật độ tinh trùng (x10%ml)  | 42 | 89,4±17,65 | 64 | 93.46±14.29 | > 20    |
+| Tỷ lệ tinh trùng sống (%)   | 42 | 84.12±9.44 | 64 | 81,9548,93  | >75     |
+| Tỷ lệ tinh trùng khoe       | 42 | 50,16      | 64 | 47,74       | > 50    |
+| Tỷ lệ tinh trùng bất thường | 42 | 14.16      | 64 | 13,08       | <30     |
 
 Bảng 8.1. Tinh dich đồ ở nam giới trưởng thành
 
@@ -3322,7 +3124,7 @@ Nếu khối u phát triển ở trẻ em, cơ và xương của đứa trẻ ph
 
 Nếu khối u xuất hiện ở nam giới tuổi trưởng thành thì khó chẩn đoán vì các đặc điểm giới tính đã có.
 
-### • U tế bào mầm
+### U tế bào mầm .
 
 U tế bào biếu mô mầm thường gặp hơn u tế bào Leydig. Do các tế bào biểu mô mâm có khả năng biệt hóa thành hầu hết các loại tế bào khác nên những khối u này có thể chứa nhiều loại mô như mô rau thai, tóc, răng, xương, da. .. Tất cả những mô này thường được hình thành cùng với nhau nên người ta thường gọi loai u này là u quái (teratoma).
 
@@ -3336,11 +3138,7 @@ Các cơ quan chính của bộ máy sinh sản nữ bao gồm hai buồng trứ
 
 ### 1.1. BUỒNG TRỨNG
 
-Image /page/137/Figure/4 description: This image shows a diagram of the female reproductive system. The diagram includes the following labels: "Buông truing", "Tu'cung", "Xương mu", "Tractrang", "Bang quang", and "Hây môn".
-
 Hình 8-8 . Cấu tạo bộ phận sinh dục nữ (nhìn nghiêng)
-
-Image /page/137/Picture/6 description: This image shows a diagram of the female reproductive system. The diagram includes the following labels: "Thân tứ cung", "Cổ tử cung", "Âm đạo", "Voi trung", "Lea voi trung", and "Buông trường".
 
 Hình 8-9. Cấu tạo bộ phận sinh dục nữ ( nhìn thắng)
 
@@ -3350,7 +3148,7 @@ Mồi người phụ nữ có 2 buồng trứng. Kích thước mỗi buồng tr
 
 ### 1.2. TỬ CUNG
 
-Tử cung là môt cơ quan hình quả lê có kích thước 6 x 4 cm ở những phu nữ chưa sinh đẻ và 7-8 x 5 cm ở những phụ nữ đã sinh đẻ nhiều lần. Tử cung gồm hai phần là thân tử cung và cổ tử cung. Giữa thân tử cung và cổ tử cung có một chỗ thắt được gọi là eo tử cung (Hình 8-9).
+Tử cung là môt cơ quan hình quả lê có kích thước 6 x 4 cm ở những phu nữ chưa sinh đẻ và 7-8 x 5 cm ở những phụ nữ đã sinh để nhiều lần. Tử cung gồm hai phần là thân tử cung và cổ tử cung. Giữa thân tử cung và cổ tử cung có một chỗ thắt được gọi là eo tử cung (Hình 8-9).
 
 Từ ngoài vào trong, thành tử cung được cấu tạo bởi 3 lớp là lớp vỏ ngoài, lớp cơ và lớp niêm mạc tử cung hay còn được gọi là nội mạc tử cung.
 
@@ -3367,8 +3165,6 @@ Lớp biểu mô phủ nội mạc thân tử cung là một lớp biểu mô đ
 - Lớp đệm
 
 Lớp đêm là lớp giàu tế bào liên kết. Lớp đêm chứa nhiều tuyến của niêm mạc tử cung. Trong lớp đêm còn có nhiều đám tế bào lympho có vai trò quan trọng trong các phản ứng miễn dich có liên quan đến khả năng sinh đẻ. Trong lớp đêm cũng có rất nhiều mạch máu (động mạch, tĩnh mạch, mao mạch, bạch mạch).
-
-Image /page/138/Picture/11 description: This image shows a microscopic view of a tissue sample. The tissue is composed of several layers, including an outer layer of epithelial cells, followed by a layer of connective tissue. There are also blood vessels and glands present in the tissue. The image is labeled with the following terms in Vietnamese: "Biểu mô" (epithelium), "Mô liên kết thuộc lớp đệm" (connective tissue of the lamina propria), "Mạch máu" (blood vessels), and "Tuyến niêm mạc tử cung" (uterine mucous glands).
 
 Hình 8-10. Cấu tao niêm mạc thân tứ cung ở giai đoạn tăng sinh
 
@@ -3405,8 +3201,6 @@ Cá 3 loại estrogen đều là các hợp chất steroid (Hình 8-11) và đư
 Trong máu estrogen gắn lỏng lẻo chủ yếu với albumin của huyết tương và globulin gắn đặc hiệu với estrogen. Máu sẽ vận chuyển và giải phóng estrogen cho mô đích trong khoảng thời gian 30 phút.
 
 Tại gan estrogen sẽ kết hợp với glucuronid và sulfat thành những hợp chất bài tiết theo đường mật (khoảng 1/5 tổng lượng) và theo đường nước tiểu (khoảng 4/5). Gan cũng có tác dung chuyền dang estrogen mạnh là estron thành dạng estriol yếu. Do vậy nếu chức năng gan yếu, hoạt tính estrogen sẽ tăng và đôi khi có thể gây ra cường estrogen.
-
-Image /page/140/Figure/0 description: The image shows the chemical structures of three different estrogen hormones: beta-estradiol, estrone, and estriol. Beta-estradiol and estrone are shown to be interconvertible via a reversible reaction. Estrone is shown to be converted to estriol via an irreversible reaction. The chemical structures of the three hormones are shown with their chemical formulas and names.
 
 Hình 8-11. Công thức hóa học của 3 loại estrogen
 
@@ -3507,8 +3301,6 @@ Estrogen đươc bài tiết nhiều hay ít tùy thuộc vào nồng độ LH c
 
 Cũng như estrogen, progesteron cũng là hợp chất steroid (Hình 8-12) được tổng hợp từ cholesterol hoặc từ acetyl-coenzym A.
 
-Image /page/143/Figure/0 description: The image shows a chemical structure consisting of four fused rings. Two methyl groups (CH3) are attached to the rings. One of the rings has a double bond and a ketone group (O=). Another ring has a ketone group (O=) attached to a methyl group (CH3).
-
 Hình 8-12. Công thức hóa học của progesteron
 
 # 2.2.2. Vân chuyển và chuyển hóa
@@ -3547,7 +3339,7 @@ Cũng như các hoạt động steroid khác, progesteron với nồng đô cao 
 
 · Tác dụng lên thân nhiệt
 
-Progesteron làm tăng nhiệt độ của cơ thể do vậy ở nửa sau của CKKN thân nhiệt của phu nữ thường cao hơn nửa đầu từ 0.3 - 0.5°С.
+Progesteron làm tăng nhiệt độ của cơ thể do vậy ở nửa sau của CKKN thân nhiêt của phu nữ thường cao hơn nửa đầu từ 0.3 - 0.5℃.
 
 Cơ chế làm tăng thân nhiệt của progesteron vẫn chưa rõ. Tuy nhiên có ý kiến cho rằng có lẽ progesteron tác dung lên trung tâm điều nhiêt ở vùng dưới đổi.
 
@@ -3639,8 +3431,6 @@ Vài giờ trước khi phóng noãn, có hai hiện tượng đồng thời x�
 
 Cả hai tác dụng trên đều làm cho nang căng phồng trong khi thành nang lại mỏng, yếu vì vậy nang sẽ võ ra và giải phóng noãn ra khỏi nang trứng (Sơ đồ 8-1). Hiện tượng phóng noãn thường xây ra vào thời điểm 13-14 ngày trước khi có kinh lần sau. Thông thường mỗi chu kỳ chỉ có một nang trứng vỡ và xuất noãn ở cả hai buồng trứng. I H
 
-Image /page/148/Figure/1 description: This image is a flowchart that shows the process of ovulation. The flowchart starts with "LH" at the top, which leads to "Progesteron". From "Progesteron", there are two branches. The left branch shows "Men phan giai protein (collagenase)", which leads to "Thanh nang yeu", which leads to "Thoai hoa thanh tai go trung". The right branch shows "Xung huyet nang (Bai tiet prostaglandin)", which leads to "Tham huyet tuong vao nang", which leads to "Nang phong cang". Both branches then lead to "Vo nang", which leads to "Phong naan" at the bottom.
-
 Hình 8-13. Cơ chế phóng noãn
 
 ### 3.2.2. Giai đoạn bài tiết (Giai đoan progesteron)
@@ -3652,8 +3442,6 @@ Sau khi phóng noãn, tuyến yên vẫn tiếp tục bài tiết FSH và LH. D�
 Các tế bào hoàng thể dưới tác dụng kích thích của LH đã bài tiết một lượng lớn progesteron và estrogen đồng thời mạch máu phát triển mạnh trong hoàng thể. Sau khi phóng noãn 7-8 ngày, hoàng thể có đường kính xấp xỉ 1,5 cm. Sau đó hoàng thế bắt đầu giảm dần chức năng bài tiết.
 
 Quá trình phát triển của hoàng thể hình như đã được chương trình hóa theo môt trình tự nhất định được bắt đầu bằng sư tăng sinh và phát triển tế bào hat, hoàng thể lớn lên, hoàng thể bài tiết và cuối cùng là hoàng thể thoái hóa. Ngay cả khi không có LH, quá trình này vẫn xảy ra nhưng chỉ kéo dài 4-8 ngày. Nếu có mắt LH, sự phát triển của hoàng thể mạnh hơn, bài tiết hormon nhiều hơn, đời sống của hoàng thể kéo dài hơn (thường khoảng 12 ngày).
-
-Image /page/149/Figure/1 description: The image shows a diagram of the female menstrual cycle. The top graph shows the levels of FSH and LH hormones during the cycle. The middle graph shows the levels of beta-estradiol and progesterone hormones during the cycle. The bottom diagram shows the changes in the uterine lining during the cycle. The cycle is divided into three phases: Kinh nguyet (menstruation), GĐ Tang sinh (proliferative phase), and GĐ Bai tiet (secretory phase).
 
 Hình 8-14. Diến biến của hormon, buồng trứng, niêm mạc
 
@@ -3771,9 +3559,7 @@ Sự thụ tinh thường xảy ra ở khoảng 1/3 ngoài của vòi trứng. T
 
 Cơ chê xâm nhập vào noãn của tỉnh trùng được giải thích như sau:
 
-Khi tinh trùng còn ở trong tinh dịch, có một lượng lớn cholesterol bọc quanh đầu tinh trùng làm bền vững màng bao bọc quanh đầu tinh trùng và ngăn chặn sự giải phóng enzym. Sau khi phóng tinh, tinh trùng di chuyển trong đường sinh dục nữ, lớp cholesterol bọc đầu tinh trùng bị mất, màng tinh trùng trở nên yếu và tăng tính thấm đối với ion  $Ca^{++}$ . Nồng độ ion  $Ca^{++}$  cao trong bào tương của đầu tinh trùng một mặt làm tăng vận động của tỉnh trùng, mặt khác làm giải phóng các enzym từ đầu tinh trùng.
-
-Image /page/154/Figure/0 description: The image shows a diagram of a cell being fertilized by sperm. There are four numbered labels in the image. Label 1 points to a group of cells. Labels 2, 3, and 4 point to sperm cells.
+Khi tinh trùng còn ở trong tinh dịch, có một lượng lớn cholesterol bọc quanh đầu tinh trùng làm bền vững màng bao bọc quanh đầu tinh trùng và ngăn chặn sự giải phóng enzym. Sau khi phóng tinh, tinh trùng di chuyển trong đường sinh dục nữ, lớp cholesterol bọc đầu tinh trùng bị mất, màng tinh trùng trở nên yếu và tăng tính thấm đối với ion Ca". Nồng độ ion Ca" cao trong bào tương của đầu tinh trùng một mặt làm tăng vận động của tỉnh trùng, mặt khác làm giải phóng các enzym từ đầu tinh trùng.
 
 - 1. Noãn vừa được phóng ra khỏi nang trứng.
 - 2. Tinh trùng đang vượt qua lớp tế bào hạt bao quanh noãn.
@@ -3781,8 +3567,6 @@ Image /page/154/Figure/0 description: The image shows a diagram of a cell being 
 - 4. Tinh trùng đang vượt qua vỏ tế bào noãn
 
 Hình 8.15. Sư xâm nhập của tinh trùng vào noãn.
-
-Image /page/154/Figure/6 description: The image shows a diagram of the fertilization process. The first image shows an egg cell surrounded by a layer of cells. The text "Lớp Tế bào hạt" is pointing to this layer of cells. The second image shows a sperm cell approaching the egg cell. The third image shows the sperm cell entering the egg cell. The fourth image shows the male and female pronuclei inside the egg cell. The text "Tiền nhân đực" is pointing to the male pronucleus, and the text "Tiền nhân cái" is pointing to the female pronucleus. The fifth image shows the chromosomes aligning in the center of the egg cell. The text "Thể trung tâm" is pointing to the centrosome.
 
 Hình 8-16. Quá trình thụ tinh của noãn.
 
@@ -3844,7 +3628,7 @@ Oxy khuếch tán qua màng rau giống như qua màng phế nang do có sự ch
 
 - Do nồng độ hemoglobin của thai cao hơn của người trưởng thành (cao hơn máu me khoảng 50%).
 
-- Do tác dung Bohr: Máu của thai khi chuyển đến rau có nồng độ  $CO\_2$  cao hơn nhưng CO2 nhanh chóng khuếch tán qua màng rau vào máu mẹ nên máu của thai trở nên kiềm hơn, còn máu của mẹ trở nên acid hơn. Chính điều kiện này đã làm cho hemoglobin gắn mạnh hơn với oxy.
+- Do tác dung Bohr: Máu của thai khi chuyển đến rau có nồng đô CQ2 cao hơn nhưng CO2 nhanh chóng khuếch tán qua màng rau vào máu mẹ nên máu của thai trở nên kiềm hơn, còn máu của mẹ trở nên acid hơn. Chính điều kiện này đã làm cho hemoglobin gắn mạnh hơn với oxy.
 
 · Khuếch tán CO2 qua màng rau
 
@@ -3862,7 +3646,7 @@ Các chất dinh dưỡng cần cho thai đươc khuếch tán qua màng rau the
 
 ### 5.5.2. Bài tiết các sản phẩm chuyển hóa của thai
 
-Các sản phẩm chuyển hóa của thai như  $CO\_2$ , các nitơ phi protein (urê, acid uric, creatinin) được khuếch tán từ máu con sang máu mẹ qua rau thai. Sự bài tiết các sản phẩm chuyển hóa từ máu thai sang máu mẹ phụ thuộc vào sự chênh lệch nồng độ của các sản phẩm này giữa máu thai và máu mẹ cũng như phụ thuộc vào khả năng khuếch tán của từng chất. Ví dụ urê khuếch tán qua màng rau rất dễ nên mức urê của máu thai chỉ cao hơn máu mẹ một ít. Ngược lại creatinin lai khuếch tán rất khó khăn nên sư chênh lêch giữa máu me và máu thai rất cao.
+Các sản phẩm chuyền hóa của thai như CO2, các nitơ phi protein (urê, acid uric, creatinin) được khuếch tán từ máu con sang máu mẹ qua rau thai. Sự bài tiết các sản phẩm chuyển hóa từ máu thai sang máu mẹ phụ thuộc vào sự chênh lệch nồng độ của các sản phẩm này giữa máu thai và máu mẹ cũng như phụ thuộc vào khả năng khuếch tán của từng chất. Ví dụ urê khuếch tán qua màng rau rất dễ nên mức urê của máu thai chỉ cao hơn máu mẹ một ít. Ngược lại creatinin lai khuếch tán rất khó khăn nên sư chênh lêch giữa máu me và máu thai rất cao.
 
 ### 5.5.3. Bài tiết hormon
 
@@ -3950,9 +3734,9 @@ Trong thời kỳ có thai, ngoài các hormon do rau thai bài tiết, người
 
 - Aldosteron: Nồng độ tăng gấp đôi bình thường và cao nhất vào thời gian cuối của thời kỳ có thai. Aldosteron cùng với estrogen làm tăng tái hấp thu ion Na ở ống thận và kéo theo nước do đó làm tăng huyết áp. '
 
-- T3-T4: Tuyến giáp của người có thai to gấp rưỡi bình thường và tăng bài tiết T3-T4. Nồng độ T3-T4 tăng một phần do tác dụng kích thích tuyến giáp của HCG, phần khác do một ít hormon kích thích tuyến giáp được bài tiết từ rau thai (Human chorionic thyrotropin).
+- T3-T4: Tuyến giáp của người có thai to gấp rưới bình thường và tăng bài tiết T3-T4. Nồng độ T3-T4 tăng một phần do tác dụng kích thích tuyến giáp của HCG, phần khác do một ít hormon kích thích tuyến giáp được bài tiết từ rau thai (Human chorionic thyrotropin).
 
-- Parathormon: Tuyến cận giáp ở người có thai cũng to hơn bình thường và tăng bài tiết PTH. Hiện tượng này đặc biệt xảy ra mạnh ở những người mẹ thiếu calci trong chế độ ăn. Lượng PTH tăng đã làm tăng quá trình hủy xương ở người mẹ nhằm mục đích duy trì nồng độ ion  $Ca^{++}$  ở dịch ngoại bào vì thai luôn lấy calci để tạo xương.
+- Parathormon: Tuyến cận giáp ở người có thai cũng to hơn bình thường và tăng bài tiết PTH. Hiện tượng này đặc biệt xảy ra mạnh ở những người mẹ thiếu calci trong chế độ ăn. Lượng PTH tăng đã làm tăng quá trình hủy xương ở người mẹ nhằm mục đích duy trì nồng độ ion Ca\* ở dịch ngoại bào vì thai luôn lấy calci để tạo xương.
 
 - Relaxin: Relaxin do hoàng thể và rau thai bài tiết. Bản chất hóa học của relaxin là polypeptid với trọng lượng phân tử là 9000.
 
@@ -4092,10 +3876,10 @@ GnRH tổng hợp: GnRH là hormon của vùng dưới đồi, có tác dụng k
 
 • Tránh giao hợp vào ngày phóng noãn: Dựa vào khoảng thời gian cố định từ lúc phóng noãn đến ngày có kinh đầu tiên của chu kỳ kế tiếp vào khoảng 14 ngày, ta có thể tính được ngày phóng noãn. Hai tác giả Kyusaku Ogino và Hermann Knaus đã đưa ra phương pháp tính để xác định thời gian "an toàn" là khoảng thời gian chắc chắn không có hiện tượng phóng noãn (Hình 8-17). Với cách tính này, thời gian an toàn là khoảng 1 tuần trước ngày có kinh lần sau.
 
-| 1       | 2 | 3 | 4 | 5 | 6 | 7        | 8 | 9 | 10 | 11 | 12 | 13            | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24      | 25 | 26 | 27 | 28 | 29 | 30 | 1           | 2 | 3 |
-|---------|---|---|---|---|---|----------|---|---|----|----|----|---------------|----|----|----|----|----|----|----|----|----|----|---------|----|----|----|----|----|----|-------------|---|---|
-| An toàn |   |   |   |   |   | Bấp bênh |   |   |    |    |    | Không an toàn |    |    |    |    |    |    |    |    |    |    | An toàn |    |    |    |    |    |    | Kinh nguyệt |   |   |
-|         |   |   |   |   |   | Th.T     |   |   |    |    |    |               |    |    |    |    |    |    |    |    |    |    |         |    |    |    |    |    |    |             |   |   |
+|                                                                                          |  | An toan<br>bildna dål |  |          |  |  |      | Không an toàn |  |  |  |  | An toàn |  |  | nguyet |  |
+|------------------------------------------------------------------------------------------|--|-----------------------|--|----------|--|--|------|---------------|--|--|--|--|---------|--|--|--------|--|
+|                                                                                          |  |                       |  | Bấp bênh |  |  | Th.T |               |  |  |  |  |         |  |  | Kinh : |  |
+| . 2 314 5 617 8 9 10 111 12 13 14 15 16 17 18 19 20/21 22 23/24 25 26 27 28 29 30/1 2 3/ |  |                       |  |          |  |  |      |               |  |  |  |  |         |  |  |        |  |
 
 Hình 8-17. Tính vòng kinh theo phương pháp Ogino và Knaus
 
@@ -4137,15 +3921,11 @@ Cơ xương gồm nhiều bó sợi cơ xếp song song dọc theo chiều dài 
 
 Màng sợi cơ gồm một màng tế bào thực sự gọi là màng sinh chất (plasma membrane) và một lớp vỏ mỏng bao boc bên ngoài, lớp vỏ này chứa nhiều sợi collagen. Ở mỗi tận cùng của sợi cơ, lớp vỏ mỏng với sợi gân. Sau đó các sợi gân tập trung thành từng bó để tạo ra gân của cơ và bám vào xương.
 
-Image /page/168/Figure/0 description: This image shows a diagram of the structure of muscle tissue. The diagram starts with a depiction of the arm labeled A, with the muscle labeled Co. The diagram then zooms in to show the structure of the muscle tissue at different levels of magnification. At level B, the diagram shows a bundle of muscle fibers labeled "Bó sợi cơ". At level C, the diagram shows a single muscle fiber labeled "Sợi cơ". At level D, the diagram shows a myofibril labeled with "Băng H", "Biaz", "Băng A", and "Băng I". At level E, the diagram shows a sarcomere, which is the basic unit of muscle contraction, labeled with "Z-Sarcomere Z" and "Tơ cơ". The diagram also shows the proteins that make up the sarcomere, including actin and myosin. The actin filaments are labeled "Sợi actin F" and "Phân tử actin G", and the myosin filaments are labeled "Sợi myosin" and "Phân tử myosin". The diagram also shows cross-sections of the muscle tissue at different points, labeled F, G, H, and I.
-
 Hình 9-1. Giải phẩu sinh lý cơ xương từ mức cơ đến mức phân tử
 
 ### 1.2. TƠ CƠ (MYOFIBRIL)
 
 Trong cơ tương có rất nhiều tơ cơ. Mỗi sợi cơ chứa khoảng vài trăm đến vài ngàn to cơ. Mỗi tơ cơ lại gồm khoảng 1500 sợi myosin và 3000 sợi actin. Đó là những protein trùng hợp có tác dụng gây co cơ (Hình 9-1 và Hình 9-2). Sợi myosin là sợi dày, sơi actin là sợi mỏng. Các sợi myosin và actin cài vào nhau một phần, làm cho tơ cơ có những giải tối và sáng xen kẽ nhau. Giải sáng chỉ gồm sợi actin gọi là băng I, đẳng hướng với ánh sáng phân cực. Giải tối chứa sợi myosin và các tận cùng của sợi actin cài vào giữa các sợi myosin. Giải tối goi là băng A, ở phần giữa băng A có một vùng sáng goi là vùng H. Từ hai bên của sơi myosin (trừ ở chính giữa sơi) có những phần nhô ra goi là những cầu nối ngang (cross-bridges). Chính sự tác động qua lại giữa các cầu nối này với các sợi actin đã gây ra co cơ (Hình 9-2).
-
-Image /page/169/Figure/0 description: The image shows two diagrams of muscle fibers. The top diagram is labeled "Co gian" and shows the muscle fibers in a relaxed state. The bottom diagram is labeled "Co co" and shows the muscle fibers in a contracted state. The diagrams also show the Z-lines, I-bands, and A-bands of the muscle fibers.
 
 Hình 9-2. Cấu trúc của tơ cơ trong tình trạng cơ giãn và cơ co
 
@@ -4153,11 +3933,9 @@ Những tận cùng của các sợi actin gắn vào vạch Z. Từ vạch này
 
 ### 1.2.1. Cấu trúc phân tử của sợi myosin (sợi dày) (Hình 9-3)
 
-Image /page/169/Figure/4 description: The image shows two diagrams, labeled A and B, illustrating the structure of a molecule. Diagram A depicts a double helix structure labeled "Đuôi" with an arrow pointing to it, and another label "Chuỗi nặng" pointing to the helix. On the right side, there is a cluster of wavy lines labeled "Chuỗi nhe". Diagram B shows a horizontal line labeled "Sợi actin" with arrows pointing to it. Below this line, there is a more complex structure with curved lines and arrows pointing to different parts. These parts are labeled as "Cầu nối ngang", "Bản lề", and "Thân sơi". The entire structure in diagram B is labeled as "Cấu trúc sợi myosin".
-
 A: phân tử myosin B: sơi myosin
 
-### Hình 9-3. Cấu trúc sợi myosin
+Hình 9-3. Cấu trúc sợi myosin
 
 Sợi myosin gồm nhiều phân tử myosin, mỗi phân tử myosin có trong lượng phân tử là 480.000 và gồm 6 chuỗi polypeptid, hai chuỗi năng và 4 chuỗi nhẹ. Hai chuỗi nặng xoắn vào nhau tạo ra dây xoắn kép. Ở một đầu dây, mỗi chuỗi năng gấp lai thành một khối protein hình cầu gọi là đầu myosin. Như vậy mỗi dãy xoắn kép của phân tử myosin có hai đầu nằm cạnh nhau. Phần kéo dài của dây xoắn gọi là đuôi. Bốn chuỗi nhẹ nằm ở phần đầu myosin, mỗi đầu có hai chuỗi. Những chuỗi nhẹ này giúp kiểm soát chức năng của đầu myosin trong quá trình co cơ.
 
@@ -4177,13 +3955,11 @@ Khung của sơi actin là phân tử actin F xoắn kép. Chiều dài của m�
 
 - Troponin. Troponin gồm 3 tiểu đơn vị: troponin T, troponin T và troponin C. Troponin I có ái lực mạnh với actin; troponin T có ái lực với tropomyosin và troponin C với ion Ca\*. Phức hợp troponin có chức năng gắn tropomyosin vào actin. Ái lưc của troponin với ion Ca\*sẽ khởi đông quá trình co cơ.
 
-Image /page/171/Picture/0 description: The image shows a diagram of a muscle fiber. The diagram includes labels for "Phuc hap troponin", "Vị trí hoạt động", "Tropomyosin", and "Actin F".
-
 Hình 9-4. Cấu trúc sơi actin
 
 ### 1.3. CO TƯƠNG (SARCOPLASM)
 
-Cơ tương gồm những thành phần nội bào thông thường. Dịch cơ tương chứa nhiều ion  $K^+$ , ion  $Mg^{++}$ , phosphat, protein enzym. Một số lớn ti lạp thể (mitochondria) nằm ở giữa và song song với các tơ cơ, chứng tỏ rằng sự co của các tơ cơ cần một lương ATP rất lớn đươc tao ra trong các ti lap thể.
+Cơ tương gồm những thành phần nội bào thông thường. Dịch cơ tương chứa nhiều ion K', ion Mg+, phosphat, protein enzym. Một số lớn ti lạp thể (mitochondria) nằm ở giữa và song song với các tơ cơ, chứng tỏ rằng sự co của các tơ cơ cần một lương ATP rất lớn đươc tao ra trong các ti lap thể.
 
 ### 1.4. MANG NỘI CƠ TƯƠNG (SARCOPLASMIC RETICULUM)
 
@@ -4195,8 +3971,6 @@ Các ống dọc của mạng nội cơ tương: nằm song song với các tơ 
 
 Các bề chứa tận cùng: tiếp giáp với các ống ngang và có những chân nối gắn vào màng của ống ngang, giúp cho sự truyền các tín hiệu kích thích từ ống ngang đến các bế chứa và ống dọc của mạng nội cơ tương.
 
-Image /page/172/Figure/0 description: This image shows a diagram of muscle tissue. The diagram is labeled with the following terms: To co, Mang soi co, Ong ngang, Vach z, Mang noi co tuong, Bang A, Ti lap the, Bang I, Ong ngang, tan cung, and Cac ong doc. The diagram shows the different components of muscle tissue, including the muscle fibers, the connective tissue, and the blood vessels.
-
 Hình 9-5. Hệ thống ống ngang-bế chứa tận cùng va các ống dọc của màng nội cơ tương
 
 ### 1.5. NỐI THẦN KINH - CƠ (NEUROMUSCULAR JUNCTION)
@@ -4204,8 +3978,6 @@ Hình 9-5. Hệ thống ống ngang-bế chứa tận cùng va các ống dọc 
 Các sợi cơ xương được điều khiển bởi những sợi thần kinh có myelin xuất phát từ các nơron vận động của sừng trước tủy sống. Mỗi sợi thần kinh chia nhánh nhiều lần và kích thích từ vài sợi đến vài trăm sợi cơ xương. Tận cùng thần kinh tạo ra một chỗ nối với sợi cơ gọi là nối thần kinh-cơ ở gần giữa sơi cơ và điên thế hoạt động sẽ được lan truyền theo cả hai hướng về hai đầu của sợi cơ. Mỗi sợi cơ chỉ có một nối thần kính-cơ cũng gọi là tấm tận cùng vận động (motor end-plate) có cấu trúc như sau (Hình 9-6): mỗi tận cùng sợi trục thần kinh (goi là cúc tận cùng) lồng vào sơi cơ
 
 nhưng vẫn nằm hoàn toàn bên ngoài màng sợi cơ. Trong cúc tận cùng có nhiều ti lap thể để cung cấp năng lượng cho sự tổng hợp chất đần truyền thần kinh acetylcholin. Acetylcholin sau khi được tổng hợp sẽ được chứa trong những túi nhỏ. Mỗi cúc tân cùng có khoảng 300.000 túi nhỏ này. Giữa cúc tận cùng và màng sơi cơ là khe synap rông khoảng 20 đến 30 nm, chứa nhiều men acetylcholinesterase có khả năng phân giải acetylcholin.
-
-Image /page/173/Picture/1 description: The image contains three diagrams labeled A, B, and C, each illustrating different biological structures. Diagram A shows a longitudinal section of a nerve fiber with labels pointing to "Sợi truc" (nerve fiber), "Bao myelin" (myelin sheath), "Nhánh tận cùng thần kinh" (nerve ending), "Tơ cơ" (muscle fiber), and "Nhân tế bào" (cell nucleus). Diagram B depicts a cluster of interconnected, rounded structures, possibly representing cells or vesicles. Diagram C illustrates a detailed view of a nerve terminal, labeled "Tận cùng sợi trục" (nerve terminal), enclosed in a "Bọc chứa chất truyền đạt thần kinh" (vesicle containing neurotransmitters), surrounded by mitochondria-like structures.
 
 Hình 9-6. Cấu trúc của tấm tận cùng vân đông
 
@@ -4219,7 +3991,7 @@ Khởi động quá trình co cơ bắt đầu bằng sự xuất hiện điện
 
 từ mang nội cơ tương. Ion Cat sẽ khởi động các phản ứng hóa học của co cơ. Toàn bô quá trình này để kiểm soát co cơ, được goi là sự ghép đôi giữa kích thích và co cơ, diện ra như sau.
 
-Khi sợi cơ xương bị kích bởi thần kinh, điện thế hoạt động truyền qua tấm vận động tân cùng đến màng sợi cơ rồi theo các ống ngang (ống chữ T) vào sâu bên trong của sơi cơ. Sau đó điên thế hoạt động được truyền đến các bế chứa tân cùng và các ống dọc của mạng nội cơ tương sẽ kích thích làm mở một số lớn kênh calci ở mạng nội cơ tương. Các kênh calci mở trong vài miligiây, ion Ca\* được giải phóng vào cơ tương bao quanh các tơ cơ để kích thích co cơ. Cơ tiếp tục co khi ion Ca\*\* có trong dịch cơ tương với nồng độ cao. Sau đó, bơm calci khu trú ở thành của mạng nội cơ tương sẽ bơm ion Ca từ dịch cơ tương trở lại mạng nội cơ tương, làm cho nồng độ ion  $Ca^{++}$  ở trong mạng nội cơ tương cao gấp 10.000 lần ở dịch cơ tương và cơ sẽ giãn ra.
+Khi sợi cơ xương bị kích bởi thần kinh, điện thế hoạt động truyền qua tấm vận động tân cùng đến màng sợi cơ rồi theo các ống ngang (ống chữ T) vào sâu bên trong của sơi cơ. Sau đó điên thế hoạt động được truyền đến các bế chứa tân cùng và các ống dọc của mạng nội cơ tương sẽ kích thích làm mở một số lớn kênh calci ở mạng nội cơ tương. Các kênh calci mở trong vài miligiây, ion Ca\* được giải phóng vào cơ tương bao quanh các tơ cơ để kích thích co cơ. Cơ tiếp tục co khi ion Ca\*\* có trong dịch cơ tương với nồng độ cao. Sau đó, bơm calci khu trú ở thành của mạng nội cơ tương sẽ bơm ion Ca từ dịch cơ tương trở lại mạng nội cơ tương, làm cho nồng độ ion Cat ở trong mạng nội cơ tương cao gấp 10.000 lần ở dịch cơ tương và cơ sẽ giãn ra.
 
 ### 2.2. SỰ TƯƠNG TÁC GIỮA SỢI ACTIN, SỢI MYOSIN VÀ ION Ca\* ĐỂ GÂY CO CƠ
 
@@ -4227,11 +3999,9 @@ Khi cơ ở trạng thái giãn, các vị trí hoạt động trên sợi actin
 
 Khi có một lượng rất lớn ion Ca++ được giải phóng vào dịch cơ tương thì tác dụng ức chế của troponin-tropomyosin sẽ bị mất đi, theo cơ chế sau: troponin C gắn với ion Ca\* (mỗi phân tử có thể gắn với 4 ion Ca\*) làm cho phức hợp troponin thay đổi hình dạng và kéo tropomyosin vào sâu trong rãnh giữa hai dây xoắn actin. Kết quả là các vị trí hoạt động của sợi actin được bộc lộ.
 
-Ngay khi sợi actin được hoạt hóa bởi ion  $Ca^{++}$ , các đầu myosin của các cầu nối sẽ gắn vào những vị trí hoạt động trên sợi actin, gây ra sự biến đổi sâu sắc các lực nội phân tử giữa đầu và tay của cầu nối, làm cho đầu nghiêng về phía tay và kéo sợi actin đi theo nó. Ngay sau đó đầu myosin lại bứt khỏi vị trí hoạt động và trở lại hướng thắng góc lúc bình thường (Hình 9-7).
+Ngay khi sơi actin được hoat hóa bởi ion Catt, các đầu myosin của các cầu nối sẽ gắn vào những vị trí hoạt động trên sợi actin, gây ra sự biến đổi sâu sắc các lực nội phân tử giữa đầu và tay của cầu nối, làm cho đầu nghiêng về phía tay và kéo sợi actin đi theo nó. Ngay sau đó đầu myosin lại bứt khỏi vị trí hoạt động và trở lại hướng thắng góc lúc bình thường (Hình 9-7).
 
-Image /page/174/Figure/6 description: The image shows a diagram of muscle contraction. The diagram shows two protein filaments, actin and myosin. The actin filament is labeled "Sợi actin" and "Vị trí hoạt động". The myosin filament is labeled "Sợi myosin". The diagram also shows the movement of the actin filament, labeled "Vận động.", and the force of the myosin filament, labeled "Lực kéo". The diagram also shows the hinge of the myosin filament, labeled "Bản lề".
-
-Hình 9-7. Cơ chế gắn và tách các đầu myosin với sợi actin để gây cơ co
+Hình 9-7. Cơ chế gắn và tách các đầu myosin với sơi actin để gây cơ co
 
 Các cầu nối hoạt động độc lập với nhau. Mỗi cầu nối gắn và kéo sơi actin theo một chu kỳ liên tục và ngẫu nhiên. Vì vậy số cầu nối gắn với sợi actin càng nhiều thì lực co cơ cầng lớn.
 
@@ -4252,8 +4022,6 @@ Quá trình này tiếp diễn cho đến khi sợi actin kéo các vạch Z đ�
 # 2.4. ẢNH HƯỞNG CỦA CHIẾU DÀI SARCOMERE LÊN SỰ TĂNG SỨC CĂNG CỦA CƠ KHI SỐI CO CO (HÌNH 9-8)
 
 Tai điểm D trên hình (hình 9-8), các sợi actin đã bị kéo ra khỏi các tận cùng sơi myosin và các sợi myosin không cài vào nhau. Tại điểm này sức căng triển khai trong cơ bằng không. Khi sarcomere ngắn lại, sợi actin bắt đầu cài vào sợi myosin, sức căng tăng dân cho đến khi chiều dài sarcomere giam xuống đến 2,2 micromet. Tại điểm này sợi actin đã cài vào tất cả cầu nối của sợi myosin nhưng vẫn còn chưa đạt đến trung tâm của sợi myosin. Khi chiều dài sarcomere giảm xuống còn 2 micromet, các đầu của hai sợi actin bắt đầu gối lên nhau và cài sâu thêm vào các sơi myosin. Tại điểm này sức căng của cơ vân tăng. Khi chiều dài sarcomere giám từ 2 xuống còn 1,65 micromet (điểm A), lưc co cơ sẽ giảm. Tai điểm này, hai vach Z của sarcomere đã chạm vào hai đầu của sợi myosin. Co cơ vẫn tiếp diễn làm cho sarcomere càng ngắn hơn nữa, hai đầu của sơi myosin bị ép lại, lực co cơ giảm rất nhanh.
-
-Image /page/176/Figure/1 description: The image is a graph showing the relationship between the length of a sarcomere (in micrometers) and the force of contraction (in percentage). The x-axis represents the length of the sarcomere, ranging from 0 to 4 micrometers. The y-axis represents the force of contraction, ranging from 0% to 100%. The graph shows that the force of contraction increases as the length of the sarcomere increases from 1 to 2 micrometers (point A to point B), reaching a maximum at around 2 micrometers (point B). The force of contraction then remains constant as the length of the sarcomere increases from 2 to 2.5 micrometers (point B to point C). Finally, the force of contraction decreases as the length of the sarcomere increases from 2.5 to 4 micrometers (point C to point D), reaching 0% at around 4 micrometers (point D). There are also four small images of sarcomeres at different lengths, labeled A, B, C, and D, corresponding to the points on the graph.
 
 Hình 9-8. Liên quan giữa chiều dài và sức căng trong một Sarcomere
 
@@ -4281,7 +4049,7 @@ trong đó W là công, L là trong tải, D là khoảng cách mà trong tải 
 
 ### 3.2. NHỮNG NGUÔN NĂNG LƯỢNG CHO CO CO
 
-Cơ co phụ thuộc vào năng lượng do ATP cung cấp. Một phần lớn năng lượng cần cho viêc thực hiên cơ chế trượt, nghĩa là để cho các cầu nối kéo các sơi actin. Một phần năng lượng được dùng để bơm calci từ dịch cơ tương vào mạng nội cơ tương sau khi cơ đã ngừng co và để bơm ion Na<sup>+</sup>, ion K<sup>+</sup> qua màng sợi cơ, duy trì môi trường ion thích hợp cho sự dẫn truyền các điện thế hoạt động.
+Cơ co phụ thuộc vào năng lượng do ATP cung cấp. Một phần lớn năng lượng cần cho viêc thực hiên cơ chế trượt, nghĩa là để cho các cầu nối kéo các sơi actin. Một phần năng lượng được dùng để bơm calci từ dịch cơ tương vào mạng nội cơ tương sau khi cơ đã ngừng co và để bơm ion Na , ion K qua màng sơi cơ, duy trì môi trường ion thích hợp cho sự dẫn truyền các điện thế hoạt động.
 
 Nồng độ ATP trong sợi cơ vào khoảng 4 mmol, chỉ đủ để duy trì co cơ đầy đủ trong khoảng 1 đến 2 giây. Tuy nhiên sau khi ATP bị phân giải thành ADP, phân tử ADP sẽ được tái phosphoryl hóa để tao ra phân tử ATP mới trong một phần của giây. Nguồn năng lượng để tái tạo ATP là phosphocreatin (PC), là chất có dây nối phosphat giàu năng lượng giống như ATP. Dây nối phosphat giàu năng lượng của phosphocreatin có số năng lượng tự do cao hơm dây nối của ATP. Do đó phosphocreatin nhanh chóng phản ứng với ADP để tái tao ATP:
 
@@ -4327,8 +4095,6 @@ Các cơ xương của cơ thể có kích thước rất khác nhau ví dụ c�
 
 Hình 9-9 minh họa co đắng trường của ba loại cơ xương: cơ nhãn cầu có thời gian co dưới 1/40 giây, cơ bung chân có thời gian co khoảng 1/15 giây và cơ gan bàn chân có thời gian co vào khoảng 1/5 giây. Thời gian co này thích hợp với chức năng của từng loại cơ. Vận động của cơ nhãn cầu phải rất nhanh để mắt cố định được trên các vật đặc hiệu. Cơ bung chân phải co tương đối nhanh để chân có thể chay hoặc nhảy trong khi cơ gan bàn chỉ cần co châm để liên tuc đỡ cho cơ thể chống lai trong lưc.
 
-Image /page/179/Figure/5 description: This figure shows three curves representing the force of contraction of different muscles over time. The x-axis represents time in milliseconds, ranging from 0 to 200. The y-axis represents the force of contraction. The first curve, labeled "Cơ nhân cầu", peaks at around 10 milliseconds. The second curve, labeled "Cơ bụng chân", peaks at around 40 milliseconds. The third curve, labeled "Cơ gan bàn chân", peaks at around 120 milliseconds.
-
 Hình 9-9. Thời gian co đẳng trường của các loại cơ khác nhau. Có một giai đoạn chậm giữa điện thế hoạt động và co cơ
 
 Mỗi cơ của cơ thể bao gồm cả những sợi cơ nhanh, những sợi cơ chậm và những sợi cơ trung gian. Những cơ phản ứng rất nhanh gồm chủ yếu các sơi cơ nhanh, các sợi có kích thước lớn và chứa nhiều mạng nội cơ tương hơn các sơi cơ châm.
@@ -4352,8 +4118,6 @@ Tổng các co cơ có nghĩa là cộng các co cơ riêng rẽ để làm cho 
 Khi kích thích cơ với tần số tăng dần, mức độ co của cơ sẽ lớn dần, ta gọi là cộng tần số, được minh hoa trong Hình 9-10. Nếu kích thích cơ với những tần số cao hơn, những co cơ liên tục sẽ hòa vào nhau gây ra tình trang co cứng. Tần số thấp nhất để gây ra co cứng goi là tần số tới han (critical frequency).
 
 Nguyên nhân của co cứng một phần là do những đặc tính nhớt của cơ và một phần do bản chất của chính quá trình co cơ. Các sợi cơ chứa đầy cơ tương là một dịch nhớt, và được bao bọc trong các màng và bao cơ. Những yếu tố này ngăn cản sự thay đổi chiều dài của cơ, làm cho những co cơ liên tiếp sẽ hòa vào nhau. Ngoài ra do cơ bi kích thích liên tiếp nên nồng độ ion Ca++ trong cơ tương luôn ở mức cao hơn nồng độ gây hoạt hóa co cơ (do các bơm calci ở màng của mạng nội cơ tương không đủ thời gian đẻ bơm calci từ cơ tương vào mang nổi cơ tương) sẽ gây ra sự co cơ liên tuc. Khi đã đat đến tần số tới han của co cứng, sư tăng thêm tần số kích thích cũng chỉ làm tăng lực co cơ thêm vài phần trăm.
-
-Image /page/181/Figure/0 description: This image shows a graph with the x-axis labeled "Tần số kích thích (số lần giây)" and the y-axis labeled "Lực co cơ". The graph shows a curve that starts with oscillations and then gradually increases and flattens out. The x-axis ranges from 5 to 55, with tick marks at intervals of 5. The curve is labeled "Co cứng" at the top right.
 
 Hình 9-10. Cộng tần số và co cứng
 
@@ -4401,8 +4165,6 @@ So với sợi cơ xương, sợi cơ trơn có kích thước nhỏ hơn nhiề
 
 Cơ tron của các cơ quan khác nhau thường rất khác nhau. Nhưng để đơn giản hóa có thể chia cơ trơn làm hai loại chính: cơ trơn nhiều đơn vị và cơ trơn mốt đơn vị (Hình 9-11)
 
-Image /page/183/Figure/6 description: The image shows two diagrams labeled A and B, illustrating different types of smooth muscle. Diagram A, titled "Cơ trơn nhiều đơn vị" (Multi-unit smooth muscle), depicts elongated, spindle-shaped cells arranged in a parallel fashion. Diagram B, titled "Cơ trơn một đơn vị" (Single-unit smooth muscle) and "Động mạch nhỏ" (Small artery), shows a cross-sectional view of a vessel wall with three layers labeled as "Ngoại mạc" (Adventitia), "Các sợi cơ giữa" (Middle muscle fibers), and "Nội mạc" (Intima).
-
 Hình 9-11. Các loại cơ trơn
 
 Cơ trơn nhiều đơn vị: gồm nhiều sợi cơ trơn riêng rẽ, mỗi sợi hoạt động hoàn toàn độc lập, được điều khiển bởi một tận cùng thần kinh đơn độc. Mặt ngoài của
@@ -4422,8 +4184,6 @@ Tuy nhiên có một số điểm khác nhau về cấu trúc vật lý, về s�
 ### 2.2. CO SÓ VẬT LÝ CỦA CO CƠ
 
 Hình 9-12 minh họa cấu trúc vật lý của sợi cơ trơn. Trong sợi cơ trơn, một số lớn sợi actin gắn vào thể đặc (dense body), một số thể đặc lại gắn vào màng tế bào, một số khác nằm phân tán bên trong tế bào và được giữ yên tại chỗ bởi những protein cấu trúc nối các thể đặc với nhau. Ngoài ra một số thể đặc nằm trên màng của những tế bào cạnh nhau cũng nối với những cầu protein. Chính nhờ những cầu nối này mà lưc co cơ đươc truyền từ tế bào no sang tế bào kia. Trong sợi cơ, xen kẽ giữa nhiều sơi actin là một ít sợi myosin, có đường kính lớn gấp đôi đường kính của sợi actin. Bên phải của hình minh họa cấu trúc của một đơn vị co riêng lẻ trong tế bào cơ trơn. Ta thấy một số lớn sơi actin tỏa ra từ hai thể đặc và gối vào một sơi myosin nằm ở giữa hai thể đặc. Đơn vị co này giống như đơn vị co của cơ xương. Các thể đăc của cơ trơn có vai trò giống như vạch Z của cơ xương.
-
-Image /page/185/Figure/0 description: This image shows a diagram of a cell structure with labels in Vietnamese. The labels point to different parts of the cell, including "Sdi actin" (actin filaments), "The đac" (dense bodies), "Sdi myosin" (myosin filaments), and "Mang tê bao" (cell membrane).
 
 Hình 9-12. Cấu trúc vật lý của sợi cơ trơn
 
@@ -4471,8 +4231,6 @@ Các sợi thần kinh thực vật điều khiển cơ trơn thường phân nh
 
 Acetylcholin là chất truyền đạt kích thích đối với các sợi cơ trơn của một số cơ quan, nhưng lại là chất truyền đạt ức chế đối với cơ trơn trong một số cơ quan khác. Khi acetylcholin kích thích một sợi cơ, noradrenalin thường ức chế sợi cơ đó và ngược lại.
 
-Image /page/188/Figure/0 description: This image shows two different types of muscle tissue. On the left is "Cơ tang", and on the right is "Cơ nhiều đơn vi". A structure labeled "Cuc nhỏ" is connected to both types of muscle tissue.
-
 Hình 9-13. Sư phân bố thần kinh đến sợi cơ trơn
 
 Cả acetylcholin và noradrenalin kích thích hoặc ức chế cơ trơn bằng cách gắn với protein receptor trên bề mặt của màng sợi cơ. Receptor này kiểm soát sự đóng hoặc mở các kênh ion hoặc bằng kiểm soát một số phương tiện khác để hoạt hóa hoặc ức chế sợi cơ trơn. Một số protein receptor là receptor kích thích trong khi một số khác là receptor ức chế. Như vậy chính loại receptor là yếu tố quyết định cơ trơn sẽ bị ức chế hay bị kích thích và cũng quyết định chất truyền đạt thần kinh nào (acetylcholin hay noradrenalin) sẽ có tác dung để gây kích thích hoặc ức chế.
@@ -4495,7 +4253,7 @@ Hâu hết các hormon trong máu tuần hoàn đều có ảnh hưởng đến 
 
 Hormon gắn với receptor kích trên màng tế bào cơ sẽ làm mở các kênh Na hoặc kênh Ca và gây khử cực màng, điện thể hoạt động xuất hiện. Trong nhiều trường hợp, khử cực xẩy ra mà điện thế hoạt động không xuất hiện. Khi đó, khử cực màng phối hợp với dòng Ca + đi vào trong tế bào để gây co cơ.
 
-Khi hormon gắn với các receptor ức chế thì việc này làm đóng các kênh Na và kênh Ca<sup>++</sup>, ngăn các ion này vào trong tế bào hoặc làm mở các kênh K<sup>+</sup> để cho ion K<sup>+</sup> đi ra dịch ngoại bào. Cả hai trường hợp này đều gây tình trạng ưu phân cực màng và ức chế co cơ.
+Khi hormon gắn với các receptor ức chế thì việc này làm đóng các kênh Na và kênh Ca'', ngăn các ion này vào trong tế bào hoặc làm mở các kênh K\* để cho ion K' đi ra dịch ngoại bào. Cả hai trường hợp này đều gây tình trạng ưu phân cực màng và ức chế co cơ.
 
 # 3.3. ĐIỀU HÒA CO CƠ TRƠN DO CÁC YẾU TỐ TẠI CHỔ.
 
@@ -4521,7 +4279,7 @@ Hê thần kinh tiếp nhân những thông tin từ môi trường tới nó nh
 
 - Trí nhớ là khả năng của hệ thần kinh giữ lại dấu vết của kích thích từ môi trường bên ngoài hay bên trong cơ thể (dễ chịu, khó chiu, đau đớn...), gắn kích thích đó với hoàn cảnh mà nó đã phát sinh và sự đánh giá kích thích đó (vô hai, có hại, có ích...) và có thể làm tái hiện chúng hoặc trong ý nghĩ, hoặc là bằng một hành động lặp lại hành động trước đó đã có. Do nó gắn cảm giác với nguyên nhân ban đầu nên trí nhớ là cơ sở của tri thức. Do nó đối chiếu cảm giác hiện tại với một cảm giác đã qua nên trí nhớ giúp ta nhận biết sự vật và các tính chất của sư vât. Do nó sắp xếp các tri thức theo nguồn gốc phát sinh nên trí nhớ là cơ sở của kinh nghiệm. Sự tích lũy kinh nghiệm của quá khứ giúp cho sự dự đoán tương lai.
 
-- Do đánh giá được về lượng và về chất của những gì xảy ra ở môi trường, cơ thể có khả năng thích nghi và sắp xếp các đáp ứng vận động khiến cho chúng có tính có mục đích nhờ sự kiểm soát của hệ thần kinh. Cho dù kích thích như thế nào, cho dù các đáp ứng vận động có khác nhau thì các đáp ứng phản xạ, tự động hay tùy ý đều có động cơ và đều gắn với một mức độ ý thức nhất định tùy theo độ phức tạp của các vòng thần kinh tham gia. Nhưng ngoài đáp ứng đã được thực hiện còn có nhiều đáp ứng khác gần giống hoặc khác biệt ít nhiều cũng có thể diễn ra; bởi vậy lại còn có sự chon lựa, sự định hướng, sư giảm thiểu hoặc kìm hãm đáp ứng đang xảy ra (sự ức chế) nếu nó tỏ ra không phù hợp hoặc có hại. Không có sự ức chế thì không có sự chọn lựa. Sự phân biệt cái lợi và cái hại, cái thuận lợi và cái bất lơi là nhờ bản năng và sự thông minh.
+- Do đánh giá được về lượng và về chất của những gì xảy ra ở môi trường, cơ thể có khả năng thích nghi và sắp xếp các đáp ứng vận động khiến cho chúng có tính có mục đích nhờ sự kiểm soát của hệ thần kinh. Cho dù kích thích như thế nào, cho dù các đáp ứng vận động có khác nhau thì các đáp ứng phản xạ, tự động hay tùy ý đều có động cơ và đều gắn với mức độ ý thức nhất định tùy theo độ phức tạp của các vòng thần kinh tham gia. Nhưng ngoài đáp ứng đã được thực hiện còn có nhiều đáp ứng khác gần giống hoặc khác biệt ít nhiều cũng có thể diễn ra; bởi vậy lại còn có sự chon lựa, sự định hướng, sư giảm thiểu hoặc kìm hãm đáp ứng đang xảy ra (sự ức chế) nếu nó tỏ ra không phù hợp hoặc có hại. Không có sự ức chế thì không có sự chọn lựa. Sự phân biệt cái lợi và cái hại, cái thuận lợi và cái bất lơi là nhờ bản năng và sự thông minh.
 
 - Đáp ứng bản năng và đáp ứng thông minh đều xuất phát từ một kích thích hay từ một nhu cầu và đều hướng về một mục đích xác định. Đáp ứng bản năng thì mù quáng, kết quả luôn cố định. Đối với đáp ứng thông minh thì mục đích được đặt ra trước. Cung phản xạ của đáp ứng bản năng thì cố định, trước một tình huống thì chỉ có một giải pháp; còn sự thông minh thì nhờ có tính mềm deo và linh hoat nên có nhiều giải pháp trước cùng một tình huống, sử dụng đến những kinh nghiệm đã được lưu giữ trong trí nhớ, vì vậy mà có sự do dự và hoài nghi. Động vật và người đều có đáp ứng bản năng và đáp ứng thông minh nhưng với tỷ lệ rất khác nhau. Ở người, các đáp ứng bản năng có thể trở thành các đáp ứng có ý thức và các đáp ứng có ý thức có thể trở thành các đáp ứng bản năng. Trí thông minh giao cho bản năng thực hiện các đáp ứng cấp thấp khi các đáp ứng này đã được hoàn thiện, không cần phải kiếm soát chẽ trong lúc thực hiện nữa mà chỉ cần sự cho phép xảy ra mà thôi. Ở động vật thì ngươc lai: bản năng hướng các đáp ứng về môt mục đích bất di bất dịch và sự thông minh chỉ tham gia vào sự thực hiện từng đáp ứng riêng rẽ. Sự thông minh còn có tính tích lũy được, tăng tiến được, phát triển được tùy thuộc vào từng cá thể và tạo nên tính cách riêng. Như vậy, bản năng có tính chủng loại còn sư thông minh có tính cá thể.
 
@@ -4557,8 +4315,6 @@ Hệ thần kinh trung ương không phải chỉ là sự chồng xếp lên nh
 
 Đế đảm bảo sự thống nhất của cơ thể và sự đáp ứng với môi trường, ngoài các cấu trúc liên hợp rất nhiều, rất hoàn thiên đã nêu trên, ở vùng hành-cầu não còn có cấu tạo lưới là một mạng sợi và tế bào thần kinh lấp vào các khoảng trống giữa các nhân xám trung ương. Cấu tạo lưới có tác dụng điều hòa hoạt động của tủy sống qua các bó xuống tủy và có tác dụng hoat hóa vỏ não qua các liên hê đi lên. Nó là một hệ thống dẫn truyền không đặc hiệu, có chức năng điều hòa chung về hành vi, đặc biệt là các trạng thái thức-ngủ, cảnh giác. Hình 10-1 là sơ đồ về tổ chức chức năng của hê thần kinh.
 
-Image /page/195/Figure/0 description: This image is a diagram of the human brain, with various parts labeled in Vietnamese. The diagram shows a side view of the brain, with the cerebral cortex, cerebellum, and brainstem clearly visible. The cerebral cortex is labeled as "Não mới," the cerebellum as "Tiểu não," and the brainstem as "Hanh não." Other labeled parts include "Đôi thi," "Tích hợp cảm giác," "Trung tâm thực vật," "Cử động mắt, phản xạ tư thế," "Tăng trương lực," "Trung tâm cảm giác vận động của mặt (Ⅰ, Ⅱ, Ⅲ)," "Nghe ( cảm giác)," "Vị trí đầu (XIII vận động)," "Ức chế trương lực cảm giác, vận động (IX, X, XI, XII)," and "Dẫn truyền cảm giác vận động, trung tâm thực vật."
-
 Hình 10-1. Sơ đồ tổ chức chức năng của hê thần kinh.
 
 # 2. HÊ THÂN KINH THƯC VẬT
@@ -4574,8 +4330,6 @@ Vai trò tối hâu của hê thần kinh là điều hòa, kiếm soát các ho
 Hê thần kinh của người mang các đặc điểm của các giai đoạn tiến hóa. Từ sự kế thừa tiến hóa ấy, hê thần kinh có ba mức đô có chức năng đăc hiêu khác nhau nhưng liên hê mật thiết với nhau về mặt giải phầu cũng như về mặt chức năng: mức tủy sống, mức thấp của não và mức vỏ não. Tủy sống không phải chỉ dẫn tín hiệu từ ngoại vi tới não hay từ não ra các cơ quan đáp ứng còn là trung tâm của một số phản xa và các chức năng của riêng tủy vẫn được bảo tồn ngay cả khi tủy bị đứt ngang ở trên đoạn cổ (ví dụ: các phản xạ vận mạch, phản xạ trương lực, chi phối cử động của da dày-ruột). Có thể nói là các tầng cao của hệ thần kinh thường hoat đông không phải bằng cách đưa trưc tiếp tín hiêu ra cơ quan đáp ứng mà băng cách truyền tín hiệu tới các trung tâm ở tủy, "ra lệnh" cho các trung tâm này thực hiên chức năng của chúng. Các cấu trúc thuộc phần thấp của não (hành não, cầu não, não giữa, vùng dưới đồi, đồi thi, tiểu não, các nhân nền) chi phần lớn các hoat động không ý thức: hành-cầu não chi phối huyết áp và nhip thở; phần tiểu não cũ và cấu tao lưới của thân não tham gia giữ thăng bằng và tư thế; hành-cầu não, não giữa, hanh nhân là trung tâm của những phản xạ về ăn uống; các cấu trúc dưới vỏ đặc biệt là "não khứu" và hạnh nhân não (amygdala) còn đóng vai trò rất quan trong trong cảm xúc và các đáp ứng hành vi (con vật bị mất vỏ não vẫn còn phản ứng với đau hay cảm khoái, vẫn còn biểu hiện giân dữ, kích động, hoạt động tình duc). Chức năng của phần của hê thần kinh là mức vỏ não là một vấn đề hết sức phức tap và cho đến nay, những điều chưa được biết còn nhiều hơn những
 
 điều được biết. Vỏ não không hoạt động đơn độc mà luôn luôn phối hợp với các mức thấp hơn của hệ thần kinh. Nếu không có vỏ não thì chức năng của trung tâm thấp hơn thường rất không chính xác. Vỏ não có khả năng chứa thông tin rất lớn và là kho lưu giữ trí nhớ rất lớn và nhờ đó, nó khiến cho các chức năng trở thành các hành động rất chính xác. Vỏ não không thể thiếu được đối với phần lớn quá trình tư duy mặc dù nó cũng không thể làm được việc này một mình: chính các phần thấp làm thức tỉnh, hoạt hóa vỏ não do vậy làm mở "ngân hàng trí nhớ" cho bộ máy tư duy của não.
-
-Image /page/197/Figure/1 description: This image shows a diagram of the human nervous system. The diagram includes the brain, spinal cord, and various organs. The brain is located at the top of the diagram, and the spinal cord runs down the center of the diagram. The organs are located on either side of the spinal cord. The diagram also includes labels for the different parts of the nervous system. The labels are in Vietnamese.
 
 Hình 10-2: Sơ đồ hệ giao cảm.
 
@@ -4596,8 +4350,6 @@ Trong hệ thần kinh, có tới hàng chục tỷ nơron là những tế bào
 1.3. Sơi trục: là tua bào tương dài từ vài micromet đến vài chục centimet. Đầu tận cùng chia thành nhiều nhánh gọi là nhánh tận cùng, mỗi nhánh đó lại tận cùng băng các cức tận cùng cúc tận cùng có chứa nhiều bọc nhỏ bên trong chứa chất truyền đạt thần kinh (neurotransmitter). Nếu một nơron có thể có nhiều receptor thì nó chỉ sản xuất ra môt chất truyền đat mà thôi. Trong sơi truc thì các tơ thần kinh chay song với truc và tiếp nối với mang lưới tơ thần kinh ở thân. Trong sợi trục có nhiều ty lạp thể có vai trò tổng hợp chất truyền đạt.
 
 Các tế bào Schwann bao bọc quanh sợi trục, cuộn thành nhiều lớp, tạo thành vỏ Schwann. Giữa các tế bào Schwann là các eo Ranvier. Giữa các lớp cuộn của tế bào Schwann có chứa chất myelin hay còn gọi là sợi trắng. Ở một số sợi khác lại không có chất myelin giữa các lớp của tế bào Schwann; đó là sợi không myelin hay còn goi là sợi xám.
-
-Image /page/199/Figure/0 description: The image shows several diagrams of neurons. The first diagram on the left shows a neuron with labels pointing to the dendrites, myelin sheath, axon branch, axon, and terminal. The other diagrams show different types of neurons, including a cerebellar granule cell, a Purkinje cell, a sensory neuron, an autonomic neuron, a motor neuron, and a pyramidal cell. Arrows indicate the direction of nerve impulse transmission.
 
 Hình 10-3. Sơ đồ cấu trúc nơron và một số dạng nơron
 
@@ -4631,17 +4383,13 @@ Hình 10-4 mô tả sự lan truyền điện thế hoạt động trên sợi k
 
 Thời gian tồn tai của điện thế hoat đông tai các điểm là bằng nhau; do đó quá trình tái cực sẽ xảy ra trước hết ở điểm bị kích thích đầu tiên rồi lan dần theo chiều dài của sợi theo chiều diễn ra sự khử cực (E).
 
-Tốc độ dẫn truyền trên sợi không myelin tỷ lệ với căn bậc hai của đường kính sơi (vào khoảng 0,5 m/s ở sợi có đường kính rất nhỏ).
-
-Image /page/201/Figure/3 description: The image shows five diagrams labeled A, B, C, D, and E, each depicting a cylindrical structure with varying arrangements of plus signs, minus signs, circles, arrows, and dashed lines. In diagram A, the cylinder is surrounded by plus signs on the outside and minus signs on the inside, separated by a dashed line. Diagram B shows a similar cylinder, but with two pairs of circles between the dashed lines, each pair connected by curved arrows. The plus and minus signs are arranged as in diagram A. Diagram C is similar to B, but with three pairs of circles between the dashed lines, each pair connected by curved arrows. Diagram D shows a cylinder with a series of circles between the dashed lines, each pair connected by curved arrows. The plus and minus signs are arranged as in the previous diagrams. Diagram E shows a cylinder with a series of circles between the dashed lines, and arrows pointing left and right on both the inside and outside of the cylinder. There is also a bracket below the cylinder.
+Tốc độ dẫn truyền trên sợi không myelin tỷ lệ với căn bậc hai của đường kính sơi (vào khoảng 0,5 m/s c sợi có đường kính rất nhỏ).
 
 Hình 10-4: Sự dẫn truyền xung động trên sơi trục không myelin.
 
 ### 4.3. SƯ DẪN TRUYÊN TRÊN SƠI CÓ MYELIN
 
 Màng tế bào Schwann chứa chất sphingomyelin bao quanh sợi trục làm nhiều lớp. Chất sphingomyelin là một chất cách điên tốt, ngăn cản sự khuếch tán của các ion. Tuy nhiên giữa các tế bào Schwann (dài khoảng 1 mm) có các khoảng trống không có chất myelin được gọi là eo Ranvier, tính thấm đối với ion của màng cao hơn màng của một số sợi không myelin tới 500 lần nên các ion qua lai rất dễ dàng. Điện thế hoạt động được lan truyền trên sơi có myelin theo kiểu nhay cách từ eo Ranvier này sang eo Ranvier khác dọc theo chiều dài của sợi trục (hình 10-5).
-
-Image /page/202/Picture/1 description: The image shows a diagram of a nerve cell. The diagram includes labels in Vietnamese, such as "Sợi trục" (axon), "Lớp cuộn có myelin" (myelin sheath), "Bào tương tế bào Schwann" (Schwann cell cytoplasm), "Nhân tế bào Schwann" (Schwann cell nucleus), and "Eo Ranvier" (Node of Ranvier). There are three diagrams of the nerve cell. The first diagram shows a longitudinal section of the nerve cell, with the axon in the center and the myelin sheath surrounding it. The second diagram shows a cross-section of the nerve cell, with the axon in the center and the myelin sheath surrounding it. The third diagram shows a close-up of the Node of Ranvier, with the myelin sheath interrupted at the node.
 
 Hình 10-5: Sơ đô cấu trúc của sơi có myelin và dân truyền trên sơi có myelin.
 
@@ -4653,14 +4401,14 @@ Dẫn truyền theo lối này quan trọng vì hai lý do. Thứ nhất là nh�
 
 Dựa vào sự có bao myelin hay không và dựa vào tốc độ dẫn truyền trên sơi truc, người ta phân chia các sợi theo bảng dưới đây:
 
-| Loại sợi | Chức năng                                                                  | Đường kính<br>(μm) | Tốc độ truyền<br>(m/s) |
-|----------|----------------------------------------------------------------------------|--------------------|------------------------|
-| Aα       | Sợi cảm giác suốt cơ, thị giác, sợi<br>vận động cơ vân                     | 15<br>(9-20)       | 70-120                 |
-| Aβ       | Sợi truyền xúc giác (da)                                                   | 8                  | 30-70                  |
-| Aγ       | Sợi vận động ở suốt cơ                                                     | 5                  | 15-45                  |
-| Aδ       | Dẫn truyền cảm giác nhiệt và đau<br>"nhanh" (da)                           | 3                  | 5-30                   |
-| B        | Tiền hạch giao cảm                                                         | 3                  | 3-15                   |
-| C        | Dẫn truyền cảm giác đau "chậm",<br>sợi hậu hạch giao cảm (không có<br>dia) | 1 (0,5-2)          | 0,5-2                  |
+| Loai sợi | Chức năng                                                                     | Đường kính<br>(um) | Tốc độ truyền<br>(m/s) |
+|----------|-------------------------------------------------------------------------------|--------------------|------------------------|
+| An       | Sợi cảm giác suốt cơ, thị giác, sợi<br>vận động cơ vân                        | 15<br>(9-20)       | 70-120                 |
+| AB       | Sợi truyền xúc giác (da)                                                      | 8                  | 30-70                  |
+| Ay       | Sợi vận động ở suốt cơ                                                        | 5                  | 15-45                  |
+| A8       | Dân truyền cảm giác nhiệt và đau<br>"nhanh" (da)                              | 3                  | 5-30                   |
+| B        | Tiền hạch giao cám                                                            | 3                  | 3-15                   |
+| C        | Dẫn truyền cảm giác đau "chậm",<br>sợi hậu hạch giao cám (không có<br>myelin) | 1 (0.5-2)          | 0,5-2                  |
 
 # 4.6. SỰ DẪN TRUYÊN TRONG MÔT BÓ SƠI
 
@@ -4684,7 +4432,7 @@ Tận cùng trước synap có nhiều hình dạng khác nhau nhưng phần l�
 
 5.4.1. Khi điện thế hoạt động lan tới cúc tận cùng thì màng của cúc tận cùng bị khử cực gây vỡ các bọc nhỏ. Các phân tử chất truyền đạt thần kinh được giải phóng vào khe synap và được gắn với các receptor đặc hiệu làm thay đổi ngay tức khắc tính thấm của màng sau synap và tùy theo tính chất tác dung của nó lên tính thấm của màng sau synap mà nó kích thích hay ức chế nơron.
 
-5.4.2. Khác với những nơi khác trên màng nơron, màng của cúc tận cùng có nhiều kênh Ca\*\* đóng mở theo điện thế. Khi điện thế hoạt động lan đến làm khử cực màng cúc tận cùng thì có một số lớn ion Ca<sup>++</sup> cùng với ion Na<sup>++</sup> sẽ vào cúc tận cùng. Lượng ion Ca\*\* vào cúc tận cùng càng nhiều thì lượng chất truyền đạt thần kinh được giải phóng càng lớn. Cơ chế như sau: các ion Ca<sup>++</sup> vào cúc tận cùng thì gắn vào các phân tử protion ở mặt trong của màng (được gọi là các điểm giải phóng). Điều này làm cho các bọc nhỏ gắn và hòa màng trước synap rồi mở thông ra ngoài giống như hiện tượng tế bào bài tiết (Hình 10-6). Thường thì mỗi điện thế hoat động chỉ làm cho một vài bọc nhỏ giải truyền đạt. Với chất truyền đạt là acetylcholin thì trong mỗi bọc nhỏ có từ 2000 đến 10.000 phân tử và ở cúc tân cùng có đủ số bọc để truyền đạt được từ vài trăm đến hơn 10.000 điện thế hoat động.
+5.4.2. Khác với những nơi khác trên màng nơron, màng của cúc tận cùng có nhiều kênh Ca\*\* đóng mở theo điện thế. Khi điện thế hoạt động lan đến làm khử cưc màng cúc tân cùng thì có một số lớn ion Ca\* cùng với ion Na\*\* sẽ vào cúc tận cùng. Lượng ion Ca\*\* vào cúc tận cùng càng nhiều thì lượng chất truyền đạt thần kinh được giải phóng càng lớn. Cơ chế như sau: các ion Ca\*\* vào cúc tận cùng thì gắn vào các phân tử protion ở mặt trong của màng (được gọi là các điểm giải phóng). Điều này làm cho các bọc nhỏ gắn và hòa màng trước synap rồi mở thông ra ngoài giống như hiện tượng tế bào bài tiết (Hình 10-6). Thường thì mỗi điện thế hoat động chỉ làm cho một vài bọc nhỏ giải truyền đạt. Với chất truyền đạt là acetylcholin thì trong mỗi bọc nhỏ có từ 2000 đến 10.000 phân tử và ở cúc tân cùng có đủ số bọc để truyền đạt được từ vài trăm đến hơn 10.000 điện thế hoat động.
 
 5.4.3. Tất cả các cúc tận cùng của một nơron đều giải phóng ra các chất truyền đạt mà nơron ấy sản xuất cho dù các cúc này nằm ở trong hệ thần kinh trung ương hay ở các cơ quan đích ngoai vi.
 
@@ -4692,11 +4440,9 @@ Tận cùng trước synap có nhiều hình dạng khác nhau nhưng phần l�
 
 5.5.1. Tai synap, màng của nơron sau synap có chứa nhiều protein cảm thụ (protein receptor). Các protein này gồm hai phần quan trọng là phần gắn thò ra ngoài màng về phía khe synap là phần gắn với chất truyền đạt, và phần proteinkênh ion xuyên qua màng vào bên trong nơron. Phần protein-kênh ion có hai loại là loai kênh được hoat hóa học còn loại kia là một enzym làm thay đối chuyển hóa của tế bào.
 
-Image /page/205/Picture/2 description: This image shows two diagrams of a synapse. The left diagram shows a neuron with mitochondria and neurotransmitters. The neurotransmitters are labeled as "Neuro-transmitter (Chất truyền đạt thần kinh)". The right diagram shows a neuron with receptors and neurotransmitters. The neurotransmitters are labeled as "Neuro-transmitter (Chất truyền đạt thân kinh)" and the receptors are labeled as "Receptor".
-
 Hình 10-6: Sơ đồ sự giải phóng, tác dụng lên receptor và tái nhập chất truyền đạt thần kinh ở synap.
 
-5.5.2. Các kênh ion được hoạt hóa khi các receptor gắn với chất truyền đạt thần kinh. Có ba loại kênh là kênh Na<sup>+</sup> (cho Na<sup>+</sup> và một số ít K<sup>+</sup> qua), kênh K<sup>+</sup> (cho K\* qua) và kênh Cl cho Cl và một số anion qua. Kênh Na\* mở thì gây kích thích nơron sau synap như đã trình bày ở phần trên; do đó những chất truyền đạt thần kinh nào làm mở kênh Na được gọi là chất truyền đạt kích thích. Ngược lại, nếu kênh K\* và kênh Cl\* mở ra thì nơron sau synap bị ức chế; do đó những chất truyền đạt nào làm mở môt trong hai kênh hoặc cả hai kênh được goi là chất truyền đạt ức chế.
+5.5.2. Các kênh ion được hoạt hóa khi các receptor gắn với chất truyền đạt thần kinh. Có ba loại kênh là kênh Na\* (cho Na\* và một số ít K\* qua), kênh K\* (cho K\* qua) và kênh Cl cho Cl và một số anion qua. Kênh Na\* mở thì gây kích thích nơron sau synap như đã trình bày ở phần trên; do đó những chất truyền đạt thần kinh nào làm mở kênh Na được gọi là chất truyền đạt kích thích. Ngược lại, nếu kênh K\* và kênh Cl\* mở ra thì nơron sau synap bị ức chế; do đó những chất truyền đạt nào làm mở môt trong hai kênh hoặc cả hai kênh được goi là chất truyền đạt ức chế.
 
 5.5.3. Các receptor là enzym khi bị hoạt hóa thì gây nhiều hiệu ứng khác nhau lên nơron sau synap. Hiệu ứng thứ nhất là hoạt hóa bộ máy chuyển hóa của nơron, tạo ra nhiều adenosin monophosphat vòng (AMPc) và chất này lai kích thích nhiều hoạt động của tế bào. Hiệu ứng thứ hai là hoạt hóa hệ gen làm tăng tổng hơp thêm receptor cho màng sau synap. Hiệu ứng thứ ba là hoạt hóa các protein kinase là các chất làm giảm số lượng receptor. Những thay đổi trên có thể làm thay đổi tính đáp ứng của synap trong nhiều phút, nhiều ngày, thâm chí là nhiệu năm. Những chất truyền đạt thần kinh gây ra được các hiệu ứng trên có khi còn được gọi là các chất điều hòa hoạt động synap (modulator). Hình như các modulator có vai trò quan trong đối với trí nhớ.
 
@@ -4794,7 +4540,7 @@ Chất truyền đạt do một cúc tận cùng giải phóng ra có tác dung 
 
 7.3. CHẬM SYNAP. Sự lan truyền điện thế hoạt động từ nơron này sang nơron khác qua synap đòi hỏi thời gian cho nhiều quá trình: giải phóng chất truyền đạt ở các cúc tận cùng, khuếch tán chất truyền đạt tới màng sau synap, chất truyền đat tác đông lên receptor làm thẩm của màng, ion Na đi vào để làm tăng điện thế kích thích sau synap tới một trị số đủ cao để sinh ra điện thế hoạt động. Thời gian tối thiểu cho tất cả quá trình trên xảy ra được là khoảng 0,5 sec, ngay cả khi có rất nhiều synap bị kích thích đồng thời. Thời gian châm synap quan trong vì các nhà nghiên cứu sinh lý có thể đo được thời gian tối thiểu giữa các đợt xung đi tới và các đợt xung đi ra rội từ đấy có thễ xác đinh số nơron tham gia vào cung phần xa.
 
-7.4. ẢNH HƯỞNG CỦA pH. Nơron rất nhạy cảm với sự thay đổi của pH trong dich kẽ. Nhiêm kiểm làm tăng tính hưng phấn của nơron. Ví dụ: khi pH động mạch tăng lên 7,8 - 8,0 thì thường gây ra co giật do tăng hưng phấn nơron; cơn động kinh dễ xuất hiện ở người nắc bệnh động kinh khi người này thở tăng. Nhiễm toan làm giảm tính hưng phần của nơron. Ví du ở người mắc bênh đái đường năng hoác có urê huyết cao, khi pH giảm xuống dưới 7,0 thì thường bi hôn mê.
+7.4. ẢNH HƯỞNG CỦA pH. Nơron rất nhạy cảm với sự thay đổi của pH trong dich kẽ. Nhiêm kiểm làm tăng tính hưng phấn của nơron. Ví dụ: khi pH động mạch tăng lên 7,8 - 8,0 thì thường gây ra co giật do tăng hưng phần nơron; cơn động kinh dễ xuất hiện ở người nắc bệnh động kinh khi người này thở tăng. Nhiễm toan làm giảm tính hưng phần của nơron. Ví du ở người mắc bênh đái đường năng hoác có urê huyết cao, khi pH giảm xuống dưới 7,0 thì thường bi hôn mê.
 
 7.5. ẢNH HƯỞNG CỦA THIẾU OXY. Chỉ cần ngừng cấp oxy vài giây cũng làm cho nơron hoàn toàn mất hưng phấn. Điều này thường xảy ra khi tuần hoàn não bị gián đoạn tạm thời; sau 3 -5 sec, bệnh nhân bị mất tri giác.
 
@@ -4854,27 +4600,13 @@ Có những nơron phát xung một cách nhịp nhàng ví dụ các nơron c�
 
 8.6.2. Trong thực tế, điều này không xảy ra là nhờ hai cơ chế cơ bản xây ra trong toàn bộ hệ thần kinh trung ương. Đó là các mạng ức chế và sự mỏi synap.
 
-Image /page/215/Figure/0 description: The image shows two diagrams labeled A and B. Diagram A depicts a branching structure resembling a tree, with a single line at the top that splits into two, and each of those splits into two again, and so on. At each split, there is a small circle with a short line extending from it. The branching continues until the bottom, where there are eight lines, each with a small circle and a short line. Diagram B shows three parallel lines that curve to the right. Each line has two small circles with short lines extending from them. The circles are connected by a short line.
+Mang phần kỹ: A: phẩn kỹ trong một bó B: phân kỹ thành nhiều đường
 
-Mang phần kỹ: A: phẩn kỹ trong một bó B: phân kỳ thành nhiều đường
-
-Image /page/215/Figure/2 description: This image contains two diagrams labeled C and D. Diagram C shows a circle with a tail-like extension at the bottom. Four lines converge at the top of the circle. Above these lines, the word "Nguồn" appears twice, connected by a left-pointing arrow. To the right of diagram C, there's an arrow pointing down towards the text "Nguồn #2". Diagram D also features a circle with a tail-like extension at the bottom. Four lines extend from the circle in different directions. Above the circle, the word "Nguồn" is present, followed by a hashtag symbol. To the right of the circle, the text "Nguồn #3" is visible.
-
-Mang hội tu : C: hội tụ từ một nguồn D: hội tụ tư nhiều nguồn
+Mang hội tu : C : hội tụ tư một nguồn D: hội tụ tư nhiều nguồn
 
 Ra
 
-Image /page/215/Figure/4 description: The image shows three diagrams. The first diagram shows a horizontal line with a circle on it, and a loop coming out of the circle. The second diagram shows a horizontal line with the words "Vao" on the left and "Ra" on the right. There are three circles on the line, and curved lines connecting the circles. The words "Kich thich" are written below the middle circle. The third diagram shows a horizontal line with the word "Ra" on the right. There are three circles on the line, and curved lines connecting the circles.
-
 Vaó
-
-Image /page/215/Figure/5 description: The image shows a diagram of a neural network with inhibitory connections. The diagram is labeled with the text "E: Mạng ức chế (Nơron 2 là nơron ức chế)" at the top. There are three neurons labeled #1, #2, and #3. Neuron #2 connects to both neuron #1 and neuron #3. The connection between neuron #2 and neuron #1 is excitatory, while the connection between neuron #2 and neuron #3 is inhibitory. The output of neuron #1 is labeled "Kích thích", which means "excitation" in Vietnamese. The output of neuron #3 is labeled "Ức chế", which means "inhibition" in Vietnamese. The diagram also includes the labels "Synap kích thích" and "Synap ức chế", which mean "excitatory synapse" and "inhibitory synapse" in Vietnamese, respectively.
-
-Image /page/215/Figure/6 description: The image shows a diagram with lines and circles. The diagram has the words "Kích thích" at the top and "Urc ché" at the bottom. The diagram also has the word "Ra" on the right side.
-
-Image /page/215/Figure/7 description: The image shows the text "F: Cac mach dôi lai phước tạp" written in a handwritten style.
-
-Image /page/215/Figure/8 description: The image shows a diagram with several curved lines forming an oval shape in the center. The lines are connected by small circles. The diagram also includes the labels "Vao", "Ra", and "F".
 
 Hình 10-7. Các kiểu mạng nơron trong hệ thần kinh.
 
@@ -4898,8 +4630,6 @@ Kế từ Sherrington (1906), sinh lý học phân chia các loại cảm giác 
 
 # SINH LÝ CÁC RECEPTOR
 
-Image /page/217/Figure/2 description: This image shows a diagram of the human skin and its various sensory receptors. The diagram is divided into sections, each representing a different type of sensory receptor. The receptors include T. Pacini, Golgi, T. Krause (Lanh), Merkel, T. Ruffini (nóng), and T. Meissner. The diagram also labels the different layers of the skin, including Hạ bì, Bi, and Thương bì. The diagram also includes labels for Áp suất, Nhiệt đô, Xúc giác, and Dau. The text "Tt: Tiểu thể" is also present in the image.
-
 Hình 10-8. Sơ đồ vi trí các receptor nông ở da đầu ngón tay.
 
 Bộ phận hay cơ quan nhận cảm, hay thụ cảm thể có thể là một phân tử, một tế bào, một đám tế bào, một tập hợp nhiều loại tế bào tạo thành cơ quan và được gọi dưới một tên chung là các receptor. Sinh lý học còn phân biệt các cơ quan thụ cảm theo kích thích mà nó tiếp nhận: thụ cảm với cơ học (mecanoreceptor), với áp suất (baroreceptor), với hóa học (chemoreceptor), với nhiệt độ (thermoreceptor), với áp suất thẩm thấu (osmoreceptor), với thể tích (voloreceptor). Trong phần này, chúng ta sẽ chỉ nói đến các receptor tiếp nhận cảm giác về nhiệt độ, về áp suất, về cảm giác bản thể, về cảm giác đau (tức là phần lớn các cảm giác nông) mà không nói đến những loại receptor khác như các receptor trên màng tế bào, các receptor đặc biệt ở một số cơ quan như tim, mạch, máu, phổi, hệ thống tiêu hóa, v.v. Các receptor của các giác quan thị giác, thính giác, khứu giác, vị giác sẽ được trình bày trong phần nói về các giác quan đó. Hình 10 là sơ đồ vị trí các receptor nông ở da đầu ngón tay.
@@ -4920,17 +4650,17 @@ Tất cả những điều được trình bày trên đây đều đã được
 
 # 2. TƯƠNG QUAN VỀ LƯỢNG GIỮA CẢM GIÁC VÀ KÍCH THÍCH
 
-Giả sử cho một người cầm ở mỗi tay một quả cân p = 1 kg. Ta thêm dần vào một bên các quả cân nhỏ hơn và xem đến mức tăng nào thì người đó cảm nhận được sự thay đổi. Nếu đến khi thêm 100 gam vào một bên thì người ấy nhận biết được thì sai số có thể mắc là 100/1000 hay 1/10. Nếu làm thí nghiệm này với xúc giác thì sai số còn lớn hơn (1/4 hay 1/5). Như vây cơ có khả năng đánh giá tốt hơn là cơ quan xúc giác. Từ mức p + p/10 muốn gây ra sự nhận cảm mới với tăng khối lượng thì cần phải thêm (p + p/10)/10 và cứ như thế mãi. Điều này có nghĩa là sư phân biệt nhỏ nhất về hai kích thích là do một chênh lệch có thực và sự phân biệt này tỉ lệ thuận với kích thích. Nói cách khác, cái có hiệu quả không phải là giá trị tuyệt đối của sự gia tăng kích thích mà là giá trị tương đối của sư gia tăng này (tức là tỉ lê của mức gia tăng so với kích trước đấy). Điều này đã được Weber nêu thành định luật và được Fechner biếu diễn dưới dang toán học như sau:
+Gia sử cho một người cầm ở mỗi tay một quả cân p = 1 kg. Ta thêm dần vào một bên các quả cân nhỏ hơn và xem đến mức tăng nào thì người đó cảm nhận được sự thay đổi. Nếu đến khi thêm 100 gam vào một bên thì người ấy nhận biết được thì sai số có thể mắc là 100/1000 hay 1/10. Nếu làm thí nghiệm này với xúc giác thì sai số còn lớn hơn (1/4 hay 1/5). Như vây cơ có khả năng đánh giá tốt hơn là cơ quan xúc giác. Từ mức p + p/10 muốn gây ra sự nhận cảm mới với tăng khối lượng thì cần phải thêm (p + p/10)/10 và cứ như thế mãi. Điều này có nghĩa là sư phân biêt nhỏ nhất về hai kích thích là do một chênh lệch có thực và sự phân biệt này tỉ lệ thuận với kích thích. Nói cách khác, cái có hiệu quả không phải là giá trị tuyệt đối của sự gia tăng kích thích mà là giá trị tương đối của sư gia tăng này (tức là tỉ lê của mức gia tăng so với kích trước đấy). Điều này đã được Weber nêu thành định luật và được Fechner biếu diễn dưới dang toán học như sau:
 
 Gọi: C là hằng số tỉ lệ tăng, E là kích thích, S là cảm giác và ta có:
 
-| E                            | (kích thích E thứ) |            | Thì cảm giác S |
-|------------------------------|--------------------|------------|----------------|
-| E = 1                        |                    |            | S = 0          |
-| E = 1 + C                    |                    | = (1 + C)1 | S = 1          |
-| E = 1 + C + (1+C)C           |                    | = (1 + C)2 | S = 2          |
-|                              |                    |            |                |
-| En = (1+C)n-1 + (1+C)n-1 x C |                    | = (1 + C)n | S' = n         |
+| P   | (kich thích E thứ)                             |                   | Thì cám giác S |
+|-----|------------------------------------------------|-------------------|----------------|
+| ਸਿੰ | = ]                                            |                   | S = 0          |
+| P   | = 1 + C                                        | = (1 + C) { S = 1 |                |
+|     | E = 1 + C + (1+C)C                             | = (1 + C)2 S = 2  |                |
+|     |                                                |                   |                |
+|     | En = (1+C)"-1 + (1+C)"-1 x C = (1 + C)" St = n |                   |                |
 
 Như vậy, "lượng của cảm giác" tỉ lệ với logarit của "lượng của kích thích". Về mặt điện sinh lý, người ta cũng thấy rằng tần số xung động xuất hiện ở một cơ quan cảm giác tăng theo logarit của cường độ kích thích. Quy luật Weber được công nhân cho tất cả các receptor cảm giác.
 
@@ -4958,8 +4688,6 @@ Biên độ tối đa của phần lớn các điện thế receptor là vào kh
 ### 3.3. TƯƠNG QUAN GIỮA ĐIÊN THẾ RECEPTOR VÀ ĐIÊN THẾ HOAT ĐÔNG
 
 Khi điện thế receptor vượt lên trên ngưỡng kích thích của sợi thần kinh nối với receptor thì điện thế hoạt động xuất hiện. Điều cần chú ý là điện thể receptor càng cao hơn ngưỡng bao nhiêu thì tần số điện thế hoạt động trên sợi càng cao bấy nhiêu (Hình 10-9)
-
-Image /page/220/Figure/9 description: The image is a graph showing the electrical activity of a cell membrane over time. The x-axis represents time in milliseconds, ranging from 0 to 140. The y-axis represents the membrane potential in millivolts, ranging from -90 to +30. There are several labeled elements on the graph. The resting membrane potential is labeled as "Điện thế nghỉ của màng" and is shown as a line starting at -90 mV. The threshold potential is labeled as "Ngưỡng" and is shown as a dashed line at approximately -60 mV. The receptor potential is labeled as "Điện thế Receptor" and is shown as a dashed line slightly above the threshold potential. The action potential is labeled as "Điện thế hoạt động" and is shown as a series of spikes that occur after the membrane potential reaches the threshold. The spikes increase in frequency over time.
 
 Hình 10-9: Tương quan giữa điện thế receptor và tần số điện thế hoạt động.
 
@@ -5013,8 +4741,6 @@ Các receptor xúc giác có nhiều ở xung quanh chân lông và cũng có �
 
 - Các tân cùng có myelin và không myelin ở chân lông (hình 10-11). Khi lông bị lay động sẽ gây kích thích.
 
-Image /page/223/Picture/5 description: The image contains two abstract black and white drawings. The drawing on the left is a vertical, elongated shape with a bulbous top and a narrower base. The surface of the shape is covered in swirling, organic patterns. The drawing on the right is more complex, featuring a vertical rectangular shape with a grid-like pattern overlaid on it. A curved, branch-like structure extends from the bottom left of the rectangle, and several circular shapes are clustered at the bottom.
-
 # Hình 10-10. Tiểu thể Meissner Hình 10-11. Tận cùng thần kinh ở chân lông.
 
 - Tiểu thể Pacini (Hình 10-12) nằm ngay dưới da và cả ở lớp sâu của da, trong mô liên kết của các tạng bao khớp và dây chẳng, ở màng liên cốt, màng xương, cân, mac treo, vỏ boc mach máu. Nó có môt bao rất dày bọc quanh môt khối trung tâm trong đó có các đầu nhánh của sợi thần kinh có myelin. Ở một số tiểu thể Pacini còn có sơi không myelin đi tới phần trung tâm, xoắn quanh và tỏa nhánh tao thành một mang lưới bao quanh sơi có myelin. Các tiểu thể này rất nhay cảm với sư biến dạng và sự rung động. Các tiểu thể Pacini có thể truyền tín hiêu về sự rung đông có tần số từ 30 đến 800/sec.
@@ -5026,8 +4752,6 @@ Tuy goi các receptor này là receptor cơ hoc, nhận cảm áp suất nhưng 
 # 1.3. THĂM ĐÒ CẢM GIÁC XÚC GIÁC
 
 Người ta dùng compa Weber, đo khoảng cách nhỏ nhất giữa hai điểm gây ra được hai cảm giác riêng biệt (ví dụ ở đầu lưỡi là 1 mm, ở môi trên là 3-4 mm, ở lòng bàn tay là 15 mm, ở đùi là 70 mm). Điều cần chú ý là cảm giác này thay đổi theo cá thể, tập luyện làm tăng, mệt mỏi làm giảm. Xúc giác đặc biệt phát triển ở người mù.
-
-Image /page/224/Figure/5 description: This image contains two black-and-white illustrations labeled A and B. Illustration A depicts an oval-shaped object with a dark, vertical line running through its center. The object is composed of numerous concentric lines that follow the oval shape. A thick, dark line extends from the bottom of the oval, curving to the left. Illustration B shows a more elongated, pointed object with a similar dark line running through its center. The interior of this object is filled with a network of lines and shapes. A line extends from the bottom of this object, curving to the left, similar to illustration A.
 
 Hình 10-12 A: Tiểu thể Pacini - B: phần trung tâm của tiểu thể với hai sợi thần kinh.
 
@@ -5051,8 +4775,6 @@ Bó này dẫn truyền cảm giác tinh tế (xác định chính xác vị tr�
 
 2.2.2. Bó gai-thi trước: Thông tin vào sừng sau tủy, từ đấy theo nơron thứ hai bắt chéo sang, theo cột trắng trước-bên đi lên và tận cùng ở đối thị và ở các tầng của trục não tủy. Ở hành não, bó này chập với bó gai-thi sau. Bó này gồm các sợi có myelin, nhỏ (đường kính khoảng 4μm ) truyền xung đông với tốc độ từ vài mét đến 40 m/sec. Tính định hướng của bó này không bằng bó kia nên không dẫn truyền cảm giác xúc giác một cách chính xác và trung thành về không gian nhưng có khả năng dẫn truyền nhiều cảm giác hơn như cảm giác đau, nóng-lanh, xúc giác thô sơ, cảm giác về áp suất trên một diện rộng của cơ thể.
 
-Image /page/226/Figure/1 description: This image contains three diagrams of the spinal cord. The diagram on the left shows the spinal cord in cross-section, with two pathways labeled "Bo' chém" and "Bo' thon". The other two diagrams show the spinal cord in cross-section, with arrows indicating the direction of nerve impulses. The top diagram shows the nerve impulses traveling up the spinal cord, while the bottom diagram shows the nerve impulses traveling down the spinal cord.
-
 Hình 10-13. Các bó dẫn truyền cảm giác Hình 10-14. Sơ đố các bó dẫn truyền các xúc giác thô sơ và tinh tế trong tủy. cảm giác nông trong tủy.
 
 ### 2.3. SỰ NHẬN CẢM CỦA VỎ NÃO
@@ -5060,10 +4782,6 @@ Hình 10-13. Các bó dẫn truyền cảm giác Hình 10-14. Sơ đố các bó
 2.3.1. Từ các nhận cảm của đồi thị có các sợi đi tới rất nhiều vùng của não (Hình 10-15).
 
 Các cảm giác thân thể đều tân cùng ở vùng vỏ não cảm giác thuộc thùy đỉnh, nằm ngay phía sau rãnh trung tâm, chủ yếu là các vùng 1, 2, 3, 5, 7, và 40 theo bản đồ Brodmann (Hình 10-16). Có hai vùng nhân thông tin cảm giác nông từ phức hơp bungnền của đồi thị tới; đó là vùng cảm giác thân thể I (S-I) và vùng cảm giác thân thể II (S-II). Vùng S-I (bao gồm vùng 1 và vùng 2 của Brodmann) quan trong hơn là vùng S-II. Bán cầu não nhân thông tin cảm giác của nửa người bên đối diên.
-
-Image /page/227/Figure/1 description: The image shows two diagrams of a brain, one above the other. The diagrams are in black and white and appear to be illustrations or sketches. The top diagram shows the outer surface of the brain, while the bottom diagram shows a cross-sectional view. Different areas of the brain are marked with different patterns, such as cross-hatching, dots, and vertical lines. The letters 'GE' are visible in the lower right corner of both diagrams.
-
-Image /page/227/Picture/2 description: This image shows a diagram of two anatomical structures. The structure on the left is larger and more complex, divided into several labeled regions: A, VA, VL, DL, PL, V.PL, Ar, MI, DM, and LM. Each region has a distinct pattern or shading. The structure on the right is smaller and simpler, with labeled regions R, GI, and GE, also distinguished by different patterns. The overall style is reminiscent of a vintage anatomical illustration.
 
 - VPL : Nhân bụng sau bên (cảm giác thân thể)
 - Ar : Nhân cung (cảm giác mặt và vị giác)
@@ -5078,11 +4796,7 @@ Image /page/227/Picture/2 description: This image shows a diagram of two anatomi
 
 2.3.2. Tính định hướng của các sơi trục cảm giác vẫn được duy trì trên vùng này, vì thế mỗi phần của cơ thế có hình chiếu tương ứng của nó trên vùng S-I (Hình 10-17). Diên tích hình chiếu của một phần tỉ lệ thuân với số lượng receptor có trên phần đó, tức là tỉ lệ thuận với số cảm giác và mức độ phân biệt tinh tế về cảm giác của phần đó. Trên vùng cảm giác của vỏ não, hình chiếu của các phần cơ thể lộn ngược: hình chiếu của đầu nằm ở thấp, phía ngoài; còn phần chi dưới lại nằm ở cao, phía giữa. Nếu tổn thương rộng vùng S-I thì bệnh nhân không cảm nhận được sự thay đổi áp suất lên cơ thể, không đánh giá đúng trọng lượng của vật, không nhận biết được hình dạng của vật và tính chất bề mặt của vật. Bệnh nhân vẫn nhân cảm được nóng-lạnh và đau nhưng không nhận cảm được chính xác về tính chất, cường đô và nhất là vị trí của hai cảm giác này.
 
-Image /page/228/Picture/0 description: The image shows two drawings of a brain. The drawing on the left is labeled with numbers and the words "Rãnh trung tâm". The drawing on the right is labeled with the letters "SI" and "SII".
-
 Hình 10-16. Bản đồ phân vùng chức năng của vỏ não (Brodmann) và các vùng S-I, S-II.
-
-Image /page/228/Figure/2 description: This image shows two diagrams. The diagram on the left shows a person sitting in a chair, with a dotted line outlining the person's body. The diagram on the right shows a cross-section of the brain, with labels indicating the different parts of the brain. The labels are in Vietnamese, and they include "Rãnh trung tâm", "Hồi trán lên (vận động)", "Hâu", "Lười", "Bản Ngón", "khần chấn cái", "Cảng", "chân Đầu", "Đui gối", "Thân Vai", "Canh tay", "Cang tay", "Ban tay", and "Ngon tay".
 
 Hình 10-17. Hình chiếu của các phần của cơ thể trên vùng cảm giác ở vỏ não.
 
@@ -5128,8 +4842,6 @@ Nói chung, các receptor đau với hóa học và nhiệt nhân cảm giác đ
 
 1.3. Điều cần phải nhắc lại và cần phải nhớ là các receptor đau không có khả năng thích nghi.
 
-Image /page/232/Figure/0 description: The image shows the text "2. DẪN TRUYỀN CẢM GIÁC ĐAU (HÌNH 10-18)" in bold font.
-
 # 2.1. DẪN TRUYỀN TỪ RECEPTOR VÀO TỦY.
 
 Có nhiều nguyên nhân gây đau (mô bị tổn thương, thiếu máu. co thắt cơ. v.v), có nhiều loại cảm giác đau (đau chói, đau ê âm, đau rát, v.v) và nhiều phân loại đau. Trong phần này, chúng ta chỉ có thể nói đến sư dẫn truyền cảm giác đau cấp và đau mãn tính.
@@ -5153,8 +4865,6 @@ thứ hai tận cùng ở phức hợp bụng-nền, ở nhóm nhân sau của �
 Hình 10-18. Sơ đồ dẫn truyền cảm
 
 giác đau
-
-Image /page/232/Figure/13 description: This image shows a diagram of the brain and spinal cord. The brain is labeled with the following terms: Gyrus cingularis, ACA, SI, SII, CA, and Phuc hop hanh nhan. The spinal cord is labeled with the following terms: Doi thi (giua), Doi thi (ben), Cau tao luoi, and Nhan mai.
 
 Những nghiên cứu mới đây cho thấy một sợi có thể cho các nhánh đến tân cùng ở cả cấu tạo lưới và ở cả đồi thị. Do có nhiều đường dẫn truyền, các đường lai có liên hệ với nhau ở nhiều mức nên khó gắn vai trò dẫn truyền đau chỉ do một bó mà thôi tuy rằng bó gai-thị trước có vai trò quan trọng nhất.
 
@@ -5216,31 +4926,17 @@ Cám giác bản thể là cảm giác cho biết về tư thế và cử độn
 
 Trên đường dẫn truyền tín hiệu cảm giác lên các trung khu nhận cảm đăc hiệt, các bó dẫn truyền cho các ngành bên đi tới cấu tạo lưới nằm ở vùng hành cầu não giữa. Các tín hiệu cảm giác theo các ngành bên tới kích thích cấu tạo lưới một cách không đặc hiệu. Cấu tao lưới cũng còn nhận các thông tin tới từ vỏ não và từ vùng dưới đồi. Khi cấu tạo lưới bị kích thì lại phát các xung động đi theo các sợi đi lên vỏ não, đặc biệt là các vùng có chức năng liên hợp trên vỏ não và hoạt hóa vỏ não. Phần cấu tao lưới này được goi là hê cấu tao lưới hoạt hóa truyền lên. Hệ này có ảnh hưởng lên hoạt tính của vỏ não (thức, ngủ, trạng thái cảnh giác,v.v. (hình 10-21).
 
-Image /page/237/Figure/2 description: This image contains three diagrams related to the spinal cord and neural pathways. The first diagram on the left shows a cross-section of the spinal cord, with labeled arrows pointing to specific regions. The text "Bo tuy tiểu nao cheo" and "Bo tuy-tiểu não thăng" are present, likely indicating the names of the pathways or regions being pointed to. The second and third diagrams, labeled "A" and "B" respectively, depict longitudinal sections of the spinal cord with neural pathways and connections. These diagrams illustrate the flow of information through the spinal cord, with arrows indicating the direction of neural signals. The diagrams are detailed and appear to be from a scientific or medical context, possibly related to neuroanatomy or physiology.
-
 Hình 10-19. Các bó dẫn truyền cảm giác sâu không ý thức trong tủy.
 
 Hình 10-20. Sư liên hê giữa các đốt tủy và các phẩn xa đơn synap (A), đa synap (B)
-
-Image /page/238/Figure/0 description: This image shows a diagram of the human nervous system. The diagram includes the brain, spinal cord, and nerves. The brain is at the top of the diagram, and the spinal cord is below it. The nerves are shown as lines that connect the brain and spinal cord to the rest of the body. The diagram also includes labels for different parts of the nervous system, such as "No ron 3", "Bó gai thị bên (nóng-lạnh, đau)", "Bó gai thị trước (xúc giác)", "No ron 1", and "Noron 2".
-
-Image /page/238/Picture/1 description: This image shows a black and white drawing of a brain with arrows and lines indicating different areas and pathways. The drawing is labeled with the letter A.
-
-Image /page/238/Figure/2 description: The image shows the text "Hình 10-21. Các đường đi đến (A) và đi lên (B) của hệ cấu tạo lưới hoạt hóa truyền lên."
 
 B
 
 Hình 10-22 sơ đồ các đường dẫn truyền cảm giác nông
 
-Image /page/239/Figure/0 description: This image is a black and white diagram of the human spinal cord and brain. The diagram shows the spinal cord extending from the brainstem down to the lumbar region. The spinal cord is labeled with the letters "C8" and "L3". The brainstem is labeled with the words "Bo tuy-tieu nao thang" and "Bo tuy tieu na cheo".
-
-Image /page/239/Figure/1 description: The image shows a diagram of the human brain and spinal cord, with three neurons labeled "Noron 1", "Noron 2", and "Noron 3". The diagram shows the brain at the top, followed by the spinal cord, with the neurons connecting the two. The neurons are labeled with arrows pointing to them.
-
 Hình 10-23. Sơ đồ các đường dẫn truyền cảm giác sâu không ý thức
 
  Hình 10-24. Sơ đồ các đường dẫn truyền cảm giác sâu có ý thức
-
-Image /page/240/Figure/0 description: This image shows a diagram of the human nervous system. The diagram includes the brain, spinal cord, and nerves. The diagram also includes labels in Vietnamese, such as "Bó gai - thị", "Cám giác sâu có ý thức", and "Cam giác thàn thể".
 
 Hình 10-25. Sơ đồ tổng hợp các đường dân truyền cảm giác
 
@@ -5262,8 +4958,6 @@ Có thể nói là trong tủy có tất cả các loai mang nơron đã đượ
 
 Chỉ có một ít tín hiệu cảm giác từ dây thần kinh tủy hoặc tín hiêu từ não xuống là tiếp xúc trực tiếp với nơron vận động của sừng trước. Phần lớn tín hiệu là thông qua các vòng nơron trung gian. Hình 10-26 cho thấy hầu như toàn bô bó vỏ-tủy tân cùng ở nơron trung gian và chỉ sau khi các tín hiệu của bó này được tích hợp trong các mạng nơron trung gian cùng với các tín hiệu từ các bó khác trong tủy hay từ các dây thần kinh tủy thì mới tới nơron vận động ở sừng trước để kiểm soát co cơ.
 
-Image /page/242/Figure/1 description: This image is a black and white diagram of a neural pathway. The diagram includes labels in Vietnamese. The labels are: "Rễ cảm giác" (sensory root), "Tế bào đơn độc" (solitary cell), "Tế bào nên ngoài" (outer cell), "Bó vỏ tủy" (myelinated bundle), "Nơron trung gian" (intermediate neuron), "Nơron vận động" (motor neuron), and "Rễ vận động" (motor root).
-
 Hình 10-26. Liên hệ giữa nơron a và các nơron khác qua nơron trung gian
 
 1.1.4. Tế bào ức chế Renshaw. Sợi trục của nơron vận động alpha cho một nhánh bên ngay trong chất xám tủy, nhánh này quặt lại tạo synap với một nơron trung gian là tế bào Renshaw. Tế bào Renshaw lại tạo synap với chính tế bào vận động alpha (hình 10-27). Khi tế bào alpha phát xung động manh thì xung đông sẽ theo nhánh bên tới kích tế bào Renshaw và tế bào này lại phát xung động tới ức chế tế bào alpha đó. Đây là một cung phản xạ ức chế.
@@ -5271,8 +4965,6 @@ Hình 10-26. Liên hệ giữa nơron a và các nơron khác qua nơron trung g
 ### 1.1.5. Sự liên kết giữa các đốt tủy.
 
 Có tới hơn một nửa số sợi thần kinh đi lên hoặc đi xuống trong tủy là các sơi của tủy sống. Các sợi này đi từ đốt tủy này tới đốt tủy khác. Các sợi cảm giác vào tới tuy thì cho các nhánh đi lên và đi xuống, có các nhánh chỉ tới một hoặc vài đốt tủy trên hoặc dưới, có những sợi lại cho các nhánh tới nhiều đốt tủy (hình 10-20). Các sợi lên xuống này trong tủy là các đường dẫn truyền của các phẩn xạ liên đốt tủy, trong đó có các phản xạ phối hợp vận động của mặt trước và mặt sau chi.
-
-Image /page/243/Figure/0 description: This image shows a diagram of the nervous system. The diagram is divided into two parts, labeled A and B. Part A shows the Suốt thần kinh-cơ, Sợi trục γ, Sợi trục a, Norony, Bó lưới, and Tế bào Renshaw. Part B shows the Noron vận động, Nhánh bên, and Tế bào Renshaw.
 
 Hình 10-27. Tế bào Renshaw và cung phản xạ ức chế lên nơron a.
 
@@ -5283,8 +4975,6 @@ Hình 10-27. Tế bào Renshaw và cung phản xạ ức chế lên nơron a.
 Trong khối cơ vân có nhiều suốt cơ (hình 10-28). Mỗi suốt cơ có từ 3 đến 12 sợi cơ nội suốt chum lại ở 2 đầu suốt và gắn với lớp glycocalyx của màng sợi cơ ngoại suốt. Sơi nôi suốt là sơi cơ vân rất mảnh, phần giữa (theo chiều dài của sợi) có rất ít hay không có tơ actin và tơ myosin nên không có khả nằng co rút mà chỉ có hai đầu là có khắ năng co rút. Phần trung tâm có chức năng là bộ phận nhận cảm. Hai phân đầu của sợi cơ nội suốt bị chi phối bởi các sơi vận động gamma xuất phát từ các nơron vận động gamma đã nói ở trên.
 
 Từ phần nhận cảm của suốt (phần trung tâm) có hai loại sợi cảm giác xuất phát: tận cùng sơ cấp và tận cùng thứ cấp. Các tân cùng sơ cấp là những sợi cảm giác loại Ia, có kích thước lớn, cuốn quanh các sợi nội suốt nên còn được gọi là các tận cùng xoắn nhằn. Các tân cùng này bị kích thích khi suốt bị kéo dài ra và truyền xung động về tủy với tốc độ cao (khoảng 100 m/sec). Các tận cùng thứ cấp thuộc loại II; mỗi suốt có một sợi thứ cấp nằm ở một phía của sợi cơ cấp và cũng cuốn quanh các sợi nội suốt. Khi phần nhận cảm của suốt bị kéo dài ra thì các tận cùng thứ cấp cũng bi kích thích.
-
-Image /page/244/Figure/0 description: This image contains two diagrams, labeled A and B, illustrating different types of nerve fibers and their connections. Diagram A shows a nerve fiber with labels indicating various components. The labels include "Van dong" (Movement), "Cam giac" (Sensation), "Soi ngoai suot" (Extrafusal fiber), "Soi noi suot" (Intrafusal fiber), "Tan cung soi alpha" (Alpha fiber ending), "Tan cung so cap" (Primary ending), "Tan cung thu cap" (Secondary ending), and "Tan cung soi gamma" (Gamma fiber ending). The diagram also includes labels for alpha and gamma fibers. A scale of 1cm is provided for reference. Diagram B shows a different arrangement of nerve fibers, with labels such as "Soi gamma dong" (Dynamic gamma fiber), "Soi gamma tinh" (Static gamma fiber), "Soi Ia" (Ia fiber), and "Soi II" (II fiber). The diagram illustrates the connections and arrangements of these fibers in a different context.
 
 Hình 10-28 A: Sơ đồ cấu trúc suốt thần kinh cơ B: Các sơi nội suốt và thần kinh chi phối
 
@@ -5308,8 +4998,6 @@ Khi cơ bị kéo dài đột ngột thì suốt bị kích thích và truyền 
 
 Khi cơ bị ngắn lại một cách đột ngột thì các hiện tượng xảy ra hoàn toàn ngược lại: các sợi ngoại suốt không bị kích thích và giãn ra. Đó là phản xạ căng cơ âm có tác dụng chống lại sự rút ngắn chiều dài của cơ. Như vậy, các phản xa căng cơ xuất phát từ suốt cơ có tác dụng duy trì cho cơ có một độ dài không thay đổi (hình 10-29)
 
-Image /page/245/Figure/7 description: This image shows a diagram of a spinal reflex arc. The diagram includes the spinal cord, a sensory neuron, a motor neuron, and a muscle. The sensory neuron is labeled "Sợi cảm giác bản thể", the motor neuron is labeled "Sợi vận động", and the muscle is labeled "Suốt cơ".
-
 Hình 10-29. Sơ đồ cung phản xạ căng cơ
 
 Phan xa căng cơ tĩnh có nhiều ý nghĩa quan trong:
@@ -5325,8 +5013,6 @@ Trong số các sợi vận động đi tới cơ thì có tới 31 phần trăm
 Trong lâm sàng, người ta thăm dò phản xa căng cơ bằng việc gây phản xạ đầu gối hoặc các phản xạ duỗi khác.
 
 ### 1.2.2. Cơ quan Golgi
-
-Image /page/246/Picture/7 description: This image shows a diagram of a muscle, tendon, and nerve fiber. The muscle is labeled "Co", the tendon is labeled "Gân", and the nerve fiber is labeled "Sợi thần kinh".
 
 Hình 10-30. Cơ quan Golgi ở gân.
 
@@ -5345,8 +5031,6 @@ Khi một vùng da của chi bị kích thích, nhất là kích thích đau th�
 Xung động cảm giác đươc truyền về tủy sống, tới các nơron trung gian rồi mới tới nơron vận động, cung phản xạ ngắn nhất có khi qua 3-4 nơron. Tuy nhiên, phần lớn thông tin qua nhiều nơron thuộc các mạng như mạng phân kỳ (để gây phản xạ lan toa tới các cơ cần thiết), mang ức chế các cơ đối lâp, mang lặp lại kích thích sau khi kích thích đã chấm dứt.
 
 Vài phần nghìn giây sau khi các dây thần kinh đau bị kích thì phản xạ gấp xảy ra. Sau khi kích đã hết thì cơ trở về mức co ban đầu nhưng phải sau nhiều phần nghìn giây do hiên tương lăp lai kích thích. Hiện tượng này lâu hay mau là do cường độ của kích thích ban đầu; ví du kích thích xúc giác yếu không gây ra hiện tượng lặp lại kích thích, còn kích thích đau mạnh thì có thể gây ra hiện tương này kéo dài tới hơn môt giây. Sư lăp lai kích thoạt đầu là do các nơron trung gian (dài chừng 6-8 msec), sau đó là do các mạng quặt ngược tạo ra các vòng phan xa trong mang nơron (có thể kéo dài nhiều giây). Phản xa gấp có tác dụng làm bộ phậu bị kích thích được cách ly khỏi kích thích từ 1 đến 3 giây sau khi kích thích đã chấm dứt hoàn toàn (hình 10-31).
-
-Image /page/248/Figure/0 description: This image shows a diagram of the spinal cord and the reflex arc. The diagram shows the spinal cord in the center, with the dorsal and ventral roots extending from it. The dorsal root carries sensory information from the body to the spinal cord, and the ventral root carries motor information from the spinal cord to the body. The reflex arc is a neural pathway that controls a reflex action. In this diagram, the reflex arc is shown as a pathway that starts with a stimulus at the hand, travels to the spinal cord, and then back to the hand to produce a response. The diagram also shows the terms "Kich thich" and "Uc che" which mean "Stimulation" and "Inhibition" respectively. The diagram also shows the terms "Cung don synap", "Kich thich dau o' ban tay", "Phan xa gap", and "Phan xa duoi cheo ben" which mean "Single synapse arc", "Stimulation of pain in the hand", "Flexion reflex", and "Crossed extension reflex" respectively.
 
 Hình 10-31. Sơ đồ phân bố thần kinh đối lập và cung phản xạ gấp, cung phản xa duỗi chéo.
 
@@ -5376,7 +5060,7 @@ Khi tủy sống bị đứt ngang đột ngột thì mọi chức năng của t
 
 Hiện tượng choáng tủy trên động vật càng cao cấp thì càng trầm trọng, càng lâu và càng khó hồi phuc.
 
-### 2. CHỨC NĂNG VẬN ĐỘNG CỦA VỎ NÃO
+## 2. CHỨC NĂNG VẬN ĐỘNG CỦA VỎ NÃO
 
 Mọi cử động "tùy ý" đòi hỏi phải có hoạt động có ý thức trên vỏ não nhưng điều này không có nghĩa là mọi sự cơ chỉ do vỏ não chi phối mà còn do sự kiếm soát của các trung tâm thấp hơn (tủy sống, thân não, nhân nền, tiểu não) và các trung tâm này đưa các tín hiệu đặc hiệu tới các cơ. Tuy nhiên, đối với một số động tác như các động tác tình tế của ngón tay và bàn tay thì vỏ não có con đường trưc tiếp đi tới nơron vận động ở sừng trước tủy sống mà không qua các trung tâm vận động khác.
 
@@ -5390,8 +5074,6 @@ Vùng này nằm ngay trước rãnh trung tâm. Vùng vận động của bán 
 
 ### 2.1.2 Vùng tiền vận động (vùng 6 theo Brodmann)
 
-Image /page/250/Figure/3 description: The image contains two diagrams, labeled A and B. Diagram A depicts a side view of a brain, with labels pointing to different regions. The labels, written in a non-English language, indicate "Vung tien van dong", "Vung van dong so cap", and "Vung cam giac". Diagram B shows a side view of a person's head and upper body, with their mouth open. Above the head, there is a representation of a body lying down, with a dashed line indicating the body's outline. Below the head, there is a small, curved shape labeled with the number 1.
-
 Hình 10-32 A. Vùng vỏ não vận động B: Các vùng đại diện trên vùng vận động.
 
 Vùng này nằm ngay phía trước vùng vận động sơ cấp. Bản đồ hình chiếu của cơ thể trên vùng này cũng giống như ở trên vùng vận động sơ cấp. Các tín hiệu xuất phát từ vùng này gây nên các cử động của các nhóm cơ thưc hiên các động tác chuyên biệt, ví dụ như tạo tư thế của vai và cánh tay sao cho phù hợp với động tác của bàn tay. Vùng tiền vận động có thể đưa tín hiệu tới vùng vận đông sơ cấp để kích thích nhiều nhóm cơ hoặc cũng có thể tới các nhân nền rồi thông qua đồi thị mà lên vùng vận động sơ cấp. Như vậy, vùng tiền vận đông cùng với nhân nền, đồi thị và vùng vận động sơ cấp tạo nên một phức hợp chi phối phần lớn các cử động phức tạp của cơ thể đòi hỏi sự phối hợp của nhiều cơ.
@@ -5401,8 +5083,6 @@ Vùng này nằm ngay phía trước vùng vận động sơ cấp. Bản đồ 
 Vùng này nằm ngay phía trước và phía trên của vùng tiền vận động. Phải kích thích mạnh vào vùng này mới gây ra được co cơ và thường gây ra co cơ cả hai bên. Kích thích vùng này thường gây ra động tác nắm một bàn tay hoặc đồng thời cả hai bàn tay. Nói chung thì vùng này hoạt động phối hơp với vùng tiền vân đông để tao ra tư thế của các phần khác nhau của cơ thể, cử động của đầu, mắt và do đó làm nền cho sự kiếm soát của vùng vận động sơ cấp và vùng tiền vân đông đối với các cử động tinh tế của bàn tay, bàn chân.
 
 ### 2.1.4 Một số vùng vận động đặc biệt trên vỏ não người (hình 10-33)
-
-Image /page/251/Figure/4 description: The image shows a diagram of the human brain with different regions labeled in Vietnamese. The regions include "Vung tien van dong", "Vung van dong so cap", "VUNG CU DONG KHEO LEO BAN TAY", "QUAY DAU", "Cu dong mat doi ben", "Hinh thanh tu (vung Broca)", "Moi PHAT AM HAM NUOT NHAI", "Chon tu", and "Co dinh mat".
 
 Hình 10-33 Sơ đồ vị trí một số vùng vận động đặc biệt trên não người.
 
@@ -5423,8 +5103,6 @@ Một phần ba bó này bắt nguồn từ vùng vận động sơ cấp, một
 Các tế bào của vỏ não vận động cũng được sắp xếp thành các cột dọc có đường kính chỉ tới một phần mười milimet và trong mỗi cột có đến hàng nghìn ươron. Mối cột cũng có sáu lớp tế bào giống như ở các vùng khác của vỏ não. Các tế bào tháp nằm ở lớp thứ năm kể từ mặt vỏ não còn các tín hiệu đi tới các cột thì theo các tế bào nằm ở các lớp từ lớp thứ hai đến lớp thứ sáu chủ yếu cho các sợi liên hê giữa các vùng khác nhau của vỏ não. Mỗi côt tế bào hoat đông như một đơn vị, kích thích một cơ hoăc môt nhóm cơ hoat đông đồng bô. Các nơron của mỗi cột hoat đông như môt hê thống tích hơp, xử lý thông tin từ các nguồn khác nhau để ra quyết định đáp ứng của cột. Ngoài ra, mỗi cột còn có thể hoạt động như một hệ thống khuếch đai, kích thích môt số lượng lớn các sơi tháp của cùng một cơ hay tới các hoạt động đồng bộ. Điều này quan trọng vì nếu kích thích một tế bào tháp thì khó mà làm cho cơ co, cần phải có từ 50 đến 100 tế bào tháp bi kích thích đồng thời hoặc liên tiếp rất nhanh mới gây được co cơ.
 
 ### 2.2.2 Hệ ngoại tháp (hình 10-34B)
-
-Image /page/253/Picture/1 description: This image contains two diagrams, labeled A and B, illustrating anatomical structures, possibly of the brain or nervous system. Diagram A shows a vertical stack of cross-sectional views of different parts of the brain or spinal cord. The topmost section appears to be a cross-section of the brain, with intricate convolutions and internal structures visible. Below this are several sections that seem to represent different levels of the brainstem or spinal cord, each with distinct shapes and internal features. Labels such as "Bó gối-", "Bỏ vỏ tủy (tháp)", "Bo tháp chéo", and "Bó thấp thẳng" are pointing to specific areas within these sections. Diagram B presents a more detailed view of a section of the brainstem or spinal cord, with various structures and pathways highlighted. Labels such as "Nhân tiên đình", "Cấu trúc, lưới", "Nhân tram", "Bó lưới-tủy", "Bó đỏ - tủy", "Bó mái-tủy", "Bó tiền đình - tủy-", and "Bó trám tủy" are used to identify these features. The overall style of the image suggests it is a hand-drawn anatomical illustration, possibly from a textbook or educational material.
 
 Hình 10-43. Sơ đồ các đường vận động A: Hệ tháp ; B: Hệ ngoại tháp trong tủy
 
@@ -5459,8 +5137,6 @@ Các nhân lưới được chia thành hai nhóm chính: nhân lưới ở cầ
 - Nhóm nhân ở hành não truyền các tín hiêu ức chế tới các nơron vân đông qua bó lưới-tủy bên. Các nhân của nhóm này nhận các tín hiệu từ bó tháp, bó đỏ-tủy và từ nhiều đường vân động khác. Các tín hiêu từ các nguồn khác này tới nhóm nhân lưới ở hành não thì kích chúng, làm tăng tác dung ức chế của nhóm này để chống lại tác dụng của nhóm nhân lưới ở cầu não. Các nhân của nhóm này tạo nên hệ thống cấu tạo lưới ức chế truyền xuống (hình 10-35). Hệ thống này nhận tín hiêu từ vỏ, dưới vỏ và từ tiểu não.
 
 Cả hai nhóm nhân lưới chịu tác dụng điều hòa của các tín hiêu vân đông của vỏ não và của các nơi khác để gây co các cơ kháng trong trường và gây ức chế các nhóm cơ nào đó để động tác được thực hiện theo yêu cầu.
-
-Image /page/255/Figure/5 description: This image shows a diagram of the brain with labels in Vietnamese. The diagram shows the "Hệ thống kích thích truyền xuống" (Descending Excitation System) and the "Hệ thống ức chế truyền xuống" (Descending Inhibition System). The diagram also shows the "Vùng vỏ não ức chế" (Inhibitory Cerebral Cortex), "Các vùng gây ức chế của tiểu não" (Inhibitory Regions of the Cerebellum), "Nhân mái" (Roof Nucleus), "Nhân đỏ" (Red Nucleus), and "Nhân Deiters" (Deiters' Nucleus). The diagram also shows the "Bó tiền đình-tủy (kích thích)" (Vestibulospinal Tract (Excitation)), "Bó lưới - tủy (kích thích)" (Reticulospinal Tract (Excitation)), "Bó đỏ - tủy (ức chế)" (Rubrospinal Tract (Inhibition)), and "Bó lưới - tủy (ức chế)" (Reticulospinal Tract (Inhibition)).
 
 Hình 10-35. Sơ đồ hệ thống lưới truyền xuống
 
@@ -5510,15 +5186,9 @@ Tiểu não chi phối cùng bên: mỗi bên tiểu não liên hệ với tủy
 
 Về giải phẫu và sinh lý so sánh thì tiểu não phát triển theo bậc thang tiến hóa của loài và của cá thể, tiểu não của người là phát triển hơn cả và tiểu não của người lớn hoàn thiện hơn tiểu não trẻ con. Về giải phẫu-chức năng, người ta thấy thùy nhung của tiêu não là phần hình thành sớm nhất, phát triển cùng với hệ thống tiền đình và có chức năng điều hòa thăng bằng. Phần này được gọi là nguyên tiểu não, trung tâm của các phản xạ mê lộ. Về mặt chức năng, thùy trước và thùy sau của tiều não lại được sắp xếp theo trục dọc của tiếu não. Thùy nhộng (vermis) của tiêu não là nơi kiếm soát vận động của thân mình, của cổ, vai và hông. Hai bên thùy nhung là hai bán cầu tiếu não. Mỗi bán cầu lại được phân thành vùng trung gian và vùng bên. Vùng trung gian có liên quan đến cử đông của các chi, đặc biệt là của bàn tay, ngón tay, bàn chân. Vùng bên tham gia vào việc lập trình tự các động tác; tốn thương vùng này làm các động tác mất trật tự theo thời gian và do đó mất sự phối hợp. Thùy trước hình thành sau thùy nhung trong bậc thang tiến hóa nên được gọi là tiểu não cổ, có chức năng điều hòa trương lực và là trung tâm của các phản xa giữ thăng bằng và chỉnh thế. Thùy sau được hình thành muộn nhất nên còn được goi là tiểu não mới, có chức năng điều hòa, phối hợp các động tác phức tap.
 
-Image /page/259/Figure/0 description: This image contains two diagrams, labeled A and B, illustrating the anatomy of the brain and its connections. Diagram A shows the "Tư vỏ não" (cerebral cortex) at the top, with connections to the "Bó vỏ-câu-tiểu não" (corticopontocerebellar pathway). Below this, there are structures labeled "Túi bau duc" (utricle) and "Túi nhỏ" (saccule), connected by "Dây Tiến đinh" (vestibular nerve) to the "Nhân cầu" (nucleus). The diagram also shows "Cac ông ban khuyên" (semicircular canals) and the "Bó cam, giac tới tiêu não" (sensory pathways to the cerebellum). The "Nhân tiến đình" (vestibular nucleus) is indicated, along with "Bo trans-tiến não" (pontocerebellar fibers) and "Bó tiên đinin - tiểu não" (vestibulocerebellar fibers). Further down, there are labels for "Bó tuy - tiếu nao thăng" (spinocerebellar tract), "Bó tiêu não cheo" (cerebellothalamic tract), "Bó Goll và Burdach" (posterior column-medial lemniscus pathway), and "Nhân Betchterev" (lateral vestibular nucleus). There are also structures labeled "Lên vo' não" (ascending to the cortex) and "lhan đó" (red nucleus). Diagram B shows "Bó tiểu năn-đôi th" (cerebellothalamic pathway), "Bó đó - tuy" (rubrospinal tract), "Bo rang - đó - đôi thị" (dentatorubrothalamic tract), "Nhang tiến đinh" (vestibular nuclei), "Tiểu não" (cerebellum), "Bó tiểu não-mai" (cerebelloolivary tract), "Bó đó - tuỷ" (rubrospinal tract), "Bó tram - tủy" (pontocerebellar tract), and "Bó tiến đinh - tuy cheo" (vestibulospinal tract). The diagram also indicates "Bo tiến đinh -tuy thăng" (vestibulospinal tract).
-
-Image /page/259/Figure/1 description: The image shows the text "Hình 10-36 A: Các đường đi đến tiểu não B: Các đường đi khỏi tiểu não".
-
 ### 5. CHỨC NĂNG VẬN ĐÔNG CỦA CÁC NHẤN NÊN NÃO
 
 Các nhân của nền não hoạt động phối hợp chặt chẽ với vỏ não và hệ tháp. Các nhân của nên não chủ yếu nhận tín hiệu từ vỏ não và chủ yếu truyền tín hiệu lên vỏ não. Các nhân này chủ yếu nằm ở bên cạnh đồi thị, sâu trong não. Hầu hết các sợi vận động và cảm giác liên hệ vỏ não với tủy sống đi giữa hai nhân chính là nhân đuôi và nhân đậu (putamen); khối các sơi này đươc gọi là bao trong của não. Các đường liên hệ giữa các nhân nền với các cấu trúc khác rất phức tap trong đó có hai vòng liên hệ quan trong là vòng của nhân đậu và vòng của nhân đuôi.
-
-Image /page/260/Figure/2 description: The image shows two diagrams, labeled A and B, of the human brain and its internal structures. Both diagrams depict a side view of the brain with various regions and components labeled in Vietnamese with English translations in parentheses. Key structures identified include the frontal lobe (Vùng trán trước), motor cortex (Vùng vận động), sensory cortex (Vùng cảm giác), caudate nucleus (Nhân đuôi), putamen (Đậu), subthalamus (Dưới thị), globus pallidus (Cầu nhạt), and substantia nigra (Chất đen). Diagram A includes additional labels such as the anterior and posterior parts of the thalamus (Nhân bụng trước, bụng sau của đôi thị). The diagrams illustrate the connections and relationships between these different brain regions.
 
 Hình 10-37 Các vòng liên hệ ở các nhân nền. Vòng nhân đậu (A) và vòng nhân đuôi (B)
 
@@ -5580,8 +5250,6 @@ Hình 10-38 mô tả tổ chức đại cương của hệ giao cảm với hai 
 
 Một số sợi hậu hạch giao cảm quay trở lại dây thần kinh tủy qua nhánh thông xám ở mọi đốt tủy (hình 10-39). Con đường này gồm các sợi C đi tới cơ vân ở khắp cơ thể. Các sơi này chi phối các mạch máu, tuyến mồ hôi, cơ dựng lông. Có khoảng 8% các sơi thần kinh tới cơ vân là các sợi giao cảm, chứng tổ chúng có vai trò quan trong.
 
-Image /page/264/Figure/1 description: This image shows a diagram of the human nervous system. The diagram includes the following labels: Mat (eye), Tim (heart), Phe quan (bronchi), Mon vi (pylorus), Tuy thuong than (adrenal gland), Than (kidney), Nieu quan (ureter), Ruot (intestine), Van hoi - manh trang (ileocecal valve), Co that hau mon (anal sphincter), Co detrusor (detrusor muscle), Tam giac (triangle), Co dung long (arrector pili muscle), Tuyen mo hoi (sweat gland), Mach mau (blood vessel), Hach tang (celiac ganglion), and Dam roi ha vi (inferior hypogastric plexus).
-
 Hình 10-38 Sơ đồ hệ thần kinh giao cảm.
 
 Các sợi giao cảm không phân bố giống như các sợi thần kinh tủy bắt nguồn từ cùng môt đốt tủy sống. Ví dụ: các sơi giao cảm xuất phát từ đốt tủy L1 thường đi lên theo chuỗi hach tới đầu; từ đốt L2 tới cổ, từ L3, L4, L5, L6 lên ngực, từ L7, L8, L9, L10 và L11 tới bụng, từ L12, TL1 và TL2 tới chi dưới.
@@ -5589,8 +5257,6 @@ Các sợi giao cảm không phân bố giống như các sợi thần kinh tủ
 Sự phân bố thần kinh giao cảm tới tang phụ thuộc vào vị trí hình thành nên tang lúc còn bào thai. Ví du: tim nhân nhiều sơi giao cảm xuất phát từ đốt sống cổ vì tim có nguồn gốc từ cổ của bào thai. Tương tự như vậy, các tạng trong ổ bụng nhận các sợi giao cảm từ các đoạn thấp của ngực vì phần lớn ruột là xuất phát từ khu vực này.
 
 Các sợi giao cảm tận cùng ở tủy thượng thận thì đi thẳng từ sừng bên chất xám tủy mà không dừng và tạo synap ở đâu cả. Tại tủy thượng thận, chúng tận cùng trực tiếp ở các nơron đã biến đổi thành các tế bào bài tiết adrenalin và noradranalin. Về mặt bào thai học thì các tế bào này có nguồn gốc là mô thần kinh và tương tự như nơron hậu hạch giao cảm. Chúng có các sơi thần kinh thô sơ và chính các sơi này bài tiết các hormon trên.
-
-Image /page/265/Figure/2 description: This image shows a diagram of the spinal cord and its connections to the autonomic nervous system. The spinal cord is shown on the left side of the image, and the autonomic nervous system is shown on the right side of the image. The spinal cord is labeled with the following terms: "Rễ sau", "Sừng bên", and "Ruột". The autonomic nervous system is labeled with the following terms: "Dây thần kinh tủy sống", "Nhánh thông trắng", "Nhánh thông xám", "Chuỗi giao cảm", "Sợi tiên hạch", "Hạch ngoại biên", "Sợi hâu hạch", "Tận cùng vận động", and "Tận cùng cảm giác".
 
 Hình 10-39. Sơ đồ liên quan giữa tủy sống, chuối hach giao cảm, dây thần kinh tủy và sơi giao cảm ngoại vi.
 
@@ -5601,8 +5267,6 @@ Sơ đồ của hệ phó giao cảm được minh họa trên hình 10-40. Các
 Các sợi phó giao cảm trong dây III tới chi phối cơ co đồng tử, các cơ thể mi của mắt. Các sợi trong dây VII đi tới tuyến lệ, tuyến dưới hàm, các sợi trong dây IX thì tới tuyến mang tai.
 
 Các sơi phó giao cảm ở tủy cùng tới chi phối đai tràng xuống, trưc tràng, bàng quang và phần thấp của niệu quản. Các sơi phó giao cảm của tủy cùng cho các nhánh tới chi phối cơ quan sinh dục ngoài, gây kích thích.
-
-Image /page/266/Figure/2 description: This image shows a diagram of the human body with labels in Vietnamese. The diagram includes the brain, eyes, nose, mouth, heart, stomach, intestines, rectum, bladder, and other organs. The labels identify the different parts of the body.
 
 Hình 10-40. Sơ đồ hệ thần kinh phó giao cảm.
 
@@ -5680,16 +5344,16 @@ Thêm nữa, trong khi giao cảm kích thích một cơ quan thì phó giao c�
 
 | Receptor alpha           | Receptor beta              |
 |--------------------------|----------------------------|
-| Co mạch                  | Giãn mạch β2               |
-| Giãn đồng tử             | Tăng nhịp tim β1           |
-| Giãn ruột                | Tăng lực co cơ tim β1      |
-| Co cơ thắt trơn của ruột | Giãn ruột β2               |
-| Co cơ dựng lông          | Giãn cơ tử cung β2         |
-| Co cơ bàng quang         | Giãn phế quản β2           |
-|                          | Tăng sản nhiệt β2          |
+| Co mach                  | Gian mach B2               |
+| Gian đồng tử             | Tăng nhịp tim ß1           |
+| Gian ruôt                | Tăng lực co cơ tim ß1      |
+| Co cơ thắt trơn của ruôt | Gian ruôt B2               |
+| Co cơ dựng lông          | Gian cơ tử cung ß2         |
+| Co cơ bàng quang         | Gian phế quản β2           |
+|                          | Tăng sản nhiêt ß2          |
 |                          | Tăng phân giải glycogen β2 |
-|                          | Tăng phân giải lipid β1    |
-|                          | Giãn cơ trơn bàng quang β2 |
+|                          | Tăng phân giải lipid ß1    |
+|                          | Gian cơ trơn bàng quang ß2 |
 
 Bảng 10-1 Các receptor adrenergic và tác dung
 
@@ -5725,27 +5389,44 @@ Kích thích phó giao cảm làm giảm sức bơm của tim nhưng hầu như 
 
 Hệ giao cảm và hệ phó giao cảm hoạt động liên tục và mức hoạt động cơ sở của chúng được gọi là trương lực giao cảm và trương lực phó giao cảm. Giá trị của trương lưc là nó cho phép môt hê làm tăng hay giảm hoat động của một cơ quan nhất định nào đó. Ví dụ: trương lực giao cảm bình thường giữ cho hấu hết các tiểu động mạch vòng đại tuần hoàn co lại làm cho đường kính của chúng bằng một nửa của đường kính tối đa. Nếu kích thích giao cảm thì các mạch này có thể co thêm nữa nhưng nếu ức chế trương lực bình thường thì chúng có thể giãn rộng ra. Hệ giao cảm hoạt động có xu hướng liên tục chỉ gây ra co mach, không bao giờ gây giãn mạch cả.
 
-| Cơ quan                                                           | Tác dụng của giao cảm                                                        | Tác dụng của phó giao cảm                                         |
-|-------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| Mắt - Đồng tử<br>- Cơ thể mi                                      | Giãn<br>Giãn nhẹ (nhìn xa)                                                   | Co<br>Co rút (nhìn gần)                                           |
-| Tuyến-Mũi- Nước mắt<br>- Mang tai<br>- Dưới hàm<br>- Dạ dày - Tuy | Co mạch và bài tiết nhẹ                                                      | Kích thích bài tiết<br>tăng thể tích và<br>tăng nồng độ các enzym |
-| Tuyến mồ hôi                                                      | Bài tiết nhiều (cholinergic)                                                 | Tiết mồ hôi lòng bàn tay                                          |
-| Tim<br>- Mạch vành<br>- Cơ tim                                    | Giãn (β2), co (α)<br>Tăng nhịp. Tăng lực co                                  | Giãn<br>Giảm nhịp, Giảm lực co                                    |
-| Phổi - Tiểu phế quản<br>- Mạch máu                                | Giãn<br>Co vừa                                                               | Co<br>Giãn?                                                       |
-| Ruột<br>- Cơ thắt<br>- Lòng ruột                                  | Tăng trương lực<br>Giảm nhu động và trương lực                               | Giãn<br>Tăng nhu động và trương lực                               |
-| Gan                                                               | Giải phóng glucose                                                           | Tăng nhẹ tổng hợp glycogen                                        |
-| Túi mật và đường mật                                              | Giãn                                                                         | Co                                                                |
-| Thận                                                              | Giảm lọc và giảm tiết renin                                                  | Không có tác dụng                                                 |
-| Bàng quang<br>- Cơ detrusor<br>- Cơ tam giác                      | Giãn nhẹ<br>Co                                                               | Co<br>Giãn                                                        |
-| Dương vật                                                         | Xuất tinh                                                                    | Cương                                                             |
-| Tiểu động mạch<br>- Da<br>- Tạng ổ bụng<br>- Cơ vân               | Co<br>Co<br>Co (α adrenergic)<br>Giãn (β 2 adrenergic)<br>Giãn (cholinergic) | Không có tác dụng<br>-<br>-<br>-                                  |
-| Máu - Đông máu<br>-Glucose - Lipid                                | Tăng<br>Tăng                                                                 | -<br>-                                                            |
-| Chuyển hóa cơ sở                                                  | Tăng tới 100%                                                                | -                                                                 |
-| Bài tiết của tủy thượng thận                                      | Tăng                                                                         | -                                                                 |
-| Hoạt động tâm thần                                                | Tăng                                                                         | -                                                                 |
-| Cơ dựng lông                                                      | Co                                                                           | -                                                                 |
-| Cơ vân                                                            | Tăng phân giải glycogen                                                      | -                                                                 |
-| Tế bào mỡ                                                         | Phân giải mỡ                                                                 | -                                                                 |
+| Cơ quan                 | Tác dụng của giao cảm        | Tác dụng của phó giao cầm  |
+|-------------------------|------------------------------|----------------------------|
+| Măt<br>- Đồng tử        | Giãn                         | Co                         |
+| - Cơ thể mi             | Giãn nhẹ (nhìn xa)           | Co rút (nhìn gần)          |
+| Tuyến-Mũi- Nước mắt     |                              | Kích thích bài tiết        |
+| - Mang tai              | Co mạch và bài tiết nhẹ      | tăng thể tích và           |
+| - Dưới hàm              |                              | tăng nồng độ các enzym     |
+| - Dạ dày - Tuy          |                              |                            |
+| Tuyên mô hôi            | Bài tiết nhiều (cholinergic) | Tiết mồ hôi lòng bàn tay   |
+| - Mạch vành<br>Tim      | Gian (β2), co (α)            | Giãn                       |
+| - Co tim                | Tăng nhịp. Tăng lực co       | Giam nhịp, Giam lực co     |
+| - Tiểu phế quản<br>Phối | Giãn                         | Co                         |
+| - Mạch máu              | Co vừa                       | Gian?                      |
+| - Cơ thắt<br>Ruột       | Tăng trương lực              | Giãn                       |
+| - Lòng ruột             | Giam nhu động và trương      | Tăng nhu động và trương    |
+|                         | lực                          | lưc                        |
+| Gan                     | Giai phóng glucose           | Tăng nhẹ tống hợp glycogen |
+| Túi mật và đường mật    | Giãn                         | Co                         |
+| Thân                    | Giam lọc và giám tiết renin  | Không có tác dụng          |
+| Bàng quang              |                              |                            |
+| - Co detrusor           | Gian nhẹ                     | Co                         |
+| - Cơ tam giác           | Co                           | Giãn                       |
+| Dương vật               | Xuất tinh                    | Cuong                      |
+| Tiếu động mạch          |                              |                            |
+| - Da                    | Co                           | Không có tác dụng          |
+| - Tạng ổ bụng           | Co                           |                            |
+| - Cơ vân                | Co (a adrenergic)            |                            |
+|                         | Gian (ß 2 adrenergic)        |                            |
+|                         | Gian (cholinergic)           |                            |
+| Máu - Đông máu          | Tăng                         |                            |
+| -Glucose - Lipid        | Tăng                         |                            |
+| Chuyền hóa cơ sở        | Tăng tới 100%                |                            |
+| Bài tiết của tủy thương | Tăng                         |                            |
+| thận                    |                              |                            |
+| Hoạt động tâm thần      | Tăng                         |                            |
+| Cơ dựng lông            | Co                           |                            |
+| Cơ vân                  | Tăng phân giai glycogen      |                            |
+| Tế bào mỡ               | Phân giải mỡ                 |                            |
 
 Bảng 10-2 Tác dụng của hệ thần kinh thực vật lên các cơ quan
 
@@ -5848,8 +5529,6 @@ Hệ giao cảm được hoạt hóa rất mạnh trong nhiều trạng thái x�
 
 Nhiều vùng của cấu tạo hành não, cầu não và não giữa cũng như nhiều nhân của não có tác dụng điều hòa các chức năng thực vật khác nhau như huyết áp động mạch, nhịp tim, bài tiết của tuyến trong ống tiêu hóa, nhu động của dạ dàyruột, mức độ co cơ bàng quang, v.v. như đã đươc nói đến (hình 10-43)
 
-Image /page/279/Figure/0 description: This image shows a diagram of the human brain. The diagram is labeled with the following terms: "Kiểm soát bàng quang", "Trung tâm pneumotaxic", "Trung tâm tăng nhịp tim", "va co mach", "Trung tâm làm chậm nhịp tim", "Trung tâm hô hấp", "Thể vũ", "Câu nào", "Hành não", "Cân bằng nước", "Trung tâm điều hòa ăn", "Vùng dưới đồi", and "Hậu yên".
-
 Hình 10-41.Các trung tâm điều hòa hê thần kinh thưc vật của thân não vùng dưới đồi
 
 Điều cần nhấn mạnh là các yếu tố quan trong nhất như huyết áp đông mạch, nhịp tim, hô hấp được điều hòa ở phần thấp của thân năo. Trong thưc nghiêm, nếu cắt đứt ngang ở cầu não thì huyết áp vẫn được điều hòa ở nức đô cơ sở nhưng không bị thay đổi do tác động của các trung tâm thần kinh cao hơn. Nếu cắt ngang dưới hành não thì trong nhiều giờ hoác nhiều ngày, huyết áp tut xuống chỉ còn bằng nửa so với trước.
@@ -5916,8 +5595,6 @@ Nhiều chất như tetraethyl ammonium, hexamethonium, pentholium ức chế s�
 
 Mắt có thể ví là một máy quay phim (camera) với một hệ thống thấu kính hội tu, một lỗ có thể điều chỉnh được độ rộng để cho ánh sáng đi qua (đồng tử) và lớp võng mạc của mắt có thể ví với lớp phim nhạy cảm với ánh sáng.
 
-Image /page/282/Figure/4 description: The image shows a diagram of the human eye. The diagram includes labels for different parts of the eye, such as the "Dich kinh" (1.34), "Nhân" (1.40), "Thủy dich" (1.33), "Giác mac" (1.38), and "Không khí" (1.00). The diagram also shows the path of light rays as they enter the eye and focus on the retina. The words "Anh" and "Vat" are also present in the image.
-
 Hình 10-42. Sơ đồ cắt ngang của mắt với các giao diện khúc xa
 
 ### 1.1 HỆ THỐNG THẤU KÍNH CỦA MẮT CÓ BỐN GIAO DIỆN KHÚC XẠ ÁNH SÁNG:
@@ -5937,8 +5614,6 @@ Tổng đại số các hệ số khúc xạ của các giao diện cho ta một
 ### 1.2 KHẢ NĂNG THÍCH NGHI CỦA MẮT ĐỂ NHÌN XA-GẦN:
 
 1.2.1 Điều quan trọng là nhân mắt có thể thay đổi độ cong một cách đáng kể để điều chỉnh độ hội tụ sao cho ảnh nằm trên võng mạc. Ở trẻ con, nhân mắt có thể tăng độ hôi tụ tới 14 diop (từ 20 lên 34 diop) do nó tăng độ cong lên nhiều. Cơ chế xay ra như sau:
-
-Image /page/283/Figure/3 description: This image shows two diagrams of the human eye. The top diagram is a cross-sectional view of the eye, showing the cornea (Giac mac), sclera (Cung mac), ciliary body (Day chang), zonules (Soi vong), and choroid (Mang mach). The bottom diagram is a front view of the eye, showing the ciliary muscle (Co the mi), ciliary body (Day chang), and pupil (Nhan mat).
 
 Hình 10-43. Cơ chế điều chỉnh tiêu cư
 
@@ -5964,8 +5639,6 @@ Các cơ thể mi hầu như hoàn toàn bị thần kinh phó giao cảm chi ph
 
 1.5 Thị lược Về lý thuyết thì ảnh của tia sáng từ môt điểm ở xa mắt sẽ là môt điểm rất nhỏ trên võng mac. Tuy vây, hê thấu kính của mắt không phải là môt hê lý tưởng: khi hội tụ mạnh nhất thì ảnh của điểm sáng trên võng mạc cũng có đường kính khoảng 11 µm. Anh sáng rõ nhất ở phần trung tâm, càng ra phía ngoài thì càng mờ hơn. Các tế bào nón tập trung nhiều ở vùng fovea (hố trung tâm võng mạc) là nơi nhìn rõ nhất. Mỗi tế bào nón có đường kính khoảng 1,5 µm (tức là 1.7 đường kính ảnh của chấm sáng). Người ta phân biệt rõ hai điểm nếu ảnh của hai điểm rơi vào hai tế bào nón, tức là ảnh của chúng nằm cách nhau 2 µm trên võng mạc. Thị lực của mắt là khả năng phân biệt các nguồn sáng nằm sát nhau. Nếu mắt bình thường thì có thể phân biệt hai điểm sáng tạo một cung 0,45 độ (phân biệt được hai điểm cách mắt 10 mét và cách nhau 2 mm). Do đường kính của vùng fovea vào khoảng 500 µm nên vùng nhìn rõ nhất của mắt chỉ là 3 độ của thị trường; ngoài vùng này thì thị lực giảm dần từ 5 đến 10 lần và càng xa trung tâm võng mạc thì thị lực càng giảm. Nguyên nhân gây nên điều này là ở ngoài vùng fovea thì nhiều tế bào nón cùng nối với một sơi thần kinh. Đế đo thị lực, người ta cho đối tượng đọc các bảng chữ cái hoặc hình mẫu có kích thước khác nhau đặt ở một khoảng cách quy định. Thị lực được xác định là tỷ số giữa khoảng cách mà ở đó người ấy nhìn rõ với khoảng cách quy định tức là tỷ số giữa thị lực của người ấy so với thị lực bình thường (ví dụ: khoảng cách quy định là 5 m, nếu ở khoảng cách này, đối tượng đọc được cả bảng thì thị lực của đối tượng là 5/5 tức là 10/10; nếu chỉ đọc được các chữ cái đáng lẽ ra phải đọc được ở khoảng cách 50 m thì thị lực chỉ là 5/50 tức là 1/10).
 
-Image /page/286/Picture/0 description: The image shows diagrams of the human eye and how light focuses on the retina. The left side of the image shows two diagrams of the eye with light rays entering the eye and focusing on a point in front of or behind the retina. The diagrams are labeled with the terms "Nhan" (eye), "Tieu diem" (focal point), and "Nguon sang" (light source). The right side of the image shows three diagrams of the eye with light rays entering the eye and focusing on the retina. The top diagram is labeled "Binh thuong" (normal), the middle diagram is labeled "Vien thi" (farsightedness), and the bottom diagram is labeled "Can thi" (nearsightedness).
-
 Hình 10-44 Ánh hưởng của độ mở đồng tử lên tiêu cư và độ nét của ảnh.
 
 Hình 10-45 Các tật về khúc xạ của mắt.
@@ -5982,8 +5655,6 @@ Trong nhãn cầu có các dịch tạo nên áp suất để nhãn cầu khỏi
 
 2.2 Nhãn áp: áp suất trong mắt là từ 12 đến 20 mm Hg và được giữ cố đinh, chỉ dao động ± 2 mm Hg. Ap suất này là do sức cản lên dòng chảy của thủy dịch từ tiền phòng vào ống Schlemm. Sức cản này là do các trabeculae gây ra vì chúng tao ra một cái góc trên dòng của thủy dịch. Mỗi phút các trabeculae lai mở ra khoảng 2-3 µm làm tăng áp suất, do đó làm tăng lượng thủy dịch chảy vào ống Schelemm. Nguyên nhân chính gây tăng nhãn áp là do thủy dịch khó chẩy vào ống Schelemm (ví du trong viêm mắt cấp, ở người già thì do các sơi xơ làm tắc các khoang của trabeculae). Nếu nhãn áp tăng quá mức hoặc tăng cao kéo dài thì gây chứng thiên đầu thống (glaucoma) là một trong những nguyên nhân chính gây mù lòa vì áp suất cao sẽ ngăn dòng bào tương trong các tế bào võng mac, chèn ép các động mạch võng mạc, làm tế bào không được nuôi dưỡng và chết. Để điều trị thiên đầu thống, người ta nhỏ thuốc có tác dung làm tiết hoặc làm tăng sự hấp thu thủy dịch; nếu phương pháp này thất bại thì phải mổ để tạo điều kiện cho thủy dich lưu thông.
 
-Image /page/287/Figure/2 description: This image is a diagram of the human eye. The diagram shows the different parts of the eye, including the cornea, iris, lens, retina, and optic nerve. The diagram also shows the flow of fluid through the eye. The text in the image labels the different parts of the eye in Vietnamese. The labels include: Thủy dịch (aqueous humor), Dòng chảy của dịch (flow of fluid), Nhân (lens), Dịch kính (vitreous humor), Mống mắt (iris), Dây thần kinh thị giác (optic nerve), Ông Thể mi (ciliary body), Khuếch tán dịch và các thành phần (diffusion of fluid and components), and Khuếch tán Loc ở mạch võng mạc (diffusion of the retina).
-
 Hình 10-28. Sự hình thành và tuần hoàn của các dịch trong mắt
 
 ### 3.1 ĐẶC ĐIỂM CẤU TRÚC VÀ CHỨC NĂNG
@@ -5994,17 +5665,11 @@ Võng mạc có nhiều lớp (hình 10-47). Ánh sáng đi tới võng mạc sa
 
 3.1.2 Vùng fovea: Ở phần trung tâm võng mạc có một vùng rộng khoảng 1 mm² được gọi là vùng macula. Trung tâm của vùng macula là vùng fovea có đường kính chừng 0,4 mm. Vùng fovea chỉ có các tế bào nón mảnh hơn các tế bào nón ở vùng ngoài võng mac, có cấu trúc đăc biệt làm chúng có thể phát hiện các chi tiết của ảnh. Tại vùng này, các mạch máu, tế bào hach, các lớp nhân trong, lớp rối bi xếp ra phía ngoài chứ không nằm ngay trên lớp tế bào nón nên ánh sáng đi thẳng tới chúng.
 
-Image /page/288/Figure/5 description: This image shows a diagram of the layers of the retina, with labels in Vietnamese. The layers are, from top to bottom: Lớp sắc tố (pigment epithelium), Lớp tế bào nón và que (photoreceptor layer), Màng ngoài (outer limiting membrane), Lớp nhân ngoài (outer nuclear layer), Lớp rối ngoài (outer plexiform layer), Tế bào ngang (horizontal cells), Lớp nhân trong (inner nuclear layer), Sợi Müller (Müller cells), Tế bào amacrin (amacrine cells), Lớp rối trong (inner plexiform layer), Tế bào hạch (ganglion cells), Lớp hạch (ganglion cell layer), and Màng trong (inner limiting membrane). Two arrows at the bottom of the image point upwards and are labeled ÁNH SÁNG (light).
-
 Hình 10-47.Sơ đồ câu trúc các lớp tế bào nón và tế bào que
 
 3.1.3 Tế bào nón và tế bào que. Receptor thị giác là tế bào nón và tế bào que. Cả hai đều là tế bào nhân cảm ánh sáng (photoreceptor). Tế bào que thường mảnh và dài hơn tế bào nón nhưng tế bào que ở phần rìa võng mạc thì hơi lớn hơn tế bào nón ở vùng fovea (2-5 µm so với 1,5 µm). Mỗi receptor có bốn phần chức năng chính là đoạn ngoài, đoạn trong, nhân và thể synap (hình 10-48). Ở phần ngoài có chất nhậncảm hóa học (ở tế bào que là rhodopsin, ở tế bào nón là một trong các chất nhận cảm màu). Phần trong chứa bào tương và các bào quan, đặc biệt là có nhiều ty lạp thế đóng vai trò quan trong việc cung cấp năng lương cho hoat đông chức năng của tế bào. Thể synap của receptor là phần tiếp nối với các tế bào làm nhiệm vụ chuyển tiếp tín hiệu như tế bào lưỡng cực, tế bào ngang.
 
-Image /page/289/Figure/1 description: This image shows two diagrams of a rod cell, a type of photoreceptor cell in the retina of the eye. The diagram on the left shows the different parts of the rod cell, including the outer segment, inner segment, nucleus, and synaptic terminal. The outer segment contains rhodopsin, a light-sensitive pigment. The inner segment contains the cell's organelles, such as the nucleus and mitochondria. The nucleus contains the cell's DNA. The synaptic terminal is where the rod cell communicates with other neurons in the retina. The diagram on the right shows the flow of sodium ions (Na+) in the rod cell. In the dark, sodium ions flow into the cell, depolarizing it. When light strikes the rhodopsin in the outer segment, it causes the sodium channels to close, hyperpolarizing the cell. This change in membrane potential is what allows the rod cell to signal to other neurons in the retina. The text in the image is in Vietnamese.
-
 Hình 10-48. Sơ đồ các phần chức năng của tế bào nón và tế bào que
-
-Image /page/289/Figure/3 description: The image shows the text "Hình 10-49. Hiện tượng ưu phân cực do rhodopsin bị phân giải".
 
 3.1.4 Sắc tố võng mạc. Lớp sắc tố đen (melanin) có tác dụng không cho ánh sáng phản xạ trong nhãn cầu, nhờ đó nhìn vật được rõ (giống như vai trò của màu đen bên trong hộp đưng phim của máy quay phim). Nếu không có lớp này, ánh sáng ở trong mắt sẽ phản xạ theo mọi hướng và gây ra hiện tượng tán xạ ở võng mạc khiến độ tương phản của ảnh giảm rất nhiều. Người mắc chứng bach tạng (một bệnh di truyền, bị thiếu melanin ở moi mô) có thi lực rất kém, nhất là khi nhìn ở chỗ sáng vì có nhiều tia sáng vào mắt rồi lai phản xa, kích thích nhiều tế bào nón hơn bình thường. Lớp sắc tố còn chứa nhiều vitamin A là một chất rất cần thiết cho sự nhìn. Vitamin A từ lớp này được trao đổi qua lai với phần ngoài của các tế bào nón và tế bào que là phần nằm trong lớp sắc tố.
 
@@ -6020,15 +5685,11 @@ Dưới tác dụng của năng lượng ánh sáng, chỉ trong vòng vài ph�
 
 Sau đấy, retinal 11-trans được chuyển thành retinal 11- cis nhờ tác dung xúc tác của retinal isomerase. Chất retinal 11- cis lại kết hợp với scotopsin để tạo thành rhodopsin.
 
-Image /page/290/Figure/5 description: This image shows a diagram of the visual cycle. The cycle starts with Rhodopsin, which is converted to Bathorhodopsin by Năng lượng ánh sáng (light energy). Bathorhodopsin is converted to Lumirhodopsin, then to Metarhodopsin I, and finally to Metarhodopsin II. Metarhodopsin II is converted to All-trans-Retinal, which can be converted to All-trans-Retinol (Vitamin A) by Isomerase. All-trans-Retinol can be converted back to All-trans-Retinal by Isomerase. All-trans-Retinal is converted to Scotopsin, which is converted to 11-cis-Retinal. 11-cis-Retinal can be converted to 11-cis-Retinol by Isomerase. 11-cis-Retinol can be converted back to 11-cis-Retinal by Isomerase. 11-cis-Retinal is converted back to Rhodopsin. The time scales for each conversion are also shown in the diagram. Rhodopsin to Bathorhodopsin takes place in (psec), Bathorhodopsin to Lumirhodopsin takes place in (n sec), Lumirhodopsin to Metarhodopsin I takes place in (μ sec), Metarhodopsin I to Metarhodopsin II takes place in (m sec), and Metarhodopsin II to Scotopsin takes place in (sec). Scotopsin to Rhodopsin takes place in Phút.
-
 Hình 10-50. Chuyển hóa của rhodopsin.
 
 Vai trò của vitamin A: môt con đường khác để tái tao retinal 11- cis từ rhodopsin trans là từ retinal 11-trans chuyển thành retinol 11-trans (là một dạng của vitamin A) rồi chất này được chuyển thành retinol 11- cis nhờ tác dung của isomerase. Cuối cùng, retinol 11- củs lai chuyển thành retinal 11- cis. Vitamin A có trong bào tương của tế bào nón và tế bào que: điều này chứng tỏ nó luôn luôn sẵn sàng cho tế bào tổng hợp retinal khi cần. Mặt khác, ì:hi trong các tế bào võng mạc có thừa retinal thì lương thừa lai được chuyển thành vitamin A. Sự chuyển dạng giữa retinal và vitamin A rất quan trọng đối với sự thích nghi dài hạn của mắt đối với cường độ ánh sáng. Thiếu vitamin A dẫn đến thiếu retinal và gây bệnh quáng gà: khi ánh sáng yếu thì nhìn không rõ vì cần phải có nhiều ánh sáng mới kích thích được các tế bào que. Thiếu vitamin A còn gây bênh khô giác mac, làm giác mac dễ bị tổn thương và gây mù loà.
 
 3.2.2. Photopsin và tế bào nón. Chất nhay cảm với màu của tế bào nón là phức hợp của retinal và các photopsin. Các chất này chỉ khác rhodopsin của tế bào que ở phần protein: đó là các photopsin chứ không phải là scotopsin. Có ba loại photopsin khác nhau: một loại hấp phụ mạnh nhất đối với bước sóng 445 nm (úng với màu lam), một loại với bước sóng 535 nm (ứng với màu lục), một loại với bước sóng 570 nm (ứng với màu đỏ). Trong mỗi tế bào nón có môt loai photopsin, nên mỗi tế bào nón nhạy cảm tối đa với một bước sóng nhất định. Điều này giải thích vì sao võng mac phân biệt được màu (Hình 10-51).
-
-Image /page/291/Figure/2 description: The image is a graph showing the absorption of light by different colors. The x-axis is labeled "Nanomet" and ranges from 400 to 700. The y-axis is labeled "Hấp phụ ánh sáng (% so với tối đa)" and ranges from 0 to 100. There are six curves on the graph, each representing a different color: "Tim", "Lam", "Lục", "Vàng", "Da cam", and "Đỏ". The curves show the absorption of light by each color at different wavelengths. The graph also includes the labels "Non lam", "Que", "Nón luc", and "Nón đỏ".
 
 Hình 10-51. Sư hập phu với các bước sóng của ba loai tế bào nón.
 
@@ -6051,8 +5712,6 @@ Một người đã ở chỗ sáng nhiều giờ được đưa vào một phò
 3.4.1. Tất cả moi thuyết về nhìn màu đều dưa trên nhân xét là từ ba màu cơ bản (lam, lục, đỏ) có thể tạo ra được tất cả mọi màu bằng cách pha trộn chúng theo những tỷ lê khác nhau. Điều này phù hợp với việc các tế bào nón khác nhau có chất nhạy cảm với các ánh sáng có bước sóng khác nhau như đã trình bày ở phần trên.
 
 3.4.2. Sư hấp phu của mỗi loại tế bào nón đối với các bước sóng cũng giải thích phần lớn cơ chế nhìn màu và phân biết sắc đô của màu (Hình 10-51). Trên hình 10-52. chúng ta thấy màu da cam đơn sắc có bước sóng 580 nm thì kích thích tế bào nón nhạy cảm với ánh áng đỏ tới 99%, kích thích tế bào nón nhay cảm với ánh sáng lục khoảng 42 % và hoàn toàn không kích thích tế bào nón nhạy cảm với ánh sáng lam. Như vậy, tỷ lệ bị kích thích của ba loại tế bào nón là 99:42:0. Não sẽ coi tỷ lệ này là cảm giác màu da cam. Anh sáng đơn sắc màu lam có bước sóng 450nm, thì không kích thích tế bào nón nhạy cảm với màu đổ và tế bào nón nhạy cảm với màu lục trong khi đó lại kích thích tế bào nón nhay cảm với màu lam tới 97%. Tỷ lệ lúc này 0:0: 97 và tỷ lê này được hệ thần kinh coi là màu lam. Tương tự như thế, tỷ lệ 83:83:0 được coi là màu vàng, tỷ lê 31:67:36 được coi là xanh lục. Người ta cho rằng khi các tế bào nón bi kích thích gần như nhau thì cho cảm giác màu trắng tương tự như khi pha trộn ba màu cơ bản trên vì ánh sáng trắng gồm tất cả các bước sóng trong phổ ánh sáng khả kiến.
-
-Image /page/293/Figure/1 description: This image is a graph showing the absorption of light by different colors. The x-axis represents the wavelength of light in nanometers, ranging from 400 to 700. The y-axis represents the percentage of light absorbed, ranging from 0 to 100. There are three curves on the graph, each representing a different color: lam (blue), luc (green), and do (red). The lam curve peaks at 97% absorption around 450 nm. The luc curve peaks at 83% absorption around 530 nm. The do curve peaks at 99% absorption around 600 nm. The graph also shows the absorption percentages for each color at different wavelengths. For example, at 500 nm, the absorption percentages for lam, luc, and do are 31%, 67%, and 36%, respectively. At 575 nm, the absorption percentages for lam, luc, and do are 0%, 83%, and 42%, respectively. The graph also includes a table at the bottom that lists the colors in order of increasing wavelength: tim (violet), lam (blue), luc (green), vang (yellow), cam (orange), and do (red).
 
 Hình 10-52. Sự hưng phấn của các loại tế bào nón khi bi các ánh sáng đơn sắc kích thích
 
@@ -6084,7 +5743,7 @@ Các tế bào hach loại Y là loại lớn nhất, có đường kính tới 
 
 Các sợi thần kinh thị giác xuất phát từ các tế bào hạch và đi tới não. Khoảng cách
 
-này dài nên sự đẫn truyền bằng dòng điện (xem 4.3) không thích hợp nữa; tín hiêu được tế bào hạch truyền đi theo điện thể hoạt động. Lúc không bị kích thích thì tân số xung của chúng là 5 - 40 xung/sec. Khi tế bào hạch bị kích thích thì thoạt tiên tần số xung tăng lên rất nhanh rồi sau đó giảm đi một chút. Trong khi một tế bào hạch bị kích thích thì tế bào hạch nằm ở chỗ tối ngay kề đó bị ức chế. Khi không bị kích thích nữa thì hiện tương xảy ra hoàn toàn ngược lại: tế bào vừa bi kích thì không phát xung nữa còn tế bào kể đó khi trước bị ức chế thì nay lai phát nhiều xung. Đây là đáp ứng "bật-tắt". Nguyên nhân của hiện tượng này là do sự khử cực và ưu phân cưc của các tế bào lưỡng cực và tính nhất thời đáp ứng là do các tế bào amacrin gây ra vì chính các tế bào này cúng có tính chất đáp ứng nhất thời. Khả năng phát hiện sự thay đổ ánh sáng của các vùng của giác mạc là như nhau.
+này dài nên sự đẫn truyền bằng dòng điện (xem 4.3) không thích hợp nữa; tín hiêu được tế bào hạch truyền đi theo điện thể hoạt động. Lúc không bị kích thích thì tân số xung của chúng là 5 - 40 xung/sec. Khi tế bào hạch bị kích thì thì thoạt tiên tần số xung tăng lên rất nhanh rồi sau đó giảm đi một chút. Trong khi một tế bào hạch bị kích thích thì tế bào hạch nằm ở chỗ tối ngay kề đó bị ức chế. Khi không bị kích thích nữa thì hiện tương xảy ra hoàn toàn ngược lại: tế bào vừa bi kích thì không phát xung nữa còn tế bào kể đó khi trước bị ức chế thì nay lai phát nhiều xung. Đây là đáp ứng "bật-tắt". Nguyên nhân của hiện tượng này là do sự khử cực và ưu phân cưc của các tế bào lưỡng cực và tính nhất thời đáp ứng là do các tế bào amacrin gây ra vì chính các tế bào này cúng có tính chất đáp ứng nhất thời. Khả năng phát hiện sự thay đổ ánh sáng của các vùng của giác mạc là như nhau.
 
 - Các tế bào nằm giữa các lớp rối truyền tín hiệu theo chiều ngươc lai, từ lớp rối trong ra lớp rối ngoài. Các tín hiệu này đều là các tín hiệu ức chế lên các tế bào ngang ở lớp ngoài. Có lẽ các tế bào này có chức năng điều tiết độ tương phản của hình ảnh.
 
@@ -6106,8 +5765,6 @@ Trong số các tế bào thần kinh có ở võng mạc, chỉ có tế bào h
 
 ### 5.1. CÁC ĐƯỜNG DẪN TRUYÊN CỦA DÂY THẤN KINH THI GIÁC (HÌNH 10-53)
 
-Image /page/297/Figure/4 description: This image shows a diagram of the human visual system. The diagram includes the eyes, optic nerves, optic chiasm, optic tracts, lateral geniculate nucleus, optic radiations, and visual cortex. The diagram also includes labels for the different parts of the visual system, such as "Thai duong" (temple), "Mui" (nose), "Loi cu va tuyen yen" (optic nerve and pituitary gland), "Cheo thi" (optic chiasm), "Day thi" (optic tract), "Dai thi" (optic radiation), "Lop thi" (visual cortex), "The goi ngoai" (lateral geniculate nucleus), "Cu nao sinh tu truoc" (superior colliculus), "Nhan dong tu" (pupillary light reflex), "Lien he cam giac - van dong" (sensory-motor association area), "Vung 18" (area 18), "Vung 17" (area 17), and "Dai doc sau" (posterior commissure).
-
 Hình 10-53. Sơ độ các đường dẫn truyền thị giác.
 
 \* Các tín hiệu thị giác rời khỏi võng mạc theo dây thần kinh thị giác. Tới chéo thi giác, tất cả các sợi phía mũi của võng mạc bắt chéo sang bên đối diên và hợp với các sợi phía thái dương của võng mạc bên kia để tạo nên dải thị giác. Các sợi của dải thi giác đi tới nhân gối sau bên. Từ nhân này các sơi đi theo tia thì giác tới vỏ não sơ cấp nằm ở thuỳ chẩm.
@@ -6123,8 +5780,6 @@ Ngoài ra, các sợi thị giác cũng còn đi tới các vùng cổ hơn củ
 - Tới nhân gối trước bên của đồi thị rồi từ đó tới các vùng đáy của não ở xung quanh (có lẽ tham gia vào việc kiếm soát một số chức năng thuộc về hành vi).
 
 Các đường dẫn truyền thị giác tận cùng ở các phần dưới vỏ được gọi là đường dẫn truyền cũ còn đường dẫn truyền tới vỏ não được gọi là đường dẫn truyền mới. Ở người, con đường mới chịu trách nhiệm về hầu như tất cả các phương diện của cảm giác thị giác: hình thế, màu sắc và nhận thức thị giác.
-
-Image /page/298/Figure/6 description: This image contains two diagrams, labeled A and B, illustrating different regions of the brain. Diagram A shows a section of the brain with several labeled areas: "Vùng thị giác thứ cấp" (secondary visual area), "Vùng thị giác sơ cấp" (primary visual area), "Rãnh sau" (posterior sulcus), and "Macuta." Numerical labels "20'," "50'," and "90'" are also present. Diagram B depicts another section of the brain with labels such as "Vùng vận động" (motor area), "Vùng cảm giác S1" (sensory area S1), "(Hình thể Khối ba chiều chuyển động)" (shape, three-dimensional object, movement), "Chi tiết Màu sắc" (details, color), and numerical labels "-18" and "17."
 
 ### 5.2. CÁC VÙNG NHẬN CẢM THI GLÁC TRÊN VÓ NÃO (HÌNH 10-54)
 
@@ -6156,8 +5811,6 @@ Khi nhìn vào một vật, các truc của mắt hướng về vât đó và đ
 
 Muốn nhìn rõ vật thì hệ thống thấu kính của mắt phải có khả năng điều chỉnh độ hội tụ. Sự điều tiết này là do sự co giãn của cơ thể mi và được thực hiện bởi một cơ chế feedback âm, tự động điều tiết độ hội tụ của nhân mắt. Mắt có khả năng điều tiết đô hội tụ rất nhanh: nếu mắt đang cố đinh nhìn môt vật ở xa mà chuyển đốt ngôt sang nhìn một vật ở gần thì chỉ cần khoảng 1 sec là mắt đã điều chỉnh được tiêu cư để nhìn rõ vât. Cơ chế điều tiết tiêu cư là một cơ chế phức tap và còn chưa được biết hết. Mắt bao giờ cũng điều tiết chính xác tiêu cự và điều này còn phụ thuộc vào một số yếu tố nữa như: thay đổi màu sắc (điều tiết với ánh sáng đỏ châm hơn là ánh sáng lam), khi nhìn vật ở gần thì hai mắt chum vào nhau hơn, tiêu cư ở vùng fovea khác với tiêu cư của các điểm khác trên võng mac, khả năng điều tiết của mắt dao đông theo thời gian (2 chu kỳ/sec) ... Vùng vỏ não kiểm soát sự điều tiết của mắt có liên quan chăt chẽ với vùng kiểm soát cử động mắt, với sự tích hợp thông tin thi giác của các vùng 18, 19 của Brodmann và với sư truyền tín hiệu vân động tới cơ thể mi qua vùng trước nhân mái và nhân Edinger-Wesphal.
 
-Image /page/300/Figure/3 description: This image shows a diagram of the human nervous system. The diagram includes labels in Vietnamese, such as "Nhân thức vật dây III (gây co)", "Sợi đồng tử", "Hạch mi", and "Hạch cổ trên". The diagram also includes a section labeled "Trung tâm C8 gây co D2 đồng tử ở tủy".
-
 Hình 10-55. Sơ đồ các đường thần kinh thưc vật làm co giãn đồng tử.
 
 Sư điều chỉnh đô mở của đồng tử phu thuộc vào cường độ ánh sáng tác đông lên mắt. Khi có ánh sáng chiếu vào mắt thì đồng tử co lại; đó là phản xạ với ánh sáng của đồng tử. Phản xa này chịu sự chi phối của hệ phó giao cảm. Kích thích hệ phó giao cảm làm co các cơ vòng đồng tử (Hình 10-55). Nếu kích thần kinh giao cảm thì lai gây giãn đồng tử. Các xung động từ võng mạc theo đường dẫn truyền thị giác tới nhân trên mái. Từ nhân này, các xung động tới nhân Edinger-Wesphal và tới kích thích dây phó giao cảm, gây co đồng tử. Trong chỗ tối thì phản xa này bi ức chế, đồng tử giãn ra. Phản xa với ánh sáng của đồng tử có tác dụng làm cho mắt thích nghi rất nhanh chóng với sư thay đổi về cường đô ánh sáng. Đường kính nhỏ nhất của đồng tử là khoảng 1,5 mm và lớn nhất là khoảng 8 mm. Phản xa đổi với ánh sáng của đồng tử có thể làm cho khả năng thích nghi với ánh sáng tăng lên 30 lần.
@@ -6174,13 +5827,9 @@ Cử động của nhãn cầu là do ba cặp cơ của nhãn cầu:
 
 Các cơ nhãn cầu bị chi phối bởi các căp dây thần kinh so số III, IV, VI (Hình 10-56). Các nhân này có liên hệ với nhau qua bó dọc giữa, các đường liên hệ này làm cho khi một cơ co thì cơ cùng cặp với nó lai giãn (phân bố thần kinh đối lập).
 
-Image /page/301/Picture/7 description: This image shows a diagram of the human eye and its surrounding muscles and nerves. The diagram is labeled in Vietnamese. The muscles are labeled as "Co thang tren" (superior rectus muscle), "Co cheo duoi" (inferior oblique muscle), "Co cheo tren" (superior oblique muscle), "Co thang duoi" (inferior rectus muscle), "Co thang giua" (medial rectus muscle), and "Co thang ben" (lateral rectus muscle). The nerves are labeled as N III, N IV, and N VI. The diagram also shows the "Nhan" (nucleus) and "Bo doc giua" (medial longitudinal fasciculus).
-
 Hình 10-56. Các cơ cử động nhãn cầu và các nhân chi phổi.
 
 Cử động của nhãn cầu chịu sự chi phối của các vùng khác nhau của vỏ não (Hình 10-57). Các tín hiệu xuất phát từ các vùng vỏ não ở vùng thị giác ở thùy chẩm qua các bó chẩm-mái, chẩm-colliculus tới vùng trước mái và trên colliculus ở thân não. Ngoài ra còn có bó trán-mái đi từ vỏ não thùy trán tới vùng trước mái. Từ các vùng trước mái và vùng colliculus trên, từ nhân tiền đình, các xung đông tới các nhân cử động nhãn cầu.
-
-Image /page/302/Figure/1 description: This image shows a diagram of the human brain and its connections to the eyes. The diagram is labeled in Vietnamese. The brain is divided into two main regions: the "Vung co dinh nhin co y thuc" (conscious fixed gaze region) and the "Vung co dinh nhin khong y thuc" (unconscious fixed gaze region). The diagram also shows the "Vung lien hop thi giac" (visual association area) and the "Vung thi giac so cap" (primary visual area). The diagram also shows the "Bo tran - mai" (frontal lobe) and the "Bo cham - mai" (parietal lobe). The diagram also shows the "Nhan truoc mai" (prefrontal cortex), the "Nhan day III" (oculomotor nerve), and the "Nhan van nhan" (abducens nerve). The diagram also shows the "Day III" (oculomotor nerve), the "Day IV" (trochlear nerve), and the "Day VI" (abducens nerve). The diagram also shows the "Dai doc giua" (medial longitudinal fasciculus) and the "Nhan tien dinh" (vestibular nucleus).
 
 ### Hình 10-57. Các đường thần kinh kiếm soát và phối hợp cử động nhữn cầu.
 
@@ -6194,13 +5843,9 @@ Các cử động của nhãn cầu có tác dụng cố định mắt vào mụ
 
 Màng nhĩ có hình nón, mặt lõm hướng xuống dưới và ra ngoài ống tai. Gắn vào trung tâm màng nhĩ là cán xương búa. Đầu kia của xương búa gắn chặt với xương đe nhờ các dây chẳng nên khi xương búa cử động thì xương đe cũng cử động theo. Đầu kia của xương đe lai tao khớp với xương bàn đạp, măt phẳng của xương bàn đạp lại tiếp xúc với mê đạo màng của cửa sổ bầu dục. Từ đây, các sóng âm được truyền vào tai trong (ốc tai).
 
-Image /page/303/Picture/4 description: This image shows a diagram of the inner ear. The diagram includes labels for the following parts of the ear: Xương đe, Cầu Fallope, Mặt xương bàn đạp tỳ vào lỗ bầu dục, Tiền đình, Đầu xương búa, Tai trong, Ống tai ngoài, Cán xương búa, Màng nhĩ, and Hòm nhĩ.
-
 Hình 10-58. Sơ đồ cấu tạo tai giữa với màng nhĩ và chuỗi xương nhỏ.
 
 Các xương nhỏ của tai giữa được giữ bởi các dây chẳng, tao thành một hệ thống đòn bẩy. Khi xương búa bị đầy vào trong thì nó đập lên xương đe, xương đe lại tác động lên xương bàn đạp làm xương bàn đạp đề lên dịch của ốc tai; khi xương búa bị đẩy ra phía ngoài thì ngươc lai. Như vây, các cử đông của chuỗi xương nhỏ làm cho màng của cửa sổ bầu dục chuyển động theo. Cán của xương búa luôn luôn bị cơ căng màng nhĩ kéo vào phía trong khiến màng nhĩ luôn căng và điều này làm cho dao động âm xuất phát từ bất kỳ chỗ nào của màng nhĩ cũng đươc truyền tới xương búa.
-
-Image /page/304/Figure/0 description: This image shows a diagram of the inner ear. The diagram includes labels for various parts of the inner ear, including the "Màng cứng", "Túi nội bạch huyết", "Ông nội bạch huyết", "Ông ốc tai", "Màng xương", "Ông bán khuyên", "Bóng sau", "Xương ban đạp", "Cửa sổ tròn", and "Thang nhĩ". The diagram is labeled with the letter "A" in the bottom left corner.
 
 Hình 10-59. A Ôc tai và các bô phân của tai trong
 
@@ -6214,21 +5859,15 @@ Do tai trong (ốc tai) nằm trong môt hốc xương thái dương nên sự r
 
 Là một phần thuộc tai trong, ốc tai là một ống xương xoắn khoảng hai vòng rưỡi theo hình trôn ốc chung quanh một trụ xương xốp là trụ ốc (Hình 10-59). Trong trụ ốc có hach thần kinh cũng xoắn ốc. Nếu cắt ngang ốc tai, ta thấy ốc tai gồm ba ống nằm chồng lên nhau: trên cùng là thang tiền đình (scala vestibuli), ở giữa là thang giữa (scala media) và ở dưới cùng là thang hòm nhĩ (scala tympani). Ngăn thang tiền đình và thang giữa là màng tiến đình (còn goi là màng Reissner), ngăn thang giữa và thang hòm nhĩ là màng đáy. Màng Reissner là môt màng rất mỏng, rất dễ rung động nên không cản trở gì lên sự truyền dao động âm từ thang tiền đình sang thang giữa; vì thế mà xét về mặt truyền âm thì hai thang này có thể coi như chỉ là một. Màng Reissner có tác dụng duy trì dịch đặc biệt có trong thang giữa là dịch cần thiết cho hoat đông bình thường của các tế bào lông của cơ quan Corti.
 
-Image /page/305/Figure/3 description: This image shows a diagram of the inner ear. The diagram includes labels in Vietnamese, such as "Xương" (bone), "Thang tiên đình (ngoại bạch huyết)" (scala vestibuli (perilymph)), "Màng Reissner" (Reissner's membrane), "Ống ốc tai (nội bạch huyết)" (scala media (endolymph)), "Tế bào có lông Trong Ngoài" (inner and outer hair cells), "Màng đáy" (basilar membrane), "Sợi thần kinh Cột Corti" (nerve fibers of the Corti column), "Mạch soắn" (spiral vessels), "Màng đáy" (basilar membrane), "Dây chằng soắn" (spiral ligament), and "Thang nhĩ (ngoại bạch huyết)" (scala tympani (perilymph)). The diagram also includes the letter "B" in the lower left corner.
-
 Hình 10-59B. Sơ đồ mặt cắt ngang ốc tai.
 
 ### 1.3. CO QUAN CORTI (HÌNH 10-60)
 
 Cơ quan Corti là một cấu trúc nằm trên màng đáy. Cơ quan này gồm những tế bào có lông là những tế bào nhạy cảm cơ-điện. Các tế bào này là bộ phận nhân cảm cuối cùng mà từ đấy có các xung động thần kinh xuất phát mỗi khi có kích thích âm.
 
-Image /page/306/Picture/2 description: This image shows a diagram of the inner ear. The diagram includes labels for the following parts of the inner ear: "Mang mai", "Tế bào có lông (phía ngoài)", "Tế bào có lông (phía trong)", "Sợi đây", "Hạch xoăn", and "Dây thần kinh ốc tại".
-
 ### Hình 10-60. Sơ đồ cơ quan Corti.
 
 Các sóng âm được truyền từ xương bàn đạp tới cửa sổ bầu dục. Mỗi khi có sóng âm làm rung động màng của sổ bầu dục thì làm cho màng này dao động theo, và lại làm cho chất dịch chuyển động vào trong thang tiền đình và thang giữa theo cả hai chiều hoặc là vào trong, hoặc là ra ngoài theo sự dao động của sóng âm (Hình 10-61).
-
-Image /page/306/Picture/5 description: This image shows a diagram of the inner ear. The diagram is labeled in Vietnamese. The labels include: "Cửa sổ bầu dục" (oval window), "Xương bàn đạp" (stapes), "Thang tiền đình và thang giữa" (scala vestibuli and scala media), "Cửa sổ tròn" (round window), "Thang nhĩ" (scala tympani), "Helicotrema", and "Màng đáy" (basilar membrane).
 
 Hình 10-61. Sơ đồ sư chuyển động của dich trong ốc tai.
 
@@ -6260,8 +5899,6 @@ Các sợi xuất phát từ hạch xoắn Corti đi tới nhân ốc tai trư�
 
 - Có một số nhánh bên của đường dẫn truyền đi thắng tới hệ thống lưới kích thích của thân não (activating reticular system, cũng còn goi là hệ lưới hoạt hóa). Hệ thống này cho các sợi đi lan tỏa lên tới vỏ não và xuống dưới tủy, kích thích toàn bộ hệ thần kinh trung ương khi có kích thích âm mạnh. Một số nhánh bên lại tới thùy nhộng của tiểu não và kích thích tiểu não khi có kích thích âm đột ngột.
 
-Image /page/309/Figure/0 description: This image shows a diagram of the auditory pathway in the brain. The diagram includes the following labels: Đồi thị (Thalamus), Vùng vỏ não thính giác (Auditory cortex), Bó đồi thị - Thái dương (Thalamocortical tract), Thế gối giữa (Medial geniculate nucleus), Dải dọc sau (Dorsal longitudinal fasciculus), Củ não sinh tư (Inferior colliculus), Bó mái tủy bắt chéo (Decussation of the superior cerebellar peduncle), Dải Reil bên (Lateral lemniscus), Nhân hình thang (Trapezoid body), Thể hình thang (Trapezoid body), Trạm hành (Pontine nuclei), Hành não (Medulla oblongata), Ốc-tai (Cochlea), Hạch Corti (Spiral ganglion), and Bó trạm-tủy (Pontocerebellar tract).
-
 Hình 10-62. Sơ đồ đường thần kinh dẫn truyền thính giác.
 
 - Đường dẫn truyền thính giác từ ốc tai tới vỏ não có tính định hướng cao. Ô nhân ốc tai có ba phần riêng ứng với các tần số âm khác nhau; ở colliculi sau có hai phần; ở trung tâm nghe trên vỏ não có một phần rất cụ thể nhận các tần số âm thấp lên đó, và có ít nhất là 5 phần khác kém cụ thể hơn ở vùng nghe và vùng liên hợp nghe trên vỏ não.
@@ -6271,8 +5908,6 @@ Hình 10-62. Sơ đồ đường thần kinh dẫn truyền thính giác.
 Vùng nghe của vỏ não nằm chủ yếu ở hồi thái dương trên nhưng còn lan ra tới bờ bên của thùy thái dương, thậm chí lan đến cả phần bên của parietal operculum.
 
 Vùng nghe sơ cấp là vùng chịu sự kích thích trực tiếp của các tín hiệu từ thể gối giữa tới. Vùng nghe liên hợp thì nhận những kích thích từ vùng vỏ não nghe sơ cấp và những kích thích từ các vùng liên hệ của đồi thị ở gần kề thể gối giữa.
-
-Image /page/310/Figure/0 description: The image shows two diagrams of a brain. The top diagram shows the side view of the brain, and the bottom diagram shows the front view of the brain. The top diagram has the labels "Tần số thấp" (low frequency), "Tần số cao" (high frequency), "Vùng sơ cấp" (primary area), and "Vùng liên hợp" (association area). The bottom diagram has the labels "Vùng liên hợp" (association area) and "Vùng sơ cấp" (primary area).
 
 Hình 10-63. Các vùng nhân cảm thính giác trên vỏ não.
 
@@ -6297,8 +5932,6 @@ Cùng với khứu giác, vị giác giúp chúng ta phân biệt thức ăn, lo
 ### 1. CƠ QUAN NHẬN CẢM VI GIÁC
 
 ### 1.1. RECEPTOR VỊ GIÁC LÀ CÁC NỤ VỊ GIÁC Ở LƯỠI (HÌNH 10-64)
-
-Image /page/311/Picture/5 description: This image shows a microscopic view of cells. The text labels in the image identify three types of cells: "Tế bào chống đỡ" (supporting cells), "Tế bào cảm giác phụ" (sensory cells), and "Tế bào đáy" (basal cells).
 
 Hình 10-64. Nụ vị giác với các thành phần.
 
@@ -6340,8 +5973,6 @@ Mặt trong của màng tế bào vị giác cũng có điện thế âm so vớ
 
 2.2. Nơron thứ nhất tạo synap ở nhân của bó đơn độc. Từ nhân này xuất phát nơron thứ hai đi tới nhân bụng sau giữa của đối thị. Nơron thứ ba từ đổi thị đi lên vỏ não ở hồi đỉnh lên, gần vùng cảm giác lưỡi trên vùng cảm giác thân SI. Đường đi và nơi tận cùng của đường dẫn truyền cảm giác vị giác cho thấy nó đi sát với đường cảm giác chung của lưỡi.
 
-Image /page/314/Picture/0 description: This image shows a diagram of the brain and the nerves connected to it. The diagram includes labels in Vietnamese, such as "Nhân bó đơn độc", "Thừng nhĩ", and "Dây thần kinh lưỡi". The diagram also includes Roman numerals, such as II, V, VII, and X, which likely refer to different cranial nerves.
-
 Hình 10-65. Các đường dân truyền vị giác
 
 # 3. CÁC PHẦN XA LIÊN QUAN VỚI VI GIÁC Ở THÂN NÃO
@@ -6364,8 +5995,6 @@ Khứu giác ở người không phát triển bằng so với khứu giác củ
 
 1.1. VÙNG NHẬN CẢM Ở NIÊM MẠC MŨI (Hình 10-66). Ở niêm mạc mũi người có một vùng nhỏ nằm ở hai bên vách mũi, che phủ vùng xương cuốn trên và phần trên vùng xương cuốn giữa. Vùng niêm mạc này được gọi là niêm mạc khứu.
 
-Image /page/315/Picture/6 description: This image is a black and white line drawing of a human head in profile. The head is facing left, and the drawing includes details of the nose, mouth, and forehead. There is a dark, irregular shape in the area of the forehead, possibly indicating a shadow or a specific feature. The lines are clean and precise, giving the drawing a technical or anatomical feel.
-
 Hình 10-66. Vị trí niêm mạc khứu ở hốc mũi.
 
 ### 1.2. RECEPTOR KHỨU GIÁC (HÌNH 10-67)
@@ -6373,8 +6002,6 @@ Hình 10-66. Vị trí niêm mạc khứu ở hốc mũi.
 1.2.1. Tế bào khứu. Các tế bào khứu giác là các tế bào lưỡng cực, có nguồn gốc từ hê thần kinh trung ương. Ở niêm mạc khứu có khoảng 100 triệu tế bào khứu nằm xen kẽ với các tế bào đêm. Măt trông ra lớp niêm dich tao thành cái nút. Ở mỗi nút có từ 6 đến 12 sợi lông khứu có đường kính khoảng 0,3 µm và dài chừng 200 µm. Các sợi lông này nằm trong lớp niêm dịch bao phủ khoang mũi. Các sợi lông này tạo thành một lớp phủ dày ở niêm dịch. Chính các sơi lông này đáp ứng với mùi có trong không khí rồi kích thích tế bào khứu giác. Các tuyển Bowman nằm rái rác giữa các tế bào khứu giác bài tiết niêm dich trên bề mặt của niêm mac khứu giác.
 
 1.2.2. Cơ chế kích thích receptor. Lông của tế bào khứu giác là nơi tiếp nhân kích thích hóa học. Màng ở phần lông có nhiều phân tử protein xuyên suốt chiều dày của màng và các protein này có thể gắn với các phân tử có mùi. Các protein này đươc goi là các protein gắn với mùi. Người ta cho rằng sư gắn này cần cho việc kích thích tế bào khứu giác.
-
-Image /page/316/Figure/3 description: This image is a diagram of the olfactory system. The diagram shows the following structures: Hành khứu (olfactory bulb), Tế bào mũ ni (mitral cells), Tiểu cầu khứu (glomeruli), Dây thần kinh khứu giác (olfactory nerve), Xương sàng (cribriform plate), Niêm mạc khứu (olfactory mucosa), and Tế bào cảm giác lưỡng cực (bipolar sensory cells). The diagram also shows the path of the olfactory nerve from the olfactory mucosa to the olfactory bulb.
 
 Hình 10-67. Sơ đồ cấu trúc niêm mạc khứu và hành khứu.
 
@@ -6418,13 +6045,9 @@ Vùng khứu giác bên gồm chủ yếu là vùng trước lê, vỏ lê và p
 
 Vùng khứu giác bên còn trọng ở chỗ là các tín hiệu từ vùng này đi thẳng lên vỏ não cổ thuộc phần trước giữa của thùy thái dương. Đây là vùng duy nhất của toàn bộ vỏ não mà các tín hiệu cảm giác đi trực tiếp lên vỏ não mà không qua đổi thi.
 
-Image /page/319/Figure/2 description: This image shows a diagram of the olfactory system. The diagram is labeled with Vietnamese text. The labels include: Rãnh liên bán cầu, Hành khứu, Thể trai, Dải khứu, Tam giác khứu, Củ khứu, Rãnh khứu, Mép trước, Rễ khứu trong, Rễ khứu giữa, Rễ khứu ngoài, Lỗ sàng trước, Chéo thị giác, and Uncus.
-
 Hình 10-68. Các cấu trúc khứu giác ở cuống não và ở não khứu.
 
 .
-
-Image /page/319/Picture/4 description: This image is a black and white diagram of a human brain. The diagram is labeled in Vietnamese. The labels include "Hồi dudi / the trai", "Vung can khuu", "Thuoc vung vach", and "Hoi khuu".
 
 Hình 10-69. Vỏ não cổ và khứu giác.
 
@@ -6435,8 +6058,6 @@ Hình 10-69. Vỏ não cổ và khứu giác.
 Như vậy, có một hệ thống rất cổ chịu trách nhiệm về các phản xạ cơ bản về khứu giác, có một hệ thống cũ chịu trách nhiệm về những sự kiểm soát tự động viêc tiếp nhận hay tránh thức ăn nhưng nhờ tập nhiễm mà có được, và có một hệ mới hơn tương tự như các vùng cảm giác khác của vỏ não có tác dụng giúp cho viêc nhân cảm mùi hôi một cách có ý thức.
 
 Từ các trung tâm nhận cảm khứu giác của não lại có các sơi đi ngươc theo đường dẫn truyền về hành não. Các sợi này tận cùng ở các tế bào hạt có ở trung tâm của hành khứu. Từ các tế bào hạt lại có các đuôi gai tới ức chế các tế bào mũ ni và tế bào búi. Người ta cho rằng vòng feedback âm này có tác dụng giúp cho việc phân biệt các mùi một cách nhạy cảm và tinh tế.
-
-Image /page/320/Figure/4 description: This image is a diagram of the human brain, with various parts labeled in Vietnamese. The diagram shows a cross-section of the brain, with the left hemisphere on the left and the right hemisphere on the right. The diagram includes labels for the following parts of the brain: "Fimbrix", "Trigone", "Thể trai", "ĐỘI THI", "Lên vỏ não viên", "Bo Vicq d'Azir", "Bo' Meynert", "Hạch liên cuống não", "Dải dọc sau", "Bó Gudden", "Tới các nhân vận động tạng - thần", "Củ vú", "Hip", "T5", "T4", "Nhân hạnh nhân", "Dải khứu", "Tế bào mũ ni", "Hành khứu", "Rễ khứu trong", "Hồi khứu giác", and "Sừng".
 
 Hình 10-70. Sơ đồ các cung phản xạ khứu giác.
 
@@ -6450,7 +6071,7 @@ Chuyển hóa của não xảy ra chủ yếu ở các nơron chứ không phả
 
 # 2. NHƯ CẤU OXY CỦA NÃO
 
-Rất nhiều mô của cơ thể chiu dưng tình trang thiếu oxy trong nhiều phút, thậm chí tới nửa giờ. Trong khoảng thời gian ấy, mô lấy năng lượng từ các quá trình chuyển hóa yếm khí (phân giải không hoàn toàn một lượng lớn glucose và glycogen, không cần kết hợp với  $O\_2$ ). Mô não lại không có khả năng chuyển hóa yếm khí. Đó là do mức chuyển hóa rất cao của các nơron, đòi hỏi cung cấp rất nhiều năng lượng. Một lý do nữa là lương glycogen dư trữ trong mô não rất ít, lượng O2 dự trữ trong mô não cũng rất ít vì vậy hoạt tính của nơron phụ thuộc hoàn toàn vào sự cung cấp  $O\_2$  từ máu vào lúc đó. Do vậy, chỉ cần máu không lên não hay thiếu oxy trong máu từ 5 đến 10 giây cũng có thể gây bất tỉnh.
+Rất nhiều mô của cơ thể chiu dưng tình trang thiếu oxy trong nhiều phút, thậm chí tới nửa giờ. Trong khoảng thời gian ấy, mô lấy năng lượng từ các quá trình chuyển hóa yếm khí (phân giải không hoàn toàn một lượng lớn glucose và glycogen, không cần kết hợp với O2). Mô não lại không có khả năng chuyển hóa yếm khí. Đó là do mức chuyển hóa rất cao của các nơron, đòi hỏi cung cấp rất nhiều năng lượng. Một lý do nữa là lương glycogen dư trữ trong mô não rất ít, lượng O2 dự trữ trong mô não cũng rất ít vì vậy hoạt tính của nơron phụ thuộc hoàn toàn vào sự cung cấp O2 từ máu vào lúc đó. Do vậy, chỉ cần máu không lên não hay thiếu oxy trong máu từ 5 đến 10 giây cũng có thể gây bất tỉnh.
 
 ### 3. VAI TRÒ CỦA GLUCOSE ĐỐI VỚI CUNG CẤP NĂNG LƯƠNG CHO NÃO
 
@@ -6496,8 +6117,6 @@ Phần hoạt động chức năng của vỏ não chủ yếu có một lớp n
 
 Có ba loại tế bào vỏ não là loại hạt, loại tháp (Hình 11-1). Tế bào hạt (còn gọi là tế bào sao) thường có sơi truc ngắn nối liên lac nôi bộ vỏ não. Một số tác dụng hưng phấn có lẽ do chất truyền đạt glutamat. Một số khác tác dụng ức chế, có lẽ do acid gamma-aminobutyric (GABA). Các vùng cảm giác và vùng liên hợp có nhiều tế bào hạt, gọi ý ta nghĩ rằng ở vỏ não có cường độ cao của quá trình xử lý thông tin do tín hiệu từ ngoại vi lên tới vùng cảm giác, cũng như quá trình phân tích nhận biết ý nghĩa các tín hiệu đi tới các vùng liên hợp ở vỏ não.
 
-Image /page/324/Figure/1 description: This image shows a diagram of the six layers of the cerebral cortex. The layers are labeled from I to VI, and the diagram shows the different types of cells that are found in each layer. The text on the right side of the image lists the names of the layers and some of the structures that are found in each layer. From the outside in, the layers are: Layer I, molecular layer, Tung Exner; Layer II, outer granular layer, Koes-Bekhterev; Layer III, outer pyramidal layer, outer Baillarger; Layer IV, inner granular layer, inner Baillarger; Layer V, inner pyramidal layer; and Layer VI, fusiform layer.
-
 Tế bào tháp và tế bào thoi hấu hết cho sợi từ vẻ não ra đi, tế bào tháp to, có nhiều, và phát các sợi xuống tủy sống, cũng như các sợi liên hợp dưới vỏ tức là sơi nối các phần của não với nhau. Có những sợi ngang nối các vùng kề nhau ở vỏ não, lại có những sợi dọc nối liên lạc hai chiều giữa một bên là vỏ não kể cả những vùng xa của vỏ não, và một bên là tủy sống lưng và các cấu trúc ở phần dưới của não.
 
 Vỏ não có sáu lớp đặc hiệu. Các tín hiệu cảm giác từ ngoại vi về thì kết thúc ở lớp vỏ não IV. Hầu hết tín hiêu từ vỏ não phát đi là xuất phát từ các nơron nằm ở lớp V và lớp VI, các sợi đi thân não và tủy sống là từ lớp V, rất nhiều sợi tới đồi thị là do từ lớp VI. Các lớp I, II và III thực hiện phần lớn 'chức năng liên hợp trong vỏ não, tức là có sợi chạy ngang nối các vùng của vỏ não với nhau.
@@ -6512,8 +6131,6 @@ Nhiều nghiên cứu của các ngành đã tìm cách xác định các vùng 
 
 não. Thí dụ Penfield và Rasmussen đã kích thích điện vỏ não người đang thức tỉnh, sau khi cắt bỏ một phần vỏ não (điều trị bệnh). Đối tượng thuật lại là khi kích thích điện thì thấy phát ra tư duy, như là nhìn thấy cái gì, có khi đối tượng có một cử động hoặc phát ra một tiếng. Hình 11-2 là bản đồ xây dựng từ dữ liêu của các chuyên khoa thần kinh.
 
-Image /page/325/Figure/1 description: This image shows a diagram of the brain with different regions labeled. The regions include "Vận động", "Cảm giác", "Thân", "Atr", "Αν", "Vd 2", "Vd1", "C91", "Ng1", "Cg2", "Ng 2", "A", "Nhìn", "Nh 2", and "Nh1".
-
 Hình 11-2. Các vùng liên hợp ở vỏ não (cấp III hay cao hơn) vđ = vùng vận động; vđ1 = cấp I, vđ2 = cấp II cg = vùng cảm giác thân; cg1 = cấp I cg2 = cấp II nhận thức cảm giác đụng chạm. nh = vùng nhìn; nh 1 = cấp I; nh2 = cấp II nhận thức nhìn ra vật thể. ng = vùng nghe; ng1 = cấp I, ng2 = cấp II nhận thức nghe ra tiếng gì. A= vùng liên hơp đỉnh-chẩm-thái dương Atr = vùng liên hợp trước trán Av vùng liên hợp viền
 
 # 2.1. SỰ NÂNG CẤP KHI THÔNG TIN DO MÔT GIÁC QUAN CHUYỂN TỪ VÙNG SƠ CẤP (CẤP I) SANG VÙNG THỨ CẤP (CẤP II)
@@ -6526,9 +6143,7 @@ Với vùng vận động, thì vùng cấp I (sơ cấp) có nơron gây co t�
 
 Hình 11-3 trình bấy những vùng trên vỏ não gọi là vùng liên hợp. Gọi là vùng liên hợp (association area) vì mối vùng tập hợp và phân tích tín hiệu từ rất nhiều vùng của vỏ não và cả từ các cấu trúc thần kinh dưới vỏ não đưa đến. Về vị trí không gian, một vùng liên hợp thường nằm ở nơi giao tiếp giữa hai hoặc nhiều vùng cấp II. Có nhiều vùng liên hợp, và mỗi tác giả có thế có quan niệm riêng hơi khác nhau một chút về cách khoanh vùng và cách chia vùng liên hợp thành những phân vùng nhỏ. Thực tế các vùng liên hợp là phức tạp, có những vùng chức năng nhỏ tham gia vào hai hoặc ba vùng liên hợp khác nhau, nên nói chung một vùng liên hợp gọi là vùng cấp III, nhưng rất khó xác định thật rành rọt đó là cấp III cấp IV hay cao hơn nữa. Sau đây là một số vùng liên hợp và các phân vùng của chúng.
 
-Vùng liên hơp đỉnh-chẩm-thái dương. Vùng này rất rộng nằm trong khoảng giữa vùng vỏ não cảm giác thân, vùng vỏ não nhìn và và vỏ não nghe (Hình 11-2. chữ A). Vùng liên hợp này có mức độ nhân thức cao vì nhận các loại tín hiệu quan trong từ ba vùng cảm giác xung quanh. Vùng
-
-Image /page/326/Figure/2 description: This image shows a diagram of the brain with different regions labeled. The regions are labeled with Vietnamese text. The regions include: Rãnh Rolando, Vân động, Cảm giác, Đặt kế hoạch cho cử động phức tạp, Toạ độ thân thể, Hình thành tư duy, Xử lý chữ viết, Broca, Nghe, Tên gọi các vật, Xúc cảm, Động cơ, Nhìn, Atr, Atd, A, W, and Av.
+Vùng liên hơp đỉnh-chẩm-thái dương. Vùng này rất rộng nằm trong khoảng giữa vùng vỏ não cảm giác thân, vùng vỏ não nhìn và và vỏ não (Hình 11-2, nghe chữ A). Vùng liên hợp này có mức độ nhân thức cao vì nhận các loại tín hiệu quan trong từ ba vùng cảm giác xung quanh. Vùng
 
 Hình 11-3. Bản đồ các vùng chức năng đặc hiệu của vỏ não
 
@@ -6542,11 +6157,7 @@ Vùng xử lý chữ viết (Hình 11-3). Vùng này nằm chủ yếu ở gyrus
 
 Vùng tên gọi các vật (Hình 11-3). Vùng này nằm dưới nhất. Khi não đứa bé phát triển trong quá trình giao tiếp xã hôi (với mẹ), thì nghe nói tên các vât, đồng thời hiểu bản chất vật thông qua tín hiệu nhìn. Vì vậy vùng này nằm trên đoạn
 
-Image /page/327/Figure/1 description: This image shows a diagram of the human brain, viewed from the bottom. The diagram labels three regions of the brain in Vietnamese: "Thuy tran" (frontal lobe), "Thuy thai duong" (temporal lobe), and "Vung nhan mat" (face recognition area).
-
 Hình 11-4. Vùng nhân măt, nằm ở măt dưới của thùy chấm và thùy thái dương (theo Geschwind, 1979)
-
-Image /page/327/Figure/3 description: This image shows a diagram of the brain with various labeled regions and functions. The diagram includes labels such as "Rãnh Rolando", "Vận động", "Cảm giác thân", "Nhận thức cảm giác Thân", "Atr", "Vùng liên hợp trước trán", "Broca", "Nhận thức nghe", "Nhận thức Nhìn", "Nhận thức tổng hợp Wernicke", "Cg 2", "W", "Ng1", "Ng2", "Nh2", and "Nh1". Arrows indicate the flow or connections between different regions of the brain.
 
 Hình 11-5. Hợp lưu của ba dòng thông tin về nhận thức, đổ vào vùng nhân thức tổng hơp Wernicke. Ba dòng thông tin là nhân thức cảm giác thân cg2, nhân thức cẩm giác nhìn nh2, và nhân thức cẩm giác nghe ng2 (vẽ theo Guyton, 1991)
 
@@ -6598,13 +6209,11 @@ Trong lúc tư duy đặt kế hoạch, vùng trước trán nhận các thông 
 
 # 4. NGÔN NGỮ: CHỨC NĂNG GIAO TIẾP CỦA NÃO
 
-Loài người hơn các loài động vật ở chỗ có lời nói là phương tiện giao tiếp trao đổi thông tin cho nhau vô cùng thuận lợi. Hình 11-6 trình bày bản đồ giải phẫu của con đường thần kinh thươ hiên chức năng giao tiếp của vỏ não. Bản đồ này cũng là sư sơ đồ hóa quá trình vỏ não phân tích cảm giác đi đến nhận thức, và quá trình điều khiển vân động phát lời nói hoặc tao hành vi.
+Loài người hơn các loài động vật ở chỗ có lời nói là phương tiện giao tiếp trao đối thông tin cho nhau vô cùng thuận lợi. Hình 11-6 trình bày bản đồ phẫu của con giai đường thần kinh thươ hiên chức năng giao tiếp của vỏ não. Bản đồ này cũng là sư sơ đồ hóa quá trình vỏ não phân tích cảm giác đi đến nhận thức, và quá trình điều khiển vân động phát lời nói hoặc tao hành vi.
 
 chức NĂNG 4.1. VÙNG WERNICKE TRONG KHÍA CANH CẢM GIÁC CỦA GIAO TIẾP
 
 Ta đã biết rằng hủy hoai vùng liên hơp nghe hoặc vùng liên hơp nhìn của vỏ não dẫn đến mất khả năng hiểu lời nói hoăc khả năng hiểu chữ viết.
-
-Image /page/331/Figure/5 description: The image shows two diagrams of the human brain, labeled A and B, with Vietnamese text annotations. Diagram A is titled "NGHE RỒI TRẢ LỜI" (Listen and Answer), and diagram B is titled "ĐỌC RỒI TRẢ LỜI" (Read and Answer). Both diagrams depict the left hemisphere of the brain, highlighting specific areas and pathways involved in language processing. Key areas labeled in both diagrams include "Vùng Broca" (Broca's area) and "Vùng Wernicke" (Wernicke's area). Diagram A also labels "Arcuate fasciculus," "Vùng nghe sơ cấp" (Primary auditory cortex), and "Vỏ não vận động" (Motor cortex). Diagram B labels "Vùng nhìn sơ cấp" (Primary visual cortex) and "Gyrus angular" (Angular gyrus). Arrows indicate the flow of information between these areas during listening and reading tasks.
 
 Hình 11-6.
 
@@ -6676,8 +6285,6 @@ Có tác giả phân loại nhớ nguyên phát (primary) là nhớ việc ngay 
 
 Loai này lưu giữ nhớ được từ vài phút đến hàng tuần, sau đó hoặc mất đi, hoặc chuyển thành dài hạn. Thực nghiêm cho thấy đó có thể là biến đổi hóa hoc, hoăc lý hoc, hoăc cả hai, do biến đổi tai tân cùng trước synap hoặc tại màng sau synap.
 
-Image /page/336/Figure/4 description: The image shows a diagram with circles connected by lines, arranged in a hierarchical structure. The diagram is enclosed within a dashed line that forms a loop, with arrows indicating the direction of flow. The circles are of varying sizes, with the largest one at the top. The lines connecting the circles are straight and black. The overall impression is that of a flowchart or network diagram.
-
 Hình 11-7. Mạch nơron dội lại
 
 Mũi tên gach gạch là hướng truyền điện thế hoạt động đi vòng quanh nhiều lần (vang dội lại) trong một mạch nơron đóng kín. Người ta gơi ý rằng đó là cơ sở của nhớ tức thời
@@ -6696,8 +6303,6 @@ Còn cơ chế phân tử của thuân hóa (tăng truyền đạt synap) thì b
 
 • Serotonin này tác dụng lên chất tiếp nhân serotonin ở màng của tận cùng cảm giác Se, do đó hoạt hóa adenyl
 
-Image /page/337/Figure/4 description: This image shows a diagram of a synapse. The diagram includes labels in Vietnamese. The labels include: "Kich thich doc hai" (harmful stimulation), "Fa", "Serotonin", "Kich thich cam giac" (sensory stimulation), "CAMP", "Se", "Kenh Calci" (Calcium Channel), "ion calci" (calcium ion), and "Ne".
-
 Hình 11-8. Hê thống nhớ trên con sên biến Aplysia (thí nghiệm của Kandel, 1977)
 
 cyclase trong màng. Men hình thành AMP vòng ở bên trong tận cùng cảm giác Se.
@@ -6708,7 +6313,7 @@ cyclase trong màng. Men hình thành AMP vòng ở bên trong tận cùng cảm
 
 • Điện thế hoạt động kéo dài gây kéo dài hoạt hoá kênh calci, do đó lượng cực lớn ion calci từ dịch kẽ chạy vào trong sợi Se. Các ion calci đó làm tăng mạnh sự giải phóng chất truyền đạt, đó chính là sự tăng truyền đạt goi là thuận hóa (facilitation).
 
-Tóm tắt cơ chế phân tử của nhớ ở tế bào (thuân hóa) như sau: serotonin - adenyl cyclase - AMP vòng - phosphoryl hóa protein gây nghẽn  $K^+$  - kéo dài điện thế hoạt hoá kênh calci. Cat+ vào nhiều làm tăng truyền đạt synap, đó chính là thuận hóa facilitation. Đó là một con đường gián tiếp, tức là phối hợp tác dụng của kích thích nơron gây thuận hóa với kích đồng thời nơron cảm giác. đã làm tăng truyền đạt synap. Tăng truyền đạt synap (thuận hóa) là một thể hiện của con đường mòn dấu vết nhớ.
+Tóm tắt cơ chế phân tử của nhớ ở tế bào (thuân hóa) như sau: serotonin - adenyl cyclase - AMP vòng - phosphoryl hóa protein gây nghền K - kéo dài điện thế hoạt hoá kênh calci. Cat+ vào nhiều làm tăng truyền đạt synap, đó chính là thuận hóa facilitation. Đó là một con đường gián tiếp, tức là phối hợp tác dụng của kích thích nơron gây thuận hóa với kích đồng thời nơron cảm giác. đã làm tăng truyền đạt synap. Tăng truyền đạt synap (thuận hóa) là một thể hiện của con đường mòn dấu vết nhớ.
 
 Thực nghiêm của Kandel và cs trên con sên Aplysia sau đó được nhiều tác giả mà gần đây nhất có Guyton (1997) đã dẫn làm cơ sở cho các hiên tương trí tuê như học, điều kiện hóa (learning, conditioning)
 
@@ -6736,7 +6341,7 @@ Kho nhớ memory stores hiểu theo nghĩa chức năng (đường mòn dấu v�
 
 Củng cố nhớ. Cũng cố nhớ là chuyển nhớ tức thời sang nhớ dài hạn hơn. Cũng cố nhớ là tạo biến đổi hóa, lý, giải phẫu ở synap để nhớ được dài, tức là để sau thời gian dài lại gọi thông tin ra được. Quá trình củng cố nhớ cần thời gian để hoàn thành.
 
-Ở lâm sàng đã quan sát người có sự cố gây gián đoạn hoạt động động học não như chấn thương sọ não, gây mê, liệu pháp sốc điện (liệu pháp này có từ cuối thập kỷ 30). Sau sự cố đó thì quên các việc xảy ra 10-15 phút tới 1 giờ trước khi có sự cố. Đó là xấp xỉ thời gian trung bình để hoàn thành củng cố nhớ.
+Ơ lâm sàng đã quan sát người có sự cố gây gián đoạn hoạt động động học não như chấn thương sọ não, gây mê, liệu pháp sốc điện (liệu pháp này có từ cuối thập kỷ 30). Sau sự cố đó thì quên các việc xảy ra 10-15 phút tới 1 giờ trước khi có sự cố. Đó là xấp xỉ thời gian trung bình để hoàn thành củng cố nhớ.
 
 Thực nghiệm của Heriot và cs (1962) trên chuột thu được dữ liệu về thời gian hoàn thành củng cố như sau. Chuột được luyện cho ấn cần lấy thức ăn rồi sau đó ghép bài phat điện giất khi mó vào cần. Sau bài phat, chuột bị sốc điện qua não gây bất tỉnh. Các chuột đó thuộc vào ba lô thí nghiệm, mỗi lô sốc điện vào một thời điểm dài ngắn khác nhau sau khi bi phat (phat điên giất khi mó vào cần). Làm như vậy nhằm khảo sát thời gian diễn biến quá trình củng cố sự nhớ bài phạt. Diễn biến ở ba lô chuột như sau. (1) Lô sốc trong vòng 26 phút đầu sau bài phạt thì tỉnh dậy nó lại ấn cần, có nghĩa là trong 26 phút đầu thông tin nhớ bài phạt chưa được củng cố nên sốc đã xóa đi. (2) Lô bị sốc muộn quá 180 phút sau bài phạt, thì khi tỉnh sốc nó không ấn cần, có nghĩa là 180 phút là thời gian đã hoàn thành cũng cố : từ lúc này thông tin bài phạt (cần có điện) đã lưu nhớ vào kho, sốc không xóa được nữa. (3) Lô bi sốc trong vòng từ 26 đến 180 phút sau bài phạt, thì tỉnh dây là chuột có ấn cần nhưng tần suất ấn cần thấp, có nghĩa là một phần thông tin nhó bài phạt đã được lưu vào kho nhớ. Trong trường hợp này quá trình củng cố bắt đầu khoảng phút 26 sau bài phat và hoàn tất vào khoảng phút thứ 180.
 
@@ -6838,17 +6443,17 @@ học tập. Sang thế kỷ 21, thể kỷ của trí tuệ và tin hoc, chắc
 
 Tài liệu sinh lý học thế giới đã có mô hình điều kiện hóa như phần A dưới đây (ký hiệu đơn giản hóa). Tiếp đó phần B là sơ đồ với các thí dụ cụ thể của bài này (ĐKH = điều kiện hóa conditioning).
 
-| A. | ĐKH típ I  | Sco      | - | Renf    | → | Q (hoặc W  |
+| A. | ĐKH típ I  | Sco      |   | Renf    | → | Q (hoặc W) |
 |----|------------|----------|---|---------|---|------------|
 |    |            | Sco      |   |         | → | Q (hoặc W) |
-|    | ĐKH típ II | Sco      | - | W       | - | Renf       |
-|    |            | Sco      | → | W       |   |            |
-| B  |            | Tín hiệu |   | Củng cố |   | Hành vi    |
-|    | ĐKH típ I  | Đèn      | - | Ruốc    | → | Nước bọt   |
-|    |            | Đèn      |   |         | → | Nước bọt   |
-|    | ĐKH típ II | Đích     | - | Mổ      | - | Thóc       |
-|    |            | Đích     | → | Mổ      |   |            |
-|    |            | Tín hiệu |   | Hành vi |   | Củng cố    |
+|    | ÐKH típ II | Sco      |   | W       |   | Renf       |
+|    |            | Sco      | 1 | W       |   |            |
+| B  |            | Tín hiệu |   | Cúng cố |   | Hành vi    |
+|    | ÐKH típ I  | Dèn      |   | Ruốc    | → | Nước bot   |
+|    |            | Đèn      |   |         | → | Nước bot   |
+|    | ĐKH típ II | Đích     |   | Mố      |   | Thóc       |
+|    |            | Dích     | 1 | Mổ      |   |            |
+|    |            | Tín hiệu |   | Hành vi |   | Cũng cố    |
 
 Ngoài phạm vi nghiên cứu chức năng hoạt động ứng xử, điều kiện hóa hành động tức ĐKH típ II, còn được nghiên cứu với các chức năng sinh lý khác và trong nhiều phạm vi y học, đặc biệt trong ứng dụng dược lý học tâm thần (Ganong, 1983; Engel, 1984) mà một phần sẽ được giới thiệu ở mục 3.4 tiếp sau đây.
 
@@ -6872,8 +6477,6 @@ Cơ chế phân tử của hiện tượng học-nhớ-điều kiện hóa đã 
 
 Trong điều kiện hóa, sư nhay hóa (sensitization) nơron phụ thuộc vào lịch sử sát trước đó. Nhạy hóa chính cũng là thuận hóa (facilitaion, nghĩa là tăng mức hoạt đông, tăng tính hưng phấn). Nếu sát trước thí nghiêm có kích thích nơron, thì vào thí nghiệm đã có sự nhạy hóa. Ngoài ra, nếu hai kích thích đến do từ hai đường thần kinh khác nhau, thì chúng tương tác lên nhau ở màng tế bào, cách tương tác giống như ĐKH kiểu Pavlov. Từ các thí nghiêm loại đó, nảy ra thuyết ĐKH và học là những biến đổi ở bề mặt nơron. Đương nhiên ở cấu trúc thần kinh cao cấp thì các hiện tượng ĐKH, hoc và nhớ phức tạp hơn và liên quan đến những con đường và những mach nơron chứ không chỉ ở tế bào đơn đôc. Dù sao trang thái tế bào mới chính là cái quyết đình hiên tương ở mach. Brobeck (1973) gơi ý rằng điều kiên hóa tao nên biến đổi lý hóa ở tế bào là đăc trưng của hoc, và biến đổi đó tao nên nhớ.
 
-Image /page/348/Figure/0 description: The image contains four diagrams of a brain, each representing a different activity: "Nghi" (Thinking), "Nắm chặt tay" (Holding hands tightly), "Nói" (Speaking), and "Đọc sách" (Reading). Each diagram shows a brain outline with varying sizes of filled and unfilled circles scattered throughout. The filled circles represent activity above the average level of the hemisphere, while the unfilled circles represent activity below the average level. The size of the circles corresponds to the level of activity, with larger circles indicating higher activity. A legend is provided for each set of diagrams, indicating the activity levels in mL/100 g/min. The "Nghi" and "Nắm chặt tay" diagrams have activity levels of 60, 50, 40, 30, 20, and 10%, while the "Nói" and "Đọc sách" diagrams have activity levels of 30, 25, 20, 15, and 10%.
-
 Hình 11-9.
 
 Các quá trình ở con sên Aplysia đã được mô tả dưới góc đô sinh lý hoc của hiên tượng hoc-nhớ-ĐKH như sau. Loài sên biển này có hê thần kinh rất đơn giản, kích thích bất kỳ chỗ nào trên cơ thể đều gây phản ứng co vẩy (co cái vẩy che miêng lai, sên ở tư thế "co vào vỏ"). Phản ứng đó rất giống phản xa rút chân ở đông vật cao cấp, chỉ khác một điều là sên không có trung tâm thần kinh mà nơron cảm giác tạo synap thắng vào nơron vận động đi tới vẩy. Nếu kích thích nhẹ và liên tiếp thì đáp ứng co vấy giảm dân rồi hết đáp ứng. Đó là hiên tương quen, giống như phản ứng định hướng ("cái gì thế?") ở chó đối với ánh đèn (x. muc 3.2). Giảm đáp ứng ở sên là do giâm dòng ion Ca + vào nơron, làm giảm giải phóng chất truyền đat. Nếu đồng thời ta lại cho kích thích độc hai vào đầu sên thì phản ứng co vẩy tăng cường, đó là hiên tương nhay hóa sensitization cũng còn gọi là thuận hóa facilitation. Cơ chế của thuận hóa là giải phóng serotonin ở nơron trước synap, serotonin này đổ vào nơron cảm giác Se do đó làm tăng dòng Ca\*\* đi vào Se, làm tăng giải phóng chất truyền đạt gây co vẩy sên (xem lại mục 2.3 và hình 11-8).
@@ -6882,7 +6485,7 @@ Các quá trình ở con sên Aplysia đã được mô tả dưới góc đô s
 
 # 4. HÌNH ẢNH ĐƠN GIẢN VỀ CÁC HIÊN TƯƠNG Ý THỨC Ở NÃO
 
-Những kỹ thuật tinh xảo hiện đại đã cho phép theo dõi hình ảnh tức thời và đang diễn biến quan đến hoạt động chức năng cao cấp của não, dù chỉ qua môt khía cạnh biểu hiện. Hình 11-9 phản ánh tình tuần hoàn các điểm cục bộ của não, liên quan trực tiếp với chuyển hóa não và phản ánh gián tiếp hoạt động chức năng cao cấp của não. Dù sao đây cũng là một hình ảnh nhìn thấy được để thêm phần cơ sở suy nghĩ về thuyết toàn bộ (holistic theory) của tư duy đã bàn bạc ở chương này. Như ta thấy trong hình, khi cử đông cơ như nắm chăt tay hoặc nói. tuần hoàn máu (và chuyển hóa) ở não không chỉ tăng ở vùng tương ứng với vân động các cơ bàn tay hoặc cơ nói, mà tăng ở nhiều nơi. Khi đọc sách, các cơ toàn thân nói chung thư giãn, nhưng tuần hoàn máu (và chuyển hóa) ở não tăng ở khắp nhiều vùng của não. Hiện tượng này gọi ý rằng đọc sách – thứ tư duy ngôn ngữ nghĩ thầm đó – là hoạt động chức năng cao cấp không chỉ của mắt nhìn và vùng nhìn của vỏ não mà của rất nhiều vùng của não phối hơp với nhau (Hình 11-9).
+Những kỹ thuật tinh xảo hiện đại đã cho phép theo dõi hình ảnh tức thời và đang diễn biến quan đến hoạt động chức năng cao cấp của não, dù chỉ qua môt khía cạnh biểu hiện. Hình 11-9 phản ánh tình tuần hoàn các điểm cục bộ của não, liên quan trực tiếp với chuyển hóa não và phản ánh gián tiếp hoạt động chức năng cao cấp của não. Dù sao đây cũng là một hình ảnh nhìn thấy được để thêm phần cơ sở suy nghĩ về thuyết toàn bộ (holistic theory) của tư duy đã bàn bạc ở chương này. Như ta thấy trong hình, khi cử đông cơ như nắm chăt tay hoặc nói. tuần hoàn máu (và chuyển hóa) ở não không chỉ tăng ở vùng tương ứng với vân động các cơ bàn tay hoặc cơ nói, mà tăng ở nhiều nơi. Khi đọc sách, các cơ toàn thân nói chung thư giãn, nhưng tuần hoàn máu (và chuyển hóa) ở não tăng ở khắp nhiều vùng của não. Hiện tượng này gọi ý rằng đọc sách – thứ tư duy ngôn ngữ nghĩ thầm đó - là hoạt động chức năng cao cấp không chỉ của mắt nhìn và vùng nhìn của vỏ não mà của rất nhiều vùng của não phối hơp với nhau (Hình 11-9).
 
 # HÀNH VI, ĐÔNG CƠ VÀ XÚC CẢM
 
@@ -6936,8 +6539,6 @@ Các hệ này tuy chưa biết chi tiết nhiều như ở chuột, nhưng cũn
 
 (2) Hệ dopamin do chất đen bài tiết. Chất đen tức substantia nigra, ở hình 11-10, có tân cùng nơron tiết dopamin. Người ta cho rằng dopamin là chất truyền đat gây ức chế có ở các hạch nền, nhưng ở một vài vùng khác của não dopamin có thể tác dụng kích thích. Ta nhớ rằng hủy hoai các nơron tiết dopamin ở chất đen là nguyên nhân cơ bản gây bênh Parkinson.
 
-Image /page/353/Figure/1 description: This image is a diagram of the human brain, showing the different parts of the brain and their functions. The diagram is labeled in Vietnamese. The different parts of the brain that are labeled include the "Chất đen (dopamin)", "Nhân tb không lồ và ct lười (acetylcholin)", "Locus ceruleus (noradrenalin)", "Nhân raphe (Serotolin)", "Não giữa", "Tới tiểu não", "Cầu não", "Hành não", and "Xuống tủy sống".
-
 Hình 11-10. Hệ neurohormon ở não người.
 
 Có nhiều trung tâm ở thân não, từ đó toa noron đem tín hiêu điều khiển lên gian não và đại não, và xuống tủy sống. Các nơron này tiết các chất truyền đat.
@@ -6963,8 +6564,6 @@ Vùng dưới đồi (hypothalamus) là một bộ phận lớn và quan trọng
 Hệ viền là một phức hệ các phần tử giải phẫu ở đáy não, các phần có quan hệ qua lại mật thiết với nhau. Nằm giữa hệ viền là vùng dưới đồi (hypothalamus) mà về mặt vi trí giải phẩu có thể nghĩ là một cấu trúc riêng biệt ngoài hê viên. Đứng về mặt chức năng, cần coi đó là thành phần trung tâm, có vai trò chủ yếu của toàn hệ viên. Các hình của nhà giải phẫu học nổi tiếng Gray là rất đẩy đủ và chuẩn xác. Tuy vậy, nên dùng một sơ đồ gọn như của Guyton (1991) giúp ta dễ nhận thức được mối quan hệ qua lai và ý nghĩa chức năng các phần của hê viền (Hình 11-11). Ta thấy vùng dưới đồi chiếm vi trí then chốt nằm ở trung tâm hê viên. Xung quanh vùng dưới đồi là các cấu trúc khác ở dưới vỏ não của hệ viên gồm vách (septum), vùng canh khứu giác, epithalamus, nhân trước của đổi thi, những phần của hach nền, hải mã và hanh nhân.
 
 Xung quanh các phần dưới vỏ não đó của hệ viền, là vỏ não viên, gồm một hình vòng của vỏ não, (Hình 11-11) gồm: (1) vùng hốc mắt-trán thuộc thùy trán, (2) hồi dưới chai, (3) hồi cingulate, và dưới cùng là 4) hồi canh hải mã và uncus.
-
-Image /page/355/Figure/0 description: The image shows a diagram of the brain with different regions labeled in Vietnamese. The regions include: Hoi cingulate, Mot phan cua hach nen, Nhan truoc cua doi thi, Vung vach, Hoi duoi chai, Hai ma, Duoi doi, Vung canh khuu, Vo nao o mat-tran, Hanh nhan, and Hoi canh hai ma.
 
 Hình 11-11. Sơ đồ hệ viền theo cách nhìn chức năng (Guyton, 1991)
 
@@ -7009,8 +6608,6 @@ Các phân trên đã cho thấy rõ các cấu trúc viên, bao gồm cả vùn
 ### Các trung tâm thưởng
 
 Hình (11-12) trình bày thí nghiệm tìm vùng thưởng và vùng phạt ở não. Hế con vật ấn vào cần thì có dòng điện kích thích qua cặp điện cực đặt trong não. Nếu điện cực đặt được vào vùng mà con vật cảm thấy thích thủ thỏa mãn thì nó cứ liên tiếp ấn cần mãi suốt ngày cho dù để thức ăn ưa thích bên canh nó cũng bỏ ăn đế ấn cần. Đó là vùng thưởng. Có thí nghiệm, con vật tự kích thích mãi cho đến lúc mệt quá lăn ra ngủ dài, tỉnh dây lai liên tuc kích thích tiếp. Người ta đã tìm ra được những trung tâm thưởng quan trong doc theo bó giữa của não trước, nhân bên và nhân bung giữa của vùng dưới đồi. Cũng có nhiều vùng kích thích nhẹ là thưởng và kích thích mạnh là phạt.
-
-Image /page/357/Figure/0 description: The image shows a rat in a box with a lever. The lever is connected to a spring that is attached to the top of the box. The rat is standing on the lever, which is causing the spring to stretch. The box is made of wood and has a simple design. The rat is the only animal in the box. The image is a black and white drawing.
 
 Hình 11-12. Sơ đồ thiết bi tư kích thích. Mỗi khi con vật dân chân lên cần thì làm đóng mạch điện và có một xung điện qua điện cực kích thích vào trung tâm thưởng. Thiết bi cần ấn để đóng mạch điên này có thể dùng cho các thí nghiêm khác, thí du làm rơi viên thức ăn.
 
@@ -7078,7 +6675,7 @@ Cắt bỏ vỏ não hốc mắt trán phần sau (hai bên) thì con vật mấ
 
 Cắt bỏ hồi cingulate trước và hồi dưới chai. Các phần đó là phần vỏ não viên thực hiện liên lạc giữa vỏ não trước trán và các cấu trúc viền dưới vỏ. Hủy các hồi đó hai bên làm giải phóng các trung tâm cuồng dại ở vách và dưới đồi ra khỏi ảnh hưởng ức chế của vỏ não trước trán, do đó con vật rất dễ phát cơn cuồng dại (rage).
 
-Tóm lai, với thông tin chưa đầy đủ về vỏ não viền, có thể nghĩ rằng đó là một vùng liên hợp là trung gian liên lạc giữa chức năng phần còn lại của vỏ não và chức năng các cấu trúc viên dưới vỏ, liên lạc như vậy nhằm kiểm soát hành vi. Thực vậy, vỏ não thái dương phần trước có chức năng liên hợp nếm và ngửi. Hồi cạnh hải mã có xu thế liên hợp nghe và liên hợp tư duy phức tạp đối với tư duy từ vùng Wernicke. Ô vỏ não cingulate có cơ sở để nghĩ rằng có chức năng liên hợp cảm giác vận động.
+Tóm lai, với thông tin chưa đầy đủ về vỏ não viền, có thể nghĩ rằng đó là một vùng liên hợp là trung gian liên lạc giữa chức năng phần còn lại của và chức năng các cấu trúc viên dưới vỏ, liên lạc như vậy nhằm kiểm soát hành vi. Thực vậy, vỏ não thái dương phần trước có chức năng liên hợp nếm và ngửi. Hồi cạnh hải mã có xu thế liên hợp nghe và liên hợp tư duy phức tạp đối với tư duy từ vùng Wernicke. Ô vỏ não cingulate có cơ sở để nghĩ rằng có chức năng liên hợp cảm giác vận động.
 
 ### 5. XÚC CẢM
 
@@ -7189,8 +6786,6 @@ Nhiều vùng của gian não cũng gây ngủ khi bị kích thích, đó là: 
 Tốn thương các trung tâm gây ngủ. Tổn thương khu trú ở nhân raphe làm con vật thức tỉnh lâu và cao độ. Phá hai bên của phần trên của phần trước của vùng dưới đổi cũng tác dụng như vậy. Người ta cho rằng như vậy các nhân lưới hoạt hóa của não giữa và cầu não (phần trên) đã được giải phóng khỏi sự ức chế. Mất ngủ như vây có thể kiêt sức mà chết.
 
 Phần lớn thời gian, sóng điện não thất thường. Tuy vậy có lúc có kiểu sóng như mô tả dưới đây (Hình 11-13A)
-
-Image /page/366/Figure/1 description: The image shows a series of electroencephalogram (EEG) waveforms, each labeled with a different brainwave frequency or condition. From top to bottom, the waveforms are labeled as Alpha, Beta, Theta, and Delta. A scale indicating "1 sec" is present next to the Theta waveform. Below Delta, there are two waveforms labeled "Mở mắt" (open eyes) and "Nhắm mắt" (closed eyes), with an amplitude scale of "100 μV" between them. The "Mở mắt" waveform has arrows pointing to specific points in the wave. Following these, there are waveforms labeled "C.Y.", "t", "1", "2-3", "4", and "R". The image is captioned "Hình 11-13."
 
 Sóng alpha (α) có nhịp khá đều, tần số từ 8 đến 13 trong một giây, gặp ở hầu hết người lớn bình thường đang thức, não nghỉ ngơi yên tĩnh. Sóng này ghi được rõ nhất ở vùng chẩm, nhưng cũng còn ghi được ở vùng đỉnh và vùng trán của da đầu. Điện thế chừng 50 microvolt. Khi ngủ rất sâu thì sóng alpha biến mất. Khi óc đang thư thái mà chợt chú ý đến điều gì, hoặc có tiếng rầm, hoặc ánh sáng roi thì sóng alpha được thay thế bằng sóng beta không đồng bộ, tần số cao, điện thế thấp (Hình 11-13B) gọi là tắt nhịp alpha.
 
@@ -7402,17 +6997,11 @@ Muốn ghi hoat động điên của vùng não nào là do ta tư chon.
 
 Trong trạng thái hoạt động, ở mỗi neuron xuất hiện một dòng điện hoạt động. Các dòng điện của tất cả các neuron tổng hợp lại thành dòng điện não. Dòng điện này lan ra khắp các điểm trên da dầu. Ta có thể ghi được dòng điện não bằng cách nối hai cực của máy ghi hai điểm bất kỳ trên da đầu. Đường ghi được gọi là điện não đồ (electroencephalogram) cách đặt điện cực của máy ghi vào da đầu gọi là chuyến đạo hay đạo trình.
 
-Image /page/376/Figure/5 description: The image shows three diagrams of a head with various measurements and labels. The first diagram is a side view of the head, with labels such as "GỐC MŨI" (nose root), "A1" (ear), "CHÂM" (chin), "F2", "C2", and "P2". There are also measurements indicated with arrows and numbers, such as "10" and "20". The second diagram is a front view of the head, with labels such as "A1", "A2", "F2", and "C2". Again, there are measurements indicated with arrows and numbers, such as "10" and "20". The third diagram is a top view of the head, with labels such as "F2", "C2", "P2", and "(5)". There are also measurements indicated with arrows and numbers, such as "10" and "20".
-
 Hình 11-14. Cách đặt điên cưc (theo phương pháp Jasper hay Montreal Jasper, Montreal - Canada)
 
 Hình ảnh điện não không ngừng biến đổi từ khi ra đời cho đến già (J. Courjon, 1970; A.B.Kogan, 1969; D.X.Varonsov, 1961; Maiortrik, 1964). Vì thế trong phân tích điện não đồ cần biết tuổi của đối tượng được ghi.
 
-Image /page/377/Figure/0 description: The image shows two diagrams of a head with numbered circles on it. The diagrams are labeled "MẪU 1" and "MẪU 2". The circles are numbered from 1 to 23. The circles are connected by lines. The diagrams are used to show the placement of electrodes on the head.
-
 Hình 11-15. Sơ đồ mắc sẵn (đạo trình đơn cực)
-
-Image /page/377/Figure/2 description: The image shows two diagrams of a head with circles and numbers indicating electrode placement for EEG or similar brain monitoring techniques. The diagram on the left is labeled "MẪU 3" and shows a grid-like arrangement of circles numbered 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 22, 23, with lines connecting some of the circles. The diagram on the right is labeled "MẪU 4" and shows a similar head diagram with circles numbered 1 through 10, also with lines connecting some of the circles.
 
 Hình 11-16. Sơ đồ mắc săn (đao trình song cưc)
 
@@ -7510,9 +7099,9 @@ Nhịp o xuất hiện dưới dạng hoạt động (sóng) kịch phát, đề
 
 # 2.2.2 - Có nhịp ß với các tính chất sau:
 
-- Tần số  $< 35c/s.$ 
+- Tân số < 35c/s.
 
-- Biên độ  $< 15\muV$ . Có tác giả cho là  $< 20 \muV$  hoặc  $< 30\muV$ .
+- Biên độ < 15uV. Có tác giả cho là < 20 µV hoăc < 30µV.
 
 - Xuất hiện ở vùng trước của não.
 
@@ -7540,13 +7129,13 @@ Trong các bênh gây tăng chuyện hóa cơ sở (như bênh Basedow) có th�
 
 ### 2.3.2 - Nhịp β
 
-- Biên độ > 15 μV (hoặc > 20μV; > 30μV)
+- Biên độ > 15 µV (hoặc > 20µV; > 30µV)
 
 - Nhip ß bền vững với biên đô cao và ưu thế ở một vài vùng não nhất định.
 
 ### 2.3.3 - Sóng δ
 
-- Biên đô ≥ 200 μV
+- Biên đô ≥ 200 µV
 
 - Chỉ số > 5%
 
@@ -7653,7 +7242,7 @@ Tiêm glucose vào tĩnh mạch hoặc uống khoảng 100g đường có thể 
 
 4. Rất khó xác định các loại ranh giới như: ranh giới giữa những cấu trúc thần kinh có tham gia, và những cấu trúc không tham gia một hoạt động trí tuệ như học và nhớ; ranh giới giữa chất hóa học tác dụng và chất không tác dụng lên tâm thần trí tuệ; ranh giới bài mục về một loại hoạt động trí óc. Cũng rất khó tìm thuật ngữ nói lên đầy đủ khái niệm hoạt động trí óc (tâm trí) cho nên nhiều tác giả tránh các định nghĩa trực tiếp, hoặc như Ganong (1983) đã viết " ... vì thiếu một thuật ngữ tốt hơn hoăc chính xác hơn, nên tôi goi là chức năng cao cấp... "
 
-5. Cơ chế sinh lý của hoạt động tâm thần trí óc là điều hằng mong được sóm sáng tỏ, nhưng thật khó tìm được một thuyết đúng định chân lý. Có thể coi các thuyết khác nhau, có lúc tưởng như bác bỏ nhau, nay hợp thành một tổng thể làm cơ sở cho ta suy xét để tiến thêm một bước trên con đường dài tiếp cận chân lý. Thực tế hiện nay các chuyên gia bệnh học tâm thần đang dựa vào nhiều loại kiến thức, nhiều kiếu lý luận sinh lý và ngoài sinh lý, trước đây có lúc như đối địch nhau, loại trừ nhau, nay đều cùng được tham khảo, được dùng làm cơ sở soi sáng việc săn sóc sức khỏe tâm thần. Thí dụ từ lâu ta đã biết một số thuyết và kiến thức như: thuyết Pavlov với vai trò thần kinh phản xa, thuyết Freud với yếu tố vô thức dồn nén tình duc, thuyết Selye với stress và hê yên-nôi tiết, kiến thức về tâm lý hoc, quan niệm về vai trò chất hóa học nội sinh và hóa chất thuốc đối với hoạt động tâm thần, v.v.
+5. Cơ chế sinh lý của hoạt động tâm thần trí óc là điều hằng mong được sóm sáng tỏ, nhưng thật khó tìm được một thuyết đúng định chân lý. Có thể coi các thuyết khác nhau, có lúc tưởng như bác bỏ nhau, nay hợp thành một tổng thể làm cơ sở cho ta suy xét để tiến thêm một bước trên con đường dài tiếp cận chân lý. Thực tế hiện nay các chuyên gia bênh học tâm thần đang dựa vào nhiều loại kiến thức, nhiều kiếu lý luận sinh lý và ngoài sinh lý, trước đây có lúc như đối địch nhau, loại trừ nhau, nay đều cùng được tham khảo, được dùng làm cơ sở soi sáng việc săn sóc sức khỏe tâm thần. Thí dụ từ lâu ta đã biết một số thuyết và kiến thức như: thuyết Pavlov với vai trò thần kinh phản xa, thuyết Freud với yếu tố vô thức dồn nén tình duc, thuyết Selye với stress và hê yên-nôi tiết, kiến thức về tâm lý hoc, quan niệm về vai trò chất hóa học nội sinh và hóa chất thuốc đối với hoạt động tâm thần, v.v.
 
 6. Cơ chế phân tử của hiện tượng học-nhớ-điều kiện hóa được nhiều tác giả gần đây nói đến là sự thuận hóa (facilitation) tức sự tăng truyền đạt synap tạo đường mòn dấu vết nhớ, bao gồm một chuối dài phản ứng, trong đó sự ghép đôi hai kích thích gây giải phóng serotonin ở nơron trước synap, qua nhiều khâu trung gian, cuối cùng gây tăng dòng ion calci, tăng giải phóng chất truyền đạt.
 
@@ -7667,275 +7256,294 @@ Tiêm glucose vào tĩnh mạch hoặc uống khoảng 100g đường có thể 
 
 # QUÁ TRÌNH TẠO NƯỚC TIỂU Ở THẬN (Phùng Xuân Bình)
 
-| GIẢI PHẪU SINH LÝ THẬN                                                                                  |     |
-|---------------------------------------------------------------------------------------------------------|-----|
-| 1. Những nephron vùng vỏ và vùng cận tủy                                                                | 4   |
-| 2. Mạng lưới mao mạch quanh ống và các mạch thẳng                                                       | 4   |
-| 3. Chức năng của nephron                                                                                | 5   |
-| 4. Lưu lượng máu thận và áp suất trong tuần hoàn thận                                                   | 5   |
-| 4.1. Lưu lượng máu qua thận                                                                             | 5   |
-| 4.2. Áp suất trong tuần hoàn thận                                                                       | 5   |
-| QUÁ TRÌNH LỌC Ở CẦU THẬN                                                                                | 5   |
-| 1. Màng cầu thận và tính thấm của màng                                                                  | 5   |
-| 2. Thành phần của dịch lọc                                                                              | 7   |
-| 3. Lưu lượng lọc cầu thận                                                                               | 7   |
-| 4. Phân số lọc                                                                                          | 7   |
-| 5. Cơ chế lọc qua màng cầu thận                                                                         | 7   |
-| 6. Hệ số lọc                                                                                            | 8   |
-| 7. Các yếu tố ảnh hưởng đến lưu lượng lọc                                                               | 8   |
-| 7.1. Ảnh hưởng của lưu lượng máu qua thận                                                               | 8   |
-| 7.2. Ảnh hưởng của sự co tiểu động mạch đến                                                             | 8   |
-| 7.3. Ảnh hưởng của sự co tiểu động mạch đi                                                              | 8   |
-| 8. Điều hòa lưu lượng lọc cầu thận và lưu lượng máu đến thận                                            | 9   |
-| 8.1. Sự tự điều hòa lưu lượng lọc cầu thận                                                              | 9   |
-| 8.2. Ảnh hưởng của huyết áp lên lượng nước tiểu                                                         | 10  |
-| 8.3. Ảnh hưởng của kích thích giao cảm                                                                  | 10  |
-| TÁI HẤP THU VÀ BÀI TIẾT Ở ỐNG THẬN                                                                      | 11  |
-| 1. Khả năng hấp thu của các đoạn khác nhau của ống thận                                                 | 11  |
-| 1.1. Tế bào biểu mô ống lượn gần                                                                        | 11  |
-| 1.2. Tế bào đoạn mỏng của quai Henle                                                                    | 12  |
-| 1.3. Tế bào biểu mô của đoạn dày nhánh lên của quai Henle                                               | 12  |
-| 1.4. Tế bào ống lượn xa                                                                                 | 12  |
-| 2. Các cơ chế vận chuyển qua màng ống thận                                                              | 13  |
-| 3. Tái hấp thu và bài tiết ở ống lượn gần                                                               | 13  |
-| 3.1. Tái hấp thu in Na+                                                                                 | 13  |
-| 3.2. Tái hấp thu ion Cl-                                                                                | 14  |
-| 3.3. Tái hấp thu ion K+                                                                                 | 14  |
-| 3.4. Hấp thu ion HCO3-                                                                                  | 14  |
-| 3.5. Tái hấp thu urê                                                                                    | 14  |
-| 3.6. Tái hấp thu nước                                                                                   | 15  |
-| 3.7. Tái hấp thu các chất dinh dưỡng                                                                    | 15  |
-| 3.8. Tái hấp thu các sản phẩm chuyển hóa cuối cùng                                                      | 15  |
-| 3.9. Bài tiết ion H+                                                                                    | 15  |
-| 4. Tái hấp thu ở quai Henle                                                                             | 16  |
-| 5. Tái hấp thu và bài tiết ở ống lượn xa                                                                | 16  |
-| 5.1. Tái hấp thu ở đoạn pha loãng                                                                       | 16  |
-| 5.2. Tái hấp thu và bài tiết ở đoạn cuối ống lượn xa và ống góp vùng vỏ                                 | 16  |
-| 6. Tái hấp thu và bài tiết ở ống góp                                                                    | 18  |
-| 7. Kết quả tái hấp thu và bài tiết ở ống thận                                                           | 19  |
-| 8. Tác dụng của khả năng tải và khả năng vận chuyển tối đa Tm của ống thận đối với thành phần nước tiểu | 20  |
-| 8.1. Khả năng tải của ống                                                                               | 20  |
-| 8.2. Khả năng vận chuyển tối đa                                                                         | 20  |
-| 8.3. Ngưỡng thận đối với những chất có Tm                                                               | 20  |
-| 8.4. Hấp thu những chất không có Tm                                                                     | 21  |
-| 8.5. Cân bằng cầu thận - ống thận trong ống lượn gần                                                    | 22  |
-| KHÁI NIỆM CLEARANCE HUYẾT TƯƠNG VÀ ỨNG DỤNG<br>ĐỂ ĐÁNH GIÁ CHỨC NĂNG THẬN                               |     |
-| 1. Định nghĩa                                                                                           | 22  |
-| 2. Sử dụng clearance huyết tương để đánh giá chức năng thận                                             | 23  |
-| 2.1. Dùng clearance inulin để đo lưu lượng huyết tương qua thận                                         | 23  |
-| 2.2. Dùng clearance PAH để đo lưu lượng huyết tương qua thận                                            | 23  |
-| THẬN ĐIỀU HÒA NỒNG ĐỘ THẨM THẤU CỦA DỊCH NGOẠI BÀO.<br>CHỨC NĂNG PHA LOÃNG VÀ CÔ ĐẶC NƯỚC TIỂU CỦA THẬN |     |
-| 1. Cơ chế tạo nước tiểu loãng của thận                                                                  | 24  |
-| 2. Cơ chế cô đặc nước tiểu của thận                                                                     | 24  |
-| NHỮNG RỐI LOẠN LÂM SÀNG CỦA THẬN                                                                        |     |
-| 1. Protein niệu                                                                                         | 27  |
-| 2. Thận mất khả năng cô đặc và pha loãng nước tiểu                                                      | 28  |
-| 3. Tăng urê huyết                                                                                       | 28  |
-| 4. Nhiễm toan                                                                                           | 29  |
-| 5. Rối loạn chuyển hóa Na1 trong bệnh thận                                                              | 29  |
-| THĂM DÒ CHỨC NĂNG THẬN                                                                                  |     |
-| 1. Nghiệm pháp thăm dò clearance huyết tương của inulin, mannitol,                                      |     |
-| PAH và của một số chất khác                                                                             | 29  |
-| 2. Đo nồng độ các chất trong máu                                                                        | 30  |
-| 3. Phân tích các tính chất lý hóa của nước tiểu                                                         | 30  |
-| CÁC CHẤT LỢI TIỂU VÀ CƠ CHẾ TÁC DỤNG                                                                    |     |
-| 1. Thuốc lợi tiểu thẩm thấu                                                                             | 31  |
-| 2. Thuốc lợi tiểu làm giảm tái hấp thu tích cực                                                         | 31  |
-| 3. Thuốc lợi tiểu ức chế men carbonic anhydrase                                                         | 31  |
-| 4. Những chất ức chế cạnh tranh với aldosteron: spironolacton                                           | 31  |
-| CHƯƠNG 7                                                                                                |     |
-| SINH LÝ NỘI TIẾT (Phạm Thị Minh Đức)                                                                    |     |
-| ĐẠI CƯƠNG VỀ NỘI TIẾT VÀ HORMON                                                                         |     |
-| 1. Định nghĩa                                                                                           | 32  |
-| 1.1. Định nghĩa tuyến nội tiết                                                                          | 32  |
-| 1.2. Định nghĩa hormon                                                                                  | 33  |
-| 2. Phân loại hormon                                                                                     | 33  |
-| 2.1. Hormon tại chỗ                                                                                     | 34  |
-| 2.2. Hormon của các tuyến nội tiết                                                                      | 34  |
-| 3. Bản chất hóa học của hormon                                                                          | 35  |
-| 4. Dự trữ và bài tiết hormon                                                                            | 35  |
-| 4.1. Hormon steroid                                                                                     | 35  |
-| 4.2. Dẫn xuất của tyrosin                                                                               | 35  |
-| 4.3. Hormon protein và peptid                                                                           | 36  |
-| 5. Chất tiếp nhận hormon tại tế bào đích                                                                | 36  |
-| 6. Cơ chế tác dụng của hormon                                                                           | 37  |
-| 6.1. Cơ chế tác dụng của các hormon gắn với receptor trên màng tế bào                                   | 37  |
-| 6.2. Cơ chế tác dụng của các hormon gắn với receptor trong tế bào                                       | 41  |
-| 7. Cơ chế điều hòa bài tiết hormon                                                                      | 42  |
-| 7.1. Điều hòa theo nhịp sinh học                                                                        | 42  |
-| 7.2. Điều hòa bằng các chất truyền đạt thần kinh                                                        | 43  |
-| 7.3. Cơ chế điều hòa ngược                                                                              | 43  |
-| 8. Định lượng hormon                                                                                    | 45  |
-| 8.1. Phương pháp định lượng miễn dịch phóng xạ (RIA)                                                    | 45  |
-| 8.2. Phương pháp "bánh kẹp" (sandwich)                                                                  | 47  |
-| 8.3. Phương pháp đo hệ số thanh thải hormon                                                             | 47  |
-| VÙNG DƯỚI ĐỒI                                                                                           |     |
-| 1. Đặc điểm cấu tạo                                                                                     | 48  |
-| 2. Các hormon giải phóng và ức chế của vùng dưới đồi                                                    | 48  |
-| 2.1. Bản chất hóa học và tác dụng                                                                       | 49  |
-| 2.2. Điều hòa bài tiết các hormon giải phóng và ức chế                                                  | 50  |
-| 3. Các hormon khác                                                                                      | 51  |
-| TUYẾN YÊN                                                                                               |     |
-| 1. Đặc điểm cấu tạo và mối liên hệ với vùng dưới đồi                                                    | 52  |
-| 1.1. Vị trí và mối liên hệ với vùng dưới đồi                                                            | 52  |
-| 1.2. Đặc điểm cấu tạo của tuyến yên                                                                     | 54  |
-| 2. Các hormon thùy trước tuyến yên                                                                      | 54  |
-| 2.1. Hormon phát triển cơ thể - GH                                                                      | 55  |
-| 2.2. Hormon kích thích tuyến giáp - TSH                                                                 | 59  |
-| 2.3. Hormon kích thích tuyến vỏ thượng thận - ACTH                                                      | 60  |
-| 2.4. Hormon kích thích tuyến sinh dục - FSH và LH                                                       | 62  |
-| 2.5. Hormon kích thích bài tiết sữa - Prolactin PRL                                                     | 64  |
-| 3. Các hormon thùy sau tuyến yên                                                                        | 65  |
-| 3.1. Hormon ADH                                                                                         | 65  |
-| 3.2. Oxytoxin                                                                                           | 67  |
-| 4. Rối loạn hoạt động tuyến yên                                                                         | 68  |
-| 4.1. Suy tuyến yên toàn bộ                                                                              | 68  |
-| 4.2. Bệnh khổng lồ                                                                                      | 69  |
-| 4.3. Bệnh to đầu ngón                                                                                   | 69  |
-| 4.4. Bệnh đái tháo nhạt                                                                                 | 69  |
-| TUYẾN GIÁP                                                                                              |     |
-| 1. Đặc điểm cấu tạo                                                                                     | 70  |
-| 2. Sinh tổng hợp hormon T3 - T4                                                                         | 71  |
-| 2.1. Bắt iod                                                                                            | 71  |
-| 2.2. Oxy hóa ion iodua                                                                                  | 71  |
-| 2.3. Gắn iod vào tyrosin                                                                                | 71  |
-| 2.4. Giải phóng hormon vào máu                                                                          | 72  |
-| 3. Nhu cầu iod và phân bố iod trong tuyến giáp                                                          | 73  |
-| 4. Vận chuyển và bài xuất hormon tuyến giáp                                                             | 74  |
-| 5. Tác dụng của T3 - T4                                                                                 | 75  |
-| 5.1. Tác dụng lên sự phát triển cơ thể                                                                  | 75  |
-| 5.2. Tác dụng lên chuyển hóa tế bào                                                                     | 75  |
-| 5.3. Tác dụng lên chuyển hóa glucid                                                                     | 76  |
-| 5.4. Tác dụng lên chuyển hóa lipid                                                                      | 76  |
-| 5.5. Tác dụng lên chuyển hóa protein                                                                    | 77  |
-| 5.6. Tác dụng lên chuyển hóa vitamin                                                                    | 77  |
-| 5.7. Tác dụng lên hệ tim mạch                                                                           | 77  |
-| 5.8. Tác dụng lên hệ thống thần kinh cơ                                                                 | 78  |
-| 5.9. Tác dụng lên cơ quan sinh dục                                                                      | 79  |
-| 5.10. Tác dụng lên các tuyến nội tiết khác                                                              | 79  |
-| 6. Điều hòa bài tiết tuyến giáp                                                                         | 79  |
-| 7. Rối loạn hoạt động tuyến giáp                                                                        | 79  |
-| 7.1. Ưu năng tuyến giáp                                                                                 | 79  |
-| 7.2. Nhược năng tuyến giáp                                                                              | 80  |
-| 7.3. Bệnh đần độn                                                                                       | 81  |
-| 7.4. Bệnh bướu cổ do thiếu iod                                                                          | 81  |
-| 8. Hormon calcitonin                                                                                    | 81  |
-| 8.1. Nguồn gốc, bản chất hóa học                                                                        | 81  |
-| 8.2. Tác dụng của calcitonin                                                                            | 82  |
-| 8.3. Điều hòa bài tiết calcitonin                                                                       | 82  |
-| TUYẾN THƯỢNG THẬN                                                                                       |     |
-| 1. Đặc điểm cấu tạo                                                                                     | 83  |
-| 2. Vỏ thượng thận                                                                                       | 84  |
-| 2.1. Sinh tổng hợp hormon vỏ thượng thận                                                                | 84  |
-| 2.2. Vận chuyển và thoái hóa hormon vỏ thượng thận                                                      | 87  |
-| 2.3. Tác dụng và điều hòa bài tiết cortisol                                                             | 87  |
-| 2.4. Tác dụng và điều hòa bài tiết aldosteron                                                           | 90  |
-| 2.5. Tác dụng của androgen                                                                              | 92  |
-| 3. Tủy thượng thận                                                                                      | 92  |
-| 3.1. Sinh tổng hợp hormon tủy thượng thận                                                               | 92  |
-| 3.2. Tác dụng của các hormon tủy thượng thận                                                            | 93  |
-| 3.3. Cơ chế tác dụng                                                                                    | 94  |
-| 3.4. Điều hòa bài tiết                                                                                  | 94  |
-| 4. Rối loạn hoạt động tuyến thượng thận                                                                 | 95  |
-| 4.1. Nhược năng tuyến thượng thận - Bệnh Addison                                                        | 95  |
-| 4.2. Hội chứng Cushing                                                                                  | 95  |
-| 4.3. Hội chứng tăng Aldosteron tiên pháp                                                                | 96  |
-| 4.4. hội chứng nam hóa                                                                                  | 96  |
-| 4.5. Bệnh tăng sản thượng thận bẩm sinh                                                                 | 96  |
-| 4.6. U tủy thượng thận                                                                                  | 96  |
-| 1. Đặc điểm cấu tạo                                                                                     | 97  |
-| 2. Insulin                                                                                              | 98  |
-| 2.1. Bản chất hóa học và cấu tạo                                                                        | 98  |
-| 2.2. Vận chuyển và thoai hóa insulin                                                                    | 98  |
-| 2.3. Tác dụng insulin                                                                                   | 98  |
-| 2.4. Điều hòa bài tiết insulin                                                                          | 102 |
-| 3. Hormon glucagon                                                                                      | 103 |
-| 3.1. Bản chất hóa học                                                                                   | 103 |
-| 3.2. Tác dụng của glucagon                                                                              | 103 |
-| 3.3. Điều hòa bài tiết                                                                                  | 105 |
-| 4. Hormon somatostatin                                                                                  | 106 |
-| 4.1. Bản chất hóa học                                                                                   | 106 |
-| 4.2. Tác dụng của somatostatin                                                                          | 106 |
-| 4.3. Điều hòa bài tiết                                                                                  | 106 |
-| 5. Rối loạn hoạt động tuyến tuỵ nội tiết                                                                | 107 |
-| 5.1. Bệnh đái tháo đường                                                                                | 107 |
-| 5.2. Hạ đường thuyết do tăng bài tiết insulin                                                           | 107 |
-| TUYẾN CẬN GIÁP                                                                                          |     |
-| 1. Đặc điểm cấu tạo                                                                                     | 109 |
-| 2. Bản chất hóa học của parathormon                                                                     | 110 |
-| 3. Tác dụng của parathormon (PTH)                                                                       | 110 |
-| 3.1. Tác dụng của PTH trên xương                                                                        | 110 |
-| 3.2. Tác dụng trên thận                                                                                 | 111 |
-| 3.3. Tác dụng trên ruột                                                                                 | 112 |
-| 4. Điều hòa bài tiết                                                                                    | 112 |
-| 5. Rối loạn hoạt động tuyến cận giáp                                                                    | 112 |
-| 5.1. Nhược năng tuyến cận giáp                                                                          | 112 |
-| 5.2. Ưu năng tuyến cận giáp                                                                             | 113 |
-| CÁC HORMON TẠI CHỖ (MÔ)                                                                                 |     |
-| 1. Định nghĩa và phân loại                                                                              | 114 |
-| 2. Tác dụng của hormon                                                                                  | 114 |
-| 2.1. Gastrin                                                                                            | 114 |
-| 2.2. Secretin                                                                                           | 114 |
-| 2.3. Cholecystokinin-pancreozymin (CCK)                                                                 | 115 |
-| 2.4. Bombesin                                                                                           | 115 |
-| 2.5. VIP: (vasoactive intestinal peptide)                                                               | 115 |
-| 2.6. Gamma amino butyric acid (GABA)                                                                    | 115 |
-| 2.7. Sertonin                                                                                           | 116 |
-| 2.8. Erythropoietin                                                                                     | 116 |
-| 2.9. Histamin                                                                                           | 116 |
-| 2.10. Prostaglandin (PG)                                                                                | 116 |
-| CHƯƠNG 8                                                                                                |     |
-| SINH LÝ SINH SẢN (Phạm Thị Minh Đức)                                                                    |     |
-| SINH LÝ SINH SẢN NAM                                                                                    |     |
-| 1. Đặc điểm cấu tạo bộ máy sinh sản nam                                                                 | 119 |
-| 2. Chức năng của tinh hoàn                                                                              | 120 |
-| 2.1. Chức năng sinh tinh trùng                                                                          | 120 |
-| 2.2. Chức năng nội tiết của tinh hoàn                                                                   | 126 |
-| 3. Chức năng của túi tinh                                                                               | 130 |
-| 4. Chức năng của tuyến tiền liệt                                                                        | 130 |
-| 5. Tinh dịch                                                                                            | 130 |
-| 6. Giao hợp và phóng tinh                                                                               | 131 |
-| 7. Dạy thì và suy giảm hoạt động sinh dục nam                                                           | 132 |
-| 7.1. Dạy thì                                                                                            | 132 |
-| 7.2. Suy giảm hoạt động sinh dục nam                                                                    | 133 |
-| 8. Rối loạn hoạt động chức năng sinh sản                                                                | 133 |
-| 8.1. Bệnh lý tuyến tiền liệt                                                                            | 133 |
-| 8.2. Suy giảm chức năng sinh dục                                                                        | 134 |
-| 8.3. U tinh hoàn và cường sinh dục                                                                      | 134 |
-| SINH LÝ SINH SẢN NỮ                                                                                     |     |
-| 1. Đặc điểm cấu trúc bộ máy sinh lý sinh sản nữ                                                         | 135 |
-| 1.1. Buồng trứng                                                                                        | 135 |
-| 1.2. Tử cung                                                                                            | 135 |
-| 2. Các hormon của buồng trứng                                                                           | 137 |
-| 2.1. Estrogen                                                                                           | 137 |
-| 2.2. Progesteron                                                                                        | 140 |
-| 2.3. Rối loạn bài tiết hormon buồng trứng                                                               | 143 |
-| 3. Chu kỳ kinh nguyệt                                                                                   | 143 |
-| 3.1. Định nghĩa                                                                                         | 143 |
-| 3.2. Các giai đoạn của chu kỳ kinh nguyệt                                                               | 144 |
-| 4. Dạy thì và mãn kinh                                                                                  | 148 |
-| 4.1. Dạy thì                                                                                            | 148 |
-| 4.2. Mãn kinh                                                                                           | 150 |
-| 5. Thụ thai, mang thai                                                                                  | 151 |
-| 5.1. Trưởng thành của noãn và di chuyển trong vòi trứng                                                 | 151 |
-| 5.2. Sự thụ tinh                                                                                        | 151 |
-| 5.3. Trứng đã thụ tinh di chuyển vào buồng tử cung                                                      | 153 |
-| 5.4. Phôi làm tổ và phát triển trong buồng tử cung                                                      | 154 |
-| 5.5. Chức năng của rau thai                                                                             | 154 |
-| 5.6. Những đáp ứng của cơ thể người mẹ khi có thai                                                      | 158 |
-| 6. Sổ thai                                                                                              | 159 |
-| 6.1. Nguyên nhân gây cơn co tử cung                                                                     | 160 |
-| 6.2. Sổ thai                                                                                            | 160 |
-| 7. Bài tiết sữa                                                                                         | 161 |
-| 7.1. Sự phát triển tuyến vú                                                                             | 161 |
-| 7.2. Bài tiết sữa                                                                                       | 161 |
-| 7.3. Bài xuất sữa                                                                                       | 161 |
-| 7.4. Thành phần và sự ưu việt của sữa mẹ                                                                | 162 |
-| 8. Các biện pháp tránh thai                                                                             | 162 |
-| 8.1. Các biện pháp tránh thai tạm thời                                                                  | 162 |
-| 8.2. Các biện pháp tránh thai vĩnh viễn                                                                 | 164 |
+| GIẢI PHÂU SINH LÝ THẬN                                       |    |
+|--------------------------------------------------------------|----|
+| 1. Những nephron vùng vỏ và vùng cận tủy                     | 4  |
+| 2. Mạng lưới mao mạch quanh ống và các mạch thẳng            | 4  |
+| 3. Chức năng của nephron                                     | 5  |
+| 4. Lưu lượng máu thận và áp suất trong tuần hoàn thận        | 5  |
+| 4.1. Lưu lượng máu qua thận                                  | 5  |
+| 4.2. Ap suất trong tuần hoàn thận                            | 5  |
+| QUÁ TRÌNH LỌC Ở CẦU THẬN                                     | 5  |
+| 1. Màng cầu thận và tính thấm của màng                       | 5  |
+| 2. Thành phần của dịch loc                                   | 7  |
+| 3. Lưu lượng lọc cầu thận                                    | 7  |
+| 4. Phân số lọc                                               | 7  |
+| 5. Cơ chế lọc qua màng cầu thận                              | 7  |
+| 6. Hệ số lọc                                                 | 8  |
+| 7. Các yếu tố ảnh hưởng đến lưu lượng lọc                    | 8  |
+| 7.1. Anh hưởng của lưu lượng máu qua thận                    | 8  |
+| 7.2. Ảnh hưởng của sự co tiểu động mạch đến                  | 8  |
+| 7.3. Anh hưởng của sự co tiểu động mạch đi                   | 8  |
+| 8. Điều hòa lưu lượng lọc cầu thận và lưu lượng máu đến thận | 9  |
+| 8.1. Sự tự điều hòa lưu lượng lọc cầu thận                   | 9  |
+| 8.2. Anh hưởng của huyết áp lên lượng nước tiểu              | 10 |
+| 8.3. Anh hưởng của kích thích giao cảm                       | 10 |
+| TÁI HẤP THU VÀ BÀI TIẾT Ở ỐNG THÂN                           | 11 |
+| 1. Khả năng hấp thu của các đoạn khác nhau của ống thận      | 11 |
+| 1.1. Tế bào biểu mô ống lượn gần                             | 11 |
+| 1.2. Tế bào đoạn mỏng của quai Henle                         | 12 |
+| 1.3. Tế bào biểu mô của đoạn dày nhánh lên của quai Henle    | 12 |
+| 1.4. Tế bào ống lượn xa                                      | 12 |
+| 1 5 Tà hàn ông gón                                           | 10 |
+
+| 2. Các cơ chế vận chuyến qua màng ống thận                                                                | 13 |
+|-----------------------------------------------------------------------------------------------------------|----|
+| 3. Tái hấp thu và bài tiết ở ống lượn gần                                                                 | 13 |
+| 3.1. Tái hấp thu in Na                                                                                    | 13 |
+| 3.2. Tái hấp thu ion Cl                                                                                   | 14 |
+| 3.3. Tái hấp thu ion K                                                                                    | 14 |
+| 3.4. Hấp thu ion HCO 3                                                                                    | 14 |
+| 3.5. Tái hấp thu urê                                                                                      | 14 |
+| 3.6. Tái hấp thu nước                                                                                     | 15 |
+| 3.7. Tái hấp thu các chất dinh dưỡng                                                                      | 15 |
+| 3.8. Tái hấp thu các sản phẩm chuyển hóa cuối cùng                                                        | 15 |
+| 3.9. Bài tiết ion H                                                                                       | 15 |
+| 4. Tái hấp thu ở quai Henle                                                                               | 16 |
+| 5. Tái hấp thu và bài tiết ở ống lượn xa                                                                  | 16 |
+| 5.1. Tái hấp thu ở đoạn pha loãng                                                                         | 16 |
+| 5.2. Tái hấp thu và bài tiết ở đoạn cuối ống lượn xa và ống góp                                           |    |
+| vùng vò                                                                                                   | 16 |
+| 6. Tái hấp thu và bài tiết ở ống góp                                                                      | 18 |
+| 7. Kết quả tái hấp thu và bài tiết ở ống thận                                                             | 19 |
+| 8. Tác dụng của khả năng tải và khả năng vận chuyến tối đa Tm                                             | 20 |
+| của ống thận đối với thành phần nước tiểu<br>8.1. Khá năng tái của ống                                    | 20 |
+| 8.2. Khả năng vận chuyển tối đa                                                                           | 20 |
+| 8.3. Ngưỡng thận đối với những chất có Tìn                                                                | 20 |
+| 8.4. Hấp thu những chất không có Tm                                                                       | 21 |
+| 8.5. Cân bằng cầu thận - ống thận trong ống lượn gần                                                      | 22 |
+|                                                                                                           |    |
+| KHÁI NIỆM CLEARANCE HUYẾT TƯƠNG VÀ ỨNG DỤNG<br>ĐÊ ĐÁNH GIÁ CHỨC NĂNG THẬN                                 |    |
+| 1. Định nghĩa                                                                                             | 22 |
+| 2. Sử dụng clearance huyết tương để đánh giá chức năng thận                                               | 23 |
+| 2.1. Dùng clearance inulin để đo lưu lượng huyết tương qua thận                                           | 23 |
+| 2.2. Dùng clearance PAH để đo lưu lượng huyết tương qua tận                                               | 23 |
+| THẬN ĐIỀU HÒA NỒNG ĐỘ THẤM THẤU CỦA DỊCH NGOẠI I3ÀO.<br>CHỨC NĂNG PIIA LOÃNG VÀ CÔ ĐẶC NƯỚC TIỂU CỦA THẬN |    |
+| 1. Cơ chế tạo nước tiểu loãng của thận                                                                    | 24 |
+| 2. Cơ chế cô đặc nước tiểu của thân                                                                       | 24 |
+| NHỮNG RỒI LOẠN LÂM SÀNG CỦA THẬN                                                                          |    |
+| 1. Protein niệu                                                                                           | 27 |
+| 2. Thận mất khá năng cô đặc và pha loãng nước tiêu                                                        | 28 |
+|                                                                                                           |    |
+
+| 3. Tăng urê huyệt                                                      | 28    |
+|------------------------------------------------------------------------|-------|
+| 4. Nhiêm toan                                                          | 29    |
+| 5. Rối loạn chuyển hóa Na trong bệnh thận                              | 29    |
+| THẦM ĐÓ CHƯC NĂNG THẤN                                                 |       |
+| 1. Nghiệm pháp thăm dò clearance huyết tương của inulin, mannitol,     |       |
+| PAH và của một số chất khác                                            | 29    |
+| 2. Đo nồng độ các chất trong máu                                       | 30    |
+| 3. Phân tích các tính chất lý hóa của nước tiểu                        | 30    |
+| CÁC CHẤT LỢI TIẾU VÀ CƠ CHẾ TÁC DỤNG                                   |       |
+| 1. Thuốc lợi tiểu thẩm thấm thấu                                       | 31    |
+| 2. Thuốc lợi tiếu làm giảm tái hấp thu tích cực                        | 31    |
+| 3. Thuốc lợi tiểu ức chế men carbonic anhydrase                        | 31    |
+| 4. Những chất ức chế cạnh tranh với aldosteron: spironolacto11         | 31    |
+| CHUONG 7                                                               |       |
+| SINH LÝ NỘI TIÊT (Phạm Thị Minh Đức)                                   |       |
+| ĐẠI CƯỜNG VỀ NỘI TIẾT VÀ HORMON                                        |       |
+| 1. Dịnh nghĩa                                                          | 32    |
+| 1.1. Định nghĩa tuyền nội tiết                                         | 32    |
+| 1.2. Định nghĩa hormon                                                 | 33    |
+| 2. Phần loại hormon                                                    | 33    |
+| 2.1. Hormon tại chô                                                    | 34    |
+| 2.2. Hormon của các tuyến nội tiết                                     | 34    |
+| 3. Bần chất hóa học của hormon                                         | 35    |
+| 4. Dự trữ và bài tiết hormon                                           | 35    |
+| 4.1. Hormon steroid                                                    | 35    |
+| 4.2. Dân xuất của tyrosin                                              | 35    |
+| 4.3. Hormon protein và peptid                                          | રૂક   |
+| 5. Chất tiếp nhận hormon tại tế bào đích                               | 36    |
+| 6. Cơ chế tác dụng của hormon                                          | 37    |
+| 6. 1. Cơ chế tác dụng của các hormon gắn với receptor trên màng tế bào | 37    |
+| 6.2. Cơ chế tác dụng của các hormon gần với receptor trong tế bào      | 41    |
+| 7. Cơ chế điều hòa bài tiết hormon                                     | 42    |
+| 7.1. Điều hòa theo nhịp sinh học                                       | 42    |
+| 7.2. Điều hòa bằng các chất truyền đạt thân kinh                       | 43    |
+| 7.3. Cơ chế điều hòa ngược                                             | ਕੇ ਤੋ |
+| 8. Định lượng hormon                                                   | 45    |
+| 8.1. Phương pháp định lượng miền dịch phóng xa (RIA)                   | 45    |
+
+| 8.2. Phương pháp "bánh kẹp" (sandwich)                 | 47   |
+|--------------------------------------------------------|------|
+| 8.3. Phương pháp đo hệ số thanh thải hormon            | 47   |
+| VÙNG DƯỚI ĐỒI                                          |      |
+| 1. Đặc điểm cấu tạo                                    | ಳೆ 8 |
+| 2. Các hormon giải phóng và ức chế của vùng dưới đôi   | ಳೆ 8 |
+| 2.1. Bản chất hóa học và tác dụng                      | 49   |
+| 2.2. Điều hòa bài tiết các hormon giải phóng và ức chế | 50   |
+| 3. Các hormon khác                                     | 51   |
+| TUYÊN YÊN                                              |      |
+| 1. Đặc điểm cấu tạo và mối liên hệ với vùng dưới đối   | 52   |
+| 1.1. Vị trí và mối liên hệ với vùng dưới đối           | 52   |
+| 1.2. Đặc điểm cấu tạo của tuyến yên                    | 54   |
+| 2. Các hormon thùy trước tuyến yên                     | 54   |
+| 2.1. Hormon phát triến cơ thế - GH                     | 55   |
+| 2.2. Hormon kích thích tuyến giáp - TSH                | 59   |
+| 2.3. Hormon kích thích tuyến vỏ thượng thận - ACTH     | 60   |
+| 2.4. Hormon kích thích tuyến sinh dục - FSH và LH      | 62   |
+| 2.5. Hormon kích thích bài tiết sữa - Prolactin PRL    | 64   |
+| 3. Các hormon thùy sau tuyến yên                       | 65   |
+| 3.1. Hormon ADH                                        | 65   |
+| 3.2. Oxytoxin                                          | 67   |
+| 4. Rối loạn hoạt động tuyến yên                        | 68   |
+| 4.1. Suy tuyến yên toàn bộ                             | 68   |
+| 4.2. Bệnh khổng lồ                                     | 69   |
+| 4.3. Bệnh to đầu ngón                                  | 69   |
+| 4.4. Bệnh đái tháo nhạt                                | ਵਿੱਚ |
+| TUYÊN GIÁP                                             |      |
+| 1. Đặc điểm cấu tạo                                    | 70   |
+| 2. Sinh tổng hợp hợn hormon T3 - T4                    | 71   |
+| 2.1. Bat iod                                           | 71   |
+| 2.2. Oxy hóa ion iodua                                 | 71   |
+| 2.3. Găn iod vào tyrosin                               | 71   |
+| 2.4. Giai phóng hormon vào mau                         | 72   |
+| 3. Nhu cầu iod và phân bố iod trong tuyến giáp         | 73   |
+| 4. Vận chuyến và bài xuất hormon tuyến giáp            | 74   |
+| 5. Tác dụng của T3 - T4                                | 75   |
+| 5.1. Tác dụng lên sự phát triến cơ thể                 | 75   |
+| 5.2. Tác dụng lên chuyến hóa tế bào                    | 75   |
+
+| 5.3. Tác dụng lên chuyến hóa glucid                | 76    |
+|----------------------------------------------------|-------|
+| 5.4. Tác dụng lên chuyền hóa lipid                 | 76    |
+| 5.5. Tác dụng lên chuyển hóa protein               | 77    |
+| 5.6. Tác dụng lên chuyến hóa vitamin               | 77    |
+| 5.7. Tác dụng lên hệ tim mạch                      | 77    |
+| 5.8. Tác dụng lên hệ thống thần kinh cơ            | 78    |
+| 5.9. Tác dụng lên cơ quan sinh dục                 | 79    |
+| 5.10. Tác dụng lên các tuyến nội tiết khác         | 79    |
+| 6. Điều hòa bài tiết tuyến giáp                    | 79    |
+| 7. Rối loạn hoạt động tuyến giáp                   | 79    |
+| 7.1. Uu năng tuyển giáp                            | 79    |
+| 7.2. Nhược năng tuyến giáp                         | 80    |
+| 7.3. Bệnh đần độn                                  | 81    |
+| 7.4. Bệnh bướu cổ do thiếu iod                     | 81    |
+| 8. Hormon calcitonin                               | 81    |
+| 8.1. Nguồn gốc, bản chất hóa học                   | 81    |
+| 8.2. Tác dung của calcitonin                       | 82    |
+| 8.3. Điều hòa bài tiết calcitonin                  | 82    |
+| TUYÊN THƯỢNG THẤN                                  |       |
+| 1. Đặc điểm cấu tạo                                | 83    |
+| 2. Vô thượng thận                                  | 84    |
+| 2.1. Sinh tống hợp hormon vỏ thượng thận           | 84    |
+| 2.2. Vận chuyến và thoái hóa hormon vỏ thượng thận | 87    |
+| 2.3. Tác dụng và điều hòa bài tiết cortisol        | 87    |
+| 2.4. Tác dụng và điều hòa bài tiết aldosteron      | 90    |
+| 2.5. Tác dụng của androgen                         | 92    |
+| 3. Tuy thượng thận                                 | 92    |
+| 3.1. Sinh tống hợp hormon tủy thượng thân          | 92    |
+| 3.2. Tác dụng của các hormon tủy thương thận       | ಕಿ3   |
+| 3.3. Cơ chế tác dụng                               | 94    |
+| 3.4. Điều hòa bài tiết                             | 94    |
+| 4. Rối loạn hoạt động tuyến thượng thận            | 95    |
+| 4.1. Nhược năng tuyền thượng thận - Bệnh Addison   | 95    |
+| 4.2. Hội chứng Cushing                             | 95    |
+| 4.3. Hội chứng tăng Aldosteron tiên pháp           | 96    |
+| 4.4. hội chứng nam hóa                             | તેની  |
+| 4.5. Bệnh tăng săn thượng thận bấm sinh            | વેલું |
+| 4.6. U túy thượng thận                             | તેની  |
+|                                                    |       |
 
 # TUYẾN TỤY NỘI TIẾT
+
+| 1. Đặc điểm cấu tạo                           | 97  |
+|-----------------------------------------------|-----|
+| 2. Insulin                                    | 98  |
+| 2.1. Bản chất hóa học và cấu tạo              | 88  |
+| 2.2. Vận chuyến và thoai hóa insulin          | 98  |
+| 2.3. Tác dụng insulin                         | 98  |
+| 2.4. Điều hòa bài tiết insulin                | 102 |
+| 3. Hormon glucagon                            | 103 |
+| 3.1. Bản chất hóa hoc                         | 103 |
+| 3.2. Tác dụng của glucagon                    | 103 |
+| 3.3. Điều hòa bài tiết                        | 105 |
+| 4. Hormon somatostatin                        | 106 |
+| 4.1. Bản chất hóa hoc                         | 106 |
+| 4.2. Tác dụng của somatostatin                | 106 |
+| 4.3. Điều hòa bài tiết                        | 106 |
+| 5. Rối loan hoạt động tuyền tuy nội tiết      | 107 |
+| 5.1. Bệnh đái tháo đường                      | 107 |
+| 5.2. Hạ đường thuyết do tăng bài tiết insulin | 107 |
+| TUYÊN CÂN GIÁP                                |     |
+| 1. Đặc điểm cấu tạo                           | 109 |
+| 2. Bản chất hóa học của parathormon           | 110 |
+| 3. Tác dụng của parathormon (PTH)             | 110 |
+| 3.1. Tác dụng của PTH trên xương              | 110 |
+| 3.2. Tác dụng trên thận                       | 111 |
+| 3.3. Tác dụng trên ruột                       | 112 |
+| 4. Điều hòa bài tiết                          | 112 |
+| 5. Rối loạn hoạt động tuyền cận giáp          | 112 |
+| 5.1. Nhược năng tuyến cận giáp                | 112 |
+| 5.2. Ưu năng tuyến cận giáp                   | 113 |
+| CÁC HORMON TẠI CHÔ (MÔ)                       |     |
+| 1. Định nghĩa và phân loại                    | 114 |
+| 2. Tác dụng của hormon                        | 114 |
+| 2.1. Gastrin                                  | 114 |
+| 2.2. Secretin                                 | 114 |
+| 2.3. Cholecystokinin-pancreozymin (CCK)       | 115 |
+| 2.4. Bombesin                                 | 115 |
+| 2.5. VIP: (vasoactive intestinal peptide)     | 115 |
+| 2.6. Gamma amino butyric acid (GABA)          | 115 |
+
+| 4.1. Sertonin                                   | TTO |
+|-------------------------------------------------|-----|
+| 2.8. Erythropoietin                             | 116 |
+| 2.9. Histamin                                   | 116 |
+| 2.10. Prostaglandin (PG)                        | 116 |
+| CHUONG 8                                        |     |
+| SINH LÝ SINH SẢN (Phạm Thị Minh Đức)            |     |
+| SINH LÝ SINH SẢN NAM                            |     |
+| 1. Đặc điểm cấu tạo bộ máy sinh sản nam         | 119 |
+| 2. Chức năng của tỉnh hoàn                      | 120 |
+| 2.1. Chức năng sinh tinh trùng                  | 120 |
+| 2.2. Chức năng nội tiết của tỉnh hoàn           | 126 |
+| 3. Chức năng của túi tinh                       | 130 |
+| 4. Chức năng của tuyến tiền liệt                | 130 |
+| 5. Tỉnh dịch                                    | 130 |
+| 6. Giao hợp và phóng tinh                       | 131 |
+| 7. Dạy thì và suy giảm hoạt động sinh dục nam   | 132 |
+| 7.1. Dạy thì                                    | 132 |
+| 7.2. Suy giảm hoạt động sinh dục nam            | 133 |
+| 8. Rối loạn hoạt động chức năng sinh sản        | 133 |
+| 8.1. Bệnh lý tuyến tiến liệt                    | 133 |
+| 8.2. Suy giam chức năng sinh dục                | 134 |
+| 8.3. U tinh hoàn và cường sinh dục              | 134 |
+| SINH LÝ SINH SẢN NỮ                             |     |
+| 1. Đặc điểm cấu trúc bộ máy sinh lý sinh sản nữ | 135 |
+| 1.1. Buồng trứng                                | 135 |
+| 1.2. Tử cung                                    | 135 |
+| 2. Các hormon của buồng trứng                   | 137 |
+| 2.1. Estrogen                                   | 137 |
+| 2.2. Progesteron                                | 140 |
+| 2.3. Rối loạn bài tiết hormon buồng trứng       | 143 |
+| 3. Chu kỳ kinh nguyệt                           | 143 |
+| 3.1. Định nghĩa                                 | 143 |
+| 3.2. Các giai đoạn của chu kỳ kinh nguyệt       | 144 |
+| 4. Day thì và mãn kinh                          | 148 |
+| 4.1. Day thì                                    | 148 |
+| 4.2. Mãn kinh                                   | 150 |
+
+| 5. Thu thai, mang thai                                  | 151 |
+|---------------------------------------------------------|-----|
+| 5.1. Trưởng thành của noãn và di chuyến trong vòi trứng | 151 |
+| 5.2. Sự thụ tinh                                        | 151 |
+| 5.3. Trứng đã thụ tinh di chuyến vào buồng tử cung      | 153 |
+| 5.4. Phôi làm tổ và phát triển trong buồng tử cung      | 154 |
+| 5.5. Chức năng của rau thai                             | 154 |
+| 5.6. Những đáp ứng của cơ thể người mẹ khi có thai      | 158 |
+| 6. Số thai                                              | 159 |
+| 6.1. Nguyên nhân gây cơn co tử cung                     | 160 |
+| 6.2. Số thai                                            | 160 |
+| 7. Bài tiết sữa                                         | 161 |
+| 7.1. Sự phát triển tuyến vú                             | 161 |
+| 7.2. Bài tiết sữa                                       | 161 |
+| 7.3. Bài xuất sữa                                       | 161 |
+| 7.4. Thành phần và sự ưu việt của sữa mẹ                | 162 |
+| 8. Các biện pháp tránh thai                             | 162 |
+| 8.1. Các biện pháp tránh thai tạm thời                  | 162 |
+| 89 Các hiện nhàn tránh thai vĩnh viên                   | 164 |
 
 # CHƯƠNG 9
 
@@ -7943,313 +7551,342 @@ Tiêm glucose vào tĩnh mạch hoặc uống khoảng 100g đường có thể 
 
 ### SINH LÝ CƠ XƯƠNG
 
-| 1. Giải phẫu sinh lý của cơ xương                                                                                        | 165 |     |
-|--------------------------------------------------------------------------------------------------------------------------|-----|-----|
-| 1.1. Màng sợi cơ                                                                                                         | 165 |     |
-| 1.2. Tơ cơ                                                                                                               | 166 |     |
-| 1.3. Cơ tương                                                                                                            | 169 |     |
-| 1.4. Mạng nội cơ tương                                                                                                   | 169 |     |
-| 1.5. Nối thần kinh cơ                                                                                                    | 170 |     |
-| 2. Cơ chế phân tử của co cơ                                                                                              | 171 |     |
-| 2.1. Sự khởi động quá trình co cơ: ghép đôi kích thích và co cơ                                                          | 171 |     |
-| 2.2. Tương tác giữa sợi actin, sợi myosin và ion Ca++ để gây co cơ                                                       | 172 |     |
-| 2.3. Nguồn năng lượng để co cơ                                                                                           | 173 |     |
-| 2.4. Ảnh hưởng chiều dài sarcomere lên sự tăng sức căng của cơ                                                           | 173 |     |
-| 2.5. Ảnh hưởng chiều dài cơ lên lực co của một cơ nguyên vẹn                                                             | 174 |     |
-| 3. Năng lượng của co cơ                                                                                                  | 175 |     |
-| 3.1. Công của cơ                                                                                                         | 175 |     |
-| 3.2. Những nguồn năng lượng cho co cơ                                                                                    | 175 |     |
-| 3.3. Hiệu suất co cơ                                                                                                     | 176 |     |
-| 4. Những đặc trưng của co cơ đơn độc                                                                                     | 176 |     |
-| 4.1. Co cơ đẳng trường và co cơ đẳng trương                                                                              | 176 |     |
-| 4.2. Cơ nhanh và cơ chậm                                                                                                 | 177 |     |
-| 5. Cơ học của co cơ xương                                                                                                | 178 |     |
-| 5.1. Đơn vị vận động                                                                                                     | 178 |     |
-| 5.2. Tổng các co cơ                                                                                                      | 178 |     |
-| 6. Sự thay đổi cấu trúc của cơ thể để phù hợp với chức năng                                                              | 179 |     |
-| 6.1. Phì đại cơ và teo cơ                                                                                                | 180 |     |
-| 6.2. Hậu quả của việc cắt bỏ dây thần kinh đi đến cơ                                                                     | 180 |     |
-| 6.3. Bệnh nhược cơ                                                                                                       | 180 |     |
-| SINH LÝ CƠ TRƠN                                                                                                          |     |     |
-| 1. Các loại cơ trơn                                                                                                      | 181 |     |
-| 2. Quá trình co cơ trơn                                                                                                  | 182 |     |
-| 2.1. Cơ sở hóa học của co cơ trơn                                                                                        | 182 |     |
-| 2.2. Cơ sở vật lý của co cơ                                                                                              | 182 |     |
-| 2.3. So sánh co cơ trơn và co cơ xương                                                                                   | 183 |     |
-| 3. Điều hòa co cơ trơn                                                                                                   | 185 |     |
-| 3.1. Điều hòa co cơ trơn theo cơ chế thần kinh                                                                           | 185 |     |
-| CHƯƠNG 10                                                                                                                |     |     |
-| SINH LÝ HỆ THẦN KINH (Trịnh Hùng Cường)                                                                                  |     |     |
-| SỰ TỔ CHỨC CỦA HỆ THẦN KINH TRUNG ƯƠNG                                                                                   |     |     |
-| 1. Hệ thần kinh động vật                                                                                                 | 191 |     |
-| 2. Hệ thần kinh thực vật                                                                                                 | 193 |     |
-| SINH LÝ NƠRON                                                                                                            |     |     |
-| 1. Hình thái chức năng                                                                                                   | 196 |     |
-| 2. Đặc điểm hưng phấn của nơron                                                                                          | 198 |     |
-| 3. Các biểu hiện điện của nơron                                                                                          | 198 |     |
-| 4. Dẫn truyền xung động trên sợi trục nơron                                                                              | 198 |     |
-| 4.1. Quy luật tất hoặc không                                                                                             | 198 |     |
-| 4.2. Dẫn truyền trên sợi không myelin                                                                                    | 198 |     |
-| 4.3. Dẫn truyền trên sợi có myelin                                                                                       | 199 |     |
-| 4.4. Dẫn truyền theo lối nhảy cách                                                                                       | 200 |     |
-| 4.5. Phân loại sợi thần kinh                                                                                             | 201 |     |
-| 4.6. Dẫn truyền trong một bó sợi                                                                                         | 201 |     |
-| 5. Dẫn truyền qua synap                                                                                                  | 201 |     |
-| 5.1. Hai loại synap trong hệ thần kinh                                                                                   | 201 |     |
-| 5.3. Các tận cùng trước synap                                                                                            | 202 |     |
-| 5.4. Giải phóng chất truyền đạt thần kinh                                                                                | 202 |     |
-| 5.5. Tác dụng chất truyền đạt lên nơron sau synap                                                                        | 203 |     |
-| 5.6. Các chất truyền đạt thần kinh                                                                                       | 204 |     |
-| 6. Hiện tượng cộng kích thích sau synap                                                                                  | 207 |     |
-| 6.1. Cộng kích thích trong không gian                                                                                    | 207 |     |
-| 6.2. Cộng kích thích theo thời gian                                                                                      | 207 |     |
-| 6.3. Cộng các điện thế kích thích và điện thế ức chế sau synap                                                           | 207 |     |
-| 7. Đặc điểm và yếu tố ảnh hưởng lên dẫn truyền qua synap                                                                 | 208 |     |
-| 7.1. Liên quan giữa cường độ kích thích với tần số xung động                                                             | 208 |     |
-| 7.2. Mỏi synap                                                                                                           | 208 |     |
-| 7.3. Chậm synap                                                                                                          | 208 |     |
-| 7.4. Ảnh hưởng của pH                                                                                                    | 209 |     |
-| 7.5. Ảnh hưởng của thiếu oxy                                                                                             | 209 |     |
-| 7.6. ảnh hưởng của các thuốc                                                                                             | 209 |     |
-| 8. Dẫn truyền xung động cảm giác trong một hệ thống nơron                                                                | 209 |     |
-| 8.1. Truyền tiếp tín hiệu trong một tập hợp thần kinh                                                                    | 210 |     |
-| 8.2. Truyền theo lối phân kỳ                                                                                             | 210 |     |
-| 8.3. Truyền theo lối hội tụ                                                                                              | 210 |     |
-| 8.4. Kích thích và ức chế đồng thời của một mạng nơron                                                                   | 211 |     |
-| 8.5. Sự kéo dài và duy trì tín hiệu bởi mạng nơron                                                                       | 211 |     |
-| 8.6. Sự ổn định chức năng của mạng nơron                                                                                 | 212 |     |
-| CHỨC NĂNG CẢM GIÁC CỦA HỆ THẦN KINH                                                                                      |     |     |
-| SINH LÝ CÁC RECEPTOR'                                                                                                    |     |     |
-| 1. Tính đáp ứng đối với kích thích đặc hiệu                                                                              | 216 |     |
-| 2. Tương quan về lượng giữa cảm giác và kích thích                                                                       | 217 |     |
-| 3. Sự biến đổi kích thích cảm giác thành xung động thần kinh                                                             | 217 |     |
-| 3.1. Cơ chế tạo thành điện thế receptor                                                                                  | 217 |     |
-| 3.2. Biên độ của điện thế receptor                                                                                       | 218 |     |
-| 3.3. Tương quan giữa điện thế receptor và điện thế hoạt động                                                             | 218 |     |
-| 3.4. Tương quan giữa cường độ kích thích và điện thế receptor                                                            | 219 |     |
-| 4. Khả năng thích nghi của receptor                                                                                      | 219 |     |
-| 4.1. Hiện tượng thích nghi của receptor                                                                                  | 219 |     |
-| 4.2. Cơ chế của sự thích nghi receptor                                                                                   | 220 |     |
-| CẢM GIÁC XÚC GIÁC                                                                                                        |     |     |
-| 1. Receptor xúc giác                                                                                                     | 220 |     |
-| 1.1. Va chạm, áp suất, rung động đều được tiếp nhận                                                                      | 220 |     |
-| 1.2. Có rất nhiều loại receptor xúc giác                                                                                 | 221 |     |
-| 1.3. Thăm dò cảm giác xúc giác                                                                                           | 222 |     |
-|                                                                                                                          |     |     |
-| 2. Dẫn truyền cảm giác xúc giác                                                                                          | 223 |     |
-| 2.1. Từ receptor vào tủy sống                                                                                            | 223 |     |
-| 2.2. Từ tủy sống lên não                                                                                                 | 223 |     |
-| 2.3. Sự nhận cảm của vỏ não                                                                                              | 224 |     |
-| CẢM GIÁC NÓNG-LẠNH                                                                                                       |     |     |
-| 1. Các receptor nhiệt                                                                                                    | 227 |     |
-| 2. Dẫn truyền cảm giác nóng-lạnh                                                                                         | 228 |     |
-| CẢM GIÁC ĐAU                                                                                                             |     |     |
-| 1. Các receptor với cảm giác đau                                                                                         | 229 |     |
-| 2. Dẫn truyền cảm giác đau                                                                                               | 230 |     |
-| 2.1. Từ receptor vào tủy                                                                                                 | 230 |     |
-| 2.2. Từ tủy lên não                                                                                                      | 230 |     |
-| 2.3. Nhận cảm ở vỏ não                                                                                                   | 231 |     |
-| 3. Cảm giác đau tạng                                                                                                     | 232 |     |
-| 3.1. Receptor                                                                                                            | 232 |     |
-| 3.2. Một số mô không có cảm giác đau                                                                                     | 232 |     |
-| 3.3. Nhận cảm về vị trí đau                                                                                              | 232 |     |
-| CẢM GIÁC BẢN THỂ (CẢM GIÁC SÂU)                                                                                          |     |     |
-| 1. Cảm giác về trương lực cơ                                                                                             | 233 |     |
-| 2. Cảm giác gân                                                                                                          | 234 |     |
-| CẢM GIÁC VÀ HỆ CẤU TẠO LƯỚI HOẠT HÓA TRUYỀN LÊN<br>CHỨC NĂNG VẬN ĐỘNG CỦA HỆ THẦN KINH                                   |     |     |
-| 1. Chức năng vận động của tủy sống-các phản xạ của tủy                                                                   | 239 |     |
-| 1.1. Tổ chức chức năng vận động của tủy                                                                                  | 239 |     |
-| 1.2. Các receptor ở cơ và vai trò của chúng trong các phản xạ tủy                                                        | 241 |     |
-| 2. Chức năng vận động của vỏ não                                                                                         | 247 |     |
-| 2.1. Vỏ não vận động                                                                                                     | 247 |     |
-| 2.2. Các đường vận động xuất phát từ vỏ não                                                                              | 250 |     |
-| 2.3. Các đường liên hệ tới vỏ não vận động                                                                               | 252 |     |
-| 3. Vai trò của thân não đối với vận động                                                                                 | 252 |     |
-| 3.1. Vai trò của nhân đỏ                                                                                                 | 252 |     |
-| 3.2. Chức năng của nhân lưới                                                                                             | 252 |     |
-| 3.3. Chức năng của nhân tiền đình                                                                                        | 254 |     |
-| 3.4. Vai trò của cơ quan tiền đình đối với giữ thăng bằng                                                                | 254 |     |
-| 3.5. Các nhân của thân não còn có vai trò đối với các động tác<br>vô thức và động hình                                   | 254 |     |
-| 4. Vai trò vận động của tiểu não                                                                                         | 255 |     |
-| 4.1. Các đường đi tới tiểu não                                                                                           | 255 |     |
-| 4.2. Các đường ra khỏi tiểu não                                                                                          | 256 |     |
-| 5. Chức năng vận động của các nhân nền não                                                                               | 258 |     |
-| 6. Tích hợp chức năng của các phần trong kiểm soát và điều hòa vận động                                                  | 259 |     |
-| HỆ THẦN KINH THỰC VẬT                                                                                                    |     |     |
-| 1. Tổ chức của hệ thần kinh thực vật                                                                                     | 261 |     |
-| 1.1. Giải phẫu sinh lý hệ giao cảm                                                                                       | 261 |     |
-| 1.2. Giải phẫu sinh lý hệ phó giao cảm                                                                                   | 263 |     |
-| 2. Đặc điểm chức năng cơ bản của hệ giao cảm và hệ phó giao cảm                                                          | 265 |     |
-| 2.1. Sợi cholinergic và sợi adrenergic                                                                                   | 265 |     |
-| 2.2. Các receptor ở các cơ quan đáp ứng                                                                                  | 266 |     |
-| 3. Tác dụng kích thích và ức chế của hệ giao cảm và hệ phó giao cảm                                                      | 268 |     |
-| 3.1. Tác dụng của hệ giao cảm...                                                                                         | 268 |     |
-| 3.2. Tác dụng của hệ giao cảm và phó giao cảm lên một số<br>cơ quan đặc biệt                                             | 268 |     |
-| 4. Tương quan giữa tần số kích thích và mức độ tác dụng của hệ<br>giao cảm và hệ phó giao cảm                            | 270 |     |
-| 4.1. "Trương lực" giao cảm và phó giao cảm                                                                               | 272 |     |
-| 4.2. Trương lực do mức bài tiết cơ sở của hormon tủy thượng thận                                                         | 272 |     |
-| 4.3. Ảnh hưởng của việc cắt bỏ hệ giao cảm và phó giao cảm                                                               | 272 |     |
-| 5. Sự tăng tính nhạy cảm sau khi cắt dây thần kinh thực vật của cơ quan                                                  | 272 |     |
-| 6. Các phản xạ thực vật                                                                                                  | 273 |     |
-| 6.1. Phản xạ hệ tim mạch                                                                                                 | 273 |     |
-| 6.2. Phản xạ hệ tiêu hóa                                                                                                 | 273 |     |
-| 6.3. Một số phản xạ thực vật khác                                                                                        | 273 |     |
-| 7. Chức năng của tủy thượng thận                                                                                         | 274 |     |
-| 8. Kích thích giao cảm hay kích thích phó giao cảm lên một cơ quan<br>riêng biệt hay lên toàn bộ cơ thể                  | 275 |     |
-| 8.1. Hệ giao cảm                                                                                                         | 275 |     |
-| 8.2. Hệ phó giao cảm                                                                                                     | 275 |     |
-| 9. Phản ứng báo động hay đáp ứng với stress của hệ giao cảm                                                              | 276 |     |
-| 10. Vai trò điều hòa hệ thần kinh thực vật của hành não, cầu não và não giữa                                             | 276 |     |
-| 11. Dược lý học của hệ thần kinh thực vật                                                                                | 277 |     |
-| 11.1. Thuốc ảnh hưởng lên các cơ quan đáp ứng adrenergic–<br>thuốc giống giao cảm                                        | 277 |     |
-| 11.2. Thuốc ảnh hưởng lên cơ quan đáp ứng cholinergic                                                                    | 278 |     |
-| 11.3. Thuốc kích thích hay ức chế nơron hạch thực vật                                                                    | 279 |     |
-| 1.2. Khả năng thích nghi của mắt để nhìn xa-gần                                                                          | 281 |     |
-| 1.3. Khả năng thích nghi với cường độ sáng                                                                               | 282 |     |
-| 1.4. Các tật về khúc xạ mắt                                                                                              | 283 |     |
-| 1.5. Thị lực                                                                                                             | 283 |     |
-| 2. Các dịch trong mắt                                                                                                    | 284 |     |
-| 2.1. Thủy dịch                                                                                                           | 285 |     |
-| 2.2. Nhãn áp                                                                                                             | 286 |     |
-| 3. Võng mạc                                                                                                              | 286 |     |
-| 3.1. Đặc điểm cấu trúc và chức năng                                                                                      | 286 |     |
-| 3.2. Cơ chế hóa sinh của nhận cảm ánh sáng                                                                               | 288 |     |
-| 3.3. Sự thích nghi với sáng tối của võng mạc                                                                             | 290 |     |
-| 3.4. Cơ chế nhìn màu                                                                                                     | 290 |     |
-| 4. Truyền xung động thần kinh ở võng mạc                                                                                 | 292 |     |
-| 4.1. Các đường truyền trong võng mạc                                                                                     | 292 |     |
-| 4.2. Các chất truyền đạt thần kinh ở nơron trong võng mạc                                                                | 294 |     |
-| 4.3. Sự dẫn truyền tín hiệu ở võng mạc chủ yếu là theo cơ chế truyền điện                                                | 294 |     |
-| 5. Dẫn truyền cảm giác từ mắt về não                                                                                     | 295 |     |
-| 5.1. Các đường dẫn truyền của dây thần kinh thị giác                                                                     | 295 |     |
-| 5.2. Các vùng nhận cảm thị giác trên vỏ não                                                                              | 296 |     |
-| 6. Sự phân tích hình ảnh của vật trên vỏ não                                                                             | 297 |     |
-| 6.1. Thông tin thị giác từ vùng thị giác sơ cấp tới vùng thị giác<br>thứ cấp và được phân tích ở đây                     | 297 |     |
-| 6.2. Nhìn nổi và ước lượng khoảng cách                                                                                   | 297 |     |
-| 6.3. Mắt tự điều chỉnh tiêu cực và thích nghi với độ sáng                                                                | 298 |     |
-| 6.4. Cử động nhân cầu                                                                                                    | 299 |     |
-| THÍNH GIÁC                                                                                                               |     |     |
-| 1. Cấu trúc chức năng của tai                                                                                            | 301 |     |
-| 1.1. Màng nhĩ và các xương nhỏ                                                                                           | 301 |     |
-| 1.2. Ốc tai                                                                                                              | 303 |     |
-| 1.3. Cơ quan Corti                                                                                                       | 304 |     |
-| 2. Tiếp nhận âm thanh và biến rung động âm thành xung động điện                                                          | 305 |     |
-| 2.1. Các sợi lông có một giá đỡ là protein                                                                               | 305 |     |
-| 2.2. Âm có tần số khác nhau làm rung các phần khác nhau của màng                                                         | 306 |     |
-| 3. Đường dẫn truyền cảm giác từ tai về não                                                                               | 306 |     |
-| 4. Sự nhận cảm giác ở não                                                                                                | 307 |     |
-| VỊ GIÁC                                                                                                                  |     |     |
-| 1. Cơ quan nhận cảm vị giác                                                                                              | 309 |     |
-| 1.2. Phân bố các nụ vị giác trên lưỡi                                                                                    | 309 |     |
-| 1.3. Các cảm giác vị giác cơ bản                                                                                         | 310 |     |
-| 1.4. Tính đặc hiệu của các receptor vị giác                                                                              | 310 |     |
-| 2. Dẫn truyền cảm giác vị giác                                                                                           | 311 |     |
-| 3. Các phản xạ liên quan với vị giác ở thân não                                                                          | 312 |     |
-| 4. Sự thích nghi của vị giác                                                                                             | 312 |     |
-| 5. Liên quan giữa vị giác với cảm giác khác                                                                              | 313 |     |
-| KHỨU GIÁC                                                                                                                |     |     |
-| 1. Cơ quan nhận cảm khứu giác                                                                                            | 313 |     |
-| 1.1. Vùng nhận cảm ở niêm mạc mũi                                                                                        | 313 |     |
-| 1.2. Receptor khứu giác                                                                                                  | 314 |     |
-| 2. Đường dẫn truyền cảm giác                                                                                             | 316 |     |
-| 2.1. Dẫn truyền xung động từ receptor vào hành khứu                                                                      | 316 |     |
-| 2.2. Đường dẫn truyền cổ nhất và vùng khứu giác giữa                                                                     | 316 |     |
-| 2.3. Đường dẫn truyền cũ và vùng khứu giác bên                                                                           | 316 |     |
-| 2.4. Đường dẫn truyền mới                                                                                                | 318 |     |
-| CHUYỂN HÓA CỦA NÃO                                                                                                       |     |     |
-| 1. Chuyển hóa của nơron và chuyển hóa của não                                                                            | 319 |     |
-| 2. Nhu cầu oxy của não                                                                                                   | 319 |     |
-| 3. Vai trò glucose đối với cung cấp năng lượng cho não                                                                   | 319 |     |
-| CHƯƠNG 11                                                                                                                |     |     |
-| NHỮNG CHỨC NĂNG CAO CẤP (Trịnh Bỉnh Dy)                                                                                  |     |     |
-| Lược sử hình thành khái niệm về chức năng trí tuệ                                                                        | 320 |     |
-| Tình hình kiến thức và quan niệm hiện nay về chức năng trí tuệ                                                           | 321 |     |
-| NHẬN THỨC, HÌNH THÀNH TƯ DUY, NGÔN NGỮ                                                                                   |     |     |
-| 1. Giải phẫu chức năng vỏ não                                                                                            | 321 |     |
-| 2. Nhận thức ở não: quá trình nâng cấp từ cảm giác giác quan lên mức nhận thức                                           | 322 |     |
-| 2.1. Sự nâng cấp khi thông tin do một giác quan chuyển từ vùng sơ cấp sang vùng thứ cấp                                  | 323 |     |
-| 2.2. Sự tiếp tục nâng cấp toàn diện hơn, khi thông tin chuyển từ các vùng thứ cấp sang các vùng liên hợp                 | 323 |     |
-| 2.3. Nhận thức tổng hợp ở vỏ não: đỉnh cao nhận thức ở vùng Wernicke                                                     | 324 |     |
-| 3. Hình thành tư duy: quá trình đặt kế hoạch ở vùng liên hợp trước trán                                                  | 327 |     |
-| 4. Ngôn ngữ: chức năng giao tiếp của não                                                                                 | 329 |     |
-| 4.1. Chức năng vùng Wernicke trong khía cạnh cảm giác của giao tiếp                                                      | 329 |     |
-| 4.2. Chức năng vùng Broca trong khía cạnh vận động của giao tiếp                                                         | 330 |     |
-| 4.3. Một sơ đồ con đường thần kinh của giao tiếp                                                                         | 330 |     |
-| 1. Tư duy và ý thức gắn liền nhau                                                                                        | 331 |     |
-| 2. Nhớ: con đường mòn dấu vết nhớ                                                                                        |     |     |
-| 2.1. Nhớ dương tính và nhớ âm tính                                                                                       | 333 |     |
-| 2.2. Nhớ tức thời                                                                                                        | 334 |     |
-| 2.3.Nhớ ngắn hạn                                                                                                         | 334 |     |
-| 2.4.Nhớ dài hạn                                                                                                          | 336 |     |
-| 2.5. Củng cố nhớ và lục tìm kho nhớ                                                                                      | 336 |     |
-| 2.6. Các phần đặc biệt của não và quá trình lưu trữ nhớ                                                                  | 337 |     |
-| 3. Học: quá trình điều kiện hóa                                                                                          | 338 |     |
-| 3.1. Khái niệm về điều kiện hóa                                                                                          | 338 |     |
-| 3.2. Điều kiện hóa đáp ứng tức ĐKH kiểu Pavlov hay típ I                                                                 | 340 |     |
-| 3.3. Điều kiện hóa hành động tức ĐKH kiểu Skinner hay típ II                                                             | 341 |     |
-| 3.4. Tình huống xung đột và nghiệm pháp Gellerr- Seifter                                                                 | 343 |     |
-| 3.5. Cơ chế điều kiện hóa                                                                                                | 344 |     |
-| 4. Hình ảnh đơn giản về các hiện tượng ý thức ở não                                                                      | 346 |     |
-| HÀNH VI ĐỘNG CƠ VÀ XÚC CẢM                                                                                               |     |     |
-| 1. Các hệ hoạt hóa não                                                                                                   | 347 |     |
-| 1.1. Sự cần thiết của trạng thái não được hoạt hóa                                                                       | 347 |     |
-| 1.2. Vùng lưới hoạt hóa thân não                                                                                         | 347 |     |
-| 1.3. Vùng lưới ức chế ở phần dưới của thân não                                                                           | 349 |     |
-| 1.4. Cơ chế neurohorinon kiểm soát hoạt động não                                                                         | 349 |     |
-| 2. Hệ viền                                                                                                               | 351 |     |
-| 3. Vùng dưới đồi là đường ra chủ yếu của hệ viền                                                                         | 352 |     |
-| 3.1. Chức năng hành vi của vùng dưới đồi và các cấu trúc viền liên quan                                                  | 353 |     |
-| 3.2. Chức năng thưởng và phạt của hệ viền                                                                                | 353 |     |
-| 4. Các chức năng riêng biệt của các phần khác của hệ viền                                                                | 355 |     |
-| 4.1. Chức năng hạnh nhân                                                                                                 | 355 |     |
-| 4.2. Chức năng hải mã                                                                                                    | 356 |     |
-| 4.3. Chức năng vỏ não viền                                                                                               | 357 |     |
-| 5. Xúc cảm                                                                                                               | 357 |     |
-| 5.1. Sự thể hiện xúc cảm                                                                                                 | 358 |     |
-| 5.2. Cơn cuồng dại                                                                                                       | 358 |     |
-| 5.3. Tác dụng ức chế của vùng dưới đồi                                                                                   | 358 |     |
-| 5.4. Tác dụng kiềm chế của một vài phần vỏ não                                                                           | 359 |     |
-| CÁC TRẠNG THÁI HOẠT ĐỘNG NÃO: NGỦ, THỨC, RỐI LOẠN TÂM THẦN                                                               |     |     |
-| 1. Giấc ngủ: loại ngủ sóng chậm và loại ngủ REM                                                                          |     | 360 |
-| 1.1. Loại giấc ngủ sóng chậm                                                                                             |     | 360 |
-| 1.2. Loại giấc ngủ REM: ngủ nghịch thường, khử đồng bộ                                                                   |     | 361 |
-| 2. Những thuyết về giấc ngủ                                                                                              |     | 362 |
-| 2.1. Thuyết thụ động và thuyết tích cực                                                                                  |     | 362 |
-| 2.2. Thuyết về những trung tâm bài tiết chất gây ngủ                                                                     |     | 352 |
-| 2.3. Các nguyên nhân gây ngủ REM                                                                                         |     | 363 |
-| 2.4. Chu kỳ luân phiên ngủ và thức                                                                                       |     | 363 |
-| 3. Tác dụng sinh lý của giấc ngủ                                                                                         |     | 364 |
-| 4. Các sóng điện não                                                                                                     |     | 364 |
-| 4.1. Các loại sóng điện não                                                                                              |     | 364 |
-| 4.2. Nguồn gốc các sóng điện não                                                                                         |     | 366 |
-| 4.3. Biến đổi sinh lý của điện não                                                                                       |     | 367 |
-| 5. Rối loạn tâm thần và chất truyền đạt thần kinh                                                                        |     | 367 |
-| 5.1. Loạn thần trầm cảm và loạn thần hưng cảm-trầm cảm:<br>giảm chức năng về các hệ truyền đạt noradrenalin và serotonin |     | 367 |
-| 5.2. Tâm thần phân liệt: hoạt động quá mức của một bộ<br>phận hệ dopamin                                                 |     | 368 |
-| 5.3. Bệnh Alzheimer: mất nơron bài tiết acetylcholin                                                                     |     | 369 |
-| 5.4. Những chất ảnh hưởng đến hành vi                                                                                    |     | 369 |
-| <b>ĐIỆN NÃO ĐỒ (Lê Thu Liên)</b>                                                                                         |     |     |
-| 1. Tiến hành ghi điện não                                                                                                |     | 371 |
-| 1.1. Chuẩn bị                                                                                                            |     | 371 |
-| 1.2. Các bước ghi điện não                                                                                               |     | 372 |
-| 2. Cơ sở lý thuyết và phân tích kết quả                                                                                  |     | 373 |
-| 2.1. Các sóng cơ bản trên điện não đồ cơ sở                                                                              |     | 375 |
-| 2.2. Hình ảnh một điện não đồ bình thường                                                                                |     | 377 |
-| 2.3. Những rối loạn các sóng cơ bản trên điện não đồ                                                                     |     | 377 |
-| 2.4. Những điều chú ý khi đánh giá một EEG bệnh lý                                                                       |     | 379 |
-| 3. Một vài nghiệm pháp kích thích thường sử dụng khi ghi điện não                                                        |     | 379 |
-| 3.1. Nghiệm pháp mở mắt, nhắm mắt, kích thích ánh sáng                                                                   |     | 379 |
-| 3.2. Nghiệm pháp thở dốc (thở tăng cường)                                                                                |     | 380 |
-| 4. Kết luận về một EEG                                                                                                   |     | 381 |
-| Tóm tắt những chức năng cao cấp                                                                                          |     | 381 |
+| 1. Giái phâu sinh lý của cơ xương                                  | 165 |
+|--------------------------------------------------------------------|-----|
+| 1.1. Màng sợi cơ                                                   | 165 |
+| 1.2. To co                                                         | 166 |
+| 1.3. Co tương                                                      | 169 |
+| 1.4. Mạng nội cơ tương                                             | 169 |
+| 1.5. Nối thần kinh cơ                                              | 170 |
+| 2. Cơ chế phân tử của co cơ                                        | 171 |
+| 2.1. Sự khởi động quá trình co cơ: ghép đôi kích thích và co cơ    | 171 |
+| 2.2. Tương tác giữa sợi actin, sợi myosin và ion Ca + để gây co cơ | 172 |
+| 2.3. Nguồn năng lượng để co cơ                                     | 173 |
+| 2.4. Anh hưởng chiều dài sarcomere lên sự tăng sức căng của cơ     | 173 |
+| 2.5. Anh hưởng chiếu dài cơ lên lực co của một cơ nguyên vẹn       | 174 |
+| 3. Năng lượng của co cơ                                            | 175 |
+| 3.1. Công của cơ                                                   | 175 |
+| 3.2. Những nguồn năng lượng cho co cơ                              | 175 |
+| 3.3. Hiệu suất co cơ                                               | 176 |
+|                                                                    |     |
+
+| 4. Những đặc trưng của co cơ đơn độc                        | 176        |
+|-------------------------------------------------------------|------------|
+| 4.1. Co cơ đẳng trường và co cơ đẳng trương                 | 176        |
+| 4.2. Cơ nhanh và cơ chậm                                    | 177        |
+| 5. Cơ học của co cơ xương                                   | 178        |
+| 5.1. Đơn vị vận động                                        | 178        |
+| 5.2. Tổng các co cơ                                         | 178        |
+| 6. Sự thay đổi cấu trúc của cơ thể để phù hợp với chức năng | 179        |
+| 6.1. Phì đại cơ và teo cơ                                   | 180        |
+| 6.2. Hâu quả của việc cắt bỏ dây thần kinh đi đến cơ        | 180        |
+| 6.3. Bệnh nhược cơ                                          | 180        |
+| SINH LÝ CƠ TRƠN                                             |            |
+| 1. Các loại cơ trơn                                         | 181        |
+| 2. Quá trình co cơ trơn                                     | 182        |
+| 2.1. Cơ sở hóa học của co cơ trơn                           | 182        |
+| 2.2. Cơ sở vật lý của co cơ                                 | 182        |
+| 2.3. So sánh co cơ trơn và co cơ xương                      | 183        |
+| 3. Điều hòa co cơ trơn                                      | 185        |
+| 3.1. Điều hòa co cơ trơn theo cơ chế thần kinh              | 185        |
+| CHƯƠNG 10                                                   |            |
+| SINH LÝ HỆ THẤN KINH (Trịnh Hùng Cường)                     |            |
+| SỰ TỔ CHỨC CỦA HỆ THẤN KINH TRUNG ƯƠNG                      |            |
+| 1. Hệ thần kinh động vật                                    | 191        |
+|                                                             | 193        |
+| 2. Hệ thần kinh thực vật                                    |            |
+| SINH LÝ NORON                                               |            |
+| 1. Hình thái chức năng                                      | 196        |
+| 2. Đặc điểm hưng phấn của nơron                             | 198        |
+| 3. Các biểu hiện điện của nơron                             | 198        |
+| 4. Dân truyền xung động trên sợi trục nơron                 |            |
+| 4.1. Quy luật tất hoặc không                                | 198<br>198 |
+| 4.2. Dân truyền trên sợi không myelin                       | 198        |
+| 4.3. Dân truyền trên sợi có myelin                          | 199        |
+| 4.4. Dân truyền theo lối nhây cách                          | 200        |
+| 4.5. Phân loại sợi thần kinh                                | 201        |
+| 4.6. Dân truyền trong một bó sợi                            | 201        |
+| 5. Dân truyền qua synap                                     | 201        |
+| 5.1. Hai loại synap trong hệ thần kinh                      | 201        |
+
+| 5.3. Các tận cùng trước synap                                  | 202 |
+|----------------------------------------------------------------|-----|
+| 5.4. Giái phóng chất truyền đạt thân kinh                      | 202 |
+| 5.5. Tác dụng chất truyền đạt lên nơron sau synap              | 203 |
+| 5.6. Các chất truyền đạt thần kinh                             | 204 |
+| 6. Hiện tượng cộng kích thích sau synap                        | 207 |
+| 6.1. Cộng kích thích trong không gian                          | 207 |
+| 6.2. Cộng kích thích theo thời gian                            | 207 |
+| 6.3. Cộng các điện thế kích thích và điện thế ức chế sau synap | 207 |
+| 7. Đặc điểm và yếu tố ảnh hưởng lên dẫn truyền qua synap       | 208 |
+| 7.1. Liên quan giữa cường độ kích thích với tần số xung động   | 208 |
+| 7.2. Mói synap                                                 | 208 |
+| 7.3. Chậm synap                                                | 208 |
+| 7.4. Anh hưởng của pH                                          | 209 |
+| 7.5. Anh hưởng của thiếu oxy                                   | 209 |
+| 7.6. ảnh hưởng của các thuốc                                   | 209 |
+| 8. Dẫn truyền xung động cảm giác trong một hệ thống nơron      | 209 |
+| 8.1. Truyền tiếp tín hiệu trong một tập hợp thần kinh          | 210 |
+| 8.2. Truyền theo lối phân kỳ                                   | 210 |
+| 8.3. Truyền theo lối hội tụ                                    | 210 |
+| 8.4. Kích thích và ức chế đồng thời của một mạng nơron         | 211 |
+| 8.5. Sự kéo dài và duy trì tín hiệu bởi mạng nơron             | 211 |
+| 8.6. Sự ôn định chức năng của mạng nơron                       | 212 |
+| CHƯC NĂNG CẢM GIÁC CỦA HỆ THẤN KINH                            |     |
+| SINH LÝ CÁC RECEPTOR'                                          |     |
+| 1. Tính đáp ứng đối với kích thích đặc hiệu                    | 216 |
+| 2. Tương quan về lượng giữa cảm giác và kích thích             | 217 |
+| 3. Sự biến đổi kích thích cảm giác thành xung động thân kinh   | 217 |
+| 3.1. Cơ chế tạo thành điện thế receptor                        | 217 |
+| 3.2. Biên độ của điện thế receptor                             | 218 |
+| 3.3. Tương quan giữa điện thế receptor và điện thể hoạt động   | 218 |
+| 3.4. Tương quan giữa cường độ kích thích và điện thế receptor  | 219 |
+| 4. Khá năng thích nghi của receptor                            | 219 |
+| 4.1. Hiện tượng thích nghi của receptor                        | 219 |
+| 4.2. Cơ chế của sự thích nghi receptor                         | 220 |
+| CẢM GIÁC XÚC GIÁC                                              |     |
+| 1. Receptor xúc giac                                           | 220 |
+| 1.1. Va chạm, áp suất, rung động đều được tiếp nhận            | 220 |
+| 1.2. Có rất nhiều loại receptor xúc giác                       | 221 |
+| 1.3. Thăm dò cảm giác xúc giác                                 | 222 |
+|                                                                |     |
+
+| 2. Dân truyền cảm giác xúc giác                                                        | 223   |
+|----------------------------------------------------------------------------------------|-------|
+| 2.1. Từ receptor vào tủy sống                                                          | 223   |
+| 2.2. Từ tủy sống lên não                                                               | 223   |
+| 2.3. Sự nhận cảm của vỏ não                                                            | 224   |
+| CÁM GIÁC NÓNG-LANH                                                                     |       |
+| 1. Các receptor nhiệt                                                                  | 227   |
+| 2. Dẫn truyền cảm giác nóng-lạnh                                                       | 228   |
+| CẢM GIÁC ĐAU                                                                           |       |
+| 1. Các receptor với cảm giác đau                                                       | 229   |
+| 2. Dân truyền cảm giác đau                                                             | 230   |
+| 2.1. Từ receptor vào tủy                                                               | 230   |
+| 2.2. Từ tủy lên não                                                                    | 230   |
+| 2.3. Nhận cảm ở vỏ não                                                                 | 231   |
+| 3. Cám giác đau tạng                                                                   | 232   |
+| 3.1. Receptor                                                                          | 232   |
+| 3.2. Một số mô không có cảm giác đau                                                   | 232   |
+| 3.3. Nhận cảm về vị trí đau                                                            | 232   |
+| CẢM GIÁC BẢN THẾ (CẢM GIÁC SÂU)                                                        |       |
+| 1. Cam giác về trương lực cơ                                                           | 233   |
+| 2. Cám giác gân                                                                        | 234   |
+| CẢM GIÁC VÀ HỆ CẤU TẠO LƯỚI HOẠT HÓA TRUYỀN LÊN<br>CHỨC NĂNG VẬN ĐỘNG CỦA HỆ THẤN KINH |       |
+| 1. Chức năng vận động của tủy sống-các phản xạ của tủy                                 | 239   |
+| 1.1. Tố chức chức năng vận động của tủy                                                | 239   |
+| 1.2. Các receptor ở cơ và vai trò của chúng trong các phân xạ tủy                      | 241   |
+| 2. Chức năng vận động của vỏ não                                                       | 247   |
+| 2.1. Vó não vận động                                                                   | 247   |
+| 2.2. Các đường vận động xuất phát từ vó não                                            | 250   |
+| 2.3. Các đường liên hệ tới vỏ não vận động                                             | 252   |
+| 3. Vai trò của thân não đối với vận động                                               | 252   |
+| 3.1. Vai trò của nhân đỏ                                                               | 252   |
+| 3.2. Chức năng của nhân lưới                                                           | 252   |
+| 3.3. Chức năng của nhân tiền đình                                                      | 254   |
+| 3.4. Vai trò của cơ quan tiền đình đối với giữ thăng bằng                              | 254   |
+| 3.5. Các nhân của thân não còn có vai trò đối với các động tác                         |       |
+| vô thức và động hình                                                                   | 254   |
+| 4. Vai trò vận động của tiếu não                                                       | 255 - |
+| 4.1. Các đường đi tới tiếu não                                                         | 255   |
+| 4.2. Các đường ra khỏi tiếu não                                                        | 256   |
+|                                                                                        | 393   |
+
+| 5. Chức năng vận động của các nhân nến não                                   | 258 |
+|------------------------------------------------------------------------------|-----|
+| 6. Tích hợp chức năng của các phần trong kiếm soát và điều hòa vận động      | 259 |
+| HỆ THẤN KINH THỰC VẠT                                                        |     |
+| 1. Tố chức của hệ thần kinh thực vật                                         | 261 |
+| 1.1. Giải phầu sinh lý hệ giao cảm                                           | 261 |
+| 1.2. Giải phẩu sinh lý hệ phó giao cám                                       | 263 |
+| 2. Đặc điểm chức năng cơ bản của hệ giao cảm và hệ phó giao cảm              | 265 |
+| 2.1. Sợi cholinergic và sợi adrenergic                                       | 265 |
+| 2.2. Các receptor ở các cơ quan đáp ứng                                      | 266 |
+| 3. Tác dụng kích thích và ức chế của hệ giao cảm và hệ phó giao cảm          | 268 |
+| 3.1. Tác dụng của hệ giao cảm                                                | 268 |
+| 3.2. Tác dụng của hệ giao cảm và phó giao cảm lên một số<br>cơ quan đặc biệt | 268 |
+| 4. Tương quan giữa tần số kích thích và mức độ tác dụng của hệ               |     |
+| giao cảm và hệ phó giao cảm                                                  | 270 |
+| 4.1. "Trương lực" giao cảm và phó giao cảm                                   | 272 |
+| 4.2. Trương lực do mức bài tiết cơ sở của hormon tủy thượng thận             | 272 |
+| 4.3. Anh hưởng của việc cắt bỏ hệ giao cảm và phó giao cảm                   | 272 |
+| 5. Sự tăng tính nhạy cảm sau khi cắt dây thần kinh thực vật của cơ quan      | 272 |
+| 6. Các phán xạ thực vật                                                      | 273 |
+| 6.1. Phần xạ hệ tim mạch                                                     | 273 |
+| 6.2. Phán xạ hệ tiêu hóa                                                     | 273 |
+| 6.3. Một số phần xạ thực vật khác                                            | 273 |
+| 7. Chức năng của tủy thượng thận                                             | 274 |
+| 8. Kích thích giao cảm hay kích thích phó giao cảm lên một cơ quan           |     |
+| riêng biệt hay lên toàn bộ cơ thể                                            | 275 |
+| 8.1. Hệ giao cảm                                                             | 275 |
+| 8.2. Hệ phó giao cảm                                                         | 275 |
+| 9. Phần ứng báo động hay đáp ứng với stress của hệ giao cảm                  | 276 |
+| 10. Vai trò điều hòa hệ thần kinh thực vật của hành não, cầu não và não giữa | 276 |
+| 11. Dược lý học của hệ thần kinh thực vật                                    | 277 |
+| 11.1. Thuốc ảnh hưởng lên các cơ quan đáp ứng adrenergic-                    |     |
+| thuốc giống giao cám                                                         | 277 |
+| 11.2. Thuốc ảnh hưởng lên cơ quan đáp ứng cholinergic                        | 278 |
+| 11.3. Thuốc kích thích hay ức chế nơron hạch thực vật                        | 279 |
+| SINII LÝ CÁC GIÁC GIAN                                                       |     |
 
 # THỊ GIÁC
 
 ### 1. Cơ quan nhận cảm thị giác: mắt 280 1.1. Hệ thống thấu kính của mắt 280 ,
 
+| 1.2. Khả năng thích nghi của mắt đế nhìn xa-gần                                                      | 281 |
+|------------------------------------------------------------------------------------------------------|-----|
+| 1.3. Khả năng thích nghi với cường độ sáng                                                           | 282 |
+| 1.4. Các tật về khúc xạ mắt                                                                          | 283 |
+| 1.5. Thị lực                                                                                         | 283 |
+| 2. Các dich trong mắt                                                                                | 284 |
+| 2.1. Thủy dịch                                                                                       | 285 |
+| 2.2. Nhãn áp                                                                                         | 286 |
+| 3. Võng mac                                                                                          | 286 |
+| 3.1. Đặc điểm cấu trúc và chức năng                                                                  | 286 |
+| 3.2. Cơ chế hóa sinh của nhận cảm ánh sáng                                                           | 288 |
+| 3.3. Sự thích nghi với sáng tối của võng mạc                                                         | 290 |
+| 3.4. Cơ chế nhìn màu                                                                                 | 290 |
+| 4. Truyền xung động thần kinh ở võng mạc                                                             | 292 |
+| 4.1. Các đường truyền trong võng mạc                                                                 | 292 |
+| 4.2. Các chất truyền đạt thần kinh ở nơron trong võng mạc                                            | 294 |
+| 4.3. Sự dẫn truyền tín hiệu ở vống mạc chủ yếu là theo cơ chế truyền điện                            | 294 |
+| 5. Dẫn truyền cảm giác từ mắt về não                                                                 | 295 |
+| 5.1. Các đường dẫn truyền của dây thần kinh thị giác                                                 | 295 |
+| 5.2. Các vùng nhận cảm thị giác trên vỏ não                                                          | 296 |
+| 6. Sự phân tích hình ảnh của vật trên vỏ não                                                         | 297 |
+| 6.1. Thông tin thị giác từ vùng thị giác sơ cấp tới vùng thị giác<br>thứ cấp và được phân tích ở đây | 297 |
+| 6.2. Nhìn nối và ước lượng khoảng cách                                                               | 297 |
+| 6.3. Mắt tự điều chỉnh tiêu cực và thích nghi với độ sáng                                            | 298 |
+| 6.4. Cử động nhắn cầu                                                                                | 299 |
+| THÍNH GIÁC                                                                                           |     |
+| 1. Cầu trúc chức năng của tai                                                                        | 301 |
+| 1.1. Màng nhĩ và các xương nhỏ                                                                       | 301 |
+| 1.2. Ôc tai                                                                                          | 303 |
+| 1.3. Co quan Corti                                                                                   | 304 |
+| 2. Tiếp nhận âm thanh và biến rung động âm thành xung động điện                                      | 305 |
+| 2.1. Các sợi lông có một giá đỡ là protein                                                           | 305 |
+| 2.2. Âm có tần số khác nhau làm rung các phần khác nhau của màng                                     | 306 |
+| 3. Đường dẫn truyền cảm giác từ tai về não                                                           | 306 |
+| 4. Sự nhận cảm giác ở não                                                                            | 307 |
+| VI GIÁC                                                                                              |     |
+| 1. Cơ quan nhận cảm vị giác                                                                          | 309 |
+| 1.1. Receptor vị giác và các nu vị giác ở lưỡi                                                       | 309 |
+
 1.1. Receptor vị giác và các nụ vị giác ở lưỡi
 
+| 1.2. Phân bố các nụ vị giác trên lưỡi                                                                      | 309 |
+|------------------------------------------------------------------------------------------------------------|-----|
+| 1.3. Các cảm giác vị giác cơ bản                                                                           | 310 |
+| 1.4. Tính đặc hiệu của các receptor vị giác                                                                | 310 |
+| 2. Dân truyền cảm giác vị giác                                                                             | 311 |
+| 3. Các phản xạ liên quan với vị giác ở thân não                                                            | 312 |
+| 4. Sự thích nghi của vị giác                                                                               | 312 |
+| 5. Liên quan giữa vị giác với cảm giác khác                                                                | 313 |
+| KHÚU GIÁC                                                                                                  |     |
+| 1. Cơ quan nhận cảm khứu giác                                                                              | 313 |
+| 1.1. Vùng nhận cẩm ở niêm mạc mũi                                                                          | 313 |
+| 1.2. Receptor khứu giác                                                                                    | 314 |
+| 2. Dương dân truyền cảm giác                                                                               | 316 |
+| 2.1. Dẫn truyền xung động từ receptor vào hành khứu                                                        | 316 |
+| 2.2. Đường dân truyền cố nhất và vùng khứu giác giữa                                                       | 316 |
+| 2.3. Đường dẫn truyền cũ và vùng khứu giác bên                                                             | 316 |
+| 2.4. Đường dân truyền mới                                                                                  | 318 |
+| CHUYẾN HÓA CỦA NÃO                                                                                         |     |
+| 1. Chuyển hóa của nơron và chuyển hóa của não                                                              | 319 |
+| 2. Nhu cầu oxy của não                                                                                     | 319 |
+| 3. Vai trò glucose đối với cung cấp năng lượng cho não                                                     | 319 |
+| CHUONG II                                                                                                  |     |
+| NHỮNG CHỨC NĂNG CAO CẤP (Trịnh Bỉnh Dy)                                                                    |     |
+| Lược sử hình thành khái niệm về chức năng trí tuệ                                                          | 320 |
+| Tình hình kiến thức và quan niệm hiện nay về chức năng trí tuệ                                             | 321 |
+| NHẤN THỨC, HÍNH THẦNH TƯỜUY, NGÔN NGỮ                                                                      |     |
+| 1. Giải phầu chức năng vỏ não                                                                              | 321 |
+| 2. Nhận thức ở não: quá trình nâng cấp từ cảm giác giác quan                                               |     |
+| lên mức nhận thức                                                                                          | 322 |
+| 2.1. Sự nâng cấp khi thông tin do một giác quan chuyên từ                                                  |     |
+| vùng sơ cấp sang vùng thứ cấp                                                                              | 323 |
+| 2.2. Sự tiếp tục nâng cấp toàn diện hơn, khi thông tin chuyền từ<br>các vùng thứ cấp sang các vùng hên hợp | 323 |
+| 2.3. Nhận thức tổng hợp ở vỏ năo: đỉnh cao nhận thức ở vùng                                                |     |
+| Wernicke                                                                                                   | 324 |
+| 3. Hình thành tư duy: quá trình đặt kề hoạch ở vùng liên hợp trước trán                                    | 327 |
+| 4. Ngôn ngữ: chức năng giao tiếp của não                                                                   | 329 |
+| 4.1. Chức năng vùng Wernicke trong khía cạnh cám giác của giao tiếp                                        | 329 |
+| 4.2. Chức năng vùng Broca trong khía cạnh vận động của giao tiếp                                           | 330 |
+| 4.3. Một sơ đồ con đường thần kinh của giao tiếp                                                           | 330 |
+
 # TƯ DUY VÀ Ý THỨC, NHỚ VÀ HỌC
+
+| 1. Tư duy và ý thức gắn liền nhau                                             | 331        |
+|-------------------------------------------------------------------------------|------------|
+| 2. Nhớ: con đường mòn dấu vết nhớ                                             |            |
+| 2.1. Nhớ dương tính và nhớ âm tính                                            | 333        |
+| 2.2. Nhớ tức thời                                                             | 334        |
+| 2.3.Nhớ ngắn hạn                                                              | 334        |
+| 2.4.Nhớ dài hạn                                                               | 336        |
+| 2.5. Cũng cố nhớ và lục tìm kho nhớ                                           | 336        |
+| 2.6. Các phần đặc biệt của não và quá trình lưu trữ nhớ                       | 337        |
+| 3. Học: quá trình điều kiện hóa                                               | 338        |
+| 3.1. Khái niệm về điều kiện hóa                                               | 338        |
+| 3.2. Điều kiện hóa đáp ứng tức ĐKH kiểu Pavlov hay típ I                      | 340        |
+| 3.3. Điều kiện hóa hành động tức ĐKH kiểu Skinner hay típ II                  | 341        |
+| 3.4. Tình huống xung đột và nghiêm pháp Gellerr- Seifter                      | 343        |
+| 3.5. Cơ chế điều kiện hóa                                                     | 344        |
+| 4. Hình ảnh đơn giản về các hiện tượng ý thức ở não                           | 346        |
+| HÀNH VI ĐỘNG CƠ VÀ XÚC CẢM                                                    |            |
+| 1. Các hệ hoạt hóa não                                                        | 347        |
+| 1.1. Sự cần thiết của trạng thái não được hoạt hóa                            | 347        |
+| 1.2. Vùng lưới hoạt hóa thân não                                              | 347        |
+| 1.3. Vùng lưới ức chế ở phần dưới của thân não                                | 349        |
+| 1.4. Cơ chế neurohormon kiếm soát hoạt động não                               | 349        |
+| 2. Hệ viên                                                                    | 351        |
+| 3. Vùng dưới đổi là đường ra chủ yếu của hệ viên                              | 352        |
+| 3.1. Chức năng hành vi của vùng dưới đổi và các cấu trúc viên liên quan   353 |            |
+| 3.2. Chức năng thướng và phạt của hệ viên                                     | 353        |
+| 4. Các chức năng riêng biệt của các phân khác của hệ viên                     | 355        |
+| 4.1. Chức năng hạnh nhân                                                      | 355        |
+| 4.2. Chức năng hải mã                                                         | 356        |
+| 4.3. Chức năng vỏ não viên                                                    | 357        |
+| 5. Xúc cảm                                                                    | 357        |
+| 5.1. Sự thế hiện xúc cảm                                                      | 358        |
+| 5.2. Cơn cuống dại<br>5.3. Tác dụng ức chế của vùng dưới đối                  | 358<br>358 |
+|                                                                               |            |
+| 5.4. Tác dụng kiểm chế của một vài phần vỏ não                                | 359        |
+
+| CÁC TRANG THÁI HOẠT ĐỘNG NĂO: NGŨ, THỨC, RỒI LOẠN TÂM THẦN                                                               |     |
+|--------------------------------------------------------------------------------------------------------------------------|-----|
+| 1. Giấc ngủ: loại ngủ sóng chậm và loại ngủ REM                                                                          | 360 |
+| 1.1. Loại giấc ngủ sóng chậm                                                                                             | 360 |
+| 1.2. Loại giấc ngủ REM: ngủ nghịch thường, khử đông bộ                                                                   | 361 |
+| 2. Những thuyết về giấc ngủ                                                                                              | 362 |
+| 2.1. Thuyết thụ động và thuyết tích cực                                                                                  | 362 |
+| 2.2. Thuyết về những trung tâm bài tiết chất gây ngủ                                                                     | 352 |
+| 2.3. Các nguyên nhân gây ngủ REM                                                                                         | 363 |
+| 2.4. Chu kỳ luân phiên ngủ và thức                                                                                       | 363 |
+| 3. Tác dụng sinh lý của giấc ngủ                                                                                         | 364 |
+| 4. Các sóng điện não                                                                                                     | 364 |
+| 4.1. Các loại sóng điện não                                                                                              | 364 |
+| 4.2. Nguồn gốc các sóng điện não                                                                                         | 366 |
+| 4.3. Biến đối sinh lý của điện não                                                                                       | 367 |
+| 5. Rối loạn tâm thần và chất truyền đạt thần kinh                                                                        | 367 |
+| 5.1. Loạn thần trầm cảm và loạn thần hưng cảm-trầm cảm:<br>giảm chức năng về các hệ truyền đạt noradrenalin và serotonin | 367 |
+| 5.2. Tâm thần phân liệt: hoạt động quá mức của một bộ                                                                    | 368 |
+| phận hệ dopamin<br>5.3. Bệnh Alz heimer: mất nơron bài tiết acetylcholin                                                 | 369 |
+| 5.4. Những chất ảnh hưởng đến hành vi                                                                                    | 369 |
+|                                                                                                                          |     |
+| ĐIỆN NÃO ĐÔ (Lê Thu Liên)                                                                                                | 371 |
+| 1. Tiến hành ghi điện não<br>1.1. Chuẩn bi                                                                               | 371 |
+|                                                                                                                          | 372 |
+| 1.2. Các bước ghi điện não                                                                                               | 373 |
+| 2. Cơ sở lý thuyết và phân tích kết quá<br>2.1. Các sóng cơ bản trên điện não đổ cơ sở                                   | 375 |
+| 2.2. Hình ảnh một điện não đô bình thương                                                                                | 377 |
+| 2.3. Những rối loạn các sóng cơ bản trên điện não đồ                                                                     | 377 |
+| 2.4. Những điều chú ý khi đánh giá một EEG bệnh lý                                                                       | 379 |
+| 3. Một vài nghiệm pháp kích thích thường sử dụng khi ghi điện não                                                        | 379 |
+| 3.1. Nghiệm pháp mở mắt, nhằm mắt, kích thích ánh sáng                                                                   | 379 |
+| 3.2. Nghiệm pháp thở dốc (thở tăng cường)                                                                                | 380 |
+| 4. Kết luận về một EEG                                                                                                   | 381 |
+|                                                                                                                          | 381 |
+| Tóm tắt những chức năng cao cấp                                                                                          |     |
 
 # nhà xuất bản y học
 
@@ -8261,7 +7898,7 @@ Biên tập Sửa bản in: Trình bày bìa: Kt vi tính:
 
 BS. VŨ THỊ BÌNH vũ thị bình Trung Hiếu bùi thị thương
 
-In 1000 cuốn, khổ 19 x 27cm tại Xưởng in Nhà xuất bản Y học. Căn cứ kế hoạch xuất bản số: 546-13/XB-QLXB ngày 10/01/2005. In xong và nộp lưu chiểu quý III năm 2005.
+n 1000 cuốn, khổ 19 x 27cm tại Xưởng in Nhà xuất bản Y học. Căn cứ kế hoạch xuất bản số: 546-13/XB-QLXB ngày 10/01/2005. In xong và nộp lưu chiểu quý III năm 2005.
 
 # Tìm đợc:
 
@@ -8277,7 +7914,5 @@ In 1000 cuốn, khổ 19 x 27cm tại Xưởng in Nhà xuất bản Y học. Că
 352 Đôi Cấn - Ba Đình - Hà Nội Tel: 04.7625934 \* 7627819 - Fax: 84.4.7625923 Email: Xuatbanyhoc@fpt.vn
 
 61 – 616V MS 13 - 2005 YH – 2005
-
-Image /page/404/Picture/10 description: The image shows a circular emblem or badge. The central design features a shield-like shape with a complex pattern inside. The shield is surrounded by a circular band filled with small, repeating elements, possibly letters or symbols. The overall color scheme is muted, with shades of gray, purple, and white.
 
 GIÁ: 46. 000Đ
