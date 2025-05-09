@@ -1,6 +1,6 @@
 import re
 import os
-from typing import List
+from typing import List 
 
 def chunk_markdown_by_h3(markdown_content: str) -> List[str]:
     """
@@ -9,7 +9,7 @@ def chunk_markdown_by_h3(markdown_content: str) -> List[str]:
     
     Args:
         markdown_content: The markdown content to split
-        
+
     Returns:
         A list of markdown chunks
     """
