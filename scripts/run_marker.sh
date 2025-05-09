@@ -25,6 +25,7 @@
 marker /teamspace/studios/this_studio/preprocess-medical-data/data/pdf \
   --workers 8 \
   --output_dir /teamspace/studios/this_studio/preprocess-medical-data/data/markdown \
+  --force_ocr \
   --output_format markdown \
   --disable_image_extraction \
   --languages "vi,en" \
