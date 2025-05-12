@@ -2,21 +2,17 @@ import os
 import re
 from pathlib import Path
 
-def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=2000):
+def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=1000):
     """
-    Split markdown files into chunks of approximately specified word count,
-    ensuring chunks break at paragraph boundaries ("\n\n")
+    Split markdown files into chunks and save them as individual .md files
     
     Args:
         input_dir (str): Path to input directory containing markdown files
-        output_dir (str): Path to output directory for chunked files
-        words_per_chunk (int): Approximate number of words per chunk
+        output_dir (str): Path to output directory for markdown chunks
+        words_per_chunk (int): Approximate number of words per chunk (default: 1000)
     """
     # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
-    
-    # Initialize chunk counter
-    chunk_counter = 1
+    os.makedirs(output_dir, exist_ok=True)+__
     
     # Find all markdown files in the input directory
     markdown_files = []
@@ -29,6 +25,11 @@ def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=2000):
     for md_file in markdown_files:
         print(f"Processing {md_file}...")
         
+        # Create a directory for this document's chunks
+        doc_name = os.path.splitext(os.path.basename(md_file))[0]
+        doc_output_dir = os.path.join(output_dir, doc_name)
+        os.makedirs(doc_output_dir, exist_ok=True)
+        
         # Read file content
         with open(md_file, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -39,6 +40,7 @@ def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=2000):
         # Initialize variables for chunking
         current_chunk = []
         current_word_count = 0
+        chunk_number = 1
         
         # Process each paragraph
         for paragraph in paragraphs:
@@ -51,19 +53,19 @@ def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=2000):
                 # Join paragraphs with double newlines to maintain formatting
                 chunk_content = "\n\n".join(current_chunk)
                 
-                # Save chunk to file
-                chunk_filename = f"{chunk_counter:03d}.md"
-                chunk_path = os.path.join(output_dir, chunk_filename)
+                # Save chunk to a numbered markdown file
+                chunk_filename = f"{chunk_number:03d}.md"
+                chunk_path = os.path.join(doc_output_dir, chunk_filename)
                 
                 with open(chunk_path, 'w', encoding='utf-8') as f:
                     f.write(chunk_content)
                 
                 print(f"Created chunk {chunk_filename} with approximately {current_word_count} words")
-                chunk_counter += 1
                 
                 # Reset for next chunk
                 current_chunk = [paragraph]
                 current_word_count = paragraph_words
+                chunk_number += 1
             else:
                 # Add paragraph to current chunk
                 current_chunk.append(paragraph)
@@ -72,18 +74,19 @@ def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=2000):
         # Don't forget to save the last chunk if it has content
         if current_chunk:
             chunk_content = "\n\n".join(current_chunk)
-            chunk_filename = f"{chunk_counter:03d}.md"
-            chunk_path = os.path.join(output_dir, chunk_filename)
+            chunk_filename = f"{chunk_number:03d}.md"
+            chunk_path = os.path.join(doc_output_dir, chunk_filename)
             
             with open(chunk_path, 'w', encoding='utf-8') as f:
                 f.write(chunk_content)
             
             print(f"Created chunk {chunk_filename} with approximately {current_word_count} words")
-            chunk_counter += 1
+        
+        print(f"Split {doc_name} into {chunk_number} chunks")
 
 if __name__ == "__main__":
     input_directory = "./data/markdown"  # Path to markdown files
-    output_directory = "./data/processed/chunks"  # Output directory for chunks
+    output_directory = "./data/processed/chunks"  # Output directory for markdown chunks
     
     # Create the output directory
     os.makedirs(output_directory, exist_ok=True)
