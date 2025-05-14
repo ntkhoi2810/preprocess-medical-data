@@ -1,5 +1,4 @@
 marker-pdf
-yq
 python-dotenv
 google-generativeai
 datasets
