@@ -23,15 +23,7 @@ mkdir -p output
 pip install -r requirements.txt
 ```
 
-### 3. Convert PDF to Markdown using marker
-
-Place your PDF files in the `data/pdf` directory, then run:
-
-```bash
-marker data/pdf --output_dir data/md/raw --output_format markdown --disable_image_extraction --languages "vi,en"
-```
-
-### 4. Create environment file
+### 3. Create environment file
 
 Create a `.env` file in the root directory with the following variables:
 
@@ -40,19 +32,21 @@ GEMINI_API_KEY=your_gemini_api_key
 HF_TOKEN=your_huggingface_token
 ```
 
-### 5. Configure and run the pipeline
+### 4. Add your PDF files
 
-You can adjust the configuration parameters in `src/main.py` if needed, including:
-- Paths for input/output directories
-- Chunk size for text splitting
-- Gemini model to use
-- Delay between API calls
+Place your PDF files in the `data/pdf` directory.
 
-Then run the pipeline:
+### 5. Run the pipeline
+
+You can run the entire pipeline using the provided script:
 
 ```bash
-python src/main.py
+./scripts/run.sh
 ```
+
+This script will:
+1. Convert PDFs to markdown using marker
+2. Run the preprocessing pipeline
 
 ## Pipeline Process
 
@@ -61,6 +55,14 @@ The pipeline performs the following steps:
 2. Processes each chunk using the Gemini model
 3. Merges the processed chunks back together
 4. Uploads the processed data to Hugging Face
+
+## Configuration
+
+You can adjust the configuration parameters in `src/main.py` if needed, including:
+- Paths for input/output directories
+- Chunk size for text splitting
+- Gemini model to use
+- Delay between API calls
 
 ## Requirements
 
