@@ -1,5 +1,11 @@
 import os
 import re
+import yaml
+
+def load_config(config_path):
+    with open(config_path, 'r') as f:
+        config = yaml.safe_load(f)
+    return config
 
 def natural_sort_key(s):
     """Sort strings with numerical parts naturally (e.g., '1', '2', '10' instead of '1', '10', '2')"""
@@ -62,7 +68,10 @@ def merge_markdown_files(source_dir, output_dir):
     return True
 
 if __name__ == "__main__":
-    source_directory = "/teamspace/studios/this_studio/preprocess-medical-data/data/processed/chunks"
-    output_directory = "/teamspace/studios/this_studio/preprocess-medical-data/data/processed/"
+    config_path = "./config/setting.yaml"
+    config = load_config(config_path)
+
+    source_directory = config['md_chunks_dir']
+    output_directory = config['md_processed_dir']
     
     merge_markdown_files(source_directory, output_directory)

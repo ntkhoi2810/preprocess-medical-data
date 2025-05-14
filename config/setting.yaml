@@ -1,0 +1,14 @@
+# Paths
+pdf_dir: data/pdf
+md_raw_dir: data/md/raw
+md_chunks_dir: data/md/chunks
+md_processed_dir: data/md/processed
+jsonl_output: output/jsonl/dataset.jsonl
+hf_repo: username/repo-name
+
+# Chunking
+chunk_size: 2000 
+
+# Model
+model: 'gemini-2.0-flash'
+delay: 5

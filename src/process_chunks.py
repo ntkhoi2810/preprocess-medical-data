@@ -3,7 +3,15 @@ import glob
 import google.generativeai as genai
 from pathlib import Path
 import time
-import argparse
+import yaml
+import dotenv
+
+dotenv.load_dotenv()
+
+def load_config(config_path):
+    with open(config_path, 'r') as f:
+        config = yaml.safe_load(f)
+    return config
 
 # Set up the API
 def setup_genai(api_key):
@@ -78,21 +86,25 @@ def process_markdown_file(file_path, model):
         return False
 
 def main():
-    parser = argparse.ArgumentParser(description='Process markdown chunks using Gemini AI')
-    parser.add_argument('--api_key', required=True, help='Google API Key for Gemini')
-    parser.add_argument('--chunks_dir', default='../data/processed/chunks', help='Directory containing chunk folders')
-    parser.add_argument('--model', default='gemini-2.0-flash', help='Gemini model to use')
-    parser.add_argument('--delay', type=int, default=10, help='Delay between API calls in seconds')
-    args = parser.parse_args()
-    
+    config_path = "./config/setting.yaml"
+    config = load_config(config_path)
+
+    # parser = argparse.ArgumentParser(description='Process markdown chunks using Gemini AI')
+    # parser.add_argument('--api_key', required=True, help='Google API Key for Gemini')
+    # parser.add_argument('--chunks_dir', default='../data/processed/chunks', help='Directory containing chunk folders')
+    # parser.add_argument('--model', default='gemini-2.0-flash', help='Gemini model to use')
+    # parser.add_argument('--delay', type=int, default=10, help='Delay between API calls in seconds')
+    # args = parser.parse_args()
+
+    api_key = os.getenv('GEMINI_API_KEY')
     # Setup API
-    setup_genai(args.api_key)
+    setup_genai(api_key)
     
     # Get model
-    model = genai.GenerativeModel(args.model)
+    model = genai.GenerativeModel(config['model'])
     
     # Get the absolute path of the chunks directory
-    chunks_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), args.chunks_dir)
+    chunks_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), config['md_chunks_dir'])
     
     # Get all document folders
     doc_folders = [f for f in os.listdir(chunks_dir) if os.path.isdir(os.path.join(chunks_dir, f))]
@@ -121,7 +133,7 @@ def main():
                 total_processed += 1
             
             # Add delay between API calls to avoid rate limiting
-            time.sleep(args.delay)
+            time.sleep(config['delay'])
     
     print(f"\nProcessing complete. Successfully processed {total_processed}/{total_files} files.")
 

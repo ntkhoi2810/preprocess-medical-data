@@ -1,6 +1,12 @@
 import os
 import re
 from pathlib import Path
+import yaml
+
+def load_config(config_path):
+    with open(config_path, 'r') as f:
+        config = yaml.safe_load(f)
+    return config
 
 def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=1000):
     """
@@ -12,8 +18,7 @@ def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=1000):
         words_per_chunk (int): Approximate number of words per chunk (default: 1000)
     """
     # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)+__
-    
+    os.makedirs(output_dir, exist_ok=True)
     # Find all markdown files in the input directory
     markdown_files = []
     for root, _, files in os.walk(input_dir):
@@ -85,10 +90,9 @@ def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=1000):
         print(f"Split {doc_name} into {chunk_number} chunks")
 
 if __name__ == "__main__":
-    input_directory = "./data/markdown"  # Path to markdown files
-    output_directory = "./data/processed/chunks"  # Output directory for markdown chunks
-    
-    # Create the output directory
-    os.makedirs(output_directory, exist_ok=True)
-    
-    split_markdown_into_chunks(input_directory, output_directory)
+    config_path = "./config/setting.yaml"
+    config = load_config(config_path)
+
+    input_directory = config['md_raw_dir']
+    output_directory = config['md_chunks_dir']
+    split_markdown_into_chunks(input_directory, output_directory, config['chunk_size'])
