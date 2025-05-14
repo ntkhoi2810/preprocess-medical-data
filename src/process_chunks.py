@@ -2,22 +2,68 @@ import google.generativeai as genai
 import time
 import logging
 import os
+import requests
+import json
+from typing import Dict, Any, Optional, List
 
 # Configure logging
 logger = logging.getLogger(__name__)
 
-# Set up the API
-def setup_genai(api_key):
-    """
-    Set up the Gemini API with your API key
-    """
-    if not api_key:
-        logger.error("No Gemini API key provided")
-        raise ValueError("Gemini API key is required")
+
+def generate_with_yescale(prompt: str, 
+                          model: str = "gemini-2.0-flash", 
+                          temperature: float = 0.1,
+                          max_attempts: int = 5,
+                          base_delay: float = 2.0,
+                          max_delay: float = 32.0,
+                          system_prompt: Optional[str] = None) -> Optional[str]:
+    # API endpoint
+    url = "https://api.yescale.io/v1/chat/completions"
     
-    logger.info("Configuring Gemini API")
-    genai.configure(api_key=api_key)
-    logger.info("Gemini API configured successfully")
+    # Headers
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {os.getenv('YESCALE_API_KEY')}"  # Replace with your actual API key
+    }
+    
+    # Prepare messages
+    messages: List[Dict[str, str]] = []
+    
+    # Add system prompt if provided
+    if system_prompt:
+        messages.append({"role": "system", "content": system_prompt})
+    
+    # Add user prompt
+    messages.append({"role": "user", "content": prompt})
+    
+    # Request data
+    data = {
+        "model": model,
+        "messages": messages,
+        "temperature": temperature
+    }
+    
+    for attempt in range(1, max_attempts + 1):
+        try:
+            # Make the POST request
+            response = requests.post(url, headers=headers, data=json.dumps(data))
+            response.raise_for_status()  # Raise exception for HTTP errors
+            
+            # Extract and return the response content
+            response_data = response.json()
+            if "choices" in response_data and len(response_data["choices"]) > 0:
+                return response_data["choices"][0]["message"]["content"]
+            return None
+            
+        except Exception as exc:
+            wait = min(base_delay * (2 ** (attempt - 1)), max_delay)
+            logging.warning(f"YesScale API error ({type(exc).__name__}) – attempt {attempt}/{max_attempts}; ngủ {wait} s rồi thử lại …")
+            
+            if attempt < max_attempts:
+                time.sleep(wait)
+            else:
+                logging.error(f"Không thể kết nối với YesScale API sau {max_attempts} lần thử: {exc}")
+                return None
 
 # Process a single markdown chunk file
 def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
@@ -74,17 +120,21 @@ def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
         
         while retries < max_retries and not success:
             try:
-                logger.info(f"Sending request to Gemini API (attempt {retries+1}/{max_retries})")
+                logger.info(f"Sending request to YesScale API (attempt {retries+1}/{max_retries})")
                 
-                # Get response from Gemini with temperature = 0.1
-                response = model.generate_content(
-                    prompt, 
-                    generation_config={"temperature": 0.1, "max_output_tokens": 8192}
+                # Get response using YesScale API
+                cleaned_text = generate_with_yescale(
+                    prompt=prompt,
+                    model=model,
+                    temperature=0.1,
+                    max_attempts=max_retries,
+                    base_delay=retry_delay
                 )
                 
-                # Process the response
-                cleaned_text = response.text
-                logger.info(f"Successfully received response from Gemini API")
+                if cleaned_text is None:
+                    raise Exception("Failed to get response from YesScale API")
+                
+                logger.info(f"Successfully received response from YesScale API")
                 
                 # Sometimes the model might include backticks or explanations, let's clean that
                 if "```" in cleaned_text:

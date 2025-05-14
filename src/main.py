@@ -8,7 +8,6 @@ from upload_to_huggingface import load_data_to_json, push_data_to_hf
 import process_chunks
 import os
 import time
-from google.generativeai import GenerativeModel
 import glob
 import huggingface_hub
 
@@ -32,14 +31,14 @@ CONFIGS = {
     'md_chunks_dir': '../preprocess-medical-data/data/md/chunks',
     'md_processed_dir': '../preprocess-medical-data/data/md/processed',
     'jsonl_output': '../preprocess-medical-data/output/dataset.jsonl',
-    'hf_repo': 'ntkhoi/book-medical-corpus',
+    'hf_repo': 'myduy/byt-medical-documents',
     
     # Chunking
     'chunk_size': 3000,
     
     # Model
-    'model': 'gemini-2.0-flash',
-    'delay': 2,  # Increased delay between API calls
+    'model': 'gemini-2.5-flash-preview-04-17',
+    'delay': 2,  # Delay between API calls
     'max_retries': 3,
     'retry_delay': 10
 }
@@ -55,27 +54,16 @@ def run_pipeline():
     split_markdown_into_chunks(input_directory, chunks_directory, CONFIGS['chunk_size'])
     logger.info("Chunking process completed.")
     
-    # Step 2: Process chunks using Gemini
-    logger.info("Step 2: Running process_chunks to refine with Gemini...")
-    
-    # Setup Google Generative AI with API key from environment
-    api_key = os.getenv('GEMINI_API_KEY')
-    if not api_key:
-        logger.error("GEMINI_API_KEY environment variable is not set. Please set it and try again.")
-        return False
+    # Step 2: Process chunks using YesScale API
+    logger.info("Step 2: Running process_chunks to refine with YesScale API...")
     
     try:
-        process_chunks.setup_genai(api_key)
-        
-        # Load the model
-        logger.info(f"Loading Gemini model: {CONFIGS['model']}")
-        try:
-            model = GenerativeModel(CONFIGS['model'])
-            logger.info("Model loaded successfully")
-        except Exception as e:
-            logger.error(f"Failed to load model: {str(e)}")
+        # Check for YesScale API key
+        yescale_api_key = os.getenv("YESCALE_API_KEY")
+        if not yescale_api_key:
+            logger.error("YESCALE_API_KEY environment variable is not set. Please set it and try again.")
             return False
-        
+            
         # Process all markdown files in the chunks directory
         chunk_files = glob.glob(os.path.join(CONFIGS['md_chunks_dir'], '**/*.md'), recursive=True)
         
@@ -89,8 +77,8 @@ def run_pipeline():
         for file_path in chunk_files:
             try:
                 success = process_chunks.process_markdown_file(
-                    file_path, 
-                    model, 
+                    file_path,
+                    CONFIGS['model'],
                     max_retries=CONFIGS['max_retries'],
                     retry_delay=CONFIGS['retry_delay']
                 )
