@@ -1,64 +1,69 @@
-# Process data PDF into markdown
+# Medical Data Preprocessing Pipeline
 
-## Introduction
+This repository contains tools for preprocessing medical documents, converting PDFs to markdown, and preparing data for further processing.
 
-This project requires a specific folder structure for data organization. Since data folders are not pushed to GitHub, you'll need to set up the data structure manually.
+## Setup
 
-## Data Organization
+### 1. Create required folder structure
 
-Create the following folder structure in the project root:
+```bash
+# Create main data directory
+mkdir -p data/pdf
+mkdir -p data/md/raw
+mkdir -p data/md/chunks
+mkdir -p data/md/processed
+
+# Create output directory
+mkdir -p output
+```
+
+### 2. Install required dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Convert PDF to Markdown using marker
+
+Place your PDF files in the `data/pdf` directory, then run:
+
+```bash
+marker data/pdf --output_dir data/md/raw --output_format markdown --disable_image_extraction --languages "vi,en"
+```
+
+### 4. Create environment file
+
+Create a `.env` file in the root directory with the following variables:
 
 ```
-data/
-├── raw/       # Place your raw data files here
-├── processed/ # Processed data will be stored here
-└── output/    # Output files will be stored here
+GEMINI_API_KEY=your_gemini_api_key
+HF_TOKEN=your_huggingface_token
 ```
 
-**Note:** The `data/` directory is excluded from version control via `.gitignore` to avoid pushing large data files to GitHub.
+### 5. Configure and run the pipeline
 
-## Setup Instructions
+You can adjust the configuration parameters in `src/main.py` if needed, including:
+- Paths for input/output directories
+- Chunk size for text splitting
+- Gemini model to use
+- Delay between API calls
 
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   cd <project-directory>
-   ```
+Then run the pipeline:
 
-2. Create the data folder structure:
-   ```
-   mkdir -p data/raw data/processed data/output
-   ```
+```bash
+python src/main.py
+```
 
-3. Place your raw data files in the `data/raw/` directory.
+## Pipeline Process
 
-## Running the Application
+The pipeline performs the following steps:
+1. Splits the raw markdown files into manageable chunks
+2. Processes each chunk using the Gemini model
+3. Merges the processed chunks back together
+4. Uploads the processed data to Hugging Face
 
-1. Install required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+## Requirements
 
-2. Edit the `run.sh` script to include your actual application execution command.
-
-3. Run using the shell script:
-   ```
-   chmod +x run.sh
-   ./run.sh
-   ```
-
-## Shell Script
-
-The `run.sh` file is provided for convenience. It automates the process of running the application and checks if your data folders are set up correctly. Before using it:
-
-1. Open the file and replace the placeholder with your actual command to run the application
-2. Make it executable:
-   ```
-   chmod +x run.sh
-   ```
-
-## Additional Notes
-
-- Make sure your data files follow the expected format
-- Check the logs in the console for any errors during execution
-- Output files will be saved to the `data/output/` directory
+- Python 3.10+
+- marker-pdf
+- Python packages listed in requirements.txt

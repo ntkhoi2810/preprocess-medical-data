@@ -12,13 +12,6 @@ def load_config(config_path):
         return yaml.safe_load(file)
 
 
-def login_to_hf():
-    """
-    Login to Hugging Face
-    """
-    os.environ["HF_TOKEN"] = os.getenv("HF_TOKEN")
-    huggingface_hub.login()
-
 def load_data_to_json(data_path, output_json_path):
     """
     Load markdown files from a folder, process each file, and update a JSON file.
@@ -74,9 +67,3 @@ def push_data_to_hf(json_path, hf_repo_name):
     dataset = datasets.load_dataset("json", data_files=json_path)
     print(dataset)
     dataset.push_to_hub(hf_repo_name)
-
-if __name__ == "__main__":
-    login_to_hf()   
-    config = load_config("config/setting.yaml")
-    load_data_to_json(config["md_processed_dir"], config["jsonl_output"])
-    push_data_to_hf(config["jsonl_output"], config["hf_repo"])

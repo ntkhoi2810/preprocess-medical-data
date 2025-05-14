@@ -1,31 +1,41 @@
-import os
-import glob
 import google.generativeai as genai
-from pathlib import Path
 import time
-import yaml
-import dotenv
+import logging
+import os
 
-dotenv.load_dotenv()
-
-def load_config(config_path):
-    with open(config_path, 'r') as f:
-        config = yaml.safe_load(f)
-    return config
+# Configure logging
+logger = logging.getLogger(__name__)
 
 # Set up the API
 def setup_genai(api_key):
     """
     Set up the Gemini API with your API key
     """
+    if not api_key:
+        logger.error("No Gemini API key provided")
+        raise ValueError("Gemini API key is required")
+    
+    logger.info("Configuring Gemini API")
     genai.configure(api_key=api_key)
+    logger.info("Gemini API configured successfully")
 
 # Process a single markdown chunk file
-def process_markdown_file(file_path, model):
+def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
     """
     Process a single markdown chunk file using Gemini
+    
+    Args:
+        file_path: Path to the markdown file
+        model: The Gemini model instance
+        max_retries: Maximum number of retries for API calls
+        retry_delay: Delay between retries in seconds
     """
-    print(f"Processing {file_path}")
+    logger.info(f"Processing {file_path}")
+    
+    # Check if file exists
+    if not os.path.exists(file_path):
+        logger.error(f"File does not exist: {file_path}")
+        return False
     
     try:
         # Read the markdown content
@@ -34,9 +44,9 @@ def process_markdown_file(file_path, model):
         
         # Skip empty files
         if not content:
-            print(f"Skipping {file_path} - empty file")
+            logger.info(f"Skipping {file_path} - empty file")
             return False
-                
+        
         # Create a prompt for Gemini
         prompt = f"""
             Bạn là một LLM chuyên xử lý văn bản y khoa để phục vụ tiền huấn luyện mô hình ngôn ngữ.
@@ -57,85 +67,59 @@ def process_markdown_file(file_path, model):
             {content}
         """
         
-        # Get response from Gemini with temperature = 0.1
-        response = model.generate_content(prompt, generation_config={"temperature": 0.1})
+        # Retry logic for API calls
+        retries = 0
+        success = False
+        last_error = None
         
-        # Process the response (extract just the cleaned text)
-        cleaned_text = response.text
+        while retries < max_retries and not success:
+            try:
+                logger.info(f"Sending request to Gemini API (attempt {retries+1}/{max_retries})")
+                
+                # Get response from Gemini with temperature = 0.1
+                response = model.generate_content(
+                    prompt, 
+                    generation_config={"temperature": 0.1, "max_output_tokens": 8192}
+                )
+                
+                # Process the response
+                cleaned_text = response.text
+                logger.info(f"Successfully received response from Gemini API")
+                
+                # Sometimes the model might include backticks or explanations, let's clean that
+                if "```" in cleaned_text:
+                    logger.info("Cleaning code blocks from response")
+                    # Try to extract content between the first and last backticks
+                    parts = cleaned_text.split("```")
+                    if len(parts) >= 3:  # At least one complete code block
+                        # Get the content of the first code block
+                        if parts[1].strip().startswith("markdown"):
+                            cleaned_text = parts[1].replace("markdown", "", 1).strip()
+                        else:
+                            cleaned_text = parts[1].strip()
+                
+                # Write the processed content back to the file
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write(cleaned_text)
+                
+                logger.info(f"Successfully processed {file_path}")
+                success = True
+                
+            except Exception as e:
+                last_error = str(e)
+                retries += 1
+                logger.warning(f"Error on attempt {retries}/{max_retries}: {last_error}")
+                
+                if retries < max_retries:
+                    logger.info(f"Retrying in {retry_delay} seconds...")
+                    time.sleep(retry_delay)
         
-        # Sometimes the model might include backticks or explanations, let's clean that
-        if "```" in cleaned_text:
-            # Try to extract content between the first and last backticks
-            parts = cleaned_text.split("```")
-            if len(parts) >= 3:  # At least one complete code block
-                # Get the content of the first code block
-                if parts[1].strip().startswith("markdown"):
-                    cleaned_text = parts[1].replace("markdown", "", 1).strip()
-                else:
-                    cleaned_text = parts[1].strip()
-        
-        # Write the processed content back to the file
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(cleaned_text)
+        if not success:
+            logger.error(f"Failed to process {file_path} after {max_retries} attempts: {last_error}")
+            return False
             
-        print(f"Successfully processed {file_path}")
         return True
         
     except Exception as e:
-        print(f"Error processing {file_path}: {str(e)}")
+        logger.error(f"Error processing {file_path}: {str(e)}")
         return False
-
-def main():
-    config_path = "./config/setting.yaml"
-    config = load_config(config_path)
-
-    # parser = argparse.ArgumentParser(description='Process markdown chunks using Gemini AI')
-    # parser.add_argument('--api_key', required=True, help='Google API Key for Gemini')
-    # parser.add_argument('--chunks_dir', default='../data/processed/chunks', help='Directory containing chunk folders')
-    # parser.add_argument('--model', default='gemini-2.0-flash', help='Gemini model to use')
-    # parser.add_argument('--delay', type=int, default=10, help='Delay between API calls in seconds')
-    # args = parser.parse_args()
-
-    api_key = os.getenv('GEMINI_API_KEY')
-    # Setup API
-    setup_genai(api_key)
-    
-    # Get model
-    model = genai.GenerativeModel(config['model'])
-    
-    # Get the absolute path of the chunks directory
-    chunks_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), config['md_chunks_dir'])
-    
-    # Get all document folders
-    doc_folders = [f for f in os.listdir(chunks_dir) if os.path.isdir(os.path.join(chunks_dir, f))]
-    
-    if not doc_folders:
-        print(f"No document folders found in {chunks_dir}")
-        return
-    
-    total_processed = 0
-    total_files = 0
-    
-    # Process each document folder
-    for doc_folder in doc_folders:
-        folder_path = os.path.join(chunks_dir, doc_folder)
-        # Get all markdown files in the folder
-        md_files = glob.glob(os.path.join(folder_path, "*.md"))
-        total_files += len(md_files)
-        
-        print(f"\nProcessing folder: {doc_folder}")
-        print(f"Found {len(md_files)} chunks to process")
-        
-        # Process each markdown file
-        for file_path in md_files:
-            success = process_markdown_file(file_path, model)
-            if success:
-                total_processed += 1
-            
-            # Add delay between API calls to avoid rate limiting
-            time.sleep(config['delay'])
-    
-    print(f"\nProcessing complete. Successfully processed {total_processed}/{total_files} files.")
-
-if __name__ == "__main__":
-    main()

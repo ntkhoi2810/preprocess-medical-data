@@ -1,12 +1,6 @@
 import os
 import re
 from pathlib import Path
-import yaml
-
-def load_config(config_path):
-    with open(config_path, 'r') as f:
-        config = yaml.safe_load(f)
-    return config
 
 def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=1000):
     """
@@ -88,11 +82,3 @@ def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=1000):
             print(f"Created chunk {chunk_filename} with approximately {current_word_count} words")
         
         print(f"Split {doc_name} into {chunk_number} chunks")
-
-if __name__ == "__main__":
-    config_path = "./config/setting.yaml"
-    config = load_config(config_path)
-
-    input_directory = config['md_raw_dir']
-    output_directory = config['md_chunks_dir']
-    split_markdown_into_chunks(input_directory, output_directory, config['chunk_size'])
