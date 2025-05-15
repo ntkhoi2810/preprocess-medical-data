@@ -1,4 +1,3 @@
-import google.generativeai as genai
 import time
 import logging
 import os
@@ -17,26 +16,33 @@ def generate_with_yescale(prompt: str,
                           base_delay: float = 2.0,
                           max_delay: float = 32.0,
                           system_prompt: Optional[str] = None) -> Optional[str]:
-    # API endpoint
+    """Generate text using YesScale API.
+    
+    Args:
+        prompt: The prompt to send to the model
+        model: Model name to use
+        temperature: Temperature for generation
+        max_attempts: Maximum number of attempts if API fails
+        base_delay: Base delay between retries (will be exponentially increased)
+        max_delay: Maximum delay between retries
+        system_prompt: Optional system prompt to guide the model
+        
+    Returns:
+        Generated text or None if API call fails
+    """
     url = "https://api.yescale.io/v1/chat/completions"
     
-    # Headers
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {os.getenv('YESCALE_API_KEY')}"  # Replace with your actual API key
+        "Authorization": f"Bearer {os.getenv('YESCALE_API_KEY')}"
     }
     
-    # Prepare messages
-    messages: List[Dict[str, str]] = []
-    
-    # Add system prompt if provided
+    messages = []
     if system_prompt:
         messages.append({"role": "system", "content": system_prompt})
     
-    # Add user prompt
     messages.append({"role": "user", "content": prompt})
     
-    # Request data
     data = {
         "model": model,
         "messages": messages,
@@ -45,11 +51,9 @@ def generate_with_yescale(prompt: str,
     
     for attempt in range(1, max_attempts + 1):
         try:
-            # Make the POST request
             response = requests.post(url, headers=headers, data=json.dumps(data))
-            response.raise_for_status()  # Raise exception for HTTP errors
+            response.raise_for_status()
             
-            # Extract and return the response content
             response_data = response.json()
             if "choices" in response_data and len(response_data["choices"]) > 0:
                 return response_data["choices"][0]["message"]["content"]
@@ -57,45 +61,42 @@ def generate_with_yescale(prompt: str,
             
         except Exception as exc:
             wait = min(base_delay * (2 ** (attempt - 1)), max_delay)
-            logging.warning(f"YesScale API error ({type(exc).__name__}) – attempt {attempt}/{max_attempts}; ngủ {wait} s rồi thử lại …")
+            logging.warning(f"YesScale API error ({type(exc).__name__}) - attempt {attempt}/{max_attempts}; waiting {wait}s before retry...")
             
             if attempt < max_attempts:
                 time.sleep(wait)
             else:
-                logging.error(f"Không thể kết nối với YesScale API sau {max_attempts} lần thử: {exc}")
+                logging.error(f"Failed to connect to YesScale API after {max_attempts} attempts: {exc}")
                 return None
 
-# Process a single markdown chunk file
+
 def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
-    """
-    Process a single markdown chunk file using Gemini
+    """Process a single markdown chunk file using YesScale API.
     
     Args:
         file_path: Path to the markdown file
-        model: The Gemini model instance
+        model: The model name to use
         max_retries: Maximum number of retries for API calls
         retry_delay: Delay between retries in seconds
+        
+    Returns:
+        Boolean indicating whether processing was successful
     """
     logger.info(f"Processing {file_path}")
     
-    # Check if file exists
     if not os.path.exists(file_path):
         logger.error(f"File does not exist: {file_path}")
         return False
     
     try:
-        # Read the markdown content
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read().strip()
         
-        # Skip empty files
         if not content:
             logger.info(f"Skipping {file_path} - empty file")
             return False
         
-        # Create a prompt for Gemini
-        prompt = f"""
-            Bạn là một LLM chuyên xử lý văn bản y khoa để phục vụ tiền huấn luyện mô hình ngôn ngữ.
+        system_prompt = """Bạn là một LLM chuyên xử lý văn bản y khoa để phục vụ tiền huấn luyện mô hình ngôn ngữ.
 
             Nhiệm vụ của bạn là **chỉnh sửa văn bản theo các yêu cầu dưới đây và CHỈ TRẢ VỀ VĂN BẢN ĐÃ ĐƯỢC XỬ LÝ, KHÔNG GIẢI THÍCH, KHÔNG THÊM BẤT KỲ NỘI DUNG MỚI NÀO**.
 
@@ -107,24 +108,20 @@ def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
             5. Nếu có **bảng**, format lại theo dạng phù hợp làm data pretrain cho model LLMs.  
             6. Giữ nguyên **toàn bộ thuật ngữ y khoa**, không dịch hay thay đổi từ chuyên ngành.  
             7. Tuyệt đối **không thay đổi nội dung chuyên môn** – chỉ cải thiện cách trình bày và loại bỏ thông tin ngoài bệnh học.  
-            8. Nếu có **công thức toán học**, hãy định dạng lại theo cú pháp LaTeX trong Markdown: `$$...$$`.
-
-            Đầu vào:
-            {content}
+            8. Nếu có **công thức toán học**, hãy định dạng lại theo cú pháp LaTeX trong Markdown: `$$...$$`."""
+            
+        prompt = f"""Văn bản cần xử lý:
+{content}
         """
         
-        # Retry logic for API calls
         retries = 0
-        success = False
-        last_error = None
-        
-        while retries < max_retries and not success:
+        while retries < max_retries:
             try:
                 logger.info(f"Sending request to YesScale API (attempt {retries+1}/{max_retries})")
                 
-                # Get response using YesScale API
                 cleaned_text = generate_with_yescale(
                     prompt=prompt,
+                    system_prompt=system_prompt,
                     model=model,
                     temperature=0.1,
                     max_attempts=max_retries,
@@ -136,39 +133,37 @@ def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
                 
                 logger.info(f"Successfully received response from YesScale API")
                 
-                # Sometimes the model might include backticks or explanations, let's clean that
+                # Clean response if it contains markdown code blocks
                 if "```" in cleaned_text:
                     logger.info("Cleaning code blocks from response")
-                    # Try to extract content between the first and last backticks
                     parts = cleaned_text.split("```")
-                    if len(parts) >= 3:  # At least one complete code block
-                        # Get the content of the first code block
+                    if len(parts) >= 3:
                         if parts[1].strip().startswith("markdown"):
                             cleaned_text = parts[1].replace("markdown", "", 1).strip()
                         else:
                             cleaned_text = parts[1].strip()
                 
-                # Write the processed content back to the file
-                with open(file_path, 'w', encoding='utf-8') as f:
+                # Write the processed content and rename file
+                done_file_path = f"{file_path[:-3]}_done.md"
+                with open(done_file_path, 'w', encoding='utf-8') as f:
                     f.write(cleaned_text)
                 
-                logger.info(f"Successfully processed {file_path}")
-                success = True
+                # Remove original file
+                os.remove(file_path)
+                
+                logger.info(f"Successfully processed and saved to {done_file_path}")
+                return True
                 
             except Exception as e:
-                last_error = str(e)
                 retries += 1
-                logger.warning(f"Error on attempt {retries}/{max_retries}: {last_error}")
+                logger.warning(f"Error on attempt {retries}/{max_retries}: {str(e)}")
                 
                 if retries < max_retries:
                     logger.info(f"Retrying in {retry_delay} seconds...")
                     time.sleep(retry_delay)
         
-        if not success:
-            logger.error(f"Failed to process {file_path} after {max_retries} attempts: {last_error}")
-            return False
-            
-        return True
+        logger.error(f"Failed to process {file_path} after {max_retries} attempts")
+        return False
         
     except Exception as e:
         logger.error(f"Error processing {file_path}: {str(e)}")

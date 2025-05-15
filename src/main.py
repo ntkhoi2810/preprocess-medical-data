@@ -37,6 +37,7 @@ CONFIGS = {
     'chunk_size': 3000,
     
     # Model
+    # 'model': 'gemini-2.0-flash',
     'model': 'gemini-2.5-flash-preview-04-17',
     'delay': 2,  # Delay between API calls
     'max_retries': 3,
