@@ -49,6 +49,14 @@ def generate_with_yescale(prompt: str,
         "temperature": temperature
     }
     
+    # Add thinking configuration for Gemini models to completely disable thinking
+    if "gemini-2.5" in model.lower():
+        data["generationConfig"] = {
+            "thinkingConfig": {
+                "thinkingBudget": 0
+            }
+        }
+    
     for attempt in range(1, max_attempts + 1):
         try:
             response = requests.post(url, headers=headers, data=json.dumps(data))
@@ -117,8 +125,11 @@ def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
         retries = 0
         while retries < max_retries:
             try:
+                done_file_path = f"{file_path[:-3]}_done.md"
+                if file_path.endswith('_done.md'):
+                    logger.info(f"File {done_file_path} already exists, skipping...")
+                    return True
                 logger.info(f"Sending request to YesScale API (attempt {retries+1}/{max_retries})")
-                
                 cleaned_text = generate_with_yescale(
                     prompt=prompt,
                     system_prompt=system_prompt,
@@ -144,7 +155,7 @@ def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
                             cleaned_text = parts[1].strip()
                 
                 # Write the processed content and rename file
-                done_file_path = f"{file_path[:-3]}_done.md"
+                
                 with open(done_file_path, 'w', encoding='utf-8') as f:
                     f.write(cleaned_text)
                 

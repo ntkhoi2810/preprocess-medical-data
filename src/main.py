@@ -10,6 +10,10 @@ import os
 import time
 import glob
 import huggingface_hub
+import threading
+import concurrent.futures
+from queue import Queue
+from threading import Semaphore
 
 dotenv.load_dotenv()
 
@@ -41,8 +45,78 @@ CONFIGS = {
     'model': 'gemini-2.5-flash-preview-04-17',
     'delay': 2,  # Delay between API calls
     'max_retries': 3,
-    'retry_delay': 10
+    'retry_delay': 10,
+    
+    # Threading
+    'max_workers': 100,  # Maximum number of parallel workers
+    'rate_limit_rpm': 1000  # Rate limit in requests per minute
 }
+
+# Create a rate limiter to manage API requests
+class RateLimiter:
+    def __init__(self, max_calls, period=60):
+        self.max_calls = max_calls
+        self.period = period
+        self.calls = []
+        self.lock = threading.Lock()
+        self.requests_sent = 0
+        self.responses_received = 0
+        
+    def wait_if_needed(self):
+        with self.lock:
+            now = time.time()
+            # Remove timestamps older than the period
+            self.calls = [ts for ts in self.calls if now - ts < self.period]
+            
+            if len(self.calls) >= self.max_calls:
+                # Wait until we can make another call
+                sleep_time = self.calls[0] + self.period - now
+                if sleep_time > 0:
+                    time.sleep(sleep_time)
+                    # Clean up the calls list again after sleeping
+                    now = time.time()
+                    self.calls = [ts for ts in self.calls if now - ts < self.period]
+            
+            # Record this call
+            self.calls.append(time.time())
+            
+    def increment_sent(self):
+        with self.lock:
+            self.requests_sent += 1
+            logger.info(f"Request sent. Total requests sent: {self.requests_sent}")
+            
+    def increment_received(self):
+        with self.lock:
+            self.responses_received += 1
+            logger.info(f"Response received. Total responses received: {self.responses_received}")
+
+def process_file_worker(file_path, model, max_retries, retry_delay, rate_limiter, results):
+    """Process a single markdown file with rate limiting"""
+    try:
+        # Wait if we're exceeding the rate limit
+        rate_limiter.wait_if_needed()
+        
+        # Log that we're sending a request
+        rate_limiter.increment_sent()
+        
+        success = process_chunks.process_markdown_file(
+            file_path,
+            model,
+            max_retries=max_retries,
+            retry_delay=retry_delay
+        )
+        
+        # Log that we've received a response
+        rate_limiter.increment_received()
+        
+        if success:
+            results['successful'] += 1
+        
+        logger.info(f"Processed {file_path}, success: {success}")
+        return success
+    except Exception as e:
+        logger.error(f"Error processing {file_path}: {str(e)}")
+        return False
 
 def run_pipeline():
     """Run the complete data processing pipeline"""
@@ -74,29 +148,32 @@ def run_pipeline():
         
         logger.info(f"Found {len(chunk_files)} files to process")
         
-        successful_files = 0
-        for file_path in chunk_files:
-            try:
-                success = process_chunks.process_markdown_file(
+        # Initialize rate limiter and results counter
+        rate_limiter = RateLimiter(CONFIGS['rate_limit_rpm'])
+        results = {'successful': 0}
+        
+        # Process files in parallel using ThreadPoolExecutor
+        with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIGS['max_workers']) as executor:
+            futures = []
+            for file_path in chunk_files:
+                future = executor.submit(
+                    process_file_worker,
                     file_path,
                     CONFIGS['model'],
-                    max_retries=CONFIGS['max_retries'],
-                    retry_delay=CONFIGS['retry_delay']
+                    CONFIGS['max_retries'],
+                    CONFIGS['retry_delay'],
+                    rate_limiter,
+                    results
                 )
-                
-                if success:
-                    successful_files += 1
-                    
-                # Add a delay to avoid rate limiting
-                logger.info(f"Waiting {CONFIGS['delay']} seconds before next request...")
-                time.sleep(CONFIGS['delay'])
-                
-            except Exception as e:
-                logger.error(f"Error processing {file_path}: {str(e)}")
+                futures.append(future)
+            
+            # Wait for all futures to complete
+            concurrent.futures.wait(futures)
         
-        logger.info(f"Processing completed. Successfully processed {successful_files}/{len(chunk_files)} files.")
+        logger.info(f"Processing completed. Successfully processed {results['successful']}/{len(chunk_files)} files.")
+        logger.info(f"Total API requests sent: {rate_limiter.requests_sent}, Total responses received: {rate_limiter.responses_received}")
         
-        if successful_files == 0:
+        if results['successful'] == 0:
             logger.error("No files were successfully processed. Aborting pipeline.")
             return False
         

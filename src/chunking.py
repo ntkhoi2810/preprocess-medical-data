@@ -27,6 +27,14 @@ def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=1000):
         # Create a directory for this document's chunks
         doc_name = os.path.splitext(os.path.basename(md_file))[0]
         doc_output_dir = os.path.join(output_dir, doc_name)
+        
+        # Check if chunks already exist
+        if os.path.exists(doc_output_dir):
+            existing_files = os.listdir(doc_output_dir)
+            if any(f.endswith('_done.md') or f.endswith('.md') for f in existing_files):
+                print(f"Chunks already exist for {doc_name}, skipping...")
+                continue
+                
         os.makedirs(doc_output_dir, exist_ok=True)
         
         # Read file content
