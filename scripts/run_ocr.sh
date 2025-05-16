@@ -1,1 +1,2 @@
-marker ./data/pdf/can_lam_sang --output_dir ./data/md/raw --output_format markdown --disable_image_extraction --languages "vi,en"
+cd preprocess-medical-data
+./scripts/process_unprocessed_pdfs.sh

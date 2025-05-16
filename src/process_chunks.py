@@ -4,20 +4,22 @@ import os
 import requests
 import json
 from typing import Dict, Any, Optional, List
+import dotenv
 
+dotenv.load_dotenv()
 # Configure logging
 logger = logging.getLogger(__name__)
 
 
-def generate_with_yescale(prompt: str, 
-                          model: str = "gemini-2.0-flash", 
+def generate_with_yescale(prompt: str,
+                          model: str = "gemini-2.5-flash-preview-04-17",
                           temperature: float = 0.1,
                           max_attempts: int = 5,
                           base_delay: float = 2.0,
                           max_delay: float = 32.0,
                           system_prompt: Optional[str] = None) -> Optional[str]:
     """Generate text using YesScale API.
-    
+
     Args:
         prompt: The prompt to send to the model
         model: Model name to use
@@ -26,23 +28,23 @@ def generate_with_yescale(prompt: str,
         base_delay: Base delay between retries (will be exponentially increased)
         max_delay: Maximum delay between retries
         system_prompt: Optional system prompt to guide the model
-        
+
     Returns:
         Generated text or None if API call fails
     """
     url = "https://api.yescale.io/v1/chat/completions"
-    
+    api_key = os.getenv('YESCALE_API_KEY')  
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {os.getenv('YESCALE_API_KEY')}"
+        "Authorization": f"Bearer {api_key}"
     }
-    
+
     messages = []
     if system_prompt:
         messages.append({"role": "system", "content": system_prompt})
-    
+
     messages.append({"role": "user", "content": prompt})
-    
+
     data = {
         "model": model,
         "messages": messages,
@@ -56,40 +58,43 @@ def generate_with_yescale(prompt: str,
                 "thinkingBudget": 0
             }
         }
-    
+    # print(data)
     for attempt in range(1, max_attempts + 1):
         try:
             response = requests.post(url, headers=headers, data=json.dumps(data))
             response.raise_for_status()
             
             response_data = response.json()
+            # print(response_data)
+            
+            # Check if response contains an error field
+            if "error" in response_data:
+                error_msg = response_data.get("error", {}).get("message", "Unknown error")
+                error_code = response_data.get("error", {}).get("code", "unknown")
+                logger.warning(f"YesScale API returned error: {error_code} - {error_msg}")
+                # Continue to retry as this is a server error
+                raise Exception(f"API error: {error_msg}")
+            
+            # Check for valid response with choices
             if "choices" in response_data and len(response_data["choices"]) > 0:
                 return response_data["choices"][0]["message"]["content"]
-            return None
+                
+            # If we get here, response is invalid but doesn't have an error field
+            logger.warning(f"YesScale API returned invalid response format: {response_data}")
+            raise Exception("Invalid API response format")
             
         except Exception as exc:
             wait = min(base_delay * (2 ** (attempt - 1)), max_delay)
-            logging.warning(f"YesScale API error ({type(exc).__name__}) - attempt {attempt}/{max_attempts}; waiting {wait}s before retry...")
+            logger.warning(f"YesScale API error ({type(exc).__name__}: {str(exc)}) - attempt {attempt}/{max_attempts}; waiting {wait}s before retry...")
             
             if attempt < max_attempts:
                 time.sleep(wait)
             else:
-                logging.error(f"Failed to connect to YesScale API after {max_attempts} attempts: {exc}")
+                logger.error(f"Failed to connect to YesScale API after {max_attempts} attempts: {exc}")
                 return None
 
 
 def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
-    """Process a single markdown chunk file using YesScale API.
-    
-    Args:
-        file_path: Path to the markdown file
-        model: The model name to use
-        max_retries: Maximum number of retries for API calls
-        retry_delay: Delay between retries in seconds
-        
-    Returns:
-        Boolean indicating whether processing was successful
-    """
     logger.info(f"Processing {file_path}")
     
     if not os.path.exists(file_path):
@@ -119,10 +124,10 @@ def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
             8. Nếu có **công thức toán học**, hãy định dạng lại theo cú pháp LaTeX trong Markdown: `$$...$$`."""
             
         prompt = f"""Văn bản cần xử lý:
-{content}
-        """
+        {content}"""
         
         retries = 0
+        
         while retries < max_retries:
             try:
                 done_file_path = f"{file_path[:-3]}_done.md"
@@ -138,6 +143,7 @@ def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
                     max_attempts=max_retries,
                     base_delay=retry_delay
                 )
+                print(cleaned_text)
                 
                 if cleaned_text is None:
                     raise Exception("Failed to get response from YesScale API")
@@ -179,3 +185,7 @@ def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
     except Exception as e:
         logger.error(f"Error processing {file_path}: {str(e)}")
         return False
+
+
+if __name__ == "__main__":
+    process_markdown_file("data/md/chunks/CAC_THANG_DIEM_THIET_YEU_SU_DUNG_TRONG_THUC_HANH_LAM_SANG-NXBTG/015.md", "gemini-2.5-flash-preview-04-17")

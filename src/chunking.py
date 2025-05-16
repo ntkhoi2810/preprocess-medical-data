@@ -2,15 +2,7 @@ import os
 import re
 from pathlib import Path
 
-def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=1000):
-    """
-    Split markdown files into chunks and save them as individual .md files
-    
-    Args:
-        input_dir (str): Path to input directory containing markdown files
-        output_dir (str): Path to output directory for markdown chunks
-        words_per_chunk (int): Approximate number of words per chunk (default: 1000)
-    """
+def split_markdown_into_chunks(input_dir, output_dir, words_per_chunk=3000):
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
     # Find all markdown files in the input directory

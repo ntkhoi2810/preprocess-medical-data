@@ -41,8 +41,8 @@ CONFIGS = {
     'chunk_size': 3000,
     
     # Model
-    # 'model': 'gemini-2.0-flash',
-    'model': 'gemini-2.5-flash-preview-04-17',
+    'model': 'gemini-2.0-flash',
+    # 'model': 'gemini-2.5-flash-preview-04-17',
     'delay': 2,  # Delay between API calls
     'max_retries': 3,
     'retry_delay': 10,
@@ -156,6 +156,8 @@ def run_pipeline():
         with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIGS['max_workers']) as executor:
             futures = []
             for file_path in chunk_files:
+                if file_path.endswith('_done.md'):
+                    continue
                 future = executor.submit(
                     process_file_worker,
                     file_path,
