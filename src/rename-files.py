@@ -138,7 +138,7 @@ def extract_cover_metadata(
             return "Error: Không chuyển được PDF thành ảnh."
 
         # 2️⃣  Lấy API‑key & khởi tạo Gemini -----------------------------------
-        api_key = "AIzaSyBYRWt4_hLmtJLO5ly9idPDU3n3zLgRf3k"
+        api_key = "your_api_key_here"
         if not api_key:
             return "Error: Chưa thiết lập biến môi trường GEMINI_API_KEY."
         genai.configure(api_key=api_key)
@@ -215,7 +215,7 @@ def get_new_filename(file_path: str) -> str:
     Returns
     -------
     str
-        Tên file mới được tạo từ metadata
+        Tên file mới được tạo từ metadata hoặc tên file gốc nếu có lỗi
     """
     output = extract_cover_metadata(
         file_path,
@@ -225,16 +225,43 @@ def get_new_filename(file_path: str) -> str:
         model_name="gemini-2.0-flash",
     )
 
-    ten_tai_lieu = output[0]["ten_tai_lieu"]
-    nam_xuat_ban = output[0]["nam_xuat_ban"]
-    tap = output[0]["tap"]
-    nguon = output[0]["nguon"]
+    # Kiểm tra nếu output là string (thông báo lỗi)
+    if isinstance(output, str):
+        logging.error(f"Lỗi khi trích xuất metadata từ {file_path}: {output}")
+        # Trả về tên file gốc nếu có lỗi
+        return Path(file_path).stem
+
+    # Kiểm tra nếu output là list rỗng
+    if not output or not isinstance(output, list):
+        logging.error(f"Không có dữ liệu trích xuất từ {file_path}")
+        return Path(file_path).stem
+    
+    # Lấy phần tử đầu tiên từ danh sách kết quả
+    metadata = output[0]
+    
+    if not isinstance(metadata, dict):
+        logging.error(f"Dữ liệu metadata không hợp lệ từ {file_path}: {metadata}")
+        return Path(file_path).stem
+
+    # Lấy các giá trị từ metadata
+    ten_tai_lieu = metadata.get("ten_tai_lieu")
+    nam_xuat_ban = metadata.get("nam_xuat_ban")
+    tap = metadata.get("tap")
+    nguon = metadata.get("nguon")
+
+    # Nếu không có tên tài liệu, trả về tên file gốc
+    if not ten_tai_lieu:
+        return Path(file_path).stem
 
     # Tạo list các giá trị không None và chuyển sang string
     list_of_json = []
     for item in [ten_tai_lieu, nam_xuat_ban, tap, nguon]:
         if item is not None:
             list_of_json.append(str(item))
+
+    # Nếu không có thông tin nào, trả về tên file gốc
+    if not list_of_json:
+        return Path(file_path).stem
 
     return "-".join(list_of_json)
 
@@ -347,22 +374,4 @@ def rename_files_in_folder(folder_path: str) -> dict:
 # Uncomment dòng dưới đây để chạy thử
 if __name__ == "__main__":
     # đổi tên file trong thư mục test
-    rename_result = rename_files_in_folder("test")
-
-    # đổi tên file trong các thư mục
-    folder_list = ['Cận lâm sàng',
-                   'Giải phẫu bệnh',
-                   'Gây mê hồi sức Ngoại văn',
-                   'Hóa Sinh',
-                   'ICU',
-                   'Lão Khoa',
-                   'MRI',
-                   'Nội cơ sở',
-                   'Nội thần kinh',
-                   'Ung thư',
-                   'Y học gia đình',
-                   'Điều dưỡng',
-                   'Điện tâm đồ (thông tin dạn ảnh)']
-
-    for folder in folder_list:
-        rename_files_in_folder(folder)
+    rename_result = rename_files_in_folder("Nội khoa")

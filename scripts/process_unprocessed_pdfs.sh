@@ -1,19 +1,7 @@
 #!/bin/bash
 
 # Đường dẫn đến thư mục PDF và MD
-PDF_DIR="./data/pdf/can_lam_sang"
-PDF_DIR="./data/pdf/dieu_duong"
-# PDF_DIR="./data/pdf/gay_me_hoi_suc_en"
-# PDF_DIR="./data/pdf/giai_phau_benh"
-# PDF_DIR="./data/pdf/dieu_duong"
-# PDF_DIR="./data/pdf/hoa_sinh"
-# PDF_DIR="./data/pdf/ICU"
-# PDF_DIR="./data/pdf/lao_khoa"
-# PDF_DIR="./data/pdf/MRI"
-# PDF_DIR="./data/pdf/noi_co_so"
-# PDF_DIR="./data/pdf/noi_than_kinh"
-# PDF_DIR="./data/md/ung_thu"
-# PDF_DIR="./data/md/y_hoc_gia_dinh"
+PDF_DIR="/teamspace/studios/this_studio/preprocess-medical-data/Nội khoa"
 
 MD_DIR="./data/md/raw"
 

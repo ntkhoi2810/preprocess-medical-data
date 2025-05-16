@@ -2,3 +2,4 @@ marker-pdf
 python-dotenv
 google-generativeai
 datasets
+pdf2image
