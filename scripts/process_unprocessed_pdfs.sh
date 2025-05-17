@@ -1,7 +1,10 @@
 #!/bin/bash
-
+# # Cập nhật file done_ocr.json
+python src/check.py
 # Đường dẫn đến thư mục PDF và MD
-PDF_DIR="/teamspace/studios/this_studio/preprocess-medical-data/Nội khoa"
+PDF_DIR="/workspace/preprocess-medical-data/data/pdf/Lao_khoa"
+PDF_DIR="/workspace/preprocess-medical-data/data/pdf/Noi_co_so"
+PDF_DIR="/workspace/preprocess-medical-data/data/pdf/Noi_than_kinh"
 
 MD_DIR="./data/md/raw"
 
@@ -39,7 +42,7 @@ done
 if [ $count -gt 0 ]; then
     echo "Bắt đầu xử lý $count file PDF chưa được OCR..."
     # Chạy marker cho thư mục chứa các file chưa được xử lý
-    marker "$TEMP_DIR" --output_dir "$MD_DIR" --output_format markdown --disable_image_extraction --languages "vi,en"
+    marker "$TEMP_DIR" --output_dir "$MD_DIR" --output_format markdown --disable_image_extraction --languages "vi,en" --force_ocr
     echo "Hoàn thành! Đã xử lý $count file PDF."
 else
     echo "Không có file nào cần xử lý."
@@ -49,7 +52,7 @@ fi
 rm -rf "$TEMP_DIR"
 
 # # Cập nhật file done_ocr.json
-python data/check.py
+python src/check.py
 
 
 
