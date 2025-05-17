@@ -7,6 +7,9 @@ import os
 from pathlib import Path
 from typing import List, Union, Dict, Any
 
+import dotenv
+dotenv.load_dotenv()
+
 import google.generativeai as genai
 from pdf2image import convert_from_path
 from PIL import Image
@@ -138,7 +141,7 @@ def extract_cover_metadata(
             return "Error: Không chuyển được PDF thành ảnh."
 
         # 2️⃣  Lấy API‑key & khởi tạo Gemini -----------------------------------
-        api_key = "your_api_key_here"
+        api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
             return "Error: Chưa thiết lập biến môi trường GEMINI_API_KEY."
         genai.configure(api_key=api_key)
