@@ -2,15 +2,15 @@
 # # Cập nhật file done_ocr.json
 python src/check.py
 # Đường dẫn đến thư mục PDF và MD
-PDF_DIR="/workspace/preprocess-medical-data/data/pdf/noi_benh_ly"
+PDF_DIR="/workspace/preprocess-medical-data/data/pdf/phac_do_noi_khoa"
 
 MD_DIR="./data/md/raw"
 
 # Đường dẫn đến file done_ocr.json
 DONE_OCR_FILE="./data/done_ocr.json"
 
-# Lấy danh sách các file PDF
-pdf_files=$(find "$PDF_DIR" -maxdepth 1 -name "*.pdf" -type f)
+# Lấy danh sách các file PDF (cả .pdf và .PDF)
+pdf_files=$(find "$PDF_DIR" -maxdepth 1 -type f \( -name "*.pdf" -o -name "*.PDF" \))
 
 # Tạo thư mục tạm chứa các file PDF chưa được xử lý
 TEMP_DIR="$PDF_DIR/temp_unprocessed"
@@ -22,17 +22,17 @@ count=0
 
 # Kiểm tra từng file PDF
 for pdf_file in $pdf_files; do
-    # Lấy tên file không có đường dẫn và đuôi .pdf
-    filename=$(basename "$pdf_file" .pdf)
+    # Lấy tên file không có đường dẫn và đuôi .pdf hoặc .PDF
+    filename=$(basename "$pdf_file" | sed -E 's/\.(pdf|PDF)$//')
     
     # Kiểm tra xem file đã có trong danh sách done_ocr.json chưa
     if ! grep -q "\"$filename\"" "$DONE_OCR_FILE"; then
-        echo "Đánh dấu để xử lý: $filename.pdf"
+        echo "Đánh dấu để xử lý: $filename"
         # Tạo symlink tới file chưa được xử lý trong thư mục tạm
         ln -sf "$(realpath "$pdf_file")" "$TEMP_DIR/$(basename "$pdf_file")"
         count=$((count + 1))
     else
-        echo "Bỏ qua file đã xử lý: $filename.pdf"
+        echo "Bỏ qua file đã xử lý: $filename"
     fi
 done
 
