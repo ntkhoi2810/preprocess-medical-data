@@ -27,6 +27,15 @@ def validate_pdf_file(file_path: Path) -> bool:
         return False
     return True
 
+def scan_directory(directory: Path) -> List[Path]:
+    """Scan all levels of directories for PDF files"""
+    pdf_files = []
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.lower().endswith('.pdf'):
+                pdf_files.append(Path(root) / file)
+    return pdf_files
+
 def split_large_pdfs(input_dir: Path, max_pages: int = 300) -> Dict[str, List[Dict[str, Any]]]:
     """
     Tìm và chia nhỏ các file PDF có nhiều hơn max_pages trang
@@ -47,7 +56,7 @@ def split_large_pdfs(input_dir: Path, max_pages: int = 300) -> Dict[str, List[Di
         if not input_dir.exists():
             raise Exception(f"Không tìm thấy thư mục {input_dir}")
             
-        pdf_files = list(input_dir.glob("**/*.pdf"))
+        pdf_files = scan_directory(input_dir)
         
         if not pdf_files:
             logging.warning(f"Không tìm thấy file PDF nào trong thư mục {input_dir}")
@@ -151,7 +160,7 @@ def split_large_pdfs(input_dir: Path, max_pages: int = 300) -> Dict[str, List[Di
 def parse_arguments():
     """Parse command line arguments"""
     parser = argparse.ArgumentParser(description='Chia nhỏ các file PDF lớn')
-    parser.add_argument('--input-dir', type=str, default='./data/pdf_copy',
+    parser.add_argument('--input-dir', type=str, default='./data/pdf',
                       help='Đường dẫn thư mục chứa các file PDF cần xử lý')
     parser.add_argument('--max-pages', type=int, default=300,
                       help='Số trang tối đa cho mỗi file PDF sau khi chia')
