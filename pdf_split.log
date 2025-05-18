@@ -1,0 +1,1282 @@
+2025-05-18 07:52:22,350 - INFO - Đang xử lý file: data/pdf/lao_khoa/BENH_GUT_NHUNG_DIEM_MOI_TRONG_CHAN_DOAN_VA_DIEU_TRI-2022-DH_Y_DUOC_CAN_THO.pdf
+2025-05-18 07:52:22,360 - INFO - Số trang hợp lệ: 37/37
+2025-05-18 07:52:22,360 - INFO - Đang xử lý file: data/pdf/lao_khoa/BENH_NHAN_LOANG_XUONG_CAN_IT_NHAT_3_5_NAM_DIEU_TRI_DE_GIA-alobacsi.com.pdf
+2025-05-18 07:52:22,364 - INFO - Số trang hợp lệ: 11/11
+2025-05-18 07:52:22,364 - INFO - Đang xử lý file: data/pdf/lao_khoa/CAP_NHAT_DIEU_TRI_LOANG_XUONG_O_NGUOI_CAO_TUOI-BENH_VIEN_CHO_RAY.pdf
+2025-05-18 07:52:22,367 - INFO - Số trang hợp lệ: 13/13
+2025-05-18 07:52:22,367 - INFO - Đang xử lý file: data/pdf/lao_khoa/CHAN_DOAN_VA_DIEU_TRI_THOAI_HOA_KHOP.pdf
+2025-05-18 07:52:22,369 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 07:52:22,369 - INFO - Đang xử lý file: data/pdf/lao_khoa/DIEU_TRI_AN_TOAN_VA_HIEU_QUA_BENH_THOAI_HOA_KHOP_O_NGUOI_CAO_TUOI_CO_BENH_DONG_MAC-2022.pdf
+2025-05-18 07:52:22,379 - INFO - Số trang hợp lệ: 44/44
+2025-05-18 07:52:22,379 - INFO - Đang xử lý file: data/pdf/lao_khoa/DIEU_TRI_DAU_O_CAC_BENH_LY_CO_XUONG_KHOP-BV_DA_KHOA_TAM_ANH.pdf
+2025-05-18 07:52:22,392 - INFO - Số trang hợp lệ: 39/39
+2025-05-18 07:52:22,393 - INFO - Đang xử lý file: data/pdf/lao_khoa/DIEU_TRI_GOUT_DUNG_NGAY_TU_BAN_DAU-HOI_THAP_KHOP_HOC_VIET_NAM.pdf
+2025-05-18 07:52:22,405 - INFO - Số trang hợp lệ: 35/35
+2025-05-18 07:52:22,405 - INFO - Đang xử lý file: data/pdf/lao_khoa/DIEU_TRI_NGOAI_KHOA_THOAI_HOA_KHOP_GOI_TREN_BENH_NHAN_LON_TUOI-BV_CHINH_HINH.pdf
+2025-05-18 07:52:22,414 - INFO - Số trang hợp lệ: 28/28
+2025-05-18 07:52:22,414 - INFO - Đang xử lý file: data/pdf/lao_khoa/DIEU_TRI_TOAN_DIEN_THOAI_HOA_KHOP_GOI_O_NGUOI_CAO_TUOI-BV_CHO_RAY.pdf
+2025-05-18 07:52:22,421 - INFO - Số trang hợp lệ: 26/26
+2025-05-18 07:52:22,421 - INFO - Đang xử lý file: data/pdf/lao_khoa/DU_PHONG_VA_DIEU_TRI_VIEM_KHOP_GOUT-BENH_VIEN_CHO_RAY-1.pdf
+2025-05-18 07:52:22,434 - INFO - Số trang hợp lệ: 39/39
+2025-05-18 07:52:22,434 - INFO - Đang xử lý file: data/pdf/lao_khoa/DU_PHONG_VA_DIEU_TRI_VIEM_KHOP_GOUT-BENH_VIEN_CHO_RAY.pdf
+2025-05-18 07:52:22,448 - INFO - Số trang hợp lệ: 39/39
+2025-05-18 07:52:22,448 - INFO - Đang xử lý file: data/pdf/lao_khoa/GOUT_HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_CUA_NICE-2022-NICE.pdf
+2025-05-18 07:52:22,449 - INFO - Số trang hợp lệ: 5/5
+2025-05-18 07:52:22,449 - INFO - Đang xử lý file: data/pdf/lao_khoa/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_CAC_BENH_CO_XUONG_KHOP-2016-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:22,512 - INFO - Số trang hợp lệ: 218/218
+2025-05-18 07:52:22,512 - INFO - Đang xử lý file: data/pdf/lao_khoa/LOANG_XUONG.pdf
+2025-05-18 07:52:22,513 - INFO - Số trang hợp lệ: 7/7
+2025-05-18 07:52:22,513 - INFO - Đang xử lý file: data/pdf/lao_khoa/LUPUS_ERYTHEMATOSUS.pdf
+2025-05-18 07:52:22,524 - INFO - Số trang hợp lệ: 74/74
+2025-05-18 07:52:22,524 - INFO - Đang xử lý file: data/pdf/lao_khoa/QUAN_LY_BENH_NHAN_GUT_CO_BENH_THAN_MAN_SU_DONG_THUAN_CUA_CAC_CHUYEN_GIA-2022-CHO_RAY.pdf
+2025-05-18 07:52:22,528 - INFO - Số trang hợp lệ: 33/33
+2025-05-18 07:52:22,528 - INFO - Đang xử lý file: data/pdf/lao_khoa/UNG_DUNG_ACID_HYALURONIC_TRONG_BENH_LY_CO_XUONG_KHOP-BV_TAM_ANH_TP_HCM.pdf
+2025-05-18 07:52:22,535 - INFO - Số trang hợp lệ: 32/32
+2025-05-18 07:52:22,535 - INFO - Đang xử lý file: data/pdf/lao_khoa/MUC_LUC-P1.pdf
+2025-05-18 07:52:22,601 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:22,601 - INFO - Đang xử lý file: data/pdf/lao_khoa/MUC_LUC-P2.pdf
+2025-05-18 07:52:22,620 - INFO - Số trang hợp lệ: 86/86
+2025-05-18 07:52:22,621 - INFO - Đang xử lý file: data/pdf/lao_khoa/NHIEM_TRUNG_CO_QUAN_VAN_DONG_CAC_DONG_THUAN_QUOC_TE-2023-P1.pdf
+2025-05-18 07:52:22,659 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:22,660 - INFO - Đang xử lý file: data/pdf/lao_khoa/NHIEM_TRUNG_CO_QUAN_VAN_DONG_CAC_DONG_THUAN_QUOC_TE-2023-P2.pdf
+2025-05-18 07:52:22,676 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:22,676 - INFO - Đang xử lý file: data/pdf/lao_khoa/NHIEM_TRUNG_CO_QUAN_VAN_DONG_CAC_DONG_THUAN_QUOC_TE-2023-P3.pdf
+2025-05-18 07:52:22,693 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:22,693 - INFO - Đang xử lý file: data/pdf/lao_khoa/NHIEM_TRUNG_CO_QUAN_VAN_DONG_CAC_DONG_THUAN_QUOC_TE-2023-P4.pdf
+2025-05-18 07:52:22,710 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:22,710 - INFO - Đang xử lý file: data/pdf/lao_khoa/NHIEM_TRUNG_CO_QUAN_VAN_DONG_CAC_DONG_THUAN_QUOC_TE-2023-P5.pdf
+2025-05-18 07:52:22,730 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:22,730 - INFO - Đang xử lý file: data/pdf/lao_khoa/NHIEM_TRUNG_CO_QUAN_VAN_DONG_CAC_DONG_THUAN_QUOC_TE-2023-P6.pdf
+2025-05-18 07:52:22,742 - INFO - Số trang hợp lệ: 165/165
+2025-05-18 07:52:22,742 - INFO - Đang xử lý file: data/pdf/noi_co_so/7_LOAI_TRAI_CAY_DE_KIEM_CHO_NGUOI_DAI_THAO_DUONG-BS_NGUYEN_QUANG_BAY.pdf
+2025-05-18 07:52:22,744 - INFO - Số trang hợp lệ: 3/3
+2025-05-18 07:52:22,744 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_HOC_NGOAI_KHOA_CHAN_THUONG_CHINH_HINH-2021-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:22,796 - INFO - Số trang hợp lệ: 1/300
+2025-05-18 07:52:22,796 - INFO - Đang xử lý file: data/pdf/noi_co_so/BAI_GIANG_BENH_HOC_NGOAI_KHOA-2006-TAP1-NXBYH.pdf
+2025-05-18 07:52:22,865 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/BAI_GIANG_BENH_HOC_NGOAI_KHOA-2006-TAP1-NXBYH.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:22,865 - INFO - Đang xử lý file: data/pdf/noi_co_so/BAO_CAO_KET_QUA_BINH_AN_VIEM_LOET_DA_DAY_TA_TRANG-2020-BENH_VIEN_SAN_NHI_TINH.pdf
+2025-05-18 07:52:22,867 - INFO - Số trang hợp lệ: 6/6
+2025-05-18 07:52:22,867 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_AN_NOI-2019.pdf
+2025-05-18 07:52:22,868 - INFO - Số trang hợp lệ: 6/6
+2025-05-18 07:52:22,868 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_AN_NOI_KHOA.pdf
+2025-05-18 07:52:22,870 - INFO - Số trang hợp lệ: 14/14
+2025-05-18 07:52:22,870 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_AN_THAN_KINH.pdf
+2025-05-18 07:52:22,871 - INFO - Số trang hợp lệ: 7/7
+2025-05-18 07:52:22,871 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_DAI_THAO_DUONG_O_TRE_EM.pdf
+2025-05-18 07:52:22,891 - INFO - Số trang hợp lệ: 24/24
+2025-05-18 07:52:22,891 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_HOC_NGOAI_KHOA_TIEU_HOA-2000-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:22,949 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:22,949 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_HOC_NGOAI_KHOA_THAN_KINH-2022-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:22,953 - INFO - Số trang hợp lệ: 25/25
+2025-05-18 07:52:22,953 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_TRUYEN_NHIEM-2020-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:23,043 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:23,043 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_LY_THAN.pdf
+2025-05-18 07:52:23,046 - INFO - Số trang hợp lệ: 39/39
+2025-05-18 07:52:23,046 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_THAN_MAN-2022-BVDK_TRA_VINH.pdf
+2025-05-18 07:52:23,069 - INFO - Số trang hợp lệ: 61/61
+2025-05-18 07:52:23,069 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_THAN_MAN-BENH_VIEN_QUAN_TAN_PHU.pdf
+2025-05-18 07:52:23,077 - INFO - Số trang hợp lệ: 49/49
+2025-05-18 07:52:23,077 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_THAN_MAN.pdf
+2025-05-18 07:52:23,079 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 07:52:23,079 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_THAN_MAN_DAI_THAO_DUONG-MEDICINE_PHAM_NGOC_THACH.pdf
+2025-05-18 07:52:23,082 - INFO - Số trang hợp lệ: 36/36
+2025-05-18 07:52:23,082 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_THAN_MAN_DAI_THAO_DUONG_TU_SINH_LY_BENH_DEN_DIEU_TRI_DE_CAI_THIEN_TIEN_LUONG-MEDICINE_PHAM_NGOC_THACH.pdf
+2025-05-18 07:52:23,085 - INFO - Số trang hợp lệ: 36/36
+2025-05-18 07:52:23,085 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_THAN_MAN_VA_SUY_THAN_MAN-DH_Y_DUOC_TP_HCM-1.pdf
+2025-05-18 07:52:23,098 - INFO - Số trang hợp lệ: 69/69
+2025-05-18 07:52:23,098 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_THAN_MAN_VA_SUY_THAN_MAN-DH_Y_DUOC_TP_HCM-2.pdf
+2025-05-18 07:52:23,111 - INFO - Số trang hợp lệ: 69/69
+2025-05-18 07:52:23,111 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_THAN_MAN_VA_SUY_THAN_MAN-DH_Y_DUOC_TP_HCM.pdf
+2025-05-18 07:52:23,124 - INFO - Số trang hợp lệ: 69/69
+2025-05-18 07:52:23,124 - INFO - Đang xử lý file: data/pdf/noi_co_so/CHAN_THUONG_SO_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:23,205 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:23,206 - INFO - Đang xử lý file: data/pdf/noi_co_so/CHAN_THUONG_SO_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:23,273 - INFO - Số trang hợp lệ: 226/226
+2025-05-18 07:52:23,273 - INFO - Đang xử lý file: data/pdf/noi_co_so/CAC_BENH_LY_TIM_MACH-PHAN_THU_HAI.pdf
+2025-05-18 07:52:23,279 - INFO - Số trang hợp lệ: 90/90
+2025-05-18 07:52:23,279 - INFO - Đang xử lý file: data/pdf/noi_co_so/CAC_HOI_CHUNG_LAM_SANG.pdf
+2025-05-18 07:52:23,281 - INFO - Số trang hợp lệ: 11/11
+2025-05-18 07:52:23,281 - INFO - Đang xử lý file: data/pdf/noi_co_so/CAN_LAM_SANG_TRONG_CHAN_DOAN_BENH_TIEU_HOA_GAN_MAT.pdf
+2025-05-18 07:52:23,340 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/CAN_LAM_SANG_TRONG_CHAN_DOAN_BENH_TIEU_HOA_GAN_MAT.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:23,341 - INFO - Đang xử lý file: data/pdf/noi_co_so/CAP_CUU_NGOAI_KHOA-2006-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:23,434 - INFO - Số trang hợp lệ: 169/169
+2025-05-18 07:52:23,434 - INFO - Đang xử lý file: data/pdf/noi_co_so/CAP_NHAT_CHAN_DOAN_VA_DIEU_TRI_DAI_THAO_DUONG_O_NGUOI_CAO_TUOI-2023-DHYD_TPHCM.pdf
+2025-05-18 07:52:23,441 - INFO - Số trang hợp lệ: 40/40
+2025-05-18 07:52:23,441 - INFO - Đang xử lý file: data/pdf/noi_co_so/CHAN_DOAN_VA_DIEU_TRI_LOET_DA_DAY_TA_TRANG.pdf
+2025-05-18 07:52:23,466 - INFO - Số trang hợp lệ: 67/67
+2025-05-18 07:52:23,466 - INFO - Đang xử lý file: data/pdf/noi_co_so/CHAN_DOAN_VA_XU_TRI_XUAT_HUYET_TIEU_HOA_DUOI-BENH_VIEN_CAP_CUU_TRUNG_VUONG.pdf
+2025-05-18 07:52:23,467 - INFO - Số trang hợp lệ: 3/3
+2025-05-18 07:52:23,467 - INFO - Đang xử lý file: data/pdf/noi_co_so/CO_CHE_TRIEU_CHUNG_HOC-ELSEVIER-P2.pdf
+2025-05-18 07:52:23,598 - INFO - Số trang hợp lệ: 280/280
+2025-05-18 07:52:23,598 - INFO - Đang xử lý file: data/pdf/noi_co_so/CO_CHE_GAY_PHU.pdf
+2025-05-18 07:52:23,599 - INFO - Số trang hợp lệ: 9/9
+2025-05-18 07:52:23,599 - INFO - Đang xử lý file: data/pdf/noi_co_so/MUC_LUC-P1.pdf
+2025-05-18 07:52:23,632 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:23,632 - INFO - Đang xử lý file: data/pdf/noi_co_so/CURRENT_TOPICS_IN_EXTRAPYRAMIDAL_DISORDERS-SPRINGER_VERLAG.pdf
+2025-05-18 07:52:23,709 - INFO - Số trang hợp lệ: 234/234
+2025-05-18 07:52:23,709 - INFO - Đang xử lý file: data/pdf/noi_co_so/DAI_THAO_DUONG_LA_GI.pdf
+2025-05-18 07:52:23,714 - INFO - Số trang hợp lệ: 60/60
+2025-05-18 07:52:23,714 - INFO - Đang xử lý file: data/pdf/noi_co_so/DANH_GIA_CHUC_NANG_LOC_CAU_THAN-2012-DH_Y_DUOC_TPHCM.pdf
+2025-05-18 07:52:23,722 - INFO - Số trang hợp lệ: 31/31
+2025-05-18 07:52:23,722 - INFO - Đang xử lý file: data/pdf/noi_co_so/DAT_VAN_DE.pdf
+2025-05-18 07:52:23,735 - INFO - Số trang hợp lệ: 158/158
+2025-05-18 07:52:23,735 - INFO - Đang xử lý file: data/pdf/noi_co_so/DE_THI_HOC_KY_1_NAM_HOC_2023_2024-2023-TRUONG_DHYD_CAN_THO.pdf
+2025-05-18 07:52:23,736 - INFO - Số trang hợp lệ: 11/11
+2025-05-18 07:52:23,736 - INFO - Đang xử lý file: data/pdf/noi_co_so/DE_THI_HOC_KY_NAM_HOC_2021_2022-2021-DH_CAN_THO.pdf
+2025-05-18 07:52:23,737 - INFO - Số trang hợp lệ: 5/5
+2025-05-18 07:52:23,737 - INFO - Đang xử lý file: data/pdf/noi_co_so/DE_THI_HOC_KY_NAM_HOC_2021_2022-2021-TRUONG_DHYD_CAN_THO.pdf
+2025-05-18 07:52:23,737 - INFO - Số trang hợp lệ: 5/5
+2025-05-18 07:52:23,737 - INFO - Đang xử lý file: data/pdf/noi_co_so/DIABETES_CARE-2022-SUPPLEMENT_1-AMERICAN_DIABETES_ASSOCIATION.pdf
+2025-05-18 07:52:23,798 - INFO - Số trang hợp lệ: 270/270
+2025-05-18 07:52:23,798 - INFO - Đang xử lý file: data/pdf/noi_co_so/DIEU_TRI_BENH_THAN_DO_DAI_THAO_DUONG_TU_KHUYEN_CAO_DEN_THUC_HANH-2023-DHYD_TPHCM.pdf
+2025-05-18 07:52:23,811 - INFO - Số trang hợp lệ: 35/35
+2025-05-18 07:52:23,811 - INFO - Đang xử lý file: data/pdf/noi_co_so/DIEU_TRI_HOC_NGOAI_KHOA_LONG_NGUC_TIM_MACH-2008-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:23,924 - INFO - Số trang hợp lệ: 291/291
+2025-05-18 07:52:23,924 - INFO - Đang xử lý file: data/pdf/noi_co_so/DIEU_TRI_HOC_NOI_KHOA-2012-NHA_XUAT_BAN_Y_HOC-1.pdf
+2025-05-18 07:52:23,925 - INFO - Số trang hợp lệ: 16/16
+2025-05-18 07:52:23,925 - INFO - Đang xử lý file: data/pdf/noi_co_so/DIEU_TRI_HOC_NOI_KHOA-2012-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:23,927 - INFO - Số trang hợp lệ: 16/16
+2025-05-18 07:52:23,927 - INFO - Đang xử lý file: data/pdf/noi_co_so/DIEU_TRI_HO_TRO_O_BENH_SUY_THAN_MAN-2005-Wolters_Kluwer_Lippincot.pdf
+2025-05-18 07:52:23,930 - INFO - Số trang hợp lệ: 21/21
+2025-05-18 07:52:23,930 - INFO - Đang xử lý file: data/pdf/noi_co_so/HOI_SUC_CAP_CUU_CHONG_DOC-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:23,968 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/HOI_SUC_CAP_CUU_CHONG_DOC-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:23,969 - INFO - Đang xử lý file: data/pdf/noi_co_so/CO_CHE_TRIEU_CHUNG_HOC-ELSEVIER-P1.pdf
+2025-05-18 07:52:24,073 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:24,073 - INFO - Đang xử lý file: data/pdf/noi_co_so/KHAM_LAM_SANG_HOI_BENH_SU_BATES-2020-HELVIETMED-P1.pdf
+2025-05-18 07:52:24,103 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:24,104 - INFO - Đang xử lý file: data/pdf/noi_co_so/MUC_LUC-P2.pdf
+2025-05-18 07:52:24,125 - INFO - Số trang hợp lệ: 220/220
+2025-05-18 07:52:24,125 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_DAI_THAO_DUONG_TIP_2-2020-BO_Y_TE.pdf
+2025-05-18 07:52:24,135 - INFO - Số trang hợp lệ: 77/77
+2025-05-18 07:52:24,135 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_DAI_THAO_DUONG_TIP_2-2020-QD-BYT.pdf
+2025-05-18 07:52:24,154 - INFO - Số trang hợp lệ: 76/76
+2025-05-18 07:52:24,154 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_VE_THAN_TIET_NIEU-2015-BO_Y_TE-1.pdf
+2025-05-18 07:52:24,167 - INFO - Số trang hợp lệ: 202/202
+2025-05-18 07:52:24,167 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_VE_THAN_TIET_NIEU-2015-BO_Y_TE.pdf
+2025-05-18 07:52:24,180 - INFO - Số trang hợp lệ: 202/202
+2025-05-18 07:52:24,180 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_TIEN_DAI_THAO_DUONG-2020-BO_Y_TE.pdf
+2025-05-18 07:52:24,183 - INFO - Số trang hợp lệ: 19/19
+2025-05-18 07:52:24,183 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_CHAN_DOAN_VA_XU_TRI_HOI_CHUNG_MACH_VANH_CAP-2019-BO_Y_TE.pdf
+2025-05-18 07:52:24,189 - INFO - Số trang hợp lệ: 36/36
+2025-05-18 07:52:24,189 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_LS_TRINH_BENH_AN_PHU-2014-BS_NGOC_LINH.pdf
+2025-05-18 07:52:24,215 - INFO - Số trang hợp lệ: 63/63
+2025-05-18 07:52:24,215 - INFO - Đang xử lý file: data/pdf/noi_co_so/KHAM_12_DOI_DAY_THAN_KINH_SO_NAO.pdf
+2025-05-18 07:52:24,218 - INFO - Số trang hợp lệ: 30/30
+2025-05-18 07:52:24,218 - INFO - Đang xử lý file: data/pdf/noi_co_so/MAU_VA_CO_QUAN_TAO_MAU-Kien_Thuc_Y_Khoa_HMU-P1.pdf
+2025-05-18 07:52:24,284 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:24,284 - INFO - Đang xử lý file: data/pdf/noi_co_so/KET_QUA_PHAU_THUAT_LAM_CAU_NOI_DONG_TINH_MACH_CHO_BENH_NHAN_SUY_THAN_MAN_LOC_MAU_CHU_KY_TAI_BENH_VIEN_TRUNG_UONG_THAI_NGUYEN-Benh_vien_Trung_Uong_Thai_Nguyen-1.pdf
+2025-05-18 07:52:24,286 - INFO - Số trang hợp lệ: 5/5
+2025-05-18 07:52:24,286 - INFO - Đang xử lý file: data/pdf/noi_co_so/KET_QUA_PHAU_THUAT_LAM_CAU_NOI_DONG_TINH_MACH_CHO_BENH_NHAN_SUY_THAN_MAN_LOC_MAU_CHU_KY_TAI_BENH_VIEN_TRUNG_UONG_THAI_NGUYEN-BENH_VIEN_TRUNG_UONG_THAI_NGUYEN.pdf
+2025-05-18 07:52:24,287 - INFO - Số trang hợp lệ: 5/5
+2025-05-18 07:52:24,287 - INFO - Đang xử lý file: data/pdf/noi_co_so/KIEM_SOAT_GLUCOSE_HUYET_TREN_BENH_NHAN_BENH_THAN_MAN-DH_Y_DUOC_TP_HCM.pdf
+2025-05-18 07:52:24,298 - INFO - Số trang hợp lệ: 30/30
+2025-05-18 07:52:24,298 - INFO - Đang xử lý file: data/pdf/noi_co_so/LOC_MAU_CHU_KY_BANG_KY_THUAT_CHAY_THAN_NHAN_TAO-KHOA_THAN_NOI_TIET.pdf
+2025-05-18 07:52:24,300 - INFO - Số trang hợp lệ: 13/13
+2025-05-18 07:52:24,300 - INFO - Đang xử lý file: data/pdf/noi_co_so/NGOAI_KHOA_CO_SO_TRIEU_CHUNG_HOC_NGOAI_KHOA-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:24,318 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/NGOAI_KHOA_CO_SO_TRIEU_CHUNG_HOC_NGOAI_KHOA-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:24,319 - INFO - Đang xử lý file: data/pdf/noi_co_so/NGHIEN_CUU_TINH_TRANG_DONG_CAM_MAU_O_NGUOI_CAO_TUOI_BI_BENH_DAI_THAO_DUONG_TYPE_2_VA_MOI_LIEN_QUAN_VOI_CAC_BIEN_CHUNG_MACH_MAU-2019-DH_Y_HA_NOI.pdf
+2025-05-18 07:52:24,334 - INFO - Số trang hợp lệ: 167/167
+2025-05-18 07:52:24,334 - INFO - Đang xử lý file: data/pdf/noi_co_so/NGHIEN_CUU_UNG_DUNG_PHAU_THUAT_TAO_RO_DONG_TINH_MACH_O_CANG_TAY_DE_CHAY_THAN_NHAN_TAO_CHU_KY-2010-HOC_VIEN_QUAN_Y-1.pdf
+2025-05-18 07:52:24,337 - INFO - Số trang hợp lệ: 27/27
+2025-05-18 07:52:24,337 - INFO - Đang xử lý file: data/pdf/noi_co_so/NGHIEN_CUU_UNG_DUNG_PHAU_THUAT_TAO_RO_DONG_TINH_MACH_O_CANG_TAY_DE_CHAY_THAN_NHAN_TAO_CHU_KY-2010-HOC_VIEN_QUAN_Y.pdf
+2025-05-18 07:52:24,339 - INFO - Số trang hợp lệ: 27/27
+2025-05-18 07:52:24,339 - INFO - Đang xử lý file: data/pdf/noi_co_so/NHUNG_VAN_DE_TIM_MACH_QUAN_TRONG-2022-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:24,444 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:24,444 - INFO - Đang xử lý file: data/pdf/noi_co_so/NHAN_TRUONG_HOP_PHOI_CAP_TRONG_VIEM_CAU_THAN_CAP_HAU_NHIEM_LIEN_CAU_TRUNG-Benh_vien_Da_khoa_Trung_tam_Tien_Giang.pdf
+2025-05-18 07:52:24,446 - INFO - Số trang hợp lệ: 5/5
+2025-05-18 07:52:24,446 - INFO - Đang xử lý file: data/pdf/noi_co_so/NOI_CO_SO-1-P1.pdf
+2025-05-18 07:52:24,477 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:24,477 - INFO - Đang xử lý file: data/pdf/noi_co_so/NOI_CO_SO-1-P2.pdf
+2025-05-18 07:52:24,481 - INFO - Số trang hợp lệ: 30/30
+2025-05-18 07:52:24,481 - INFO - Đang xử lý file: data/pdf/noi_co_so/NOI_CO_SO-2-P1.pdf
+2025-05-18 07:52:24,544 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:24,544 - INFO - Đang xử lý file: data/pdf/noi_co_so/NOI_CO_SO-P1.pdf
+2025-05-18 07:52:24,576 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:24,576 - INFO - Đang xử lý file: data/pdf/noi_co_so/NOI_CO_SO-2015.pdf
+2025-05-18 07:52:24,609 - INFO - Số trang hợp lệ: 264/264
+2025-05-18 07:52:24,609 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAC_DO_58_KIEM_SOAT_LIPID_MAU_TRONG_PHONG_NGUA_BENH_TIM_MACH_DO_XO_VUA_DONG_MACH-2022-VIEN_TIM_TP.HCM.pdf
+2025-05-18 07:52:24,610 - INFO - Số trang hợp lệ: 10/10
+2025-05-18 07:52:24,610 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAU_THUAT_MACH_MAU_LON-P1.pdf
+2025-05-18 07:52:24,657 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:24,657 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAN_TICH_HUYET_DO_BAT_THUONG-DHYK_PNT.pdf
+2025-05-18 07:52:24,679 - INFO - Số trang hợp lệ: 40/40
+2025-05-18 07:52:24,679 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAU_THUAT_CAP_CUU_TIM_MACH_VA_LONG_NGUC-2001-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:24,752 - INFO - Số trang hợp lệ: 232/232
+2025-05-18 07:52:24,752 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:24,773 - INFO - Số trang hợp lệ: 236/236
+2025-05-18 07:52:24,773 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAU_THUAT_THUC_HANH-2007-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:24,866 - INFO - Số trang hợp lệ: 252/252
+2025-05-18 07:52:24,866 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAU_THUAT_TIET_NIEU_TRE_EM-2002-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:24,925 - INFO - Số trang hợp lệ: 296/296
+2025-05-18 07:52:24,925 - INFO - Đang xử lý file: data/pdf/noi_co_so/ROI_LOAN_CAU_TAO_MAU-PHAN_I.pdf
+2025-05-18 07:52:24,934 - INFO - Số trang hợp lệ: 61/61
+2025-05-18 07:52:24,934 - INFO - Đang xử lý file: data/pdf/noi_co_so/STENT_CHUYEN_DONG_TRONG_DIEU_TRI_TUI_PHINH_DONG_MACH_NAO-DH_Y_DUOC_TP_HCM.pdf
+2025-05-18 07:52:24,938 - INFO - Số trang hợp lệ: 54/54
+2025-05-18 07:52:24,938 - INFO - Đang xử lý file: data/pdf/noi_co_so/SUY_THAN_CAP-2003-ADQI.pdf
+2025-05-18 07:52:24,940 - INFO - Số trang hợp lệ: 4/4
+2025-05-18 07:52:24,940 - INFO - Đang xử lý file: data/pdf/noi_co_so/SU_DUNG_THUOC_O_BENH_NHAN_SUY_THAN_SUY_GAN-BV_NHI_DONG_I.pdf
+2025-05-18 07:52:24,956 - INFO - Số trang hợp lệ: 50/50
+2025-05-18 07:52:24,956 - INFO - Đang xử lý file: data/pdf/noi_co_so/SYNDROME_DICTIONARY.pdf
+2025-05-18 07:52:24,959 - INFO - Số trang hợp lệ: 32/32
+2025-05-18 07:52:24,959 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-1965-DH_Y_HA_NOI-P1.pdf
+2025-05-18 07:52:24,984 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:24,984 - INFO - Đang xử lý file: data/pdf/noi_co_so/TIENG_TIM_AM_THOI_O_TIM-DHYD.pdf
+2025-05-18 07:52:24,988 - INFO - Số trang hợp lệ: 38/38
+2025-05-18 07:52:24,988 - INFO - Đang xử lý file: data/pdf/noi_co_so/TIEP_CAN_CAC_VAN_DE_NOI_KHOA_THUONG_GAP-2020-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:25,040 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/TIEP_CAN_CAC_VAN_DE_NOI_KHOA_THUONG_GAP-2020-NHA_XUAT_BAN_Y_HOC.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:25,041 - INFO - Đang xử lý file: data/pdf/noi_co_so/TIEP_CAN_CHAN_DOAN_BENH_NOI_KHOA-2020-DHQG_TPHCM.pdf
+2025-05-18 07:52:25,082 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/TIEP_CAN_CHAN_DOAN_BENH_NOI_KHOA-2020-DHQG_TPHCM.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:25,082 - INFO - Đang xử lý file: data/pdf/noi_co_so/TIEP_CAN_CHAN_DOAN_BENH_THAN_MAN.pdf
+2025-05-18 07:52:25,136 - INFO - Số trang hợp lệ: 49/49
+2025-05-18 07:52:25,136 - INFO - Đang xử lý file: data/pdf/noi_co_so/TIEP_CAN_CHAN_DOAN_SUY_THAN_MAN-1.pdf
+2025-05-18 07:52:25,165 - INFO - Số trang hợp lệ: 70/70
+2025-05-18 07:52:25,165 - INFO - Đang xử lý file: data/pdf/noi_co_so/TIEP_CAN_CHAN_DOAN_SUY_THAN_MAN.pdf
+2025-05-18 07:52:25,195 - INFO - Số trang hợp lệ: 70/70
+2025-05-18 07:52:25,195 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-1965-DH_Y_HA_NOI-P2.pdf
+2025-05-18 07:52:25,207 - INFO - Số trang hợp lệ: 144/144
+2025-05-18 07:52:25,207 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRAC_NGHIEM_NOI_KHOA_CO_SO-YhocData.pdf
+2025-05-18 07:52:25,287 - INFO - Số trang hợp lệ: 255/255
+2025-05-18 07:52:25,287 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRAN_KHI_MANG_PHOI.pdf
+2025-05-18 07:52:25,289 - INFO - Số trang hợp lệ: 10/10
+2025-05-18 07:52:25,289 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRAN_KHI_MANG_PHOI_PHAT.pdf
+2025-05-18 07:52:25,291 - INFO - Số trang hợp lệ: 11/11
+2025-05-18 07:52:25,291 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRE_BI_VIEM_CAU_THAN_CAP_CO_TRIEU_CHUNG_GI-CamScanner.pdf
+2025-05-18 07:52:25,292 - INFO - Số trang hợp lệ: 14/14
+2025-05-18 07:52:25,292 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-2018-TAP1-NXBY_HOC-1-P1.pdf
+2025-05-18 07:52:25,329 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:25,329 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-2012-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:25,405 - INFO - Số trang hợp lệ: 238/238
+2025-05-18 07:52:25,405 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-2018-TAP1-NXBY_HOC-P1.pdf
+2025-05-18 07:52:25,442 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:25,442 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-2018-TAP_2-NXB_Y_HOC-P1.pdf
+2025-05-18 07:52:25,476 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:25,476 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-2018-TAP_2-NXB_Y_HOC-P2.pdf
+2025-05-18 07:52:25,500 - INFO - Số trang hợp lệ: 202/202
+2025-05-18 07:52:25,500 - INFO - Đang xử lý file: data/pdf/noi_co_so/CO_CHE_TRIEU_CHUNG_HOC-ELSEVIER-1-P2.pdf
+2025-05-18 07:52:25,826 - INFO - Số trang hợp lệ: 263/263
+2025-05-18 07:52:25,827 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_TIM_MACH-DH_Y_DUOC_CAN_THO.pdf
+2025-05-18 07:52:25,843 - INFO - Số trang hợp lệ: 69/69
+2025-05-18 07:52:25,843 - INFO - Đang xử lý file: data/pdf/noi_co_so/TU_DIEN_HOI_CHUNG_TRIEU_CHUNG_THUONG_GAP-DOCTOR_PLUS_CLUB.pdf
+2025-05-18 07:52:25,849 - INFO - Số trang hợp lệ: 34/34
+2025-05-18 07:52:25,849 - INFO - Đang xử lý file: data/pdf/noi_co_so/CO_CHE_TRIEU_CHUNG_HOC-ELSEVIER-1-P1.pdf
+2025-05-18 07:52:26,096 - INFO - Số trang hợp lệ: 279/280
+2025-05-18 07:52:26,097 - INFO - Đang xử lý file: data/pdf/noi_co_so/VAI_TRO_DI_TRUYEN_HOC_TRONG_TIEP_CAN_VA_XU_TRI_DAI_THAO_DUONG-2023-NTP.pdf
+2025-05-18 07:52:26,155 - INFO - Số trang hợp lệ: 148/148
+2025-05-18 07:52:26,155 - INFO - Đang xử lý file: data/pdf/noi_co_so/VIEM_CAU_THAN_CAP-2022-BVDK_TRA_VINH.pdf
+2025-05-18 07:52:26,165 - INFO - Số trang hợp lệ: 30/30
+2025-05-18 07:52:26,165 - INFO - Đang xử lý file: data/pdf/noi_co_so/XET_NGHIEM_DOAN_BENH_TIEU_HOA_GAN_MAT.pdf
+2025-05-18 07:52:26,206 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/XET_NGHIEM_DOAN_BENH_TIEU_HOA_GAN_MAT.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:26,207 - INFO - Đang xử lý file: data/pdf/noi_co_so/XET_NGHIEM_HUYET_DO.pdf
+2025-05-18 07:52:26,210 - INFO - Số trang hợp lệ: 34/34
+2025-05-18 07:52:26,210 - INFO - Đang xử lý file: data/pdf/noi_co_so/BAI_GIANG_BENH_HOC_CHAN_THUONG_CHINH_HINH_PHUC_HOI_CHUC_NANG-2005-TAP1-DH_Y_DUOC_TPHCM-P1.pdf
+2025-05-18 07:52:26,257 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,257 - INFO - Đang xử lý file: data/pdf/noi_co_so/BAI_GIANG_BENH_HOC_CHAN_THUONG_CHINH_HINH_PHUC_HOI_CHUC_NANG-2005-TAP1-DH_Y_DUOC_TPHCM-P2.pdf
+2025-05-18 07:52:26,262 - INFO - Số trang hợp lệ: 68/68
+2025-05-18 07:52:26,263 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_HOC_NGOAI_KHOA_CHAN_THUONG_CHINH_HINH-2021-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:26,305 - INFO - Số trang hợp lệ: 1/245
+2025-05-18 07:52:26,305 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_HOC_NGOAI_KHOA_TIEU_HOA-2000-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:26,343 - INFO - Số trang hợp lệ: 194/194
+2025-05-18 07:52:26,343 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_TRUYEN_NHIEM-2020-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:26,351 - INFO - Số trang hợp lệ: 83/83
+2025-05-18 07:52:26,351 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_TRUYEN_NHIEM_VA_NHIET_DOI-2011-NHA_XUAT_BAN_KHOA_HOC_VA_KY_THUAT-P1.pdf
+2025-05-18 07:52:26,372 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,372 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_TRUYEN_NHIEM_VA_NHIET_DOI-2011-NHA_XUAT_BAN_KHOA_HOC_VA_KY_THUAT-P2.pdf
+2025-05-18 07:52:26,451 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,451 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_TRUYEN_NHIEM_VA_NHIET_DOI-2011-NHA_XUAT_BAN_KHOA_HOC_VA_KY_THUAT-P3.pdf
+2025-05-18 07:52:26,473 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,473 - INFO - Đang xử lý file: data/pdf/noi_co_so/BENH_TRUYEN_NHIEM_VA_NHIET_DOI-2011-NHA_XUAT_BAN_KHOA_HOC_VA_KY_THUAT-P4.pdf
+2025-05-18 07:52:26,482 - INFO - Số trang hợp lệ: 49/49
+2025-05-18 07:52:26,482 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1.pdf
+2025-05-18 07:52:26,564 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,564 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2.pdf
+2025-05-18 07:52:26,615 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,615 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3.pdf
+2025-05-18 07:52:26,690 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,690 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4.pdf
+2025-05-18 07:52:26,759 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,759 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5.pdf
+2025-05-18 07:52:26,829 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,829 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6.pdf
+2025-05-18 07:52:26,895 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:26,896 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7.pdf
+2025-05-18 07:52:27,034 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,035 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8.pdf
+2025-05-18 07:52:27,103 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,103 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9.pdf
+2025-05-18 07:52:27,155 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,155 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10.pdf
+2025-05-18 07:52:27,246 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,246 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11.pdf
+2025-05-18 07:52:27,299 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,299 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12.pdf
+2025-05-18 07:52:27,349 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,349 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13.pdf
+2025-05-18 07:52:27,482 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,482 - INFO - Đang xử lý file: data/pdf/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14.pdf
+2025-05-18 07:52:27,515 - INFO - Số trang hợp lệ: 232/232
+2025-05-18 07:52:27,515 - INFO - Đang xử lý file: data/pdf/noi_co_so/HOI_SUC_CAP_CUU_CHONG_DOC-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:27,517 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/HOI_SUC_CAP_CUU_CHONG_DOC-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:27,517 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_BENH_NOI_KHOA-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:27,542 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,542 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_BENH_NOI_KHOA-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:27,565 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,566 - INFO - Đang xử lý file: data/pdf/noi_co_so/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_BENH_NOI_KHOA-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 07:52:27,579 - INFO - Số trang hợp lệ: 171/171
+2025-05-18 07:52:27,579 - INFO - Đang xử lý file: data/pdf/noi_co_so/KHAM_LAM_SANG_HOI_BENH_SU_BATES-2020-HELVIETMED-P2.pdf
+2025-05-18 07:52:27,633 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,633 - INFO - Đang xử lý file: data/pdf/noi_co_so/KHAM_LAM_SANG_HOI_BENH_SU_BATES-2020-HELVIETMED-P3.pdf
+2025-05-18 07:52:27,662 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,662 - INFO - Đang xử lý file: data/pdf/noi_co_so/KHAM_LAM_SANG_HOI_BENH_SU_BATES-2020-HELVIETMED-P4.pdf
+2025-05-18 07:52:27,670 - INFO - Số trang hợp lệ: 133/133
+2025-05-18 07:52:27,671 - INFO - Đang xử lý file: data/pdf/noi_co_so/MAU_VA_CO_QUAN_TAO_MAU-Kien_Thuc_Y_Khoa_HMU-P2.pdf
+2025-05-18 07:52:27,680 - INFO - Số trang hợp lệ: 117/117
+2025-05-18 07:52:27,681 - INFO - Đang xử lý file: data/pdf/noi_co_so/NGOAI_KHOA_CO_SO_TRIEU_CHUNG_HOC_NGOAI_KHOA-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:27,687 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/NGOAI_KHOA_CO_SO_TRIEU_CHUNG_HOC_NGOAI_KHOA-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:27,688 - INFO - Đang xử lý file: data/pdf/noi_co_so/NHUNG_VAN_DE_TIM_MACH_QUAN_TRONG-2022-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:27,788 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,788 - INFO - Đang xử lý file: data/pdf/noi_co_so/NHUNG_VAN_DE_TIM_MACH_QUAN_TRONG-2022-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 07:52:27,816 - INFO - Số trang hợp lệ: 75/75
+2025-05-18 07:52:27,816 - INFO - Đang xử lý file: data/pdf/noi_co_so/NOI_CO_SO-2-P2.pdf
+2025-05-18 07:52:27,819 - INFO - Số trang hợp lệ: 30/30
+2025-05-18 07:52:27,819 - INFO - Đang xử lý file: data/pdf/noi_co_so/NOI_CO_SO-P2.pdf
+2025-05-18 07:52:27,822 - INFO - Số trang hợp lệ: 30/30
+2025-05-18 07:52:27,822 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAC_DO_DIEU_TRI-2013-PHAN_NGOAI_KHOA-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:27,903 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,904 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAC_DO_DIEU_TRI-2013-PHAN_NGOAI_KHOA-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:27,979 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:27,979 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAC_DO_DIEU_TRI-2013-PHAN_NGOAI_KHOA-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 07:52:28,067 - INFO - Số trang hợp lệ: 207/207
+2025-05-18 07:52:28,067 - INFO - Đang xử lý file: data/pdf/noi_co_so/PHAU_THUAT_MACH_MAU_LON-P2.pdf
+2025-05-18 07:52:28,078 - INFO - Số trang hợp lệ: 113/113
+2025-05-18 07:52:28,078 - INFO - Đang xử lý file: data/pdf/noi_co_so/THAM_KHAM_LAM_SANG_THEO_HE_THONG-2016-CTUMP-P1.pdf
+2025-05-18 07:52:28,121 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:28,121 - INFO - Đang xử lý file: data/pdf/noi_co_so/THAM_KHAM_LAM_SANG_THEO_HE_THONG-2016-CTUMP-P2.pdf
+2025-05-18 07:52:28,166 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:28,167 - INFO - Đang xử lý file: data/pdf/noi_co_so/THAM_KHAM_LAM_SANG_THEO_HE_THONG-2016-CTUMP-P3.pdf
+2025-05-18 07:52:28,240 - INFO - Số trang hợp lệ: 271/271
+2025-05-18 07:52:28,240 - INFO - Đang xử lý file: data/pdf/noi_co_so/TIEP_CAN_DIEU_TRI_BENH_NOI_KHOA-2021-DHQG_TPHCM-P1.pdf
+2025-05-18 07:52:28,322 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/TIEP_CAN_DIEU_TRI_BENH_NOI_KHOA-2021-DHQG_TPHCM-P1.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:28,322 - INFO - Đang xử lý file: data/pdf/noi_co_so/TIEP_CAN_DIEU_TRI_BENH_NOI_KHOA-2021-DHQG_TPHCM-P2.pdf
+2025-05-18 07:52:28,357 - ERROR - Lỗi khi xử lý file data/pdf/noi_co_so/TIEP_CAN_DIEU_TRI_BENH_NOI_KHOA-2021-DHQG_TPHCM-P2.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:28,357 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-2018-TAP1-NXBY_HOC-1-P2.pdf
+2025-05-18 07:52:28,401 - INFO - Số trang hợp lệ: 268/268
+2025-05-18 07:52:28,402 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-2018-TAP1-NXBY_HOC-P2.pdf
+2025-05-18 07:52:28,445 - INFO - Số trang hợp lệ: 268/268
+2025-05-18 07:52:28,445 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-2018-TAP_2-NXB_Y_HOC-1-P1.pdf
+2025-05-18 07:52:28,519 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:28,519 - INFO - Đang xử lý file: data/pdf/noi_co_so/TRIEU_CHUNG_HOC_NOI_KHOA-2018-TAP_2-NXB_Y_HOC-1-P2.pdf
+2025-05-18 07:52:28,543 - INFO - Số trang hợp lệ: 202/202
+2025-05-18 07:52:28,543 - INFO - Đang xử lý file: data/pdf/noi_co_so/TU_DIEN_TRIEU_CHUNG_VA_CHAN_DOAN-NHA_XUAT_BAN_TONG_HOP_THANH_PHO_HO_CHI_MINH-P1.pdf
+2025-05-18 07:52:28,581 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:28,582 - INFO - Đang xử lý file: data/pdf/noi_co_so/TU_DIEN_TRIEU_CHUNG_VA_CHAN_DOAN-NHA_XUAT_BAN_TONG_HOP_THANH_PHO_HO_CHI_MINH-P2.pdf
+2025-05-18 07:52:28,620 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:28,620 - INFO - Đang xử lý file: data/pdf/noi_co_so/TU_DIEN_TRIEU_CHUNG_VA_CHAN_DOAN-NHA_XUAT_BAN_TONG_HOP_THANH_PHO_HO_CHI_MINH-P3.pdf
+2025-05-18 07:52:28,627 - INFO - Số trang hợp lệ: 81/81
+2025-05-18 07:52:28,627 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/BENH_AN_THAN_KINH.pdf
+2025-05-18 07:52:28,628 - INFO - Số trang hợp lệ: 7/7
+2025-05-18 07:52:28,628 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/NGHIEN_CUU_MOT_SO_YEU_TO_NGUY_CO_VA_KET_QUA_DIEU_TRI_DOT_QUY_NAO_O_BENH_NHAN_TANG_HUYET_AP_TAI_KHOA_NOI_TIM_MACH_BENH_VIEN_DA_KHOA_THAI_BINH-2014-TRUONG_DAI_HOC_Y_THAI_BINH.pdf
+2025-05-18 07:52:28,629 - INFO - Số trang hợp lệ: 3/3
+2025-05-18 07:52:28,629 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:28,649 - INFO - Số trang hợp lệ: 236/236
+2025-05-18 07:52:28,649 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_HCM.pdf
+2025-05-18 07:52:28,702 - INFO - Số trang hợp lệ: 191/191
+2025-05-18 07:52:28,702 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_TPHCM.pdf
+2025-05-18 07:52:28,782 - INFO - Số trang hợp lệ: 191/191
+2025-05-18 07:52:28,782 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/THUC_HANH_LAM_SANG_THAN_KINH_HOC-TAP1-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:28,793 - INFO - Số trang hợp lệ: 177/177
+2025-05-18 07:52:28,793 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/TRIEU_CHUNG_HE_THAN_KINH.pdf
+2025-05-18 07:52:28,798 - INFO - Số trang hợp lệ: 37/37
+2025-05-18 07:52:28,798 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/XUAT_HUYET_NAO-TRUONG_DAI_HOC_Y_DUOC_TP_HCM.pdf
+2025-05-18 07:52:28,801 - INFO - Số trang hợp lệ: 32/32
+2025-05-18 07:52:28,801 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/XU_LY_CAC_TINH_HUONG_DOT_QUY_DAC_BIET-BV_DAI_HOC_Y_DƯOC_TPHCM.pdf
+2025-05-18 07:52:28,807 - INFO - Số trang hợp lệ: 53/53
+2025-05-18 07:52:28,807 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:28,839 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:28,839 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:28,862 - INFO - Số trang hợp lệ: 220/220
+2025-05-18 07:52:28,862 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:28,888 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:28,888 - INFO - Đang xử lý file: data/pdf/noi_than_kinh/SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:28,911 - INFO - Số trang hợp lệ: 271/271
+2025-05-18 07:52:28,911 - INFO - Đang xử lý file: data/pdf/ung_thu/ASTRO_CAP_NHAT_HUONG_DAN_XA_TRI_MOT_PHAN_VU-2023-ASTRO.pdf
+2025-05-18 07:52:28,912 - INFO - Số trang hợp lệ: 11/11
+2025-05-18 07:52:28,912 - INFO - Đang xử lý file: data/pdf/ung_thu/BAI_GIANG_BENH_HOC_NIEU_KHOA-2011-NXBP_DONG.pdf
+2025-05-18 07:52:28,920 - INFO - Số trang hợp lệ: 138/138
+2025-05-18 07:52:28,920 - INFO - Đang xử lý file: data/pdf/ung_thu/BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE.pdf
+2025-05-18 07:52:28,985 - INFO - Số trang hợp lệ: 237/237
+2025-05-18 07:52:28,985 - INFO - Đang xử lý file: data/pdf/ung_thu/GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:28,997 - INFO - Số trang hợp lệ: 84/84
+2025-05-18 07:52:28,997 - INFO - Đang xử lý file: data/pdf/ung_thu/BENH_AN_NGOAI_KHOA.pdf
+2025-05-18 07:52:28,998 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 07:52:28,998 - INFO - Đang xử lý file: data/pdf/ung_thu/BENH_AN_UNG_BUOU-2023-BENH_VIEN_UNGBUOU.pdf
+2025-05-18 07:52:29,001 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 07:52:29,001 - INFO - Đang xử lý file: data/pdf/ung_thu/BENH_LY_I_TAC_RUOT_SO_SINH-YhocData.com.pdf
+2025-05-18 07:52:29,046 - INFO - Số trang hợp lệ: 186/186
+2025-05-18 07:52:29,046 - INFO - Đang xử lý file: data/pdf/ung_thu/BENH_LY_I_TAC_RUOT_SO_SINH.pdf
+2025-05-18 07:52:29,107 - INFO - Số trang hợp lệ: 186/186
+2025-05-18 07:52:29,107 - INFO - Đang xử lý file: data/pdf/ung_thu/BENH_LY_TAC_RUOT_SINH.pdf
+2025-05-18 07:52:29,115 - INFO - Số trang hợp lệ: 96/96
+2025-05-18 07:52:29,115 - INFO - Đang xử lý file: data/pdf/ung_thu/BUOU_NIEU_SINH_DUC-PHU_YAM_NGOC_THACH.pdf
+2025-05-18 07:52:29,121 - INFO - Số trang hợp lệ: 72/72
+2025-05-18 07:52:29,121 - INFO - Đang xử lý file: data/pdf/ung_thu/CAMPBELL_S_OPERATIVE_ORTHOPAEDICS-2013-YhocData.pdf
+2025-05-18 07:52:29,162 - INFO - Số trang hợp lệ: 130/130
+2025-05-18 07:52:29,162 - INFO - Đang xử lý file: data/pdf/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 07:52:29,250 - INFO - Số trang hợp lệ: 299/299
+2025-05-18 07:52:29,250 - INFO - Đang xử lý file: data/pdf/ung_thu/GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:29,363 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:29,364 - INFO - Đang xử lý file: data/pdf/ung_thu/CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:29,427 - INFO - Số trang hợp lệ: 205/205
+2025-05-18 07:52:29,427 - INFO - Đang xử lý file: data/pdf/ung_thu/CHAN_DOAN_HINH_ANH_UNG_THU_TUY.pdf
+2025-05-18 07:52:29,434 - INFO - Số trang hợp lệ: 46/46
+2025-05-18 07:52:29,434 - INFO - Đang xử lý file: data/pdf/ung_thu/CHAN_THUONG_HE_NIEU_SINH_DUC.pdf
+2025-05-18 07:52:29,444 - INFO - Số trang hợp lệ: 117/117
+2025-05-18 07:52:29,444 - INFO - Đang xử lý file: data/pdf/ung_thu/DAN_LUU_NGOAI_KHOA-2007.pdf
+2025-05-18 07:52:29,445 - INFO - Số trang hợp lệ: 9/9
+2025-05-18 07:52:29,445 - INFO - Đang xử lý file: data/pdf/ung_thu/DAN_LUU_TRONG_NGOAI_KHOA-DH_Y_DUOC_HAI_PHONG.pdf
+2025-05-18 07:52:29,448 - INFO - Số trang hợp lệ: 20/20
+2025-05-18 07:52:29,448 - INFO - Đang xử lý file: data/pdf/ung_thu/DAN_LUU_TRONG_NGOAI_KHOA-PHAN_2.pdf
+2025-05-18 07:52:29,449 - INFO - Số trang hợp lệ: 9/9
+2025-05-18 07:52:29,449 - INFO - Đang xử lý file: data/pdf/ung_thu/DE_I_TRAM1.pdf
+2025-05-18 07:52:29,449 - INFO - Số trang hợp lệ: 5/5
+2025-05-18 07:52:29,449 - INFO - Đang xử lý file: data/pdf/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 07:52:29,461 - INFO - Số trang hợp lệ: 135/135
+2025-05-18 07:52:29,461 - INFO - Đang xử lý file: data/pdf/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI-2019-BENH_VIEN_BINH_DAN.pdf
+2025-05-18 07:52:29,486 - INFO - Số trang hợp lệ: 113/113
+2025-05-18 07:52:29,486 - INFO - Đang xử lý file: data/pdf/ung_thu/NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:29,543 - INFO - Số trang hợp lệ: 178/178
+2025-05-18 07:52:29,543 - INFO - Đang xử lý file: data/pdf/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_UNG_THU_BIEU_MO_TE_BAO_GAN-2020-BO_Y_TE.pdf
+2025-05-18 07:52:29,548 - INFO - Số trang hợp lệ: 36/36
+2025-05-18 07:52:29,548 - INFO - Đang xử lý file: data/pdf/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_UNG_THU_DA_DAY-2020-BO_Y_TE.pdf
+2025-05-18 07:52:29,553 - INFO - Số trang hợp lệ: 39/39
+2025-05-18 07:52:29,553 - INFO - Đang xử lý file: data/pdf/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_UNG_THU_VU-2020-BO_Y_TE.pdf
+2025-05-18 07:52:29,560 - INFO - Số trang hợp lệ: 60/60
+2025-05-18 07:52:29,560 - INFO - Đang xử lý file: data/pdf/ung_thu/HUONG_DAN_DU_PHONG_VA_KIEM_SOAT_UNG_THU_CO_TU_CUNG-2024-BO_Y_TE.pdf
+2025-05-18 07:52:29,568 - INFO - Số trang hợp lệ: 77/77
+2025-05-18 07:52:29,568 - INFO - Đang xử lý file: data/pdf/ung_thu/NGHIEN_CUU_DIEU_TRI_UNG_THU_VU_GIAI_DOAN_DI_CAN_BANG_HOA_TRI_PHOI_HOP_ANTHRACYCLINE_VA_TAXANE-2020-DH_HUE.pdf
+2025-05-18 07:52:29,673 - INFO - Số trang hợp lệ: 163/163
+2025-05-18 07:52:29,674 - INFO - Đang xử lý file: data/pdf/ung_thu/UNG_THU_HOC-2015-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:29,726 - INFO - Số trang hợp lệ: 17/300
+2025-05-18 07:52:29,726 - INFO - Đang xử lý file: data/pdf/ung_thu/NGUYEN_TAC_DAN_LUU_TRONG_NGOAI_KHOA.pdf
+2025-05-18 07:52:29,734 - INFO - Số trang hợp lệ: 51/51
+2025-05-18 07:52:29,734 - INFO - Đang xử lý file: data/pdf/ung_thu/NGUY_CO_TU_TU_SAU_PHAU_THUAT_GIAM_CAN.pdf
+2025-05-18 07:52:29,736 - INFO - Số trang hợp lệ: 18/18
+2025-05-18 07:52:29,736 - INFO - Đang xử lý file: data/pdf/ung_thu/NHUNG_TIEP_CAN_GAN_DAY_TRONG_XA_TRI_UNG_THU_SAU_PHAU_THUAT_BAO_TON_VU_MOT_DANH_GIA-2023-FRONTIERS.pdf
+2025-05-18 07:52:29,737 - INFO - Số trang hợp lệ: 25/25
+2025-05-18 07:52:29,738 - INFO - Đang xử lý file: data/pdf/ung_thu/ONCOLOGY_AT_A_GLANCE-2013-WILEY_BLACKWELL.pdf
+2025-05-18 07:52:29,823 - INFO - Số trang hợp lệ: 168/168
+2025-05-18 07:52:29,823 - INFO - Đang xử lý file: data/pdf/ung_thu/SARCOMA.pdf
+2025-05-18 07:52:29,835 - INFO - Số trang hợp lệ: 91/91
+2025-05-18 07:52:29,835 - INFO - Đang xử lý file: data/pdf/ung_thu/SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM.pdf
+2025-05-18 07:52:29,910 - INFO - Số trang hợp lệ: 281/281
+2025-05-18 07:52:29,911 - INFO - Đang xử lý file: data/pdf/ung_thu/SU_DUNG_HE_THONG_HUT_AP_LUC_AM_VAC_DIEU_TRI_NHIEM_TRUNG_VUNG_SCARPA_SAU_PHAU_THUAT_MACH_MAU-2021-PHAU_THUAT_TIM_MACH.pdf
+2025-05-18 07:52:29,912 - INFO - Số trang hợp lệ: 7/7
+2025-05-18 07:52:29,912 - INFO - Đang xử lý file: data/pdf/ung_thu/THERAPEUTIC_ADVANCES_IN_MEDICAL_ONCOLOGY-2023.pdf
+2025-05-18 07:52:29,913 - INFO - Số trang hợp lệ: 20/20
+2025-05-18 07:52:29,913 - INFO - Đang xử lý file: data/pdf/ung_thu/THONG_CUA_CHU_TRONG_GAN_QUA_TINH_MACH_CANH_TIPS-UW_MEDICINE.pdf
+2025-05-18 07:52:29,940 - INFO - Số trang hợp lệ: 14/14
+2025-05-18 07:52:29,940 - INFO - Đang xử lý file: data/pdf/ung_thu/THUONG_TON_DUONG_TIET_NIEU_GAY_NEN_DO_PHAU_THUAT_SAN_PHU_KHOA.pdf
+2025-05-18 07:52:29,947 - INFO - Số trang hợp lệ: 35/104
+2025-05-18 07:52:29,947 - INFO - Đang xử lý file: data/pdf/ung_thu/TONG_QUAN_VE_CAC_PHUONG_PHAP_DIEU_TRI_SOI_THAN-Y_CANTHO.pdf
+2025-05-18 07:52:29,948 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 07:52:29,948 - INFO - Đang xử lý file: data/pdf/ung_thu/UNG_THU_BIEU_MO_TE_BAO_GAN-ESMO.pdf
+2025-05-18 07:52:29,962 - INFO - Số trang hợp lệ: 45/45
+2025-05-18 07:52:29,962 - INFO - Đang xử lý file: data/pdf/ung_thu/UNG_THU_DA_DAY.pdf
+2025-05-18 07:52:29,963 - INFO - Số trang hợp lệ: 14/14
+2025-05-18 07:52:29,963 - INFO - Đang xử lý file: data/pdf/ung_thu/UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:29,982 - INFO - Số trang hợp lệ: 294/294
+2025-05-18 07:52:29,982 - INFO - Đang xử lý file: data/pdf/ung_thu/UNG_THU_PHOI.pdf
+2025-05-18 07:52:29,983 - INFO - Số trang hợp lệ: 10/10
+2025-05-18 07:52:29,983 - INFO - Đang xử lý file: data/pdf/ung_thu/UNG_THU_TUY.pdf
+2025-05-18 07:52:29,985 - INFO - Số trang hợp lệ: 21/21
+2025-05-18 07:52:29,985 - INFO - Đang xử lý file: data/pdf/ung_thu/BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1.pdf
+2025-05-18 07:52:30,014 - INFO - Số trang hợp lệ: 299/300
+2025-05-18 07:52:30,014 - INFO - Đang xử lý file: data/pdf/ung_thu/BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2.pdf
+2025-05-18 07:52:30,043 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:30,043 - INFO - Đang xử lý file: data/pdf/ung_thu/BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P3.pdf
+2025-05-18 07:52:30,051 - INFO - Số trang hợp lệ: 92/92
+2025-05-18 07:52:30,051 - INFO - Đang xử lý file: data/pdf/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 07:52:30,144 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:30,144 - INFO - Đang xử lý file: data/pdf/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 07:52:30,238 - INFO - Số trang hợp lệ: 267/267
+2025-05-18 07:52:30,239 - INFO - Đang xử lý file: data/pdf/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 07:52:30,336 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:30,337 - INFO - Đang xử lý file: data/pdf/ung_thu/GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 07:52:30,360 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:30,360 - INFO - Đang xử lý file: data/pdf/ung_thu/GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 07:52:30,361 - INFO - Số trang hợp lệ: 2/2
+2025-05-18 07:52:30,361 - INFO - Đang xử lý file: data/pdf/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:30,387 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:30,387 - INFO - Đang xử lý file: data/pdf/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:30,413 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:30,413 - INFO - Đang xử lý file: data/pdf/ung_thu/NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 07:52:30,500 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 07:52:30,500 - INFO - Đang xử lý file: data/pdf/ung_thu/UNG_THU_HOC-2015-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 07:52:30,505 - ERROR - Lỗi khi xử lý file data/pdf/ung_thu/UNG_THU_HOC-2015-NHA_XUAT_BAN_Y_HOC-P2.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 07:52:30,505 - INFO - Đang xử lý file: data/pdf/y_hoc_gia_đinh/HOA_DUOC_PHONG.pdf
+2025-05-18 07:52:30,505 - INFO - Số trang hợp lệ: 4/4
+2025-05-18 07:52:30,505 - INFO - Đang xử lý file: data/pdf/y_hoc_gia_đinh/TAI_LIEU_HUAN_LUYEN_KY_NANG_Y_KHOA-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 07:52:30,617 - INFO - Số trang hợp lệ: 179/179
+2025-05-18 07:52:30,617 - ERROR - File không tồn tại: data/pdf/noi_co_so/temp_unprocessed/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL.pdf
+2025-05-18 08:22:32,315 - ERROR - Lỗi khi xử lý các thư mục
+Traceback (most recent call last):
+  File "/workspace/preprocess-medical-data/src/split-lagre-pdf.py", line 48, in split_large_pdfs
+    raise Exception(f"Không tìm thấy thư mục {current_dir}")
+Exception: Không tìm thấy thư mục preprocess-medical-data/data/pdf_copy
+2025-05-18 08:23:33,838 - WARNING - Không tìm thấy file PDF nào trong thư mục data/pdf_copy
+2025-05-18 08:23:42,151 - WARNING - Không tìm thấy file PDF nào trong thư mục data/pdf_copy
+2025-05-18 08:24:52,683 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1.pdf
+2025-05-18 08:24:52,786 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:54,077 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1-P1.pdf
+2025-05-18 08:24:54,155 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1-P2.pdf
+2025-05-18 08:24:54,226 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1-P3.pdf
+2025-05-18 08:24:54,227 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1.pdf
+2025-05-18 08:24:54,227 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10.pdf
+2025-05-18 08:24:54,307 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:54,586 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10-P1.pdf
+2025-05-18 08:24:54,736 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10-P2.pdf
+2025-05-18 08:24:54,859 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10-P3.pdf
+2025-05-18 08:24:54,863 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10.pdf
+2025-05-18 08:24:54,863 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11.pdf
+2025-05-18 08:24:54,927 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:55,051 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11-P1.pdf
+2025-05-18 08:24:55,149 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11-P2.pdf
+2025-05-18 08:24:55,238 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11-P3.pdf
+2025-05-18 08:24:55,239 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11.pdf
+2025-05-18 08:24:55,239 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12.pdf
+2025-05-18 08:24:55,298 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:55,382 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12-P1.pdf
+2025-05-18 08:24:55,439 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12-P2.pdf
+2025-05-18 08:24:55,544 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12-P3.pdf
+2025-05-18 08:24:55,545 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12.pdf
+2025-05-18 08:24:55,545 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13.pdf
+2025-05-18 08:24:55,684 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:55,811 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13-P1.pdf
+2025-05-18 08:24:55,925 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13-P2.pdf
+2025-05-18 08:24:56,274 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13-P3.pdf
+2025-05-18 08:24:56,275 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13.pdf
+2025-05-18 08:24:56,275 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14.pdf
+2025-05-18 08:24:56,314 - INFO - Số trang hợp lệ: 232/232
+2025-05-18 08:24:56,340 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14-P1.pdf
+2025-05-18 08:24:56,364 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14-P2.pdf
+2025-05-18 08:24:56,373 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14-P3.pdf
+2025-05-18 08:24:56,374 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14.pdf
+2025-05-18 08:24:56,374 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2.pdf
+2025-05-18 08:24:56,492 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:56,574 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2-P1.pdf
+2025-05-18 08:24:56,637 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2-P2.pdf
+2025-05-18 08:24:56,772 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2-P3.pdf
+2025-05-18 08:24:56,773 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2.pdf
+2025-05-18 08:24:56,773 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3.pdf
+2025-05-18 08:24:56,832 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:56,940 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3-P1.pdf
+2025-05-18 08:24:57,005 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3-P2.pdf
+2025-05-18 08:24:57,102 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3-P3.pdf
+2025-05-18 08:24:57,102 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3.pdf
+2025-05-18 08:24:57,103 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4.pdf
+2025-05-18 08:24:57,199 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:57,299 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4-P1.pdf
+2025-05-18 08:24:57,848 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4-P2.pdf
+2025-05-18 08:24:57,910 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4-P3.pdf
+2025-05-18 08:24:57,911 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4.pdf
+2025-05-18 08:24:57,911 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5.pdf
+2025-05-18 08:24:57,977 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:58,128 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5-P1.pdf
+2025-05-18 08:24:58,179 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5-P2.pdf
+2025-05-18 08:24:58,231 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5-P3.pdf
+2025-05-18 08:24:58,231 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5.pdf
+2025-05-18 08:24:58,231 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6.pdf
+2025-05-18 08:24:58,304 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:58,478 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6-P1.pdf
+2025-05-18 08:24:58,808 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6-P2.pdf
+2025-05-18 08:24:58,891 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6-P3.pdf
+2025-05-18 08:24:58,892 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6.pdf
+2025-05-18 08:24:58,892 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7.pdf
+2025-05-18 08:24:59,019 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:24:59,207 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7-P1.pdf
+2025-05-18 08:24:59,424 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7-P2.pdf
+2025-05-18 08:25:00,656 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7-P3.pdf
+2025-05-18 08:25:00,657 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7.pdf
+2025-05-18 08:25:00,657 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8.pdf
+2025-05-18 08:25:00,864 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:01,019 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8-P1.pdf
+2025-05-18 08:25:01,548 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8-P2.pdf
+2025-05-18 08:25:01,782 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8-P3.pdf
+2025-05-18 08:25:01,783 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8.pdf
+2025-05-18 08:25:01,783 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9.pdf
+2025-05-18 08:25:01,848 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:02,020 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9-P1.pdf
+2025-05-18 08:25:02,080 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9-P2.pdf
+2025-05-18 08:25:02,129 - INFO - Đã chia file HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9.pdf thành HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9-P3.pdf
+2025-05-18 08:25:02,130 - INFO - Đã xóa file gốc: HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9.pdf
+2025-05-18 08:25:02,130 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/BENH_AN_THAN_KINH.pdf
+2025-05-18 08:25:02,138 - INFO - Số trang hợp lệ: 7/7
+2025-05-18 08:25:02,138 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:02,170 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:02,243 - INFO - Đã chia file DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf thành DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1-P1.pdf
+2025-05-18 08:25:02,286 - INFO - Đã chia file DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf thành DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1-P2.pdf
+2025-05-18 08:25:02,328 - INFO - Đã chia file DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf thành DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1-P3.pdf
+2025-05-18 08:25:02,329 - INFO - Đã xóa file gốc: DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:02,329 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:02,359 - INFO - Số trang hợp lệ: 220/220
+2025-05-18 08:25:02,401 - INFO - Đã chia file DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf thành DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2-P1.pdf
+2025-05-18 08:25:02,443 - INFO - Đã chia file DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf thành DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2-P2.pdf
+2025-05-18 08:25:02,475 - INFO - Đã chia file DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf thành DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2-P3.pdf
+2025-05-18 08:25:02,475 - INFO - Đã xóa file gốc: DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:02,475 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/NGHIEN_CUU_MOT_SO_YEU_TO_NGUY_CO_VA_KET_QUA_DIEU_TRI_DOT_QUY_NAO_O_BENH_NHAN_TANG_HUYET_AP_TAI_KHOA_NOI_TIM_MACH_BENH_VIEN_DA_KHOA_THAI_BINH-2014-TRUONG_DAI_HOC_Y_THAI_BINH.pdf
+2025-05-18 08:25:02,477 - INFO - Số trang hợp lệ: 3/3
+2025-05-18 08:25:02,477 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:25:02,504 - INFO - Số trang hợp lệ: 236/236
+2025-05-18 08:25:02,525 - INFO - Đã chia file PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC.pdf thành PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:02,546 - INFO - Đã chia file PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC.pdf thành PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:02,553 - INFO - Đã chia file PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC.pdf thành PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 08:25:02,553 - INFO - Đã xóa file gốc: PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:25:02,553 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:02,599 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:02,627 - INFO - Đã chia file SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1.pdf thành SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1-P1.pdf
+2025-05-18 08:25:02,654 - INFO - Đã chia file SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1.pdf thành SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1-P2.pdf
+2025-05-18 08:25:02,681 - INFO - Đã chia file SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1.pdf thành SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1-P3.pdf
+2025-05-18 08:25:02,682 - INFO - Đã xóa file gốc: SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:02,682 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:02,716 - INFO - Số trang hợp lệ: 271/271
+2025-05-18 08:25:02,773 - INFO - Đã chia file SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2.pdf thành SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2-P1.pdf
+2025-05-18 08:25:02,799 - INFO - Đã chia file SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2.pdf thành SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2-P2.pdf
+2025-05-18 08:25:02,819 - INFO - Đã chia file SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2.pdf thành SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2-P3.pdf
+2025-05-18 08:25:02,820 - INFO - Đã xóa file gốc: SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:02,820 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_HCM.pdf
+2025-05-18 08:25:02,882 - INFO - Số trang hợp lệ: 191/191
+2025-05-18 08:25:02,966 - INFO - Đã chia file SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_HCM.pdf thành SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_HCM-P1.pdf
+2025-05-18 08:25:03,060 - INFO - Đã chia file SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_HCM.pdf thành SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_HCM-P2.pdf
+2025-05-18 08:25:03,061 - INFO - Đã xóa file gốc: SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_HCM.pdf
+2025-05-18 08:25:03,061 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_TPHCM.pdf
+2025-05-18 08:25:03,147 - INFO - Số trang hợp lệ: 191/191
+2025-05-18 08:25:03,231 - INFO - Đã chia file SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_TPHCM.pdf thành SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_TPHCM-P1.pdf
+2025-05-18 08:25:03,326 - INFO - Đã chia file SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_TPHCM.pdf thành SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_TPHCM-P2.pdf
+2025-05-18 08:25:03,327 - INFO - Đã xóa file gốc: SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_TPHCM.pdf
+2025-05-18 08:25:03,327 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/THUC_HANH_LAM_SANG_THAN_KINH_HOC-TAP1-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:25:03,346 - INFO - Số trang hợp lệ: 177/177
+2025-05-18 08:25:03,381 - INFO - Đã chia file THUC_HANH_LAM_SANG_THAN_KINH_HOC-TAP1-NHA_XUAT_BAN_Y_HOC.pdf thành THUC_HANH_LAM_SANG_THAN_KINH_HOC-TAP1-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:03,409 - INFO - Đã chia file THUC_HANH_LAM_SANG_THAN_KINH_HOC-TAP1-NHA_XUAT_BAN_Y_HOC.pdf thành THUC_HANH_LAM_SANG_THAN_KINH_HOC-TAP1-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:03,409 - INFO - Đã xóa file gốc: THUC_HANH_LAM_SANG_THAN_KINH_HOC-TAP1-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:25:03,409 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/TRIEU_CHUNG_HE_THAN_KINH.pdf
+2025-05-18 08:25:03,416 - INFO - Số trang hợp lệ: 37/37
+2025-05-18 08:25:03,416 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/XUAT_HUYET_NAO-TRUONG_DAI_HOC_Y_DUOC_TP_HCM.pdf
+2025-05-18 08:25:03,424 - INFO - Số trang hợp lệ: 32/32
+2025-05-18 08:25:03,424 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/XU_LY_CAC_TINH_HUONG_DOT_QUY_DAC_BIET-BV_DAI_HOC_Y_DƯOC_TPHCM.pdf
+2025-05-18 08:25:03,434 - INFO - Số trang hợp lệ: 53/53
+2025-05-18 08:25:03,434 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/ASTRO_CAP_NHAT_HUONG_DAN_XA_TRI_MOT_PHAN_VU-2023-ASTRO.pdf
+2025-05-18 08:25:03,435 - INFO - Số trang hợp lệ: 11/11
+2025-05-18 08:25:03,435 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_BENH_HOC_NIEU_KHOA-2011-NXBP_DONG.pdf
+2025-05-18 08:25:03,447 - INFO - Số trang hợp lệ: 138/138
+2025-05-18 08:25:03,471 - INFO - Đã chia file BAI_GIANG_BENH_HOC_NIEU_KHOA-2011-NXBP_DONG.pdf thành BAI_GIANG_BENH_HOC_NIEU_KHOA-2011-NXBP_DONG-P1.pdf
+2025-05-18 08:25:03,480 - INFO - Đã chia file BAI_GIANG_BENH_HOC_NIEU_KHOA-2011-NXBP_DONG.pdf thành BAI_GIANG_BENH_HOC_NIEU_KHOA-2011-NXBP_DONG-P2.pdf
+2025-05-18 08:25:03,481 - INFO - Đã xóa file gốc: BAI_GIANG_BENH_HOC_NIEU_KHOA-2011-NXBP_DONG.pdf
+2025-05-18 08:25:03,481 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE.pdf
+2025-05-18 08:25:03,563 - INFO - Số trang hợp lệ: 237/237
+2025-05-18 08:25:03,593 - INFO - Đã chia file BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE.pdf thành BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE-P1.pdf
+2025-05-18 08:25:03,621 - INFO - Đã chia file BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE.pdf thành BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE-P2.pdf
+2025-05-18 08:25:03,632 - INFO - Đã chia file BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE.pdf thành BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE-P3.pdf
+2025-05-18 08:25:03,632 - INFO - Đã xóa file gốc: BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE.pdf
+2025-05-18 08:25:03,633 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1.pdf
+2025-05-18 08:25:03,668 - INFO - Số trang hợp lệ: 299/300
+2025-05-18 08:25:03,739 - INFO - Đã chia file BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1.pdf thành BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1-P1.pdf
+2025-05-18 08:25:03,789 - INFO - Đã chia file BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1.pdf thành BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1-P2.pdf
+2025-05-18 08:25:03,810 - INFO - Đã chia file BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1.pdf thành BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1-P3.pdf
+2025-05-18 08:25:03,811 - INFO - Đã xóa file gốc: BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1.pdf
+2025-05-18 08:25:03,811 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2.pdf
+2025-05-18 08:25:03,848 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:03,879 - INFO - Đã chia file BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2.pdf thành BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2-P1.pdf
+2025-05-18 08:25:03,908 - INFO - Đã chia file BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2.pdf thành BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2-P2.pdf
+2025-05-18 08:25:03,931 - INFO - Đã chia file BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2.pdf thành BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2-P3.pdf
+2025-05-18 08:25:03,932 - INFO - Đã xóa file gốc: BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2.pdf
+2025-05-18 08:25:03,932 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P3.pdf
+2025-05-18 08:25:03,990 - INFO - Số trang hợp lệ: 92/92
+2025-05-18 08:25:03,990 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_AN_NGOAI_KHOA.pdf
+2025-05-18 08:25:03,992 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 08:25:03,992 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_AN_UNG_BUOU-2023-BENH_VIEN_UNGBUOU.pdf
+2025-05-18 08:25:03,995 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 08:25:03,995 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_LY_I_TAC_RUOT_SO_SINH-YhocData.com.pdf
+2025-05-18 08:25:04,041 - INFO - Số trang hợp lệ: 186/186
+2025-05-18 08:25:04,151 - INFO - Đã chia file BENH_LY_I_TAC_RUOT_SO_SINH-YhocData.com.pdf thành BENH_LY_I_TAC_RUOT_SO_SINH-YhocData.com-P1.pdf
+2025-05-18 08:25:04,228 - INFO - Đã chia file BENH_LY_I_TAC_RUOT_SO_SINH-YhocData.com.pdf thành BENH_LY_I_TAC_RUOT_SO_SINH-YhocData.com-P2.pdf
+2025-05-18 08:25:04,228 - INFO - Đã xóa file gốc: BENH_LY_I_TAC_RUOT_SO_SINH-YhocData.com.pdf
+2025-05-18 08:25:04,228 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_LY_I_TAC_RUOT_SO_SINH.pdf
+2025-05-18 08:25:04,297 - INFO - Số trang hợp lệ: 186/186
+2025-05-18 08:25:04,365 - INFO - Đã chia file BENH_LY_I_TAC_RUOT_SO_SINH.pdf thành BENH_LY_I_TAC_RUOT_SO_SINH-P1.pdf
+2025-05-18 08:25:04,438 - INFO - Đã chia file BENH_LY_I_TAC_RUOT_SO_SINH.pdf thành BENH_LY_I_TAC_RUOT_SO_SINH-P2.pdf
+2025-05-18 08:25:04,438 - INFO - Đã xóa file gốc: BENH_LY_I_TAC_RUOT_SO_SINH.pdf
+2025-05-18 08:25:04,438 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_LY_TAC_RUOT_SINH.pdf
+2025-05-18 08:25:04,465 - INFO - Số trang hợp lệ: 96/96
+2025-05-18 08:25:04,465 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BUOU_NIEU_SINH_DUC-PHU_YAM_NGOC_THACH.pdf
+2025-05-18 08:25:04,472 - INFO - Số trang hợp lệ: 72/72
+2025-05-18 08:25:04,473 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAMPBELL_S_OPERATIVE_ORTHOPAEDICS-2013-YhocData.pdf
+2025-05-18 08:25:04,519 - INFO - Số trang hợp lệ: 130/130
+2025-05-18 08:25:04,603 - INFO - Đã chia file CAMPBELL_S_OPERATIVE_ORTHOPAEDICS-2013-YhocData.pdf thành CAMPBELL_S_OPERATIVE_ORTHOPAEDICS-2013-YhocData-P1.pdf
+2025-05-18 08:25:04,628 - INFO - Đã chia file CAMPBELL_S_OPERATIVE_ORTHOPAEDICS-2013-YhocData.pdf thành CAMPBELL_S_OPERATIVE_ORTHOPAEDICS-2013-YhocData-P2.pdf
+2025-05-18 08:25:04,629 - INFO - Đã xóa file gốc: CAMPBELL_S_OPERATIVE_ORTHOPAEDICS-2013-YhocData.pdf
+2025-05-18 08:25:04,629 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 08:25:04,738 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:04,823 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1-P1.pdf
+2025-05-18 08:25:04,891 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1-P2.pdf
+2025-05-18 08:25:04,961 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1-P3.pdf
+2025-05-18 08:25:04,962 - INFO - Đã xóa file gốc: CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 08:25:04,962 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 08:25:05,059 - INFO - Số trang hợp lệ: 267/267
+2025-05-18 08:25:05,127 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2-P1.pdf
+2025-05-18 08:25:05,196 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2-P2.pdf
+2025-05-18 08:25:05,268 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2-P3.pdf
+2025-05-18 08:25:05,273 - INFO - Đã xóa file gốc: CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 08:25:05,274 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 08:25:05,390 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:05,443 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1-P1.pdf
+2025-05-18 08:25:05,483 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1-P2.pdf
+2025-05-18 08:25:05,541 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1-P3.pdf
+2025-05-18 08:25:05,542 - INFO - Đã xóa file gốc: CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 08:25:05,542 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 08:25:05,650 - INFO - Số trang hợp lệ: 299/299
+2025-05-18 08:25:05,767 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2-P1.pdf
+2025-05-18 08:25:05,818 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2-P2.pdf
+2025-05-18 08:25:05,860 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf thành CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2-P3.pdf
+2025-05-18 08:25:05,867 - INFO - Đã xóa file gốc: CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 08:25:05,867 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:25:05,911 - INFO - Số trang hợp lệ: 205/205
+2025-05-18 08:25:05,961 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC.pdf thành CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:06,009 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC.pdf thành CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:06,019 - INFO - Đã chia file CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC.pdf thành CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 08:25:06,020 - INFO - Đã xóa file gốc: CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:25:06,020 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CHAN_DOAN_HINH_ANH_UNG_THU_TUY.pdf
+2025-05-18 08:25:06,035 - INFO - Số trang hợp lệ: 46/46
+2025-05-18 08:25:06,035 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CHAN_THUONG_HE_NIEU_SINH_DUC.pdf
+2025-05-18 08:25:06,050 - INFO - Số trang hợp lệ: 117/117
+2025-05-18 08:25:06,052 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,052 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,101 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,102 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,103 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,103 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,105 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,105 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,106 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,106 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,107 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,107 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,107 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,107 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,108 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,108 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,108 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,108 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,109 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,109 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,110 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,110 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,110 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,110 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,111 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,111 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,112 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,112 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,112 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,113 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,113 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,113 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,114 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,114 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,115 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,115 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,116 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,116 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,116 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,116 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,117 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,117 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,117 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,117 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,118 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,118 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,119 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,119 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,119 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,119 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,120 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,120 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,120 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,120 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,121 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,121 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,122 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,122 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,122 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,122 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,123 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,123 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,123 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,123 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,124 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,124 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,125 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,125 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,125 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,125 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,126 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,126 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,126 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,126 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,127 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,127 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,128 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,128 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,129 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,129 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,129 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,129 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,130 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,130 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,131 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,131 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,131 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,131 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,132 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,132 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,133 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,133 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,133 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,133 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,134 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,134 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,134 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,135 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,135 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,135 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,136 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,136 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,137 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,137 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,137 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,137 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,138 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,138 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,138 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,139 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,139 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,139 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,140 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,140 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,140 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,140 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,141 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,141 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,141 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,141 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,142 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,142 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,143 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,143 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,144 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,144 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,144 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,144 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,146 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,146 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,146 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,146 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,147 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,147 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,148 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,148 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,148 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,148 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,149 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,149 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,150 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,150 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,150 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,150 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,151 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,151 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,152 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,152 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,152 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,152 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,153 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,153 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,153 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,154 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,154 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,154 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,155 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,155 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,155 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,155 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,156 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,156 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,157 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,157 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,158 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,158 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,158 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,158 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,159 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,159 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,159 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,160 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,160 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,160 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,161 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,161 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,161 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,161 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,162 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,162 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,163 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,163 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,163 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,163 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,164 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,164 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,164 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,164 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,165 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,165 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,166 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,166 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,166 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,166 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,167 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,167 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,167 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,168 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,168 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,168 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,196 - INFO - Đã chia file CHAN_THUONG_HE_NIEU_SINH_DUC.pdf thành CHAN_THUONG_HE_NIEU_SINH_DUC-P1.pdf
+2025-05-18 08:25:06,197 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,197 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,197 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,197 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,198 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,198 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,200 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,200 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,201 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,201 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,202 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,202 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,202 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,202 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,203 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,203 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,204 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,204 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,204 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,204 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,205 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,205 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,206 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,206 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,206 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,206 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,207 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,207 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,208 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,208 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,208 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,208 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,209 - WARNING - FloatObject (b'0.0000-13543479') invalid; use 0.0 instead
+2025-05-18 08:25:06,209 - WARNING - FloatObject (b'0.0000-10157609') invalid; use 0.0 instead
+2025-05-18 08:25:06,214 - INFO - Đã chia file CHAN_THUONG_HE_NIEU_SINH_DUC.pdf thành CHAN_THUONG_HE_NIEU_SINH_DUC-P2.pdf
+2025-05-18 08:25:06,215 - INFO - Đã xóa file gốc: CHAN_THUONG_HE_NIEU_SINH_DUC.pdf
+2025-05-18 08:25:06,216 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/DAN_LUU_NGOAI_KHOA-2007.pdf
+2025-05-18 08:25:06,223 - INFO - Số trang hợp lệ: 9/9
+2025-05-18 08:25:06,223 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/DAN_LUU_TRONG_NGOAI_KHOA-DH_Y_DUOC_HAI_PHONG.pdf
+2025-05-18 08:25:06,227 - INFO - Số trang hợp lệ: 20/20
+2025-05-18 08:25:06,227 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/DAN_LUU_TRONG_NGOAI_KHOA-PHAN_2.pdf
+2025-05-18 08:25:06,228 - INFO - Số trang hợp lệ: 9/9
+2025-05-18 08:25:06,228 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/DE_I_TRAM1.pdf
+2025-05-18 08:25:06,229 - INFO - Số trang hợp lệ: 5/5
+2025-05-18 08:25:06,229 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:06,280 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:06,318 - INFO - Đã chia file GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1.pdf thành GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1-P1.pdf
+2025-05-18 08:25:06,354 - INFO - Đã chia file GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1.pdf thành GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1-P2.pdf
+2025-05-18 08:25:06,438 - INFO - Đã chia file GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1.pdf thành GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1-P3.pdf
+2025-05-18 08:25:06,439 - INFO - Đã xóa file gốc: GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:06,439 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:06,476 - INFO - Số trang hợp lệ: 84/84
+2025-05-18 08:25:06,476 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 08:25:06,506 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:07,391 - INFO - Đã chia file GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf thành GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1-P1.pdf
+2025-05-18 08:25:08,328 - INFO - Đã chia file GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf thành GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1-P2.pdf
+2025-05-18 08:25:09,384 - INFO - Đã chia file GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf thành GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1-P3.pdf
+2025-05-18 08:25:09,385 - INFO - Đã xóa file gốc: GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 08:25:09,385 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 08:25:09,391 - INFO - Số trang hợp lệ: 2/2
+2025-05-18 08:25:09,391 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI-2019-BENH_VIEN_BINH_DAN.pdf
+2025-05-18 08:25:09,423 - INFO - Số trang hợp lệ: 113/113
+2025-05-18 08:25:09,463 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI-2019-BENH_VIEN_BINH_DAN.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI-2019-BENH_VIEN_BINH_DAN-P1.pdf
+2025-05-18 08:25:09,470 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI-2019-BENH_VIEN_BINH_DAN.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI-2019-BENH_VIEN_BINH_DAN-P2.pdf
+2025-05-18 08:25:09,470 - INFO - Đã xóa file gốc: HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI-2019-BENH_VIEN_BINH_DAN.pdf
+2025-05-18 08:25:09,470 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:09,498 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:09,523 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1-P1.pdf
+2025-05-18 08:25:09,541 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1-P2.pdf
+2025-05-18 08:25:09,558 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1-P3.pdf
+2025-05-18 08:25:09,558 - INFO - Đã xóa file gốc: HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:09,558 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:09,587 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:09,901 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2-P1.pdf
+2025-05-18 08:25:09,920 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2-P2.pdf
+2025-05-18 08:25:09,939 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2-P3.pdf
+2025-05-18 08:25:09,940 - INFO - Đã xóa file gốc: HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:09,940 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 08:25:09,959 - INFO - Số trang hợp lệ: 135/135
+2025-05-18 08:25:09,981 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P3.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P3-P1.pdf
+2025-05-18 08:25:09,993 - INFO - Đã chia file HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P3.pdf thành HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P3-P2.pdf
+2025-05-18 08:25:09,993 - INFO - Đã xóa file gốc: HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 08:25:09,993 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_UNG_THU_BIEU_MO_TE_BAO_GAN-2020-BO_Y_TE.pdf
+2025-05-18 08:25:09,998 - INFO - Số trang hợp lệ: 36/36
+2025-05-18 08:25:09,998 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_UNG_THU_DA_DAY-2020-BO_Y_TE.pdf
+2025-05-18 08:25:10,004 - INFO - Số trang hợp lệ: 39/39
+2025-05-18 08:25:10,004 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_UNG_THU_VU-2020-BO_Y_TE.pdf
+2025-05-18 08:25:10,011 - INFO - Số trang hợp lệ: 60/60
+2025-05-18 08:25:10,012 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_DU_PHONG_VA_KIEM_SOAT_UNG_THU_CO_TU_CUNG-2024-BO_Y_TE.pdf
+2025-05-18 08:25:10,032 - INFO - Số trang hợp lệ: 77/77
+2025-05-18 08:25:10,032 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGHIEN_CUU_DIEU_TRI_UNG_THU_VU_GIAI_DOAN_DI_CAN_BANG_HOA_TRI_PHOI_HOP_ANTHRACYCLINE_VA_TAXANE-2020-DH_HUE.pdf
+2025-05-18 08:25:10,079 - INFO - Số trang hợp lệ: 163/163
+2025-05-18 08:25:10,177 - INFO - Đã chia file NGHIEN_CUU_DIEU_TRI_UNG_THU_VU_GIAI_DOAN_DI_CAN_BANG_HOA_TRI_PHOI_HOP_ANTHRACYCLINE_VA_TAXANE-2020-DH_HUE.pdf thành NGHIEN_CUU_DIEU_TRI_UNG_THU_VU_GIAI_DOAN_DI_CAN_BANG_HOA_TRI_PHOI_HOP_ANTHRACYCLINE_VA_TAXANE-2020-DH_HUE-P1.pdf
+2025-05-18 08:25:10,208 - INFO - Đã chia file NGHIEN_CUU_DIEU_TRI_UNG_THU_VU_GIAI_DOAN_DI_CAN_BANG_HOA_TRI_PHOI_HOP_ANTHRACYCLINE_VA_TAXANE-2020-DH_HUE.pdf thành NGHIEN_CUU_DIEU_TRI_UNG_THU_VU_GIAI_DOAN_DI_CAN_BANG_HOA_TRI_PHOI_HOP_ANTHRACYCLINE_VA_TAXANE-2020-DH_HUE-P2.pdf
+2025-05-18 08:25:10,209 - INFO - Đã xóa file gốc: NGHIEN_CUU_DIEU_TRI_UNG_THU_VU_GIAI_DOAN_DI_CAN_BANG_HOA_TRI_PHOI_HOP_ANTHRACYCLINE_VA_TAXANE-2020-DH_HUE.pdf
+2025-05-18 08:25:10,209 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:10,315 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:25:10,369 - INFO - Đã chia file NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1.pdf thành NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1-P1.pdf
+2025-05-18 08:25:10,436 - INFO - Đã chia file NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1.pdf thành NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1-P2.pdf
+2025-05-18 08:25:10,535 - INFO - Đã chia file NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1.pdf thành NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1-P3.pdf
+2025-05-18 08:25:10,536 - INFO - Đã xóa file gốc: NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:10,536 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:10,608 - INFO - Số trang hợp lệ: 178/178
+2025-05-18 08:25:10,690 - INFO - Đã chia file NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P2.pdf thành NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P2-P1.pdf
+2025-05-18 08:25:10,754 - INFO - Đã chia file NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P2.pdf thành NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P2-P2.pdf
+2025-05-18 08:25:10,755 - INFO - Đã xóa file gốc: NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:10,755 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGUYEN_TAC_DAN_LUU_TRONG_NGOAI_KHOA.pdf
+2025-05-18 08:25:10,770 - INFO - Số trang hợp lệ: 51/51
+2025-05-18 08:25:10,770 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGUY_CO_TU_TU_SAU_PHAU_THUAT_GIAM_CAN.pdf
+2025-05-18 08:25:10,774 - INFO - Số trang hợp lệ: 18/18
+2025-05-18 08:25:10,774 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NHUNG_TIEP_CAN_GAN_DAY_TRONG_XA_TRI_UNG_THU_SAU_PHAU_THUAT_BAO_TON_VU_MOT_DANH_GIA-2023-FRONTIERS.pdf
+2025-05-18 08:25:10,775 - INFO - Số trang hợp lệ: 25/25
+2025-05-18 08:25:10,775 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/ONCOLOGY_AT_A_GLANCE-2013-WILEY_BLACKWELL.pdf
+2025-05-18 08:25:10,867 - INFO - Số trang hợp lệ: 168/168
+2025-05-18 08:25:11,111 - INFO - Đã chia file ONCOLOGY_AT_A_GLANCE-2013-WILEY_BLACKWELL.pdf thành ONCOLOGY_AT_A_GLANCE-2013-WILEY_BLACKWELL-P1.pdf
+2025-05-18 08:25:11,250 - INFO - Đã chia file ONCOLOGY_AT_A_GLANCE-2013-WILEY_BLACKWELL.pdf thành ONCOLOGY_AT_A_GLANCE-2013-WILEY_BLACKWELL-P2.pdf
+2025-05-18 08:25:11,250 - INFO - Đã xóa file gốc: ONCOLOGY_AT_A_GLANCE-2013-WILEY_BLACKWELL.pdf
+2025-05-18 08:25:11,250 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/SARCOMA.pdf
+2025-05-18 08:25:11,269 - INFO - Số trang hợp lệ: 91/91
+2025-05-18 08:25:11,269 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM.pdf
+2025-05-18 08:25:11,350 - INFO - Số trang hợp lệ: 281/281
+2025-05-18 08:25:11,384 - INFO - Đã chia file SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM.pdf thành SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM-P1.pdf
+2025-05-18 08:25:11,418 - INFO - Đã chia file SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM.pdf thành SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM-P2.pdf
+2025-05-18 08:25:11,446 - INFO - Đã chia file SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM.pdf thành SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM-P3.pdf
+2025-05-18 08:25:11,446 - INFO - Đã xóa file gốc: SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM.pdf
+2025-05-18 08:25:11,446 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/SU_DUNG_HE_THONG_HUT_AP_LUC_AM_VAC_DIEU_TRI_NHIEM_TRUNG_VUNG_SCARPA_SAU_PHAU_THUAT_MACH_MAU-2021-PHAU_THUAT_TIM_MACH.pdf
+2025-05-18 08:25:11,454 - INFO - Số trang hợp lệ: 7/7
+2025-05-18 08:25:11,454 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/THERAPEUTIC_ADVANCES_IN_MEDICAL_ONCOLOGY-2023.pdf
+2025-05-18 08:25:11,455 - INFO - Số trang hợp lệ: 20/20
+2025-05-18 08:25:11,455 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/THONG_CUA_CHU_TRONG_GAN_QUA_TINH_MACH_CANH_TIPS-UW_MEDICINE.pdf
+2025-05-18 08:25:11,467 - INFO - Số trang hợp lệ: 14/14
+2025-05-18 08:25:11,467 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/THUONG_TON_DUONG_TIET_NIEU_GAY_NEN_DO_PHAU_THUAT_SAN_PHU_KHOA.pdf
+2025-05-18 08:25:11,476 - INFO - Số trang hợp lệ: 35/104
+2025-05-18 08:25:11,476 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/TONG_QUAN_VE_CAC_PHUONG_PHAP_DIEU_TRI_SOI_THAN-Y_CANTHO.pdf
+2025-05-18 08:25:11,478 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 08:25:11,478 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_BIEU_MO_TE_BAO_GAN-ESMO.pdf
+2025-05-18 08:25:11,558 - INFO - Số trang hợp lệ: 45/45
+2025-05-18 08:25:11,559 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_DA_DAY.pdf
+2025-05-18 08:25:11,563 - INFO - Số trang hợp lệ: 14/14
+2025-05-18 08:25:11,563 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:25:11,587 - INFO - Số trang hợp lệ: 294/294
+2025-05-18 08:25:11,629 - INFO - Đã chia file UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC.pdf thành UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:11,667 - INFO - Đã chia file UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC.pdf thành UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:11,704 - INFO - Đã chia file UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC.pdf thành UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 08:25:11,704 - INFO - Đã xóa file gốc: UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:25:11,704 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_HOC-2015-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:11,769 - INFO - Số trang hợp lệ: 17/300
+2025-05-18 08:25:11,769 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_HOC-2015-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:11,781 - ERROR - Lỗi khi xử lý file data/pdf_copy/ung_thu/UNG_THU_HOC-2015-NHA_XUAT_BAN_Y_HOC-P2.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 08:25:11,781 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_PHOI.pdf
+2025-05-18 08:25:11,786 - INFO - Số trang hợp lệ: 10/10
+2025-05-18 08:25:11,786 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_TUY.pdf
+2025-05-18 08:25:11,788 - INFO - Số trang hợp lệ: 21/21
+2025-05-18 08:25:11,788 - INFO - Đang xử lý file: data/pdf_copy/y_hoc_gia_dinh/HOA_DUOC_PHONG.pdf
+2025-05-18 08:25:11,790 - INFO - Số trang hợp lệ: 4/4
+2025-05-18 08:25:11,790 - INFO - Đang xử lý file: data/pdf_copy/y_hoc_gia_dinh/TAI_LIEU_HUAN_LUYEN_KY_NANG_Y_KHOA-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:25:11,834 - INFO - Số trang hợp lệ: 179/179
+2025-05-18 08:25:11,961 - INFO - Đã chia file TAI_LIEU_HUAN_LUYEN_KY_NANG_Y_KHOA-NHA_XUAT_BAN_Y_HOC.pdf thành TAI_LIEU_HUAN_LUYEN_KY_NANG_Y_KHOA-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:25:12,054 - INFO - Đã chia file TAI_LIEU_HUAN_LUYEN_KY_NANG_Y_KHOA-NHA_XUAT_BAN_Y_HOC.pdf thành TAI_LIEU_HUAN_LUYEN_KY_NANG_Y_KHOA-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:25:12,057 - INFO - Đã xóa file gốc: TAI_LIEU_HUAN_LUYEN_KY_NANG_Y_KHOA-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:27:58,790 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P1.pdf
+2025-05-18 08:27:58,892 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:58,892 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P10.pdf
+2025-05-18 08:27:58,975 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:58,975 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P11.pdf
+2025-05-18 08:27:59,036 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,036 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P12.pdf
+2025-05-18 08:27:59,097 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,097 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P13.pdf
+2025-05-18 08:27:59,248 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,248 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P14.pdf
+2025-05-18 08:27:59,331 - INFO - Số trang hợp lệ: 232/232
+2025-05-18 08:27:59,332 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P2.pdf
+2025-05-18 08:27:59,392 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,392 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P3.pdf
+2025-05-18 08:27:59,479 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,479 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P4.pdf
+2025-05-18 08:27:59,548 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,548 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P5.pdf
+2025-05-18 08:27:59,607 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,608 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P6.pdf
+2025-05-18 08:27:59,703 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,703 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P7.pdf
+2025-05-18 08:27:59,823 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,823 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P8.pdf
+2025-05-18 08:27:59,914 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,914 - INFO - Đang xử lý file: data/pdf_copy/noi_co_so/HARRISONS_PRINCIPLES_OF_INTERNAL_MEDICINE-2021-VOLUME_1-MC_GRAW_HILL-P9.pdf
+2025-05-18 08:27:59,966 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:27:59,966 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/BENH_AN_THAN_KINH.pdf
+2025-05-18 08:27:59,968 - INFO - Số trang hợp lệ: 7/7
+2025-05-18 08:27:59,968 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:28:00,000 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:00,000 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/DOT_QUY_NAO-2013-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:28:00,024 - INFO - Số trang hợp lệ: 220/220
+2025-05-18 08:28:00,024 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/NGHIEN_CUU_MOT_SO_YEU_TO_NGUY_CO_VA_KET_QUA_DIEU_TRI_DOT_QUY_NAO_O_BENH_NHAN_TANG_HUYET_AP_TAI_KHOA_NOI_TIM_MACH_BENH_VIEN_DA_KHOA_THAI_BINH-2014-TRUONG_DAI_HOC_Y_THAI_BINH.pdf
+2025-05-18 08:28:00,025 - INFO - Số trang hợp lệ: 3/3
+2025-05-18 08:28:00,025 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/PHAU_THUAT_THOAT_VI_DIA_DEM_COT_SONG-2010-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:28:00,075 - INFO - Số trang hợp lệ: 236/236
+2025-05-18 08:28:00,075 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:28:00,117 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:00,117 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/SO_TAY_CHUYEN_KHOA_THAN_KINH-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:28:00,142 - INFO - Số trang hợp lệ: 271/271
+2025-05-18 08:28:00,142 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_HCM.pdf
+2025-05-18 08:28:00,196 - INFO - Số trang hợp lệ: 191/191
+2025-05-18 08:28:00,196 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/SO_TAY_LAM_SANG_THAN_KINH-2017-DH_Y_DUOC_TPHCM.pdf
+2025-05-18 08:28:00,251 - INFO - Số trang hợp lệ: 191/191
+2025-05-18 08:28:00,251 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/THUC_HANH_LAM_SANG_THAN_KINH_HOC-TAP1-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:28:00,269 - INFO - Số trang hợp lệ: 177/177
+2025-05-18 08:28:00,269 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/TRIEU_CHUNG_HE_THAN_KINH.pdf
+2025-05-18 08:28:00,275 - INFO - Số trang hợp lệ: 37/37
+2025-05-18 08:28:00,275 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/XUAT_HUYET_NAO-TRUONG_DAI_HOC_Y_DUOC_TP_HCM.pdf
+2025-05-18 08:28:00,281 - INFO - Số trang hợp lệ: 32/32
+2025-05-18 08:28:00,282 - INFO - Đang xử lý file: data/pdf_copy/noi_than_kinh/XU_LY_CAC_TINH_HUONG_DOT_QUY_DAC_BIET-BV_DAI_HOC_Y_DƯOC_TPHCM.pdf
+2025-05-18 08:28:00,290 - INFO - Số trang hợp lệ: 53/53
+2025-05-18 08:28:00,290 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/ASTRO_CAP_NHAT_HUONG_DAN_XA_TRI_MOT_PHAN_VU-2023-ASTRO.pdf
+2025-05-18 08:28:00,291 - INFO - Số trang hợp lệ: 11/11
+2025-05-18 08:28:00,291 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_BENH_HOC_NIEU_KHOA-2011-NXBP_DONG.pdf
+2025-05-18 08:28:00,301 - INFO - Số trang hợp lệ: 138/138
+2025-05-18 08:28:00,301 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_PHAU_THUAT_NOI_SOI_CO_BAN-2012-BO_Y_TE.pdf
+2025-05-18 08:28:00,367 - INFO - Số trang hợp lệ: 237/237
+2025-05-18 08:28:00,368 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P1.pdf
+2025-05-18 08:28:00,397 - INFO - Số trang hợp lệ: 299/300
+2025-05-18 08:28:00,397 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P2.pdf
+2025-05-18 08:28:00,426 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:00,427 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BAI_GIANG_UNG_BUOU_HOC-2011-DH_Y_PHAM_NGOC_THACH-P3.pdf
+2025-05-18 08:28:00,436 - INFO - Số trang hợp lệ: 92/92
+2025-05-18 08:28:00,436 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_AN_NGOAI_KHOA.pdf
+2025-05-18 08:28:00,437 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 08:28:00,437 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_AN_UNG_BUOU-2023-BENH_VIEN_UNGBUOU.pdf
+2025-05-18 08:28:00,440 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 08:28:00,440 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_LY_I_TAC_RUOT_SO_SINH-YhocData.com.pdf
+2025-05-18 08:28:00,485 - INFO - Số trang hợp lệ: 186/186
+2025-05-18 08:28:00,485 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_LY_I_TAC_RUOT_SO_SINH.pdf
+2025-05-18 08:28:00,566 - INFO - Số trang hợp lệ: 186/186
+2025-05-18 08:28:00,566 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BENH_LY_TAC_RUOT_SINH.pdf
+2025-05-18 08:28:00,578 - INFO - Số trang hợp lệ: 96/96
+2025-05-18 08:28:00,579 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/BUOU_NIEU_SINH_DUC-PHU_YAM_NGOC_THACH.pdf
+2025-05-18 08:28:00,585 - INFO - Số trang hợp lệ: 72/72
+2025-05-18 08:28:00,585 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAMPBELL_S_OPERATIVE_ORTHOPAEDICS-2013-YhocData.pdf
+2025-05-18 08:28:00,628 - INFO - Số trang hợp lệ: 130/130
+2025-05-18 08:28:00,628 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 08:28:00,731 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:00,732 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP1-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 08:28:00,820 - INFO - Số trang hợp lệ: 267/267
+2025-05-18 08:28:00,820 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 08:28:00,927 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:00,927 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA-2010-TAP2-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 08:28:01,067 - INFO - Số trang hợp lệ: 299/299
+2025-05-18 08:28:01,067 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CAP_CUU_NGOAI_KHOA_TIEU_HOA-2010-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:28:01,136 - INFO - Số trang hợp lệ: 205/205
+2025-05-18 08:28:01,136 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CHAN_DOAN_HINH_ANH_UNG_THU_TUY.pdf
+2025-05-18 08:28:01,144 - INFO - Số trang hợp lệ: 46/46
+2025-05-18 08:28:01,144 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/CHAN_THUONG_HE_NIEU_SINH_DUC.pdf
+2025-05-18 08:28:01,155 - INFO - Số trang hợp lệ: 117/117
+2025-05-18 08:28:01,155 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/DAN_LUU_NGOAI_KHOA-2007.pdf
+2025-05-18 08:28:01,157 - INFO - Số trang hợp lệ: 9/9
+2025-05-18 08:28:01,157 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/DAN_LUU_TRONG_NGOAI_KHOA-DH_Y_DUOC_HAI_PHONG.pdf
+2025-05-18 08:28:01,160 - INFO - Số trang hợp lệ: 20/20
+2025-05-18 08:28:01,160 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/DAN_LUU_TRONG_NGOAI_KHOA-PHAN_2.pdf
+2025-05-18 08:28:01,161 - INFO - Số trang hợp lệ: 9/9
+2025-05-18 08:28:01,161 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/DE_I_TRAM1.pdf
+2025-05-18 08:28:01,162 - INFO - Số trang hợp lệ: 5/5
+2025-05-18 08:28:01,162 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:28:01,262 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:01,262 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/GAY_ME_HOI_SUC-2022-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:28:01,292 - INFO - Số trang hợp lệ: 84/84
+2025-05-18 08:28:01,292 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P1.pdf
+2025-05-18 08:28:01,316 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:01,316 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/GAY_ME_HOI_SUC_CHO_PHAU_THUAT_NOI_SOI-NHA_XUAT_BAN_GIAO_DUC_VIET_NAM-P2.pdf
+2025-05-18 08:28:01,317 - INFO - Số trang hợp lệ: 2/2
+2025-05-18 08:28:01,317 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI-2019-BENH_VIEN_BINH_DAN.pdf
+2025-05-18 08:28:01,341 - INFO - Số trang hợp lệ: 113/113
+2025-05-18 08:28:01,342 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:28:01,439 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:01,439 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:28:01,465 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:01,465 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_MOT_SO_BENH_UNG_BUOU-2020-NHA_XUAT_BAN_Y_HOC-P3.pdf
+2025-05-18 08:28:01,477 - INFO - Số trang hợp lệ: 135/135
+2025-05-18 08:28:01,477 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_UNG_THU_BIEU_MO_TE_BAO_GAN-2020-BO_Y_TE.pdf
+2025-05-18 08:28:01,481 - INFO - Số trang hợp lệ: 36/36
+2025-05-18 08:28:01,481 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_UNG_THU_DA_DAY-2020-BO_Y_TE.pdf
+2025-05-18 08:28:01,487 - INFO - Số trang hợp lệ: 39/39
+2025-05-18 08:28:01,487 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_CHAN_DOAN_VA_DIEU_TRI_UNG_THU_VU-2020-BO_Y_TE.pdf
+2025-05-18 08:28:01,494 - INFO - Số trang hợp lệ: 60/60
+2025-05-18 08:28:01,494 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/HUONG_DAN_DU_PHONG_VA_KIEM_SOAT_UNG_THU_CO_TU_CUNG-2024-BO_Y_TE.pdf
+2025-05-18 08:28:01,506 - INFO - Số trang hợp lệ: 77/77
+2025-05-18 08:28:01,506 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGHIEN_CUU_DIEU_TRI_UNG_THU_VU_GIAI_DOAN_DI_CAN_BANG_HOA_TRI_PHOI_HOP_ANTHRACYCLINE_VA_TAXANE-2020-DH_HUE.pdf
+2025-05-18 08:28:01,552 - INFO - Số trang hợp lệ: 163/163
+2025-05-18 08:28:01,552 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:28:01,645 - INFO - Số trang hợp lệ: 300/300
+2025-05-18 08:28:01,645 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGOAI_LONG_NGUC_VA_TIM_MACH-2021-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:28:01,705 - INFO - Số trang hợp lệ: 178/178
+2025-05-18 08:28:01,705 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGUYEN_TAC_DAN_LUU_TRONG_NGOAI_KHOA.pdf
+2025-05-18 08:28:01,714 - INFO - Số trang hợp lệ: 51/51
+2025-05-18 08:28:01,714 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NGUY_CO_TU_TU_SAU_PHAU_THUAT_GIAM_CAN.pdf
+2025-05-18 08:28:01,717 - INFO - Số trang hợp lệ: 18/18
+2025-05-18 08:28:01,717 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/NHUNG_TIEP_CAN_GAN_DAY_TRONG_XA_TRI_UNG_THU_SAU_PHAU_THUAT_BAO_TON_VU_MOT_DANH_GIA-2023-FRONTIERS.pdf
+2025-05-18 08:28:01,718 - INFO - Số trang hợp lệ: 25/25
+2025-05-18 08:28:01,718 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/ONCOLOGY_AT_A_GLANCE-2013-WILEY_BLACKWELL.pdf
+2025-05-18 08:28:01,842 - INFO - Số trang hợp lệ: 168/168
+2025-05-18 08:28:01,842 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/SARCOMA.pdf
+2025-05-18 08:28:01,860 - INFO - Số trang hợp lệ: 91/91
+2025-05-18 08:28:01,860 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/SO_TAY_PHAU_THUAT_BANG_HINH_VE-TAP_CO_NGUC_BUNG-NXB_TONG_HOP_TPHCM.pdf
+2025-05-18 08:28:01,938 - INFO - Số trang hợp lệ: 281/281
+2025-05-18 08:28:01,938 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/SU_DUNG_HE_THONG_HUT_AP_LUC_AM_VAC_DIEU_TRI_NHIEM_TRUNG_VUNG_SCARPA_SAU_PHAU_THUAT_MACH_MAU-2021-PHAU_THUAT_TIM_MACH.pdf
+2025-05-18 08:28:01,940 - INFO - Số trang hợp lệ: 7/7
+2025-05-18 08:28:01,940 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/THERAPEUTIC_ADVANCES_IN_MEDICAL_ONCOLOGY-2023.pdf
+2025-05-18 08:28:01,941 - INFO - Số trang hợp lệ: 20/20
+2025-05-18 08:28:01,941 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/THONG_CUA_CHU_TRONG_GAN_QUA_TINH_MACH_CANH_TIPS-UW_MEDICINE.pdf
+2025-05-18 08:28:01,947 - INFO - Số trang hợp lệ: 14/14
+2025-05-18 08:28:01,947 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/THUONG_TON_DUONG_TIET_NIEU_GAY_NEN_DO_PHAU_THUAT_SAN_PHU_KHOA.pdf
+2025-05-18 08:28:01,956 - INFO - Số trang hợp lệ: 35/104
+2025-05-18 08:28:01,956 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/TONG_QUAN_VE_CAC_PHUONG_PHAP_DIEU_TRI_SOI_THAN-Y_CANTHO.pdf
+2025-05-18 08:28:01,958 - INFO - Số trang hợp lệ: 8/8
+2025-05-18 08:28:01,958 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_BIEU_MO_TE_BAO_GAN-ESMO.pdf
+2025-05-18 08:28:01,972 - INFO - Số trang hợp lệ: 45/45
+2025-05-18 08:28:01,972 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_DA_DAY.pdf
+2025-05-18 08:28:01,975 - INFO - Số trang hợp lệ: 14/14
+2025-05-18 08:28:01,975 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_HOC-2001-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:28:01,994 - INFO - Số trang hợp lệ: 294/294
+2025-05-18 08:28:01,994 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_HOC-2015-NHA_XUAT_BAN_Y_HOC-P1.pdf
+2025-05-18 08:28:02,064 - INFO - Số trang hợp lệ: 17/300
+2025-05-18 08:28:02,064 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_HOC-2015-NHA_XUAT_BAN_Y_HOC-P2.pdf
+2025-05-18 08:28:02,070 - ERROR - Lỗi khi xử lý file data/pdf_copy/ung_thu/UNG_THU_HOC-2015-NHA_XUAT_BAN_Y_HOC-P2.pdf: Không có trang nào trong PDF có thể đọc được
+2025-05-18 08:28:02,070 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_PHOI.pdf
+2025-05-18 08:28:02,073 - INFO - Số trang hợp lệ: 10/10
+2025-05-18 08:28:02,073 - INFO - Đang xử lý file: data/pdf_copy/ung_thu/UNG_THU_TUY.pdf
+2025-05-18 08:28:02,075 - INFO - Số trang hợp lệ: 21/21
+2025-05-18 08:28:02,075 - INFO - Đang xử lý file: data/pdf_copy/y_hoc_gia_dinh/HOA_DUOC_PHONG.pdf
+2025-05-18 08:28:02,076 - INFO - Số trang hợp lệ: 4/4
+2025-05-18 08:28:02,076 - INFO - Đang xử lý file: data/pdf_copy/y_hoc_gia_dinh/TAI_LIEU_HUAN_LUYEN_KY_NANG_Y_KHOA-NHA_XUAT_BAN_Y_HOC.pdf
+2025-05-18 08:28:02,115 - INFO - Số trang hợp lệ: 179/179
