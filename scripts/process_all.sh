@@ -3,7 +3,7 @@
 python src/check.py
 
 # Đường dẫn cơ sở đến thư mục PDF
-BASE_PDF_DIR="/workspace/preprocess-medical-data/data/pdf"
+BASE_PDF_DIR="./data/pdf"
 MD_DIR="./data/md/raw"
 
 # Đường dẫn đến file done_ocr.json
@@ -16,6 +16,13 @@ subdirs=$(find "$BASE_PDF_DIR" -mindepth 1 -maxdepth 1 -type d)
 for PDF_DIR in $subdirs; do
     python src/check.py
     echo "Đang xử lý thư mục: $PDF_DIR"
+    
+    # Lấy tên thư mục con từ đường dẫn đầy đủ
+    SUBDIR_NAME=$(basename "$PDF_DIR")
+    
+    # Tạo thư mục tương ứng trong MD_DIR
+    SUBDIR_MD_PATH="$MD_DIR/$SUBDIR_NAME"
+    mkdir -p "$SUBDIR_MD_PATH"
     
     # Lấy danh sách các file PDF (cả .pdf và .PDF)
     pdf_files=$(find "$PDF_DIR" -maxdepth 1 -type f \( -name "*.pdf" -o -name "*.PDF" \))
@@ -47,8 +54,8 @@ for PDF_DIR in $subdirs; do
     # Chỉ chạy marker nếu có file chưa được xử lý
     if [ $count -gt 0 ]; then
         echo "Bắt đầu xử lý $count file PDF chưa được OCR trong thư mục $PDF_DIR..."
-        # Chạy marker cho thư mục chứa các file chưa được xử lý
-        marker "$TEMP_DIR" --output_dir "$MD_DIR" --output_format markdown --disable_image_extraction --languages "vi,en" --workers 8 --force_ocr
+        # Chạy marker cho thư mục chứa các file chưa được xử lý và lưu vào thư mục con tương ứng
+        marker "$TEMP_DIR" --output_dir "$SUBDIR_MD_PATH" --output_format markdown --disable_image_extraction --languages "vi,en" --workers 8 --force_ocr
         echo "Hoàn thành! Đã xử lý $count file PDF."
     else
         echo "Không có file nào cần xử lý trong thư mục $PDF_DIR."

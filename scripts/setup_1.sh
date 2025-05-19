@@ -6,6 +6,3 @@ mkdir -p output
 pip install -r requirements.txt
 
 touch .env
-
-python src/rename-folders.py
-python src/split-lagre-pdf.py
