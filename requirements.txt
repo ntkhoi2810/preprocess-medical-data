@@ -1,4 +1,4 @@
-marker-pdf
+marker-pdf==1.6.2
 python-dotenv
 google-generativeai
 datasets
