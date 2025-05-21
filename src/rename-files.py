@@ -377,4 +377,4 @@ def rename_files_in_folder(folder_path: str) -> dict:
 # Uncomment dòng dưới đây để chạy thử
 if __name__ == "__main__":
     # đổi tên file trong thư mục test
-    rename_result = rename_files_in_folder("Nội khoa")
+    rename_result = rename_files_in_folder("/teamspace/studios/this_studio/tai-lieu-y-khoa-mien-phi-noi-khoa-raw/tai-lieu-y-khoa-mien-phi-v2")

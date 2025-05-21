@@ -23,20 +23,34 @@ def load_data_to_json(data_path, output_json_path):
         data_list: List of dictionaries containing processed data
     """
     
+    # Load metadata from file
+    metadata_file = os.path.join(os.path.dirname(data_path), "noi-khoa-metadata.json")
+    try:
+        with open(metadata_file, 'r', encoding='utf-8') as f:
+            metadata_dict = json.load(f)
+    except FileNotFoundError:
+        print(f"Warning: Metadata file {metadata_file} not found. Proceeding without metadata.")
+        metadata_dict = {}
+    
     # Find all markdown files in the directory
     markdown_files = glob.glob(os.path.join(data_path, "*.md"))
     
     for file_path in markdown_files:
         file_name = os.path.basename(file_path)
+        # Get key for metadata lookup (filename without .md extension)
+        file_key = os.path.splitext(file_name)[0]
         
         # Read entire file content
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
         
+        # Get metadata for this file
+        file_metadata = metadata_dict.get(file_key, {})
+        
         # Create dictionary for current file
         file_data = {
-            "file_name": file_name,
-            "markdown": content
+            "markdown": content,
+            "metadata": file_metadata
         }
         save_to_json(file_data, output_json_path)
         # Add to list of data

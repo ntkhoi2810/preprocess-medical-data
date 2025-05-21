@@ -35,14 +35,14 @@ CONFIGS = {
     'md_chunks_dir': '../preprocess-medical-data/data/md/chunks',
     'md_processed_dir': '../preprocess-medical-data/data/md/processed',
     'jsonl_output': '../preprocess-medical-data/output/dataset.jsonl',
-    'hf_repo': 'myduy/byt-medical-documents',
+    'hf_repo': 'ntkhoi/noi-khoa-2-with-metadata',
     
     # Chunking
     'chunk_size': 3000,
     
     # Model
-    'model': 'gemini-2.0-flash',
-    # 'model': 'gemini-2.5-flash-preview-04-17',
+    # 'model': 'gemini-2.0-flash',
+    'model': 'gemini-2.5-flash-preview-04-17',
     'delay': 2,  # Delay between API calls
     'max_retries': 3,
     'retry_delay': 10,

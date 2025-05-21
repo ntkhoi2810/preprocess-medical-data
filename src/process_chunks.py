@@ -143,7 +143,6 @@ def process_markdown_file(file_path, model, max_retries=3, retry_delay=5):
                     max_attempts=max_retries,
                     base_delay=retry_delay
                 )
-                print(cleaned_text)
                 
                 if cleaned_text is None:
                     raise Exception("Failed to get response from YesScale API")
